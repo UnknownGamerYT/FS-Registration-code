@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 199,
+    "text": "At least how many TS voltage measurements have to be in the electrical system?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 779,
+        "question_id": 199,
+        "answer_text": "2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 780,
+        "question_id": 199,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 781,
+        "question_id": 199,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 782,
+        "question_id": 199,
+        "answer_text": "3",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 779,
+        "question_id": 199,
+        "answer_text": "2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 780,
+        "question_id": 199,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 781,
+        "question_id": 199,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 782,
+        "question_id": 199,
+        "answer_text": "3",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

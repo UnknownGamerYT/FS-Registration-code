@@ -1,0 +1,81 @@
+[
+  {
+    "question_id": 54,
+    "text": "Endurance Tire changing - what is true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 228,
+        "question_id": 54,
+        "answer_text": "If I elect to change to wet tires, I may do so during the driver change",
+        "is_correct": true
+      },
+      {
+        "answer_id": 229,
+        "question_id": 54,
+        "answer_text": "'Wheel Guns' driven from compressed air/gas are prohibited",
+        "is_correct": false
+      },
+      {
+        "answer_id": 230,
+        "question_id": 54,
+        "answer_text": "For changing tires, up to four team members are allowed to work on the car",
+        "is_correct": false
+      },
+      {
+        "answer_id": 231,
+        "question_id": 54,
+        "answer_text": "If I elect to change to dry tires, the time for changing is not included in my endurance time",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 5,
+        "question_id": 54,
+        "text": "D7.6 in FSAE 2014 rules",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 228,
+        "question_id": 54,
+        "answer_text": "If I elect to change to wet tires, I may do so during the driver change",
+        "is_correct": true
+      },
+      {
+        "answer_id": 229,
+        "question_id": 54,
+        "answer_text": "'Wheel Guns' driven from compressed air/gas are prohibited",
+        "is_correct": false
+      },
+      {
+        "answer_id": 230,
+        "question_id": 54,
+        "answer_text": "For changing tires, up to four team members are allowed to work on the car",
+        "is_correct": false
+      },
+      {
+        "answer_id": 231,
+        "question_id": 54,
+        "answer_text": "If I elect to change to dry tires, the time for changing is not included in my endurance time",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

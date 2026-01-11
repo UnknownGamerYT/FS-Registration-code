@@ -1,0 +1,321 @@
+[
+  {
+    "question_id": 189,
+    "text": "1. Team X tested their self-designed Impact Attenuator, engineer A has published the following results from the dynamic test:\nImpact velocity: 25,9 km/h\nTotal energy absorbed: 7,123 kJ\nAIP Deflection: 20,2 mm\nPeak deceleration: 39,2 G\nAverage deceleration: 24,8 G\nDid this test prove that the IA meets the requirements as per the FSG2018 V1.1 Rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 733,
+        "question_id": 189,
+        "answer_text": "Yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 734,
+        "question_id": 189,
+        "answer_text": "No, the test velocity was too low",
+        "is_correct": false
+      },
+      {
+        "answer_id": 735,
+        "question_id": 189,
+        "answer_text": "No, the amount of absorbed energy is too high",
+        "is_correct": false
+      },
+      {
+        "answer_id": 736,
+        "question_id": 189,
+        "answer_text": "No, the AIP deflection is too great",
+        "is_correct": false
+      },
+      {
+        "answer_id": 737,
+        "question_id": 189,
+        "answer_text": "No, the peak deceleration is too low O",
+        "is_correct": false
+      },
+      {
+        "answer_id": 738,
+        "question_id": 189,
+        "answer_text": "No, the peak deceleration is too low O",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 733,
+        "question_id": 189,
+        "answer_text": "Yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 734,
+        "question_id": 189,
+        "answer_text": "No, the test velocity was too low",
+        "is_correct": false
+      },
+      {
+        "answer_id": 735,
+        "question_id": 189,
+        "answer_text": "No, the amount of absorbed energy is too high",
+        "is_correct": false
+      },
+      {
+        "answer_id": 736,
+        "question_id": 189,
+        "answer_text": "No, the AIP deflection is too great",
+        "is_correct": false
+      },
+      {
+        "answer_id": 737,
+        "question_id": 189,
+        "answer_text": "No, the peak deceleration is too low O",
+        "is_correct": false
+      },
+      {
+        "answer_id": 738,
+        "question_id": 189,
+        "answer_text": "No, the peak deceleration is too low O",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      19
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 193,
+    "text": "Team Mediocre lines up for the skid pad event with their FSC car. After the track marshal waves his green flag. the car takes off and completes the skid pad event with a run time of 5,821 seconds. Assuming the car perfectly lapped all circles along the middle of the track, what is the total distance of the timed laps?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 751,
+        "question_id": 193,
+        "answer_text": "114,69 meters",
+        "is_correct": false
+      },
+      {
+        "answer_id": 752,
+        "question_id": 193,
+        "answer_text": "133,52 meters",
+        "is_correct": false
+      },
+      {
+        "answer_id": 753,
+        "question_id": 193,
+        "answer_text": "191,64 meters",
+        "is_correct": false
+      },
+      {
+        "answer_id": 754,
+        "question_id": 193,
+        "answer_text": "229,34 meters",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 751,
+        "question_id": 193,
+        "answer_text": "114,69 meters",
+        "is_correct": false
+      },
+      {
+        "answer_id": 752,
+        "question_id": 193,
+        "answer_text": "133,52 meters",
+        "is_correct": false
+      },
+      {
+        "answer_id": 753,
+        "question_id": 193,
+        "answer_text": "191,64 meters",
+        "is_correct": false
+      },
+      {
+        "answer_id": 754,
+        "question_id": 193,
+        "answer_text": "229,34 meters",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      19
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 194,
+    "text": "University of the World is competing in FSN2018, so far they have completed all events they've participated in and their endurance run has already started. The entire team is very excited, but during the driver change a situation occurs.\nAfter John jumped out of the vehicle and other teammembers helped Elizabeth, the team's second driver, into the car. After she activates the tractive system one of the team members accidentally switches the tractive system master switch to OFF. John spots the mistake and quickly switches the TSMS back to ON. Is he allowed to do so?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 755,
+        "question_id": 194,
+        "answer_text": "No, John is not a team member",
+        "is_correct": false
+      },
+      {
+        "answer_id": 756,
+        "question_id": 194,
+        "answer_text": "No, John must first check this with a scrutineer",
+        "is_correct": false
+      },
+      {
+        "answer_id": 757,
+        "question_id": 194,
+        "answer_text": "No, Elizabeth should leave the car first",
+        "is_correct": false
+      },
+      {
+        "answer_id": 758,
+        "question_id": 194,
+        "answer_text": "Yes, he is",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 42,
+        "question_id": 194,
+        "text": "D 7.5.3",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 755,
+        "question_id": 194,
+        "answer_text": "No, John is not a team member",
+        "is_correct": false
+      },
+      {
+        "answer_id": 756,
+        "question_id": 194,
+        "answer_text": "No, John must first check this with a scrutineer",
+        "is_correct": false
+      },
+      {
+        "answer_id": 757,
+        "question_id": 194,
+        "answer_text": "No, Elizabeth should leave the car first",
+        "is_correct": false
+      },
+      {
+        "answer_id": 758,
+        "question_id": 194,
+        "answer_text": "Yes, he is",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      19
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 195,
+    "text": "Which team won the EV Class in FSN2017?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 759,
+        "question_id": 195,
+        "answer_text": "Chalmers",
+        "is_correct": true
+      },
+      {
+        "answer_id": 760,
+        "question_id": 195,
+        "answer_text": "TU Eindhoven",
+        "is_correct": false
+      },
+      {
+        "answer_id": 761,
+        "question_id": 195,
+        "answer_text": "TU Freiberg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 762,
+        "question_id": 195,
+        "answer_text": "UAS Zwickau",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 759,
+        "question_id": 195,
+        "answer_text": "Chalmers",
+        "is_correct": true
+      },
+      {
+        "answer_id": 760,
+        "question_id": 195,
+        "answer_text": "TU Eindhoven",
+        "is_correct": false
+      },
+      {
+        "answer_id": 761,
+        "question_id": 195,
+        "answer_text": "TU Freiberg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 762,
+        "question_id": 195,
+        "answer_text": "UAS Zwickau",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      19
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

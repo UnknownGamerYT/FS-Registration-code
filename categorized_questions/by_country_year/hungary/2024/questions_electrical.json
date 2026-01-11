@@ -1,0 +1,449 @@
+[
+  {
+    "question_id": 766,
+    "text": "One of your critical parts just broke. You can either repair it or buy a new one. A new one costs 1000 EUR, repair would cost 800 EUR. You have a pending sponsorship that depends on you keeping to your schedule and your decision on buy or repair. If you buy a new part and you keep to the schedule, you receive 1200 EUR. If you keep to the schedule with repairing the broken part, you receive 1500 EUR. If you can’t keep to the schedule, you receive 800 EUR independent of your decision. The probability of keeping to the schedule with a new part is 90%. It is only 20% if you decide to repair the current part. You optimize for maximal Expected Monetary Value (EMV).Pick the optimal choice with maximal EMV.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2863,
+        "question_id": 766,
+        "answer_text": "Buy a new part. EMV = 200 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2864,
+        "question_id": 766,
+        "answer_text": "Repair the broken part. EMV = 140 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2865,
+        "question_id": 766,
+        "answer_text": "Buy a new part. EMV = 160 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2866,
+        "question_id": 766,
+        "answer_text": "Repair the broken part. EMV = 700 EUR",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2863,
+        "question_id": 766,
+        "answer_text": "Buy a new part. EMV = 200 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2864,
+        "question_id": 766,
+        "answer_text": "Repair the broken part. EMV = 140 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2865,
+        "question_id": 766,
+        "answer_text": "Buy a new part. EMV = 160 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2866,
+        "question_id": 766,
+        "answer_text": "Repair the broken part. EMV = 700 EUR",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 768,
+    "text": "What is the available capacity of a battery cell when discharged by 100 A if the measured available capacity when discharged by 10 A is 10 Ah? The Peukert exponent can be assumed to be 1.2.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2871,
+        "question_id": 768,
+        "answer_text": "6.31 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2872,
+        "question_id": 768,
+        "answer_text": "8.33 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2873,
+        "question_id": 768,
+        "answer_text": "12 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2874,
+        "question_id": 768,
+        "answer_text": "10 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2875,
+        "question_id": 768,
+        "answer_text": "9.25 Ah",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2871,
+        "question_id": 768,
+        "answer_text": "6.31 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2872,
+        "question_id": 768,
+        "answer_text": "8.33 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2873,
+        "question_id": 768,
+        "answer_text": "12 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2874,
+        "question_id": 768,
+        "answer_text": "10 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2875,
+        "question_id": 768,
+        "answer_text": "9.25 Ah",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 771,
+    "text": "Your LiPo cells have a mass of 80 g, a capacity of 5 Ah and 4.2 V maximum voltage. You design a Tractive System Accumulator with 4 segments. Which segment configuration is rule compliant if you intend to charge your cells to maximum voltage?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2885,
+        "question_id": 771,
+        "answer_text": "29s3p",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2886,
+        "question_id": 771,
+        "answer_text": "29s2p",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2887,
+        "question_id": 771,
+        "answer_text": "28s3p",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2888,
+        "question_id": 771,
+        "answer_text": "26s3p",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2885,
+        "question_id": 771,
+        "answer_text": "29s3p",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2886,
+        "question_id": 771,
+        "answer_text": "29s2p",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2887,
+        "question_id": 771,
+        "answer_text": "28s3p",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2888,
+        "question_id": 771,
+        "answer_text": "26s3p",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82,
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 772,
+    "text": "What is the average power dissipated during an avalanche on a MOFSET that is used in switching mode in a series R-L circuit where L = 10 µH, R = 50 Ω and the switching frequency is 25 kHz? The input voltage is 24 V and the Avalanche current is 0.5 A.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2889,
+        "question_id": 772,
+        "answer_text": "1.25 mW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2891,
+        "question_id": 772,
+        "answer_text": "31.25 mW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2892,
+        "question_id": 772,
+        "answer_text": "6.25 µJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2893,
+        "question_id": 772,
+        "answer_text": "2.5 µJ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2889,
+        "question_id": 772,
+        "answer_text": "1.25 mW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2891,
+        "question_id": 772,
+        "answer_text": "31.25 mW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2892,
+        "question_id": 772,
+        "answer_text": "6.25 µJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2893,
+        "question_id": 772,
+        "answer_text": "2.5 µJ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 783,
+    "text": "What is the average power dissipated during an avalanche on a MOFSET that is used in switching mode in a series R L circuit where L = 10 µH, R = 50 Ω and the switching frequency is 25 kHz? The input voltage is 24 V and the Avalanche current is 0.5 A.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2927,
+        "question_id": 783,
+        "answer_text": "2.5 µJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2928,
+        "question_id": 783,
+        "answer_text": "31.25 mW",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2929,
+        "question_id": 783,
+        "answer_text": "1.25 mW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2930,
+        "question_id": 783,
+        "answer_text": "6.25 µJ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2927,
+        "question_id": 783,
+        "answer_text": "2.5 µJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2928,
+        "question_id": 783,
+        "answer_text": "31.25 mW",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2929,
+        "question_id": 783,
+        "answer_text": "1.25 mW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2930,
+        "question_id": 783,
+        "answer_text": "6.25 µJ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 784,
+    "text": "One of your critical parts just broke. You can either repair it or buy a new one. A new one costs 1000 EUR, repair would cost 800 EUR. You have a pending sponsorship that depends on you keeping to your schedule and your decision on buy or repair. If you buy a new part and you keep to the schedule, you receive 1200 EUR. If you keep to the schedule with repairing the broken part, you receive 1500 EUR. If you can’t keep to the schedule, you receive 800 EUR independent of your decision. The pro bability of keeping to the schedule with a new part is 90%. It is only 20% if you decide to repair the current part. You optimize for maximal Expected Monetary Value (EMV).\\nPick the optimal choice with maximal EMV.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2931,
+        "question_id": 784,
+        "answer_text": "Buy a new part. EMV = 200 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2932,
+        "question_id": 784,
+        "answer_text": "Buy a new part. EMV = 160 EUR",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2933,
+        "question_id": 784,
+        "answer_text": "Repair the broken part. EMV = 140 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2934,
+        "question_id": 784,
+        "answer_text": "Repair the broken part. EMV = 700 EUR.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2931,
+        "question_id": 784,
+        "answer_text": "Buy a new part. EMV = 200 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2932,
+        "question_id": 784,
+        "answer_text": "Buy a new part. EMV = 160 EUR",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2933,
+        "question_id": 784,
+        "answer_text": "Repair the broken part. EMV = 140 EUR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2934,
+        "question_id": 784,
+        "answer_text": "Repair the broken part. EMV = 700 EUR.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

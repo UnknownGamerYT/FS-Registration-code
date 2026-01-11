@@ -1,0 +1,52 @@
+[
+  {
+    "question_id": 682,
+    "text": "Calculate the current I₃ in the DC network using the superposition principle.\\n Round the answer to one decimal place. Example 12.34",
+    "type": "input",
+    "time": 1200,
+    "answer_options": [
+      {
+        "answer_id": 2557,
+        "question_id": 682,
+        "answer_text": "-0.5",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 139,
+        "question_id": 682,
+        "text": null,
+        "images": [
+          {
+            "img_id": 180,
+            "path": "solutions/682_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000682__img000179__682_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2557,
+        "question_id": 682,
+        "answer_text": "-0.5",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  }
+]

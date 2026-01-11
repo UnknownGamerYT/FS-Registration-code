@@ -1,0 +1,43 @@
+[
+  {
+    "question_id": 570,
+    "text": "Your team decides to beat the newly acquired World Record from Greenteam. You didn’t achieve to beat them, but set a respectable time of 1.473 s. Your driver continues to drive 100 km/h for another 3 s and then braking with 13.3 m/s. Assume that acceleration and deceleration are linear. What is the distance travelled by your car? \\n Answer in m and provide the value with 1 digit behind decimal point, e.g. 12.3 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2192,
+        "question_id": 570,
+        "answer_text": "132.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2192,
+        "question_id": 570,
+        "answer_text": "132.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]

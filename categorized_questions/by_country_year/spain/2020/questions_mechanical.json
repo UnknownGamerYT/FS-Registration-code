@@ -1,0 +1,364 @@
+[
+  {
+    "question_id": 166,
+    "text": "The electronic department has four different devices to emit the Ready-To-Drive sound. They are measuring the sound level (dBA) at a distance of 2m, and they get the following data. Which one of the following devices is valid?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 650,
+        "question_id": 166,
+        "answer_text": "82dBA",
+        "is_correct": true
+      },
+      {
+        "answer_id": 651,
+        "question_id": 166,
+        "answer_text": "95dBA",
+        "is_correct": false
+      },
+      {
+        "answer_id": 652,
+        "question_id": 166,
+        "answer_text": "78dBA",
+        "is_correct": false
+      },
+      {
+        "answer_id": 653,
+        "question_id": 166,
+        "answer_text": "93dBA",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 650,
+        "question_id": 166,
+        "answer_text": "82dBA",
+        "is_correct": true
+      },
+      {
+        "answer_id": 651,
+        "question_id": 166,
+        "answer_text": "95dBA",
+        "is_correct": false
+      },
+      {
+        "answer_id": 652,
+        "question_id": 166,
+        "answer_text": "78dBA",
+        "is_correct": false
+      },
+      {
+        "answer_id": 653,
+        "question_id": 166,
+        "answer_text": "93dBA",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 168,
+    "text": "Consider the gear train shown in the figure, where: ω1= 1500 rpm (driver gear), ω2=ω3 (compound gear), z1=17 teeth, Z2=34 teeth and z4= 45 teeth. If the transmission ratio (i=ωdriven/ωdriver) is i=0.2, how many teeth should gear 3 have? Note: The image does not correspond exactly to the data.    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 658,
+        "question_id": 168,
+        "answer_text": "Z3 = 450 teeth",
+        "is_correct": false
+      },
+      {
+        "answer_id": 659,
+        "question_id": 168,
+        "answer_text": "Z3 = 64 teeth",
+        "is_correct": false
+      },
+      {
+        "answer_id": 660,
+        "question_id": 168,
+        "answer_text": "Z3 = 18 teeth",
+        "is_correct": true
+      },
+      {
+        "answer_id": 661,
+        "question_id": 168,
+        "answer_text": "In simple gear trains, gears between the input and output gears do not change the speed ratio. Z3 can be any value.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000168__img000058__168_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 658,
+        "question_id": 168,
+        "answer_text": "Z3 = 450 teeth",
+        "is_correct": false
+      },
+      {
+        "answer_id": 659,
+        "question_id": 168,
+        "answer_text": "Z3 = 64 teeth",
+        "is_correct": false
+      },
+      {
+        "answer_id": 660,
+        "question_id": 168,
+        "answer_text": "Z3 = 18 teeth",
+        "is_correct": true
+      },
+      {
+        "answer_id": 661,
+        "question_id": 168,
+        "answer_text": "In simple gear trains, gears between the input and output gears do not change the speed ratio. Z3 can be any value.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 173,
+    "text": "40 EV teams will participate on FSS20 edition. The technical inspection will be open on Tuesday (11:00h-19:00h), Wednesday (09:00h-19:00h) and Thursday (09:00h-20:30h). We can do the technical inspection of 4 cars at the same time. Which is the takt time?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 678,
+        "question_id": 173,
+        "answer_text": "177min/car",
+        "is_correct": true
+      },
+      {
+        "answer_id": 679,
+        "question_id": 173,
+        "answer_text": "0,34cars/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 680,
+        "question_id": 173,
+        "answer_text": "1,36cars/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 681,
+        "question_id": 173,
+        "answer_text": "44,25min/car",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 678,
+        "question_id": 173,
+        "answer_text": "177min/car",
+        "is_correct": true
+      },
+      {
+        "answer_id": 679,
+        "question_id": 173,
+        "answer_text": "0,34cars/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 680,
+        "question_id": 173,
+        "answer_text": "1,36cars/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 681,
+        "question_id": 173,
+        "answer_text": "44,25min/car",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 174,
+    "text": "Consider the 4th band resistor:\n1th band: yellow, 2th band: orange, 3th band:red, 4th band: brown\nWhat is the value of the resistor?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 682,
+        "question_id": 174,
+        "answer_text": "4300 Ω (± 1%)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 683,
+        "question_id": 174,
+        "answer_text": "430 Ω (± 1%)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 684,
+        "question_id": 174,
+        "answer_text": "3400 (± 2%)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 685,
+        "question_id": 174,
+        "answer_text": "3400 (± 2%)",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 682,
+        "question_id": 174,
+        "answer_text": "4300 Ω (± 1%)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 683,
+        "question_id": 174,
+        "answer_text": "430 Ω (± 1%)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 684,
+        "question_id": 174,
+        "answer_text": "3400 (± 2%)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 685,
+        "question_id": 174,
+        "answer_text": "3400 (± 2%)",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 177,
+    "text": "For the main hoop design, we would like to use the following steel (S275 with 0,25%C and 1,60%Mn). Which of the following sizes is according with the FS rules requirements?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 694,
+        "question_id": 177,
+        "answer_text": "Diam(ext)=30mm/Diam(int)=28mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 695,
+        "question_id": 177,
+        "answer_text": "All the answers are wrong, because the steel does not meet with the minimum material specifications",
+        "is_correct": false
+      },
+      {
+        "answer_id": 696,
+        "question_id": 177,
+        "answer_text": "Diam(ext)=28mm/Diam(int)=24mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 697,
+        "question_id": 177,
+        "answer_text": "Diam(ext)=30mm/Diam(int)=26mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 694,
+        "question_id": 177,
+        "answer_text": "Diam(ext)=30mm/Diam(int)=28mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 695,
+        "question_id": 177,
+        "answer_text": "All the answers are wrong, because the steel does not meet with the minimum material specifications",
+        "is_correct": false
+      },
+      {
+        "answer_id": 696,
+        "question_id": 177,
+        "answer_text": "Diam(ext)=28mm/Diam(int)=24mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 697,
+        "question_id": 177,
+        "answer_text": "Diam(ext)=30mm/Diam(int)=26mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  }
+]

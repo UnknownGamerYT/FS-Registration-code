@@ -1,0 +1,148 @@
+[
+  {
+    "question_id": 521,
+    "text": "What is the minimum static ground clearance of a vehicle including a driver?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2027,
+        "question_id": 521,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2028,
+        "question_id": 521,
+        "answer_text": "30 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2029,
+        "question_id": 521,
+        "answer_text": "40 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2030,
+        "question_id": 521,
+        "answer_text": "50 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2027,
+        "question_id": 521,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2028,
+        "question_id": 521,
+        "answer_text": "30 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2029,
+        "question_id": 521,
+        "answer_text": "40 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2030,
+        "question_id": 521,
+        "answer_text": "50 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 523,
+    "text": "What is true about the documentation for the Cost ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2035,
+        "question_id": 523,
+        "answer_text": "“Systems” are not part of the Detailed Bill of Material",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2036,
+        "question_id": 523,
+        "answer_text": "“sub-assemblies” are only part of the Detailed Bill of Material",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2037,
+        "question_id": 523,
+        "answer_text": "For every material in the Costed Bill of Material, a receipt is required",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2038,
+        "question_id": 523,
+        "answer_text": "Overhead costs must be taken into account in the Costed Bill of Material",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2035,
+        "question_id": 523,
+        "answer_text": "“Systems” are not part of the Detailed Bill of Material",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2036,
+        "question_id": 523,
+        "answer_text": "“sub-assemblies” are only part of the Detailed Bill of Material",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2037,
+        "question_id": 523,
+        "answer_text": "For every material in the Costed Bill of Material, a receipt is required",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2038,
+        "question_id": 523,
+        "answer_text": "Overhead costs must be taken into account in the Costed Bill of Material",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

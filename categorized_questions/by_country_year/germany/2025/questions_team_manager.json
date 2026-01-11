@@ -1,0 +1,208 @@
+[
+  {
+    "question_id": 941,
+    "text": "Your team's CFO told you to support them with the team's warehouse management for the end of year reporting to your alumni. You collect the following data from your workshop.\nCalculate the average storage time for carbon fiber in full days.\nNote: Assume 30 days per month and 360 days per year",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3539,
+        "question_id": 941,
+        "answer_text": "12",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000941__img000313__941_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3539,
+        "question_id": 941,
+        "answer_text": "12",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 944,
+    "text": "Shortly before the competition, you notice that one of your drivers is too short to fit into your vehicle.You need a booter cushion in the size of 350mm * 350mm * 138mm to increase your driver's height while seated in the vehicle. The fastest way of ordering is online, but there are only packs of 2 foam cushions available, with a size of 1000mm * 1000mm * 138 mm per cushion. You decide to order using express delivery.\nAfter ordering, the cushion is commissioned in the warehouse, where it had been stored for 10 days. The cushion is then delivered to your workshop by plane 15000km and truck 450km.\nIn the workshop, a team member takes 33 minutes to cut the cushion to size, but unfortunately the cushion too small after measuring, so they have to repeat the cutting process once to make a fitting cushion.\nHow large is the value of the outlined steps in kgCO2e?",
+    "type": "input",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 3549,
+        "question_id": 944,
+        "answer_text": "34.93",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000944__img000315__944_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3549,
+        "question_id": 944,
+        "answer_text": "34.93",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 949,
+    "text": "Your team has set a season goal to successfully complete the FSG Endurance (22 km, 24 laps) with 82% probability. To achieve this, the three most problematic components were identified: The accumulator, the suspension and your component. All other variables are neglected.\nFor the accumulator, it was determined that the failure corresponds to the driven kilometer and follows a normal distribution with a mean value of μ = 24.75 km and a standard deviation of σ = 1.7 km.The suspension was determined to have a 1‰ failure probability per lap.\nWhat is the minimum reliability that your component must achieve to reach your season goal?\nAll occurrences can be regarded as independent of each other. Enter the result in percent with 2 decimal places. For a reliability of 12.34%, the answer would be 12.34",
+    "type": "input",
+    "time": 720,
+    "answer_options": [
+      {
+        "answer_id": 3561,
+        "question_id": 949,
+        "answer_text": "88.69",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 214,
+        "question_id": 949,
+        "text": "This Question has been removed from the quiz",
+        "images": [
+          {
+            "img_id": 317,
+            "path": "solutions/949_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3561,
+        "question_id": 949,
+        "answer_text": "88.69",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 952,
+    "text": "Your team (based in Germany) has an outstanding payment to a supplier in the US denominated at 22420 USD. The FX rate at signing was 1.43 USD/EUR. Today's FX rate is 1.21 USD/EUR. Calculate how much the amount to be paid for your team increased or decreased since the signing of the contract in EUR. For an increase use \"+\" for a decrease use \"−\" in front of the number. Please round to full numbers.\n\nFor an increase of 300 EUR, the answer would be  300.",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3582,
+        "question_id": 952,
+        "answer_text": "+2851",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3582,
+        "question_id": 952,
+        "answer_text": "+2851",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 953,
+    "text": "One of your team goals for the coming season is to improve your result compared to FSG 2024. As there are various measures to achieve this goal, but your overall budget is limited, you carry out a sensitivity analysis to evaluate these measures.\nYour task is to carry out this analysis for the mass reduction measure. In the first step, you only look at the Endurance and Efficiency Event, as this is where the highest potential is to be expected. As a basis for the analysis, you use the official results of FSG 2024 and the FS-Rules 2025 v1.1 as well as the simulated lap times for your current vehicle concept and assume that your driver drives very precisely and therefore does not receive any penalties.Without mass reduction, your current vehicle concept achieves a lap time of 100.00s and an energy consumption of 5.000 kWh in Endurance.\nWith a mass reduction of 5kg, the lap time is reduced by 1s and the energy consumption is reduced by 2.9%.\nCalculate by how many % you can improve the combined result in Endurance and Efficiency by reducing the mass by 5kg.Round the answer to 2 decimal places.\n\nFor an improvement of 2.76% the answer would be 2.76",
+    "type": "input",
+    "time": 900,
+    "answer_options": [],
+    "solutions": [],
+    "question_images": [],
+    "answers": [],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 958,
+    "text": "Your team’s rollout is just around the corner. The Marketing Lead wants to prepare a special cake with your team’s logo and “Thank you!” written on it.\nAs rollout preparations were rather stressful so you need to hurry if you want to finish the cake.Follow the recipe in the table.\nAll ingredients are prepared in step 1 and placed in an intermediate storage area. The ingredients are then mixed into a dough (2). At the same time, the baking tin is greased and then dusted with flour (4). Once these steps have been completed, the dough is filled into the baking tin (5) and baked (6). In step 7, the cake is removed from the oven and decorated. The recipe states an average preparation time of 1.5 hours.\n\nCalculate the throughput time efficiency in percent, round to the whole number.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [],
+    "solutions": [],
+    "question_images": [
+      "images\\q000958__img000318__958_5.jpg"
+    ],
+    "answers": [],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

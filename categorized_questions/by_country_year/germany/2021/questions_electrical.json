@@ -1,0 +1,238 @@
+[
+  {
+    "question_id": 67,
+    "text": "Calculate the voltage UAB between A and B in multiples of Voltage Uq.\nEnter the exact solution as a completely simplified and reduced fraction in the format numerator/denominator.\nNumerator and denominator must be integers, e.g. 1/2",
+    "type": "input",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 279,
+        "question_id": 67,
+        "answer_text": "6/7",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000067__img000012__67_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 279,
+        "question_id": 67,
+        "answer_text": "6/7",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 75,
+    "text": "An idealized FSE vehicle is driven by 4 identical, ideal wheel hub drives (no losses, no inertia) and has a weight distribution of 50/50.\nThe aerodynamic balance is 50/50 as well and independent from vehicle speed.\nThe following diagram shows the wheel torque (of one single wheel) T over the vehicle speed v for a perfect full accelaration without wheel slip.\nCalculate v1 and v2 as shown in the picture in km/h.\nDynamic load transfer is neglected. The motor is assumed to be limited only by its maximum torque and maximum power.\nGiven parameters:\nVehicle mass m = 190 kg\ndynamic rolling radius of each tire rdyn = 200 mm\naerodynamic lift coefficient of the vehicle cl = -1.25\naerodynamic cross sectional area of the vehicle A = 1.3 m2\ntire friction coefficient μ = 1.2\ngravity g = 9.81 m/s2\nair density ρAir = 1.2 kg/m3\nmaximum wheel torque (each) Tmax = 130 Nm\nmaximum wheel hub drive power (each) Pmax = 20 kW\nRound both solutions to one decimal place. Give the solution in the following format: v1, v2, e.g. 1.2, 3.4",
+    "type": "input",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 304,
+        "question_id": 75,
+        "answer_text": "63.4, 110.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000075__img000017__75_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 304,
+        "question_id": 75,
+        "answer_text": "63.4, 110.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 156,
+    "text": "The following electric circuit may be used to convert an input voltage to a different output voltage to supply a load (\"switched mode power supply\"). The input voltage is 12V, the load draws a constant current of 2A (independent of the output voltage).\nThe MOSFET is turned on and turned off periodically, according to a pulse width modulated (PWM) control signal. The switching frequency is 250kHz. The duty cycle (ratio of the turn on time of the MOSFET to period time) is used to control the output voltage. The switching losses of the MOSFET are neglectable. In turned on condition, the MOSFET can be assumed to have constant resistance drain to source (Rdson). The diode can be assumed to be ideal (zero forward voltage, zero switching losses, zero reverse recovery, ...). The inductor is formed by windings on a ferromagnetic core. The core reaches saturation at current values higher than those occurring during normal operation. All voltages are referenced to ground (\"GND\").\nWhich of the following statements about the circuit is true? There is only one correct statement!    ",
+    "type": "single-choice",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 624,
+        "question_id": 156,
+        "answer_text": "In steady-state operation, the circuit can only provide output voltages (v_out) that are higher than the input voltage (12V).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 625,
+        "question_id": 156,
+        "answer_text": "In case of output short circuit, the magnetic flux in the ferromagnetic core of the inductor reaches its saturation value. This leads to intrinsic limitation of the output current (i_out) in case of output short circuit.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 626,
+        "question_id": 156,
+        "answer_text": "The power dissipation of the circuit is given by Pdissipation = |12V - v_out| · i_out.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 627,
+        "question_id": 156,
+        "answer_text": "When decreasing the output voltage (v_out) at constant output current (i_out), the power losses due to the Rdson of the MOSFET increase.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 628,
+        "question_id": 156,
+        "answer_text": "When increasing the output voltage (v_out) at constant output current (i_out), the power losses due to the Rdson of the MOSFET increase.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000156__img000044__156_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 624,
+        "question_id": 156,
+        "answer_text": "In steady-state operation, the circuit can only provide output voltages (v_out) that are higher than the input voltage (12V).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 625,
+        "question_id": 156,
+        "answer_text": "In case of output short circuit, the magnetic flux in the ferromagnetic core of the inductor reaches its saturation value. This leads to intrinsic limitation of the output current (i_out) in case of output short circuit.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 626,
+        "question_id": 156,
+        "answer_text": "The power dissipation of the circuit is given by Pdissipation = |12V - v_out| · i_out.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 627,
+        "question_id": 156,
+        "answer_text": "When decreasing the output voltage (v_out) at constant output current (i_out), the power losses due to the Rdson of the MOSFET increase.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 628,
+        "question_id": 156,
+        "answer_text": "When increasing the output voltage (v_out) at constant output current (i_out), the power losses due to the Rdson of the MOSFET increase.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 159,
+    "text": "The given circuit shows an implementation of a BSPD latch.\nEvaluate the time to trigger: transition of both inputs from Vs to 0V. State the results in milliseconds. Round to one decimal place.\nEvaluate the time to reset: transition of both inputs from 0V to Vs. State the results in seconds. Round to one decimal place.\n\nThe following conditions are assumed:\nVs = 5V\nR1 = 68kΩ\nR2 = 2.2MΩ\nC1 = 3.3μF\nideal Diodes with constant Vf = 0.7V and Ir = 0A\nFETs as ideal \"switches\" with Vth somewhere between 1V and 4V, Rds_on = 0Ω and Ices = 0A\nideal operational amplifier\nat least on trigger and reset cycle already occurred before\nthe circuit has reached steady state before the input transition\nthere is an input conditioning circuit evaluating hard braking and respective power delivery or throttle position with digital\noutputs which is not shown in the schematic\nboth digital inputs have always exactly the same logical state which is either 0V, trigger conditition, or Vs, idle\n\nGive your answer in the following format: time to trigger, time to reset. Example: if the time to trigger is 1234,5ms and the time to reset is 12,3s then use 1234.5, 12.3 as answer value.",
+    "type": "input",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 631,
+        "question_id": 159,
+        "answer_text": "399.4, 13.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000159__img000047__159_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 631,
+        "question_id": 159,
+        "answer_text": "399.4, 13.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 164,
+    "text": "How much does a current-carrying aluminum wire of arbitrary length with a cross-section of 5 mm2 expand, if it consumes 16W for 1 Minute. Linear length expansion with the linear coefficient of length expansion α=23·10-6 1/K is assumed. The specific heat capacity is defined as c = 0.896 J/(gK) and the mass density as ρ=2.7g/cm3. Additional assumptions are no heat loss and a temperature well below the melting point.\nEnter the solution in millimeter and round to one decimal place.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 648,
+        "question_id": 164,
+        "answer_text": "1.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 648,
+        "question_id": 164,
+        "answer_text": "1.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

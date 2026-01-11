@@ -69,6 +69,19 @@
         "answer_text": "315 GPa",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -141,6 +154,23 @@
         "answer_text": "100 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1,
+      2,
+      71
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -201,6 +231,19 @@
         "answer_text": "No",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -261,6 +304,19 @@
         "answer_text": "220 kg",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -321,6 +377,19 @@
         "answer_text": "No, only titanium is allowed for these brackets",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -405,6 +474,19 @@
         "answer_text": "0.85",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -465,6 +547,19 @@
         "answer_text": "The field is vision is compliant with the rules, no mirrors need to be installed",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -525,6 +620,19 @@
         "answer_text": "You must have at least two holes of 25mm to vent the chassis structure, in case of any accumulation of liquids",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -585,6 +693,18 @@
         "answer_text": "The seat mounting points do not need to be grounded since no TS component is within 100mm present.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -647,6 +767,18 @@
         "answer_text": "Inductance",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -707,6 +839,19 @@
         "answer_text": "It may be reset by the driver when he comes to a stop for the endurance drivers‘ change",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -767,6 +912,19 @@
         "answer_text": "Above a brake pressure of 20 bar the car traction system will shut down anyway",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -839,6 +997,19 @@
         "answer_text": "Combustion up to 25mm before the holding clamp",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -899,6 +1070,19 @@
         "answer_text": "All aerodynamic devices in front of the front axle and extending further outboard than the most inboard point of the front tire/wheel must be higher than 250 mm from the ground",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -959,6 +1143,19 @@
         "answer_text": "Hairpin turn with an inner diameter of 6 m and a track width of 3.5 m",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1033,6 +1230,19 @@
         "answer_text": "Yes, because some of the nuts are loaded in the wrong direction",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1095,6 +1305,19 @@
         "answer_text": "D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1155,6 +1378,18 @@
         "answer_text": "A sound level of 85 dBA is conformant to the rules",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      3
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1215,6 +1450,18 @@
         "answer_text": "The activation of the shutdown circuit occurs at max 1s after the TS wiring is damaged",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      3
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1282,6 +1529,18 @@
         "answer_text": "1200mm - 1920mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1342,6 +1601,18 @@
         "answer_text": "increase the steering angle",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1450,6 +1721,18 @@
         "answer_text": "Round head bolt metric grade 8.8 with Loctite",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1510,6 +1793,18 @@
         "answer_text": "36 inch²",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1594,6 +1889,18 @@
         "answer_text": "60 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1690,6 +1997,18 @@
         "answer_text": "1.5 liter",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1774,6 +2093,18 @@
         "answer_text": "140.6 %",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1870,6 +2201,18 @@
         "answer_text": "16",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1954,6 +2297,18 @@
         "answer_text": "78 kilo",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2027,6 +2382,18 @@
         "answer_text": "Front Hoop",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -2096,6 +2463,18 @@
         "answer_text": "The input does nothing",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -2163,6 +2542,18 @@
         "answer_text": "At least two separate sensors with shared supply",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -2230,6 +2621,18 @@
         "answer_text": "44% front",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -2292,6 +2695,18 @@
         "answer_text": "CRC",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -2359,6 +2774,18 @@
         "answer_text": "A fuse appropriate to the wire gauge",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -2419,6 +2846,18 @@
         "answer_text": "Business Plan Executive Summary",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -2481,6 +2920,18 @@
         "answer_text": "D",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -2507,6 +2958,18 @@
         "answer_text": "3.3",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2533,6 +2996,18 @@
         "answer_text": "4",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2559,6 +3034,18 @@
         "answer_text": "81",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2621,6 +3108,18 @@
         "answer_text": "^(gff|gss|ff|sf)*(fgg|gsgg|s|gg)$",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2729,6 +3228,18 @@
         "answer_text": "The outer diameter of a skid pad track circle is 31.25 m\r\n",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2753,6 +3264,18 @@
         "answer_text": "60.7, 12.3",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2779,6 +3302,18 @@
         "answer_text": "61",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2805,6 +3340,18 @@
         "answer_text": "114.8",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2829,6 +3376,18 @@
         "answer_text": "60",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3033,6 +3592,18 @@
         "answer_text": "Teams, that submit the CRD 50h after the deadline will receive a 20 points penalty.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3059,6 +3630,18 @@
         "answer_text": "0.70",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3095,6 +3678,22 @@
         "answer_text": "9.8",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      10,
+      47,
+      52
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -3155,6 +3754,18 @@
         "answer_text": "Animal voices, except goat voices, are forbidden.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      10
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -3215,6 +3826,20 @@
         "answer_text": "40.5 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      10,
+      52
+    ],
+    "years": [
+      "2020",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -3275,6 +3900,22 @@
         "answer_text": "May never be used in the primary structure.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      10,
+      47,
+      52
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -3354,6 +3995,18 @@
         "answer_text": "21.25 m",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3416,6 +4069,18 @@
         "answer_text": "± 1/2 turn",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3500,6 +4165,19 @@
         "answer_text": "My vehicle is completely safe",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3560,6 +4238,19 @@
         "answer_text": "1\" x 0.083\" seamless drawn round steel tube as shoulder harness mounting bar",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3620,6 +4311,19 @@
         "answer_text": "Officially receiving trophies during the award ceremony",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3692,6 +4396,19 @@
         "answer_text": "The vehicle may have different tires on all four corners but the configuration must be the same as presented during tech inspection.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3764,6 +4481,19 @@
         "answer_text": "35.0g",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3838,6 +4568,19 @@
         "answer_text": "79.7 km/h",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3917,6 +4660,19 @@
         "answer_text": "The person completing this quiz",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3977,6 +4733,18 @@
         "answer_text": "1100cc Inline-4, 2 Turbos /w Pop-Off Valves",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4061,6 +4829,18 @@
         "answer_text": "Boring the Engine",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4123,6 +4903,18 @@
         "answer_text": "Fe=3,0kN, Fg=1,5kN",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -4190,6 +4982,18 @@
         "answer_text": "2,4mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -4250,6 +5054,18 @@
         "answer_text": "The upper member must connect the main hoop and the front hoop. It must be at a height between 240 mm and 320 mm above the lowest inside chassis point between the front bulkhead and main hoop.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -4312,6 +5128,18 @@
         "answer_text": "Point D - End of the hole",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -4372,6 +5200,18 @@
         "answer_text": "24",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -4432,6 +5272,18 @@
         "answer_text": "198Hz",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -4463,6 +5315,23 @@
         "answer_text": "59",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      15,
+      14,
+      92
+    ],
+    "years": [
+      "2021",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "online"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "FS-Quiz Website"
     ]
   },
   {
@@ -4523,6 +5392,18 @@
         "answer_text": "If there is more then one local lowest point in the enclosed structure between the chassis and the ground, a minimum of 3 venting holes in necessary",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4585,6 +5466,19 @@
         "answer_text": "1) magnesium, 2) aluminium, 3) titanium, 4) steel",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4645,6 +5539,19 @@
         "answer_text": "Yes, the BPP has to cover a race car for a weekend racing driver.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4705,6 +5612,19 @@
         "answer_text": "No, the quality of the actual car is not part of the BPP. The Judges assess the business capability of the team.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4765,6 +5685,19 @@
         "answer_text": "min. 1mm aluminum or steel",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4827,6 +5760,19 @@
         "answer_text": "The cat is in a syable equilibrium.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4899,6 +5845,19 @@
         "answer_text": "Bolt with Nordlock spring locking washer and nylon locking nut",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4971,6 +5930,19 @@
         "answer_text": "Each and every belt must be fastened to an attachment point that is able to withstand a load of at least 13 kN.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5031,6 +6003,19 @@
         "answer_text": "66.6% front",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5093,6 +6078,18 @@
         "answer_text": "RTS",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5162,6 +6159,18 @@
         "answer_text": "The input does nothing",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5260,6 +6269,18 @@
         "answer_text": "Buck",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5320,6 +6341,18 @@
         "answer_text": "All team members must wear fire resistant suits as defined by T 13.3.4",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      15
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5380,6 +6413,18 @@
         "answer_text": "Between throttle roll and intercooler",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      15
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5442,6 +6487,18 @@
         "answer_text": "D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      15
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5468,6 +6525,18 @@
         "answer_text": "147.7",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5494,6 +6563,18 @@
         "answer_text": "91.1",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5520,6 +6601,18 @@
         "answer_text": "28.2, 36",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5544,6 +6637,18 @@
         "answer_text": "90",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5568,6 +6673,18 @@
         "answer_text": "19.1",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5652,6 +6769,18 @@
         "answer_text": "Each driver may drive up to two dynamic events",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5678,6 +6807,18 @@
         "answer_text": "1.80, 2.13",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5738,6 +6879,18 @@
         "answer_text": "93dBA",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -5800,6 +6953,18 @@
         "answer_text": "In simple gear trains, gears between the input and output gears do not change the speed ratio. Z3 can be any value.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -5860,6 +7025,18 @@
         "answer_text": "44,25min/car",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -5920,6 +7097,18 @@
         "answer_text": "3400 (± 2%)",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -5980,6 +7169,18 @@
         "answer_text": "Diam(ext)=30mm/Diam(int)=26mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -6052,6 +7253,23 @@
         "answer_text": "The Nickel-based batteries have the lowest norminal voltage",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      18,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
     ]
   },
   {
@@ -6114,6 +7332,18 @@
         "answer_text": "No, other reason",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      18
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -6200,6 +7430,20 @@
         "answer_text": "c and d",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      18,
+      47
+    ],
+    "years": [
+      "2021",
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -6260,6 +7504,18 @@
         "answer_text": "Replacing the shoulder belts with new 40mm belts that also suit Christina's HANS device and saves 83 grams",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      19
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -6320,6 +7576,18 @@
         "answer_text": "To ensure a safe event",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      19
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -6428,6 +7696,18 @@
         "answer_text": "Cross section shape",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6488,6 +7768,18 @@
         "answer_text": "Stiffness",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6548,6 +7840,18 @@
         "answer_text": "Carbon Fiber Reinforced Polymer",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6608,6 +7912,18 @@
         "answer_text": "A registered driver wearing the required driver equipment as defined in T 13.3 except for helmet, arm restraints and balaclava having full control of steering and braking.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6668,6 +7984,18 @@
         "answer_text": "e​",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6728,6 +8056,18 @@
         "answer_text": "763,6 [N]",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6812,6 +8152,18 @@
         "answer_text": "0x3083698C2F ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6872,6 +8224,18 @@
         "answer_text": "In the team’s national currency",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6939,6 +8303,18 @@
         "answer_text": "R",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7030,6 +8406,18 @@
         "answer_text": "15.15 ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -7121,6 +8509,18 @@
         "answer_text": "​-63.43",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -7212,6 +8612,18 @@
         "answer_text": "440",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -7260,6 +8672,18 @@
         "answer_text": "3,245 km.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      23
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -7308,6 +8732,18 @@
         "answer_text": "The ESO's are the only persons in the team who can work on HV power.Opción 1",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      23
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -7356,6 +8792,18 @@
         "answer_text": "Buenos Dias.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      23
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -7404,6 +8852,18 @@
         "answer_text": "FSG Rules",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      23
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -7452,6 +8912,18 @@
         "answer_text": "Only Dry tires.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      23
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -7500,6 +8972,18 @@
         "answer_text": "At least 1525mm.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      23
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -7548,6 +9032,18 @@
         "answer_text": "10th.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      23
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -7610,6 +9106,18 @@
         "answer_text": "D",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7672,6 +9180,18 @@
         "answer_text": "It is not allowed to use an emergancy stop button in the cockpit.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7732,6 +9252,18 @@
         "answer_text": "Re number",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7792,6 +9324,18 @@
         "answer_text": "shikishima",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7852,6 +9396,18 @@
         "answer_text": "A near round shape with diameter of 5 cm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7919,6 +9475,18 @@
         "answer_text": "Design out overburden",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7979,6 +9547,18 @@
         "answer_text": "Launch of the first successful American satelite (Explorer 1)",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8046,6 +9626,18 @@
         "answer_text": "In the middle of a completely red circular area of >= 50mm diameter.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8108,6 +9700,18 @@
         "answer_text": "Rear multi-link suspension with passive steering",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8170,6 +9774,18 @@
         "answer_text": "3",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8230,6 +9846,18 @@
         "answer_text": "Increasing turbulence intensity in the direction of the flow.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8290,6 +9918,18 @@
         "answer_text": "4x+6y",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8350,6 +9990,18 @@
         "answer_text": "0 < ν < 0.5",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8410,6 +10062,18 @@
         "answer_text": "Car pitch angle over lateral acceleration and gradient of pitch angle over lateral acceleration.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8470,6 +10134,18 @@
         "answer_text": "Any aerodynamic device must be able to withstand a force of 200N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8532,6 +10208,18 @@
         "answer_text": "Double Wishbone - Rear ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8594,6 +10282,18 @@
         "answer_text": "6-speed double clutch transmission for longitudinal engine. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8654,6 +10354,18 @@
         "answer_text": "Principal stress is dependent on choice of coordinate system. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8714,6 +10426,18 @@
         "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as ω. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8774,6 +10498,18 @@
         "answer_text": "all of the above",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8834,6 +10570,18 @@
         "answer_text": "Car pitch angle over lateral acceleration and gradient of pitch angle over lateral acceleration. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8894,6 +10642,18 @@
         "answer_text": "Softening front anti-roll bar, raise front end. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -8954,6 +10714,18 @@
         "answer_text": "Any team member if the vehicle has passed technical inspection ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9014,6 +10786,18 @@
         "answer_text": "It is only mandatory for monocoque vehicles ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9074,6 +10858,18 @@
         "answer_text": "Cotter pins can provide positive locking ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9134,6 +10930,18 @@
         "answer_text": "No need to test for combustion cars, and in technical inspection for electric cars ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9194,6 +11002,18 @@
         "answer_text": "In any direction 200 N ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9254,6 +11074,18 @@
         "answer_text": "Is allowed in the testing ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9314,6 +11146,18 @@
         "answer_text": "On the rear wing ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9374,6 +11218,18 @@
         "answer_text": "Car number ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9434,6 +11290,18 @@
         "answer_text": "Teams can change tyres during the driver change process of the Endurance Event ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9494,6 +11362,18 @@
         "answer_text": "No in board cameras are allowed in FSS ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9554,6 +11434,18 @@
         "answer_text": "Yes, but only with M6 grade 12.9 or equivalent ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9614,6 +11506,18 @@
         "answer_text": "Electric cars, combustion cars providing that they are made by the students ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -9674,6 +11578,18 @@
         "answer_text": "Young's modulus 200GPa (29000ksi), yield strength 310MPa (45,0ksi), ultimate strength 400MPa (58,0ksi) ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      28
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -9734,6 +11650,18 @@
         "answer_text": "Reaction Tool <=25,4mm ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      28
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -9794,6 +11722,18 @@
         "answer_text": "The perimeter vertical walls forward, aft, left, and right must be constructed of steel 0.9mm (0.035 inch) thick or aluminum 2.3mm (0.09 inch) thick. ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      28
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -9854,6 +11794,18 @@
         "answer_text": "Magnesium - Aluminum - Steel - Titanium ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      28
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -9921,6 +11873,18 @@
         "answer_text": "Nylon lock nut (except in high temperature locations) ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      29
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -9981,6 +11945,18 @@
         "answer_text": "Each accumulator container must have a prominent indicator, such as an LED that will illuminate whenever a voltage greater than 60V DC is present at the vehicle side of the AIRs. ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      29
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -10041,6 +12017,18 @@
         "answer_text": "...the brake pedal is actuated and the torque encoder signals more than 25% pedal travel at the same time.\r\n",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -10120,6 +12108,18 @@
         "answer_text": "Three full threads.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -10180,6 +12180,18 @@
         "answer_text": "ESF, FMEA and SEF",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -10247,6 +12259,18 @@
         "answer_text": "At least 750 Newton.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -10314,6 +12338,18 @@
         "answer_text": "Three",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -10374,6 +12410,18 @@
         "answer_text": "No explicit measure is mentioned",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -10446,6 +12494,18 @@
         "answer_text": "The firewall must be fire resistant according to UL94-V0 or equivalent.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -10513,6 +12573,18 @@
         "answer_text": "40mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -10575,6 +12647,20 @@
         "answer_text": "d",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      31,
+      57
+    ],
+    "years": [
+      "2021",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -10635,6 +12721,18 @@
         "answer_text": "8x+6y",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      31
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -10695,6 +12793,18 @@
         "answer_text": "Car pitch angle over lateral acceleration and gradient of pitch angle over lateral acceleration. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      31
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -10755,6 +12865,18 @@
         "answer_text": "D = 35mm, t = 2,5mm ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -10815,6 +12937,18 @@
         "answer_text": "Grey",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -10875,6 +13009,18 @@
         "answer_text": "The value when fixed costs and variable costs are equal. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -10935,6 +13081,18 @@
         "answer_text": "Yes, if all vehicle fluids are on maximum level and your lightest pilot sits in the car.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -10995,6 +13153,18 @@
         "answer_text": "20.83 ms ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -11055,6 +13225,18 @@
         "answer_text": "DAC",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -11115,6 +13297,18 @@
         "answer_text": "Aramid Fiber Reinforced Polymer ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -11182,6 +13376,18 @@
         "answer_text": "His father was a priest and he was born near Gospić, in present-day Croatia, then part of the Austrian Empire. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -11242,6 +13448,18 @@
         "answer_text": "When the scrap rate is ideal 2%. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -11304,6 +13522,18 @@
         "answer_text": "D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -11364,6 +13594,18 @@
         "answer_text": "R=3000Ohm and C=420.8nanoFarad",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11431,6 +13673,18 @@
         "answer_text": "0.5mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11498,6 +13752,18 @@
         "answer_text": "240s, 60s with water-spray and 180s without.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11558,6 +13824,18 @@
         "answer_text": "The BMS must continuously measure the cell voltage of every cell.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11630,6 +13908,18 @@
         "answer_text": "365 MPa (52.9 ksi)",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11690,6 +13980,18 @@
         "answer_text": "75mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11757,6 +14059,18 @@
         "answer_text": "3.2mm (4/32 inch).",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11817,6 +14131,18 @@
         "answer_text": "R=3000Ohm and C=420.8nanoFarad",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11877,6 +14203,18 @@
         "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Ready-To-Drive-Sound-Test, Brake Test, Rain Test",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -11944,6 +14282,18 @@
         "answer_text": "SFI 33.33 or FIA 8856-2012",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -12004,6 +14354,18 @@
         "answer_text": "Desire for Mega-Ants",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -12071,6 +14433,18 @@
         "answer_text": "15 kph.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -12138,6 +14512,18 @@
         "answer_text": "The firewall must not contain any parts made of metal.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -12210,6 +14596,18 @@
         "answer_text": "Energy flowing from the motor(s) to the accumulator(s) will be multiplied with a factor of 0.8 and subtracted from the used energy. \r\n",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -12234,6 +14632,19 @@
         "answer_text": "17",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -12296,6 +14707,19 @@
         "answer_text": "EV4.5.9",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -12356,6 +14780,19 @@
         "answer_text": "sigma=28.5MPa, delta da=0.00078mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -12380,6 +14817,19 @@
         "answer_text": "76.4",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -12440,6 +14890,19 @@
         "answer_text": "930mm-1653mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -12514,6 +14977,19 @@
         "answer_text": "Probably a broken Transceiver on the sending node",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -12574,6 +15050,18 @@
         "answer_text": "1/11",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -12667,6 +15155,18 @@
         "answer_text": "-643",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -12753,6 +15253,18 @@
         "answer_text": "17.58",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -12844,6 +15356,18 @@
         "answer_text": "0.89",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -12928,6 +15452,18 @@
         "answer_text": "100",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -13014,6 +15550,18 @@
         "answer_text": "22.43",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -13098,6 +15646,18 @@
         "answer_text": "760",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -13184,6 +15744,18 @@
         "answer_text": "1076",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -13268,6 +15840,18 @@
         "answer_text": "-0.6",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -13352,6 +15936,18 @@
         "answer_text": "100",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -13436,6 +16032,18 @@
         "answer_text": "12.10",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -13520,6 +16128,18 @@
         "answer_text": "0.90",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -13580,6 +16200,18 @@
         "answer_text": "Birthday of former F1 driver, Takuma Sato.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -13628,6 +16260,18 @@
         "answer_text": "0 °C to 75 °C",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -13688,6 +16332,18 @@
         "answer_text": "It is forbidden to spin the wheels in reverse direction.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -13748,6 +16404,18 @@
         "answer_text": "3200.5 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -13808,6 +16476,18 @@
         "answer_text": "312.00 mm ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -13868,6 +16548,18 @@
         "answer_text": "Transponder can be put anywhere on the vehicle.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -13928,6 +16620,18 @@
         "answer_text": "1962",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -13988,6 +16692,20 @@
         "answer_text": "Drag",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      39,
+      71
+    ],
+    "years": [
+      "2022",
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -14050,6 +16768,20 @@
         "answer_text": "Point D",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      39,
+      57
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -14110,6 +16842,18 @@
         "answer_text": "164 Hz",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      39
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -14170,6 +16914,20 @@
         "answer_text": "2.4 mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      39,
+      57
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -14232,6 +16990,18 @@
         "answer_text": "8347 N",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      39
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -14292,6 +17062,18 @@
         "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as ω. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      39
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -14352,6 +17134,20 @@
         "answer_text": "Catch tank attachment to bracket welded to tube frame",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      39,
+      57
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -14412,6 +17208,20 @@
         "answer_text": "Having a flush inlet helps to reduce drag",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      39,
+      57
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -14472,6 +17282,18 @@
         "answer_text": "Tension",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -14532,6 +17354,18 @@
         "answer_text": "0.19 l",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -14592,6 +17426,18 @@
         "answer_text": "All of the above.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -14652,6 +17498,18 @@
         "answer_text": "DIN 11024 Cotter Pin",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -14714,6 +17572,18 @@
         "answer_text": "450",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -14774,6 +17644,18 @@
         "answer_text": "None of the above.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -14834,6 +17716,18 @@
         "answer_text": "The brake over travel-switch must be of the type single pole, single throw switch",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -14860,6 +17754,18 @@
         "answer_text": "1.636, 1.405, 0.262",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -14908,6 +17814,18 @@
         "answer_text": "Michael Masi",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      42
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -14956,6 +17874,18 @@
         "answer_text": "The ESO's are the only persons in the team who can work on the suspension and steering system.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      42
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -15004,6 +17934,18 @@
         "answer_text": "Cerveza.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      42
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -15052,6 +17994,18 @@
         "answer_text": "100 people.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      42
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -15100,6 +18054,18 @@
         "answer_text": "Lionel Messi. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      42
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -15148,6 +18114,18 @@
         "answer_text": "Only Dry tires.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      42
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -15196,6 +18174,18 @@
         "answer_text": "At least 1525mm. ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      42
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -15244,6 +18234,18 @@
         "answer_text": "12th.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      42
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -15268,6 +18270,18 @@
         "answer_text": "32768",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -15292,6 +18306,18 @@
         "answer_text": "5.0",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -15352,6 +18378,19 @@
         "answer_text": "Autonomous system components may stay in the car but at scrutineering it will not be checked that they are fully disabled by putting the ASMS in the \"Off\" position",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15414,6 +18453,19 @@
         "answer_text": "max. 1835 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      44,
+      43
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15438,6 +18490,19 @@
         "answer_text": "29",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15500,6 +18565,19 @@
         "answer_text": "Cat D",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15560,6 +18638,19 @@
         "answer_text": "10 bar",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15584,6 +18675,19 @@
         "answer_text": "58",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15644,6 +18748,19 @@
         "answer_text": "Weather forecast is sunny, so it is possible to use only 2 set of dry tires.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15704,6 +18821,19 @@
         "answer_text": "neither, this will cause a collision on the bus",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15764,6 +18894,19 @@
         "answer_text": "For every made part and building assemblies out of parts",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15824,6 +18967,19 @@
         "answer_text": "16",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15848,6 +19004,18 @@
         "answer_text": "79.37",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -15910,6 +19078,24 @@
         "answer_text": "Set D",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      45,
+      46,
+      103,
+      104
+    ],
+    "years": [
+      "2018",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -15982,6 +19168,19 @@
         "answer_text": "only handheld tools operating below 60V (the maximum permitted voltage for your car) are allowed",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16042,6 +19241,19 @@
         "answer_text": "If not welded to a steel chassis, the attachment must support a load of 13kN (given that this mounting point is used only for the lap belt)",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16068,6 +19280,23 @@
         "answer_text": "4.28",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      45,
+      103,
+      104
+    ],
+    "years": [
+      "2018",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -16130,6 +19359,19 @@
         "answer_text": "Additonal members above member \"1\" in the rear end are mandatory",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16228,6 +19470,19 @@
         "answer_text": "Ceiling Cat",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16302,6 +19557,18 @@
         "answer_text": "The endianness is wrong in the DAQ config",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      45
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16328,6 +19595,18 @@
         "answer_text": "2.76",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16400,6 +19679,18 @@
         "answer_text": "Your sensor is mounted outside of the car's center of gravity",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16460,6 +19751,18 @@
         "answer_text": "605cc V-Twin, High-Pressure Direct Injection",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16532,6 +19835,18 @@
         "answer_text": "Hose clemps are only allowed for metal braid fuel hoses",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16606,6 +19921,18 @@
         "answer_text": "8",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -16666,6 +19993,18 @@
         "answer_text": "Compensate for wear in the steering linkage",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -16750,6 +20089,18 @@
         "answer_text": "s/(s ω0)",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -16810,6 +20161,18 @@
         "answer_text": "Accumulator Inspection, Electrical Inspection, Pre-Inspection, Mechanical Inspection, Tilt Test, Rain Test, Brake Test",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -16846,6 +20209,18 @@
         "answer_text": "279.059",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -16906,6 +20281,18 @@
         "answer_text": "You must queue for Re-Inspection when you are ready for electrical inspection and 5 points will be deducted from your overall score.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -16944,6 +20331,20 @@
         "answer_text": "838",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -16992,6 +20393,20 @@
         "answer_text": "Open shutdown circuit and 0Nm torque request to the motor controller.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -17030,6 +20445,18 @@
         "answer_text": "1.21",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -17102,6 +20529,18 @@
         "answer_text": "0.2 km",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -17152,6 +20591,18 @@
         "answer_text": "3",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      48
+    ],
+    "years": [
+      "2015"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -17202,6 +20653,18 @@
         "answer_text": "Mechanical problem - engine has a problem with ignition at high RPM.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      48
+    ],
+    "years": [
+      "2015"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -17250,6 +20713,18 @@
         "answer_text": "“H” pattern with two parallel 203mm (8 inches) long tubes separated by 38mm (1.5 inches) measured from the tube centerline. The connecting tube must be perpendicular to the parallel tubes and be 50mm (2 inches) from the top end of one tube and 50mm (2 inches) from the bottom end of the other tube.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      48
+    ],
+    "years": [
+      "2015"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -17274,6 +20749,19 @@
         "answer_text": "26.1",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -17298,6 +20786,19 @@
         "answer_text": "84",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -17324,6 +20825,19 @@
         "answer_text": "43",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -17348,6 +20862,19 @@
         "answer_text": "1",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -17372,6 +20899,19 @@
         "answer_text": "900",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -17398,6 +20938,19 @@
         "answer_text": "74.7",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -17458,6 +21011,19 @@
         "answer_text": "1.32 m",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -17518,6 +21084,19 @@
         "answer_text": "An attachment welded to a steel structure must be able to carry 13 kN for shoulder and lap belts, and 6.5 kN for anti-submarine belts",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -17578,6 +21157,18 @@
         "answer_text": "0.84 kg/m^2",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -17638,6 +21229,18 @@
         "answer_text": "The fuel tank must be made of a rigid material to prevent failure under loading. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -17698,6 +21301,18 @@
         "answer_text": "Both statements are incorrect",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -17758,6 +21373,18 @@
         "answer_text": "Crystal oscillator",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      50
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -17818,6 +21445,18 @@
         "answer_text": "Potassium carbonate",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      50
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -17854,6 +21493,18 @@
         "answer_text": "16.0-16.4",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      52
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -17892,6 +21543,18 @@
         "answer_text": "5.99-6.01",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      52
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -17959,6 +21622,19 @@
         "answer_text": "Front hoop bracings must extend beyond the driver’s feet.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -18026,6 +21702,19 @@
         "answer_text": "Steel Tab Washers",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -18093,6 +21782,19 @@
         "answer_text": "15.34 m/s",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -18160,6 +21862,19 @@
         "answer_text": "50 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -18227,6 +21942,19 @@
         "answer_text": "D) A firewall cannot be used for heat insulation of the driver compartment",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -18294,6 +22022,18 @@
         "answer_text": "Bore and Stroke",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -18361,6 +22101,18 @@
         "answer_text": "Stroke",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -18428,6 +22180,18 @@
         "answer_text": "D) LV masters switches must be installed on either side of the vehicle",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -18495,6 +22259,26 @@
         "answer_text": "R=U-I",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      53,
+      55,
+      70
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
     ]
   },
   {
@@ -18519,6 +22303,23 @@
         "answer_text": "13.9",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
     ]
   },
   {
@@ -18543,6 +22344,23 @@
         "answer_text": "3404",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
     ]
   },
   {
@@ -18603,6 +22421,18 @@
         "answer_text": "Increasing the order of the elements",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -18663,6 +22493,18 @@
         "answer_text": "The video has to be made in a described order",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -18723,6 +22565,18 @@
         "answer_text": "Percy wears a helmet.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -18749,6 +22603,18 @@
         "answer_text": "0.1",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -18797,6 +22663,18 @@
         "answer_text": "Low mesh density",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -18823,6 +22701,18 @@
         "answer_text": "14.76",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -18883,6 +22773,18 @@
         "answer_text": "1985., Ayrton Senna",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -18950,6 +22852,18 @@
         "answer_text": "Yellow",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19019,6 +22933,18 @@
         "answer_text": "Australia",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19079,6 +23005,18 @@
         "answer_text": "One of the fire extinguishers must be a gel-based (Class A) fire extinguisher.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19139,6 +23077,18 @@
         "answer_text": "25mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19199,6 +23149,18 @@
         "answer_text": "after the given brake line",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19259,6 +23221,18 @@
         "answer_text": "Elemental solutions",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19319,6 +23293,18 @@
         "answer_text": "It is not specified by the rules but it is a good engineering practice to pre-charge at least to 50% of the actual TS accumulator voltage.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19379,6 +23365,18 @@
         "answer_text": "Risk Value",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19439,6 +23437,18 @@
         "answer_text": " 0.467m2",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19499,6 +23509,18 @@
         "answer_text": "282500 mm^2",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -19559,6 +23581,18 @@
         "answer_text": "Able to perform the technical inspection autonomously observed by the Officials, when asked.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      57
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -19621,6 +23655,18 @@
         "answer_text": "42",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      57
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -19683,6 +23729,18 @@
         "answer_text": "6",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      57
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -19745,6 +23803,18 @@
         "answer_text": "red",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      57
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -19812,6 +23882,19 @@
         "answer_text": "32",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -19879,6 +23962,19 @@
         "answer_text": "D) Only team members named Jack may operate a jack",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -19948,6 +24044,19 @@
         "answer_text": "1.727 rpm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -20015,6 +24124,19 @@
         "answer_text": "DIN 463",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -20082,6 +24204,19 @@
         "answer_text": "Silene",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -20151,6 +24286,19 @@
         "answer_text": "D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -20218,6 +24366,19 @@
         "answer_text": "d) If any tab of the SES shows as green or passed, additional equivalency can still be requested.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -20285,6 +24446,18 @@
         "answer_text": "d) You can use directly proportional sensors with different slopes as APPS",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -20354,6 +24527,18 @@
         "answer_text": "The data send is not 0x7F",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      58
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -20380,6 +24565,18 @@
         "answer_text": "137.9",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -20454,6 +24651,18 @@
         "answer_text": "no answer is correct",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -20480,6 +24689,18 @@
         "answer_text": "2.507, 1.590, 0.037",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -20506,6 +24727,18 @@
         "answer_text": "19.2",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -20530,6 +24763,18 @@
         "answer_text": "Upload is not supported (This answer is correct)",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -20563,6 +24808,18 @@
         "answer_text": "35.5",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -20599,6 +24856,18 @@
         "answer_text": "314.16",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -20659,6 +24928,18 @@
         "answer_text": "32%",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -20719,6 +25000,18 @@
         "answer_text": "60%",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -20743,6 +25036,23 @@
         "answer_text": "32987",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      61,
+      103,
+      104
+    ],
+    "years": [
+      "2023",
+      "2025"
+    ],
+    "countries": [
+      "Croatia",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Alpe Adria",
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -20822,6 +25132,18 @@
         "answer_text": "weight is under the lower limit",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -20853,6 +25175,18 @@
         "answer_text": "118, 122",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -20901,6 +25235,18 @@
         "answer_text": "1st Edition.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -20949,6 +25295,18 @@
         "answer_text": "\"Don’t lose your cred wearing that tonight!\".",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -20997,6 +25355,18 @@
         "answer_text": "Circuit Barcelona-Catalunya.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -21045,6 +25415,18 @@
         "answer_text": "Extreme snowfalls during all the event.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -21093,6 +25475,18 @@
         "answer_text": "Trabant 601.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -21141,6 +25535,18 @@
         "answer_text": "Spanish writer.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -21189,6 +25595,18 @@
         "answer_text": "The deviation of the floor plane from the vertical.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -21237,6 +25655,18 @@
         "answer_text": "Fried dough pastry, cut into sausage shapes and doused in sugar with chocolate.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -21285,6 +25715,18 @@
         "answer_text": "Māori rugby player.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      62
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -21309,6 +25751,19 @@
         "answer_text": "5.0",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -21369,6 +25824,19 @@
         "answer_text": "The track is slippery or something is on the racing surface that should not be there. The driver must be prepared for evasive maneuvers to avoid the situation.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -21429,6 +25897,19 @@
         "answer_text": "Only values from data sheets may be used for calculations for bonded joints.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -21489,6 +25970,19 @@
         "answer_text": "63mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -21549,6 +26043,19 @@
         "answer_text": "No part of any IA may be above 350mm from the ground during the tech inspection",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -21609,6 +26116,18 @@
         "answer_text": "150HZ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -21669,6 +26188,19 @@
         "answer_text": "Hardness is a result of force/surface of the imprint",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      68,
+      49
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -21695,6 +26227,19 @@
         "answer_text": "30",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -21721,6 +26266,19 @@
         "answer_text": "-33.7",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      68,
+      49
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -21781,6 +26339,18 @@
         "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. Any portion of the air intake system that is less than 350 mm above the ground must be shielded from side and rear impact collisions by structure built according to the rule T3.15.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      72
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -21812,6 +26382,18 @@
         "answer_text": "580000, 129",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -21875,6 +26457,18 @@
         "answer_text": "D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -21911,6 +26505,18 @@
         "answer_text": "0.2923",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -21995,6 +26601,18 @@
         "answer_text": "F: Rex (red) - Werner (red) - Kat (yellow) - Snowball (blue) - Purrlovia (blue) - Samantha (yellow) - Fred (green)",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -22062,6 +26680,18 @@
         "answer_text": "D: The portion of the drawings in the EDR is unlimited",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -22129,6 +26759,18 @@
         "answer_text": "D: Body work is not sufficient to meet this enclosure requirement.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -22196,6 +26838,18 @@
         "answer_text": "D: Any firewall must seal completely against the passage of fluids, especially at the sides and the floor of the cockpit.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -22234,6 +26888,18 @@
         "answer_text": "50.33",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -22366,6 +27032,18 @@
         "answer_text": "J: The precharging circuit must be charged to at least 90 % of the TS voltage, supplied by the isolating circuit and the entire precharging current must flow through this relay.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -22426,6 +27104,18 @@
         "answer_text": "Mazda MX-3 1985",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22486,6 +27176,18 @@
         "answer_text": "Your ground clearance is always greater when you start your endurance run than when you finish ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22546,6 +27248,18 @@
         "answer_text": "40,788.089 ev ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22606,6 +27320,18 @@
         "answer_text": "An EDR of twelve pages will not be evaluated ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22666,6 +27392,18 @@
         "answer_text": "0.1375 ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22716,6 +27454,18 @@
         "answer_text": "Not enough information ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22776,6 +27526,18 @@
         "answer_text": "216,38% ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22838,6 +27600,18 @@
         "answer_text": "2 ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22910,6 +27684,18 @@
         "answer_text": "TBA",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -22982,6 +27768,18 @@
         "answer_text": "2022",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23006,6 +27804,18 @@
         "answer_text": "1-2-3",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23066,6 +27876,18 @@
         "answer_text": "Magnets",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23128,6 +27950,18 @@
         "answer_text": "D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23188,6 +28022,18 @@
         "answer_text": "Unprocessable Content",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23262,6 +28108,18 @@
         "answer_text": "E",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23322,6 +28180,18 @@
         "answer_text": "None of the answers is correct ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23382,6 +28252,18 @@
         "answer_text": "JBI",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23406,6 +28288,18 @@
         "answer_text": "4",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23466,6 +28360,18 @@
         "answer_text": "A person active in party politics",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23526,6 +28432,18 @@
         "answer_text": "30",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23586,6 +28504,18 @@
         "answer_text": "John Cooper ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      75
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -23612,6 +28542,19 @@
         "answer_text": "26",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      76,
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
     ]
   },
   {
@@ -23672,6 +28615,19 @@
         "answer_text": "±0.2",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -23696,6 +28652,19 @@
         "answer_text": "13.49",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -23756,6 +28725,19 @@
         "answer_text": "reduced engine durability",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -23782,6 +28764,19 @@
         "answer_text": "3600.00",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -23842,6 +28837,19 @@
         "answer_text": "only if the pressure drops fast enough",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -23902,6 +28910,19 @@
         "answer_text": "0.35-0.65",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -23933,6 +28954,21 @@
         "answer_text": "54.93",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -23966,6 +29002,21 @@
         "answer_text": "-35.4",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -24002,6 +29053,21 @@
         "answer_text": "0.986",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -24035,6 +29101,21 @@
         "answer_text": "-0.5",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -24126,6 +29207,21 @@
         "answer_text": "Round tube Outer diameter = 25 mm, thickness = 1.2 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -24186,6 +29282,18 @@
         "answer_text": "21 [MPa] or higher",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
     ]
   },
   {
@@ -24246,6 +29354,18 @@
         "answer_text": "A 4-wheeled car touches the ground on 4 points along a corner, until the acting line of the overall resultant force projected to the centre of mass pierces the ground surface within the geometrical shape of the vertical projection of the outer suspension pickup points on the ground.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -24306,6 +29426,18 @@
         "answer_text": "909 N",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -24368,6 +29500,18 @@
         "answer_text": "100 Ω ± 5%",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -24428,6 +29572,18 @@
         "answer_text": "0.1318 kN",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -24488,6 +29644,18 @@
         "answer_text": "You measure a voltage drop of 1 V between LVS ground and one of your parts that may become electrically conductive and is 125 mm away from the nearest TS component. The current used for the measurement is 7 mA.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -24548,7 +29716,11 @@
         "answer_text": "nothing. Common sense must be applied.",
         "is_correct": false
       }
-    ]
+    ],
+    "quiz_ids": [],
+    "years": [],
+    "countries": [],
+    "events": []
   },
   {
     "question_id": 775,
@@ -24584,6 +29756,18 @@
         "answer_text": "71.0",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      80
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -24663,6 +29847,18 @@
         "answer_text": "Only fuel lines which are rated for temperatures of at least 120°C are allowed to use between fuel tank and fuel rail and return lines.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      80
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -24694,6 +29890,18 @@
         "answer_text": "150",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      80
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -24754,7 +29962,11 @@
         "answer_text": "You measure a voltage drop of 0.5 V between LVS ground and your electrically non conductive driver seat which is 50 mm away from your TSAC. The current used for the measurement is 0.1 A.",
         "is_correct": false
       }
-    ]
+    ],
+    "quiz_ids": [],
+    "years": [],
+    "countries": [],
+    "events": []
   },
   {
     "question_id": 785,
@@ -24814,6 +30026,19 @@
         "answer_text": "1.708 kN",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -24874,6 +30099,19 @@
         "answer_text": "786 N",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -24936,6 +30174,19 @@
         "answer_text": "1 kΩ ± 5%",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -24996,7 +30247,11 @@
         "answer_text": "nothing. Common sense must be applied.",
         "is_correct": false
       }
-    ]
+    ],
+    "quiz_ids": [],
+    "years": [],
+    "countries": [],
+    "events": []
   },
   {
     "question_id": 793,
@@ -25056,6 +30311,19 @@
         "answer_text": "A 4-wheeled car touches the ground on 4 points along a corner, until the acting line of the overall resultant force projected to the centre of mass pierces the ground surface within the geometrical shape of the vertical projection of the outer suspension p ickup points on the ground.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25116,6 +30384,18 @@
         "answer_text": "6.173 m",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25176,6 +30456,18 @@
         "answer_text": "Multiple Condition Coverage always implies branch coverage.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25236,6 +30528,18 @@
         "answer_text": "Orbital information for every satellite",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25298,6 +30602,18 @@
         "answer_text": "o1 = 0.760, o2 = 0.738",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25358,6 +30674,18 @@
         "answer_text": "same as water",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25418,6 +30746,18 @@
         "answer_text": "18% from the expected target TPS position for more than 500 ms.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25478,6 +30818,18 @@
         "answer_text": "The equipment is not protected from a foreign object with a diameter of 1 mm.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25538,6 +30890,18 @@
         "answer_text": "23 ms",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25598,6 +30962,18 @@
         "answer_text": "0.364 mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -25658,6 +31034,18 @@
         "answer_text": "In side view, front hoop can be inclined more then 20° form vertical",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      86
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -25718,6 +31106,18 @@
         "answer_text": "Front hoop bracing may be alternative material of equivalency to the minimum material properties for steel is proven.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      86
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -25790,6 +31190,19 @@
         "answer_text": "210.48 GPa.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      88,
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -25857,6 +31270,19 @@
         "answer_text": "Aluminum grid with a minimal spacing of 2 mm between the strings.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      87,
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -25924,6 +31350,19 @@
         "answer_text": "The front hoop bracing structure must be attached no lower than 50 mm below the top-most surface of the front hoop.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      87,
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -25991,6 +31430,19 @@
         "answer_text": "Only team members named Jack may operate a jack",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      88,
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -26063,6 +31515,18 @@
         "answer_text": "0.27 kg/m^2",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -26130,6 +31594,18 @@
         "answer_text": "The fuel tank must only be made of a rigid material to prevent failure under loading.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -26197,6 +31673,19 @@
         "answer_text": "Suspension System",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      87,
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -26264,6 +31753,19 @@
         "answer_text": "Position on WRL",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      88,
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -26324,6 +31826,19 @@
         "answer_text": "Replace organic brake pads by ceramic brake pads",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -26396,6 +31911,19 @@
         "answer_text": "The adhesive must exceed the required shear strenght when bonded to steel or aluminium",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -26456,6 +31984,19 @@
         "answer_text": "Titanium bolts can be used for the steering rack, if equivalency is shown",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -26528,6 +32069,19 @@
         "answer_text": "A helmet with the certification SFI 31.1/2010 which is in pristine condition and has been properly stored",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -26588,6 +32142,19 @@
         "answer_text": "Nothing, because the density is constant",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -26648,6 +32215,19 @@
         "answer_text": "201 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -26710,6 +32290,19 @@
         "answer_text": "Drawing 3",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -26782,6 +32375,19 @@
         "answer_text": "The function of the BOTS may be tested after the endurance by opening a bleed valve at one of the brake calipers. If the BOTS is not triggered during this test, this will result in a DQ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -26808,6 +32414,18 @@
         "answer_text": "1, 3, 5",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -26940,6 +32558,18 @@
         "answer_text": "The load applicator used to test any panel or tube must be metallic and have a radius of 32 mm.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -27012,6 +32642,18 @@
         "answer_text": "You need to pay a license fee to use the picture",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -27074,6 +32716,18 @@
         "answer_text": "D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -27124,6 +32778,18 @@
         "answer_text": "1, 2, 4, 5, 6",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -27160,6 +32826,18 @@
         "answer_text": "0,98; 156,9",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -27196,6 +32874,23 @@
         "answer_text": "250",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      90,
+      104,
+      103
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Croatia",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Alpe Adria",
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -27243,6 +32938,18 @@
         "answer_text": "-12,74; -2,74",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -27281,6 +32988,18 @@
         "answer_text": "1",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -27312,6 +33031,18 @@
         "answer_text": "59,988",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -27361,6 +33092,18 @@
         "answer_text": "A-B-H-J-M-N",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -27452,6 +33195,18 @@
         "answer_text": "f) weight is under the lower limit",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -27476,6 +33231,18 @@
         "answer_text": "2.2077",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -27543,6 +33310,18 @@
         "answer_text": "D) Bends are only allowed if they reach at least twice the tube outside diameter, and roll hoops must follow this same radius restriction.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -27610,6 +33389,18 @@
         "answer_text": "D) The placement of ASSIs is not specified by height requirements but must be visible from at least one angle.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -27673,6 +33464,18 @@
         "answer_text": "D",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -27736,6 +33539,18 @@
         "answer_text": "D",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -27851,6 +33666,18 @@
         "answer_text": "H: There are 60 cones on the skidpad track.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -27901,6 +33728,19 @@
         "answer_text": "C. It cannot be determined as the diagram is not complete ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
     ]
   },
   {
@@ -27963,6 +33803,19 @@
         "answer_text": "D. 195,5 [GPa]",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
     ]
   },
   {
@@ -27989,6 +33842,19 @@
         "answer_text": "3,000",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
     ]
   },
   {
@@ -28049,6 +33915,19 @@
         "answer_text": "D. Listen only",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
     ]
   },
   {
@@ -28085,6 +33964,19 @@
         "answer_text": "No",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
     ]
   },
   {
@@ -28145,7 +34037,15 @@
         "answer_text": "D. Tire sidewall and width dimensions",
         "is_correct": false
       }
-    ]
+    ],
+    "quiz_ids": [
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [],
+    "events": []
   },
   {
     "question_id": 888,
@@ -28217,6 +34117,18 @@
         "answer_text": "It depends on the moon",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28289,6 +34201,18 @@
         "answer_text": "Both and a Singularity too",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28361,6 +34285,18 @@
         "answer_text": "Aina",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28567,6 +34503,18 @@
         "answer_text": "5E",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28615,6 +34563,18 @@
         "answer_text": "I am out of office",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28641,6 +34601,18 @@
         "answer_text": "45",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28667,6 +34639,18 @@
         "answer_text": "Qxc8",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28727,6 +34711,18 @@
         "answer_text": "24",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28789,6 +34785,18 @@
         "answer_text": "No, it is a Group Z",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -28849,6 +34857,18 @@
         "answer_text": "96",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -28911,6 +34931,18 @@
         "answer_text": "1C, 2A, 3B, 4D, 5F, 6E",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -28973,6 +35005,18 @@
         "answer_text": "~1 MHz",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -29033,6 +35077,19 @@
         "answer_text": "Blind insert can be used for the fixation of the AIP to the Front Bulkhead.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      99,
+      100
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -29093,6 +35150,19 @@
         "answer_text": "A single brake could be used for one axle.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      99,
+      100
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -29155,6 +35225,19 @@
         "answer_text": "B",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -29215,6 +35298,19 @@
         "answer_text": "The centerline of the lap belt at the seat bottom is 5mm rearward of the seat back to seat bottom junction, with the seat back inclined 40° from vertical",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      99,
+      100
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -29299,6 +35395,19 @@
         "answer_text": "4",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -29359,6 +35468,19 @@
         "answer_text": "If wires are used to measure voltage of LiPo cells, it must be possible to disconnect a voltage measurement wire during technical inspecƟon",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -29431,6 +35553,19 @@
         "answer_text": "1800 N",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -29498,6 +35633,19 @@
         "answer_text": "anti-roll bar",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -29572,6 +35720,19 @@
         "answer_text": "958,4 s",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -29632,6 +35793,19 @@
         "answer_text": "14 kN - 8 kN",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      103,
+      104
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -29692,6 +35866,19 @@
         "answer_text": "135 GPa",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      103,
+      104
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -29716,6 +35903,18 @@
         "answer_text": "52",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -29788,6 +35987,18 @@
         "answer_text": "Installation of high-frequency filters in the control units",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -29927,6 +36138,18 @@
         "answer_text": "TS accumulator segments must be separated by internal vertical walls which extend upwards until the lid.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -30059,6 +36282,18 @@
         "answer_text": "In Skidpad, exactly 16 cones are placed around the inside of each inner circle.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -30119,6 +36354,18 @@
         "answer_text": "1, 4.5, 30",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -30143,6 +36390,18 @@
         "answer_text": "111111111101100",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   }
 ]

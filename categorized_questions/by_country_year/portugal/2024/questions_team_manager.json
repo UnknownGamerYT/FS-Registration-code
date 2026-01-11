@@ -1,0 +1,125 @@
+[
+  {
+    "question_id": 570,
+    "text": "Your team decides to beat the newly acquired World Record from Greenteam. You didn’t achieve to beat them, but set a respectable time of 1.473 s. Your driver continues to drive 100 km/h for another 3 s and then braking with 13.3 m/s. Assume that acceleration and deceleration are linear. What is the distance travelled by your car? \\n Answer in m and provide the value with 1 digit behind decimal point, e.g. 12.3 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2192,
+        "question_id": 570,
+        "answer_text": "132.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2192,
+        "question_id": 570,
+        "answer_text": "132.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 672,
+    "text": "Your powertrain team leader will want to change the gear ratio between the engine's output shaft and the rear axle. So far, a sprocket with 20 teeth, a chain and an output blade with 38 teeth are used. What is the new gear ratio when the number of teeth of the output blade is increased by 4?Answer and provide the value with 1 digit behind decimal point, e.g. 12.3",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2522,
+        "question_id": 672,
+        "answer_text": "2.1",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2522,
+        "question_id": 672,
+        "answer_text": "2.1",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      72
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 751,
+    "text": "Last year’s car had a sprocket on the output shaft of the engine with 16 teeth. Connected to this sprocket was a chain that drove the output gear resulting in a gear ratio of 2.5. This year, the team wants to maintain the same sprocket but in the meanwhile the supplier has discontinued the previously used output gear and the closest one in stock has 2 extra teeth. What is the new gear ratio if the team chooses to use it?\\n Answer is unitless, provide the value with 1 decimal place, e.g. 12.3.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2793,
+        "question_id": 751,
+        "answer_text": "2.6",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 150,
+        "question_id": 751,
+        "text": "Old car : Z1= 16; i1/2= 2,5\\n\r\nNew car: Z1=Z3=16; Z4=Z2+2\\n\r\nZ2= Z1*i1/2\\n\r\nZ2= 16*2,5\\n\r\nZ2= 40\\n\r\nZ4= Z2+2\\n\r\nZ4= 40+2\\n\r\nZ4= 42\\n\r\ni3/4= Z4/Z3\\n\r\ni3/4= 42/16\\n\r\ni3/4= 2,625 → 2,6",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2793,
+        "question_id": 751,
+        "answer_text": "2.6",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  }
+]

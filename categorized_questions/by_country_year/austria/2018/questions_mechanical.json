@@ -1,0 +1,919 @@
+[
+  {
+    "question_id": 467,
+    "text": "One corner of your car's suspension can be simplified as a two-mass system with two springs, a damper and an excitation function u(t).\\n Which set of differential equations represents the system shown below?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1855,
+        "question_id": 467,
+        "answer_text": "Set A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1856,
+        "question_id": 467,
+        "answer_text": "Set B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1857,
+        "question_id": 467,
+        "answer_text": "Set C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1858,
+        "question_id": 467,
+        "answer_text": "Set D",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000467__img000118__467_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1855,
+        "question_id": 467,
+        "answer_text": "Set A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1856,
+        "question_id": 467,
+        "answer_text": "Set B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1857,
+        "question_id": 467,
+        "answer_text": "Set C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1858,
+        "question_id": 467,
+        "answer_text": "Set D",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46,
+      103,
+      104
+    ],
+    "years": [
+      "2018",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "Formula Student Türkiye"
+    ]
+  },
+  {
+    "question_id": 471,
+    "text": "Which statements concerning personal safety on the event site is correct?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1869,
+        "question_id": 471,
+        "answer_text": "Hearing protection when using loud tools is only recommended",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1870,
+        "question_id": 471,
+        "answer_text": "visitors watching dynamic events must wear closed-toed shoes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1871,
+        "question_id": 471,
+        "answer_text": "even team members that are only assisting must wear eye protection during metal cutting",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1872,
+        "question_id": 471,
+        "answer_text": "using motorized scooters on the event site is forbidden",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1873,
+        "question_id": 471,
+        "answer_text": "only handheld tools operating below 60V (the maximum permitted voltage for your car) are allowed",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1869,
+        "question_id": 471,
+        "answer_text": "Hearing protection when using loud tools is only recommended",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1870,
+        "question_id": 471,
+        "answer_text": "visitors watching dynamic events must wear closed-toed shoes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1871,
+        "question_id": 471,
+        "answer_text": "even team members that are only assisting must wear eye protection during metal cutting",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1872,
+        "question_id": 471,
+        "answer_text": "using motorized scooters on the event site is forbidden",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1873,
+        "question_id": 471,
+        "answer_text": "only handheld tools operating below 60V (the maximum permitted voltage for your car) are allowed",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 472,
+    "text": "Whitch requirement, concerning the lap belt, is true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1874,
+        "question_id": 472,
+        "answer_text": "If the belt passes through a firewall, the edges must be sealed by a grommet and it has to be protected against chafing",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1875,
+        "question_id": 472,
+        "answer_text": "The lap belts must be releasable by separate release mechanisms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1876,
+        "question_id": 472,
+        "answer_text": "The belt must be 75mm wide, exept with the use of a HANS device",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1877,
+        "question_id": 472,
+        "answer_text": "If not welded to a steel chassis, the attachment must support a load of 13kN (given that this mounting point is used only for the lap belt)",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1874,
+        "question_id": 472,
+        "answer_text": "If the belt passes through a firewall, the edges must be sealed by a grommet and it has to be protected against chafing",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1875,
+        "question_id": 472,
+        "answer_text": "The lap belts must be releasable by separate release mechanisms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1876,
+        "question_id": 472,
+        "answer_text": "The belt must be 75mm wide, exept with the use of a HANS device",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1877,
+        "question_id": 472,
+        "answer_text": "If not welded to a steel chassis, the attachment must support a load of 13kN (given that this mounting point is used only for the lap belt)",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 473,
+    "text": "Calculate the force at the yield strangth for a single tube in the given 3-point bending test setup\\n Tube: square steel tube 25x25x2.2 (no rounded edges)\\n Use the approximation of 1D-beam elements and the yield strangth from the rules.\\n L=400\\n Use full precision for intermediate calculation and PI\\n Answer in kilonewtons rounded to 0.01",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1878,
+        "question_id": 473,
+        "answer_text": "4.28",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000473__img000120__473_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1878,
+        "question_id": 473,
+        "answer_text": "4.28",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      45,
+      103,
+      104
+    ],
+    "years": [
+      "2018",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "Formula Student Türkiye"
+    ]
+  },
+  {
+    "question_id": 474,
+    "text": "Given below is a side view of a tubular steel frame. Which of the following statements is true under all circumstances? (dotted line = vertical, distances in mm)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1879,
+        "question_id": 474,
+        "answer_text": "The attachment of the main hoop bracing at the main hoop is too low",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1880,
+        "question_id": 474,
+        "answer_text": "Angle \"beta\" is too small",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1881,
+        "question_id": 474,
+        "answer_text": "Additional structural members are mandatory below member \"1\" in the rear end",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1882,
+        "question_id": 474,
+        "answer_text": "Additonal members above member \"1\" in the rear end are mandatory",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000474__img000121__474_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1879,
+        "question_id": 474,
+        "answer_text": "The attachment of the main hoop bracing at the main hoop is too low",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1880,
+        "question_id": 474,
+        "answer_text": "Angle \"beta\" is too small",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1881,
+        "question_id": 474,
+        "answer_text": "Additional structural members are mandatory below member \"1\" in the rear end",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1882,
+        "question_id": 474,
+        "answer_text": "Additonal members above member \"1\" in the rear end are mandatory",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 478,
+    "text": "This is one of FSAs favorite meme characters. How is she called?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1905,
+        "question_id": 478,
+        "answer_text": "Angry Cat",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1906,
+        "question_id": 478,
+        "answer_text": "Colonel Meow",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1907,
+        "question_id": 478,
+        "answer_text": "Tardar Sauce",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1908,
+        "question_id": 478,
+        "answer_text": "Pusheen",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1909,
+        "question_id": 478,
+        "answer_text": "Maru",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1910,
+        "question_id": 478,
+        "answer_text": "Nyan Cat",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1911,
+        "question_id": 478,
+        "answer_text": "Ceiling Cat",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000478__img000122__478_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1905,
+        "question_id": 478,
+        "answer_text": "Angry Cat",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1906,
+        "question_id": 478,
+        "answer_text": "Colonel Meow",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1907,
+        "question_id": 478,
+        "answer_text": "Tardar Sauce",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1908,
+        "question_id": 478,
+        "answer_text": "Pusheen",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1909,
+        "question_id": 478,
+        "answer_text": "Maru",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1910,
+        "question_id": 478,
+        "answer_text": "Nyan Cat",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1911,
+        "question_id": 478,
+        "answer_text": "Ceiling Cat",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 479,
+    "text": "Your car is equipped with one tire temperature sensor node per wheel. They are connected to the DAQ system via common CAN bus.\\n Sensor Accuracy is 0.5 degC\\n data format is 10-bit unsigned integer; quatisation 0.25 degC/bit, offset 0 degC\\n Message Interval is 100ms\\n When reviewing the data, you notice the following pattern on one of the logged temperature channels ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1912,
+        "question_id": 479,
+        "answer_text": "Your infrared thermometer is configured for a wrong radiation emission coefficient",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1913,
+        "question_id": 479,
+        "answer_text": "Two sensor nodes are configured to the same CAN ID",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1914,
+        "question_id": 479,
+        "answer_text": "The can bus is overloaded",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1915,
+        "question_id": 479,
+        "answer_text": "This is an expected result with the given accuracy of the sensors",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1916,
+        "question_id": 479,
+        "answer_text": "The endianness is wrong in the DAQ config",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000479__img000123__479_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1912,
+        "question_id": 479,
+        "answer_text": "Your infrared thermometer is configured for a wrong radiation emission coefficient",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1913,
+        "question_id": 479,
+        "answer_text": "Two sensor nodes are configured to the same CAN ID",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1914,
+        "question_id": 479,
+        "answer_text": "The can bus is overloaded",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1915,
+        "question_id": 479,
+        "answer_text": "This is an expected result with the given accuracy of the sensors",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1916,
+        "question_id": 479,
+        "answer_text": "The endianness is wrong in the DAQ config",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      45
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 481,
+    "text": "Calculate the force at the yield strangth for a single tube in the given 3-point bending test setup\\n Tube: round steel tube 25x2.5 (no rounded edges)\\n Use the approximation of 1D-beam elements and the yield strangth from the rules.\\n L=400\\n Use full precision for intermediate calculation and PI\\n Answer in kilonewtons rounded to 0.01",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1921,
+        "question_id": 481,
+        "answer_text": "2.76",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000481__img000120__473_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1921,
+        "question_id": 481,
+        "answer_text": "2.76",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 482,
+    "text": "You have just fitted your car with a 3-axis accelerometer, and headed out in the test track.\\n You do a test drive, driving straight ahead with constant speed.\\n You expect the measured accelerations to be ax= 0g (longitudinal), ay = 0g (lateral), az = 1g (vertical)\\n Instead your sensor outputs ax = 0.436g, ay = 0g, az = 0.9g\\n What went wrong here? (gravity acc. g=9.81m/s^2)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1922,
+        "question_id": 482,
+        "answer_text": "Your sensor is mounted upside down",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1923,
+        "question_id": 482,
+        "answer_text": "You are seeing the driving resistance",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1924,
+        "question_id": 482,
+        "answer_text": "Your sensor is mounted at an angle",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1925,
+        "question_id": 482,
+        "answer_text": "You are driving through a banked turn",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1926,
+        "question_id": 482,
+        "answer_text": "Your sensor is mounted outside of the car's center of gravity",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1922,
+        "question_id": 482,
+        "answer_text": "Your sensor is mounted upside down",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1923,
+        "question_id": 482,
+        "answer_text": "You are seeing the driving resistance",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1924,
+        "question_id": 482,
+        "answer_text": "Your sensor is mounted at an angle",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1925,
+        "question_id": 482,
+        "answer_text": "You are driving through a banked turn",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1926,
+        "question_id": 482,
+        "answer_text": "Your sensor is mounted outside of the car's center of gravity",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 483,
+    "text": "Which of the following engienes is not compatible with the rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1927,
+        "question_id": 483,
+        "answer_text": "1100cc Inline-4, Turbos /w Pop-Off Valve",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1928,
+        "question_id": 483,
+        "answer_text": "705cc Single, Radial Compressor ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1929,
+        "question_id": 483,
+        "answer_text": "550cc Inline-4, N/A, with variable CAM timing and single Electronic Barrel Throttle",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1930,
+        "question_id": 483,
+        "answer_text": "605cc V-Twin, High-Pressure Direct Injection",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1927,
+        "question_id": 483,
+        "answer_text": "1100cc Inline-4, Turbos /w Pop-Off Valve",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1928,
+        "question_id": 483,
+        "answer_text": "705cc Single, Radial Compressor ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1929,
+        "question_id": 483,
+        "answer_text": "550cc Inline-4, N/A, with variable CAM timing and single Electronic Barrel Throttle",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1930,
+        "question_id": 483,
+        "answer_text": "605cc V-Twin, High-Pressure Direct Injection",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 484,
+    "text": "Which requirement, concerning the fuel system, is true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1931,
+        "question_id": 484,
+        "answer_text": "Fuel tanks must be FIA FT3/1999 ir NHRA approved",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1932,
+        "question_id": 484,
+        "answer_text": "Any fuel spills that occur during engine operation must be routed into a catch tank",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1933,
+        "question_id": 484,
+        "answer_text": "If the fuel tank is made frim a flexible material, the car may be manipulated during refueling to ensure it is filled to capacity",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1934,
+        "question_id": 484,
+        "answer_text": "The filter neck may be made from transparent maerieal such as glass",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1935,
+        "question_id": 484,
+        "answer_text": "Hose clemps are only allowed for metal braid fuel hoses",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1931,
+        "question_id": 484,
+        "answer_text": "Fuel tanks must be FIA FT3/1999 ir NHRA approved",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1932,
+        "question_id": 484,
+        "answer_text": "Any fuel spills that occur during engine operation must be routed into a catch tank",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1933,
+        "question_id": 484,
+        "answer_text": "If the fuel tank is made frim a flexible material, the car may be manipulated during refueling to ensure it is filled to capacity",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1934,
+        "question_id": 484,
+        "answer_text": "The filter neck may be made from transparent maerieal such as glass",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1935,
+        "question_id": 484,
+        "answer_text": "Hose clemps are only allowed for metal braid fuel hoses",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 485,
+    "text": "This is a trace of the cam and crank sensor signal of a-stroke engine.\\n The crank has a 60-2 trigger pattern, how many cylinders does it likely have?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1936,
+        "question_id": 485,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1937,
+        "question_id": 485,
+        "answer_text": "3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1938,
+        "question_id": 485,
+        "answer_text": "4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1939,
+        "question_id": 485,
+        "answer_text": "6",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1940,
+        "question_id": 485,
+        "answer_text": "8",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000485__img000124__485_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1936,
+        "question_id": 485,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1937,
+        "question_id": 485,
+        "answer_text": "3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1938,
+        "question_id": 485,
+        "answer_text": "4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1939,
+        "question_id": 485,
+        "answer_text": "6",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1940,
+        "question_id": 485,
+        "answer_text": "8",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

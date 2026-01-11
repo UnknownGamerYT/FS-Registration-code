@@ -1,0 +1,146 @@
+[
+  {
+    "question_id": 904,
+    "text": "You have the task of designing a PCB with both TS and LV potentials, where you plan to use a digital isolator in a standard DIP-8 THT package, placed over the isolation barrier. As a formula student team member, you want to invest minimal effort into passing the scrutineering. You decide to score the effort put into the design, so you are better able to minimize the time spent on the task. Scoring for design actions goes as follows:\\nBase score (no extra action necessary) = 0 points\\nDesigning one sufficient PCB cutout under the component = 1 point\\nCorrectly applying conformal coating on the PCB = 2 points\\nWhat is the minimal point value of the effort you put in so that you still comply with the current (2025 v1.1) FSG rules? The score of the effort is the sum of the required actions.\\nAssume PCB has no other components, a clear straight isolation barrier, and only one (this) component going over it. Your TS battery pack consists of Sony VTC5a 18650 cells in 74S10P configuration. Digital isolator in DIP-8 THT package does have sufficient temperature and voltage datasheet ratings.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3369,
+        "question_id": 904,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3370,
+        "question_id": 904,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3371,
+        "question_id": 904,
+        "answer_text": "2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3372,
+        "question_id": 904,
+        "answer_text": "3",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3369,
+        "question_id": 904,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3370,
+        "question_id": 904,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3371,
+        "question_id": 904,
+        "answer_text": "2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3372,
+        "question_id": 904,
+        "answer_text": "3",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 906,
+    "text": "Team X attending FSCZ 2025 is planning to participate in both EV event with a driver and in the Optional Driverless Cup. After passing the scrutineering, including DV scrutineering, they find a critical fault in their DV system, preventing them from competing in any DV event. Team X therefore decides to compete only in drivered events. Just before the endurance, they remove all the driverless mechanisms from the vehicle, including power steering and EBS, saving 7 kg in total. At the post inspection after successfully finishing the endurance, they are confronted by the scrutineer about the weight discrepancy. The team's argument is that both power steering and EBS are useless and not powered during endurance anyway, so there is no reason to have them in the vehicle.\\n\\nWhat will be the punishment for Team X?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3377,
+        "question_id": 906,
+        "answer_text": "Disqualification (DQ)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3378,
+        "question_id": 906,
+        "answer_text": "Point deduction",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3379,
+        "question_id": 906,
+        "answer_text": "Endurance penalty time",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3380,
+        "question_id": 906,
+        "answer_text": "No punishment",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3377,
+        "question_id": 906,
+        "answer_text": "Disqualification (DQ)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3378,
+        "question_id": 906,
+        "answer_text": "Point deduction",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3379,
+        "question_id": 906,
+        "answer_text": "Endurance penalty time",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3380,
+        "question_id": 906,
+        "answer_text": "No punishment",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

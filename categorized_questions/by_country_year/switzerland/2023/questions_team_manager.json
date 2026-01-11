@@ -1,0 +1,177 @@
+[
+  {
+    "question_id": 564,
+    "text": "Due to difficulties passing technical inspection, your team could only try 1 run for Autocross. Your driver achieved a time of 68.2s and was hitting 3 cones. Post-Scrutineering was passed without penalties. The overall best time was 62.5s without hitting any cones. What is your score? \\n Answer has no units and provide the value with 1 digit behind decimal point, e.g. 12.3 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2180,
+        "question_id": 564,
+        "answer_text": "24.7",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2180,
+        "question_id": 564,
+        "answer_text": "24.7",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 567,
+    "text": "What could happen if your team misses the initial deadline by more than 3 days, for example the SES upload.",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2185,
+        "question_id": 567,
+        "answer_text": "No actions applicable, as the correction request was on time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2186,
+        "question_id": 567,
+        "answer_text": "A team may receive 20 penalty points.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2187,
+        "question_id": 567,
+        "answer_text": "If the corrected version of the document does not completely contain all requested corrections, the team will be de-registered from the competition.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2185,
+        "question_id": 567,
+        "answer_text": "No actions applicable, as the correction request was on time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2186,
+        "question_id": 567,
+        "answer_text": "A team may receive 20 penalty points.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2187,
+        "question_id": 567,
+        "answer_text": "If the corrected version of the document does not completely contain all requested corrections, the team will be de-registered from the competition.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 569,
+    "text": "Your aerodynamic team designed a new Rear Wing as shown below at the maximum allowed height. What is the minimum height of your TSAL (h(tsal)) considering it’s mounted directly below the top of your Main Hoop? Assume, your car is 2D only.\\n d=800 l(ep)=380 mm h(ep)=900mm \\n Answer has mm and provide the value with 0 digit behind decimal point, e.g. 12 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 2191,
+        "question_id": 569,
+        "answer_text": "1101",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000569__img000146__569_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2191,
+        "question_id": 569,
+        "answer_text": "1101",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 570,
+    "text": "Your team decides to beat the newly acquired World Record from Greenteam. You didn’t achieve to beat them, but set a respectable time of 1.473 s. Your driver continues to drive 100 km/h for another 3 s and then braking with 13.3 m/s. Assume that acceleration and deceleration are linear. What is the distance travelled by your car? \\n Answer in m and provide the value with 1 digit behind decimal point, e.g. 12.3 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2192,
+        "question_id": 570,
+        "answer_text": "132.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2192,
+        "question_id": 570,
+        "answer_text": "132.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]

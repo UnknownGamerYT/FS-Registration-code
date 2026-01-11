@@ -1,0 +1,404 @@
+[
+  {
+    "question_id": 77,
+    "text": "Your front hoop bracing member consists of a round straight tube made out of baseline material with the dimension 25.4 mm outer diameter and 1.6 mm wall thickness and a total length of 968 mm.\nWhat is the percent increase of the bending stiffness (defined as EI) if you use a round straight closed section tube with the dimension 30 mm outer diameter and 1.5 mm wall thinkness. Round solution to one decimal place.\nHow much percent increase the weight for this tube? [r=7.874 g/cm³] Round Solution to one decimal place.\nGive your answer in the following format: stiffness inc., weight inc. Example: if the stiffness increase is 45,6% and the weight increase is 23,4% then use 45.6, 23.4 as answer value.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 306,
+        "question_id": 77,
+        "answer_text": "60.7, 12.3",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 306,
+        "question_id": 77,
+        "answer_text": "60.7, 12.3",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 80,
+    "text": "To the lever on a swing-top beer bottle as shown in the picture a force of F = 30 N will be applied. Given are the three lengths L1 = 19 mm, L2 = 21 mm and L3 = 44 mm. Please calculate the Force F1 with which the cap is pressed to the bottles opening. Consider no movement occurs.\nEnter the solution in Newton and round to whole numbers.",
+    "type": "input",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 313,
+        "question_id": 80,
+        "answer_text": "61",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000080__img000023__80_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 313,
+        "question_id": 80,
+        "answer_text": "61",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 81,
+    "text": "A bell crank (as shown in the picure/ dimensions are not to scale) with bearing point [A] is applied with a force F=50N at an angle a=25°. Consider no movement occurse. Please calculate the absolute value of the force FF in the spring.\nEnter the solution in Newton and round solution to one decimal place.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 314,
+        "question_id": 81,
+        "answer_text": "114.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000081__img000024__81_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 314,
+        "question_id": 81,
+        "answer_text": "114.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 82,
+    "text": "A sinusoid signal gets sampled by an analoge to digital converter. The frequency of the analoge sine wave is 400Hz, the sampling frequency is 340Hz. What is the frequency of the sampled signal?\nEnter the solution in Hertz and round to the whole numbers.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 315,
+        "question_id": 82,
+        "answer_text": "60",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 315,
+        "question_id": 82,
+        "answer_text": "60",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 85,
+    "text": "In the following there are multiple statements abount the rules. Which staements are correct?",
+    "type": "multi-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 317,
+        "question_id": 85,
+        "answer_text": "Teams, that submit the SES 170h after the deadline will be the de-registered.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 318,
+        "question_id": 85,
+        "answer_text": "All Tires on the same vihicle must have the same manufacturer, size and compound.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 319,
+        "question_id": 85,
+        "answer_text": "Stroke width and spacing between numbers of the university name must be at least 20mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 320,
+        "question_id": 85,
+        "answer_text": "Submission of the IAD 50h after the deadline will result in a 20 points penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 321,
+        "question_id": 85,
+        "answer_text": "The university name needs to be placed on a hight contrast background.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 322,
+        "question_id": 85,
+        "answer_text": "All tires on the same vehicle must have same manufacturer and compound.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 323,
+        "question_id": 85,
+        "answer_text": "The tires on the vehicle when it is presented for technical inspection are defined as its \"dry tires\".",
+        "is_correct": true
+      },
+      {
+        "answer_id": 324,
+        "question_id": 85,
+        "answer_text": "Characters of the university name must be at least 50 mm high on both sides of the vehicle.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 325,
+        "question_id": 85,
+        "answer_text": "Submission of the DSS 170h after the deadline will receive zero points for the related event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 326,
+        "question_id": 85,
+        "answer_text": "The tires on the vehicle when it is presented for technical inspection are its \"wet tires\".",
+        "is_correct": false
+      },
+      {
+        "answer_id": 327,
+        "question_id": 85,
+        "answer_text": "Submission of the IAD 170h after the deadline will result in a 70 points penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 328,
+        "question_id": 85,
+        "answer_text": "The university name need to be written in Comic-Sans MS.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 329,
+        "question_id": 85,
+        "answer_text": "All tires on the same axle must have the same manufacturer, size and compound.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 330,
+        "question_id": 85,
+        "answer_text": "Submission of the SES 175h after the deadline will result in a 80 points penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 331,
+        "question_id": 85,
+        "answer_text": "The university name need to be either black on a white background or white on a black background.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 332,
+        "question_id": 85,
+        "answer_text": "Teams, that submit the CRD 50h after the deadline will receive a 20 points penalty.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 317,
+        "question_id": 85,
+        "answer_text": "Teams, that submit the SES 170h after the deadline will be the de-registered.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 318,
+        "question_id": 85,
+        "answer_text": "All Tires on the same vihicle must have the same manufacturer, size and compound.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 319,
+        "question_id": 85,
+        "answer_text": "Stroke width and spacing between numbers of the university name must be at least 20mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 320,
+        "question_id": 85,
+        "answer_text": "Submission of the IAD 50h after the deadline will result in a 20 points penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 321,
+        "question_id": 85,
+        "answer_text": "The university name needs to be placed on a hight contrast background.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 322,
+        "question_id": 85,
+        "answer_text": "All tires on the same vehicle must have same manufacturer and compound.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 323,
+        "question_id": 85,
+        "answer_text": "The tires on the vehicle when it is presented for technical inspection are defined as its \"dry tires\".",
+        "is_correct": true
+      },
+      {
+        "answer_id": 324,
+        "question_id": 85,
+        "answer_text": "Characters of the university name must be at least 50 mm high on both sides of the vehicle.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 325,
+        "question_id": 85,
+        "answer_text": "Submission of the DSS 170h after the deadline will receive zero points for the related event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 326,
+        "question_id": 85,
+        "answer_text": "The tires on the vehicle when it is presented for technical inspection are its \"wet tires\".",
+        "is_correct": false
+      },
+      {
+        "answer_id": 327,
+        "question_id": 85,
+        "answer_text": "Submission of the IAD 170h after the deadline will result in a 70 points penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 328,
+        "question_id": 85,
+        "answer_text": "The university name need to be written in Comic-Sans MS.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 329,
+        "question_id": 85,
+        "answer_text": "All tires on the same axle must have the same manufacturer, size and compound.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 330,
+        "question_id": 85,
+        "answer_text": "Submission of the SES 175h after the deadline will result in a 80 points penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 331,
+        "question_id": 85,
+        "answer_text": "The university name need to be either black on a white background or white on a black background.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 332,
+        "question_id": 85,
+        "answer_text": "Teams, that submit the CRD 50h after the deadline will receive a 20 points penalty.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 86,
+    "text": "The free vertical oscillation of a vehicle without dampers and without rubber damping can be modeled by the differential equation M*ÿ(t) + K*y(t) = 0 with the matrices as given in the figure. The vehicle mass is assumed to b m1 = 800k, the axlemass m2 = 60kg, the spring stiffnesses are k1 = 170N/cm and k2 = 1800 N/cm. What is the lowest resulting eigenfrequency of the system?\nEnter the solution in Hertz and round solution to two decimal places.",
+    "type": "input",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 333,
+        "question_id": 86,
+        "answer_text": "0.70",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000086__img000025__86_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 333,
+        "question_id": 86,
+        "answer_text": "0.70",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "question_id": 921,
+    "text": " What is the capacitance between points A and D?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3442,
+        "question_id": 921,
+        "answer_text": "1.2 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3443,
+        "question_id": 921,
+        "answer_text": "1000 nF",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3444,
+        "question_id": 921,
+        "answer_text": "5.7 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3445,
+        "question_id": 921,
+        "answer_text": "200 nF",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000921__img000292__921_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3442,
+        "question_id": 921,
+        "answer_text": "1.2 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3443,
+        "question_id": 921,
+        "answer_text": "1000 nF",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3444,
+        "question_id": 921,
+        "answer_text": "5.7 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3445,
+        "question_id": 921,
+        "answer_text": "200 nF",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

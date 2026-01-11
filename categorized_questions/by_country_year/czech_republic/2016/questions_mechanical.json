@@ -1,0 +1,441 @@
+[
+  {
+    "question_id": 290,
+    "text": "What are the baseline steel properties?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1143,
+        "question_id": 290,
+        "answer_text": "Young's modulus 205GPa (29730ksi), yield strength 300MPa (43,5ksi), ultimate strength 355MPa (51,5ksi) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1144,
+        "question_id": 290,
+        "answer_text": "Young's modulus 200GPa (29000ksi), yield strength 305MPa (44,2ksi), ultimate strength 365MPa (52,9ksi) ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1145,
+        "question_id": 290,
+        "answer_text": "Young's modulus 210GPa (30450ksi), yield strength 305MPa (44,2ksi), ultimate strength 385MPa (55,8ksi) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1146,
+        "question_id": 290,
+        "answer_text": "Young's modulus 200GPa (29000ksi), yield strength 310MPa (45,0ksi), ultimate strength 400MPa (58,0ksi) ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1143,
+        "question_id": 290,
+        "answer_text": "Young's modulus 205GPa (29730ksi), yield strength 300MPa (43,5ksi), ultimate strength 355MPa (51,5ksi) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1144,
+        "question_id": 290,
+        "answer_text": "Young's modulus 200GPa (29000ksi), yield strength 305MPa (44,2ksi), ultimate strength 365MPa (52,9ksi) ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1145,
+        "question_id": 290,
+        "answer_text": "Young's modulus 210GPa (30450ksi), yield strength 305MPa (44,2ksi), ultimate strength 385MPa (55,8ksi) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1146,
+        "question_id": 290,
+        "answer_text": "Young's modulus 200GPa (29000ksi), yield strength 310MPa (45,0ksi), ultimate strength 400MPa (58,0ksi) ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      28
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 291,
+    "text": "Which process doesn't require fastener installation multiplier?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1147,
+        "question_id": 291,
+        "answer_text": "Power Tool <=25,4mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1148,
+        "question_id": 291,
+        "answer_text": "Ratchet <=25,4mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1149,
+        "question_id": 291,
+        "answer_text": "Wrench <=25,4mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1150,
+        "question_id": 291,
+        "answer_text": "Reaction Tool <=25,4mm ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1147,
+        "question_id": 291,
+        "answer_text": "Power Tool <=25,4mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1148,
+        "question_id": 291,
+        "answer_text": "Ratchet <=25,4mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1149,
+        "question_id": 291,
+        "answer_text": "Wrench <=25,4mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1150,
+        "question_id": 291,
+        "answer_text": "Reaction Tool <=25,4mm ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      28
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 292,
+    "text": "Select the correct statement.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1151,
+        "question_id": 292,
+        "answer_text": "Internal vertical walls divide the accumulator container into sections. A maximum of 10kg (22 lbs.) is allowed in any section of the accumulator container. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1152,
+        "question_id": 292,
+        "answer_text": "Internal vertical walls separating cells and/or segments must be constructed of steel 0.9mm (0.035 inch) thick or aluminum 2.3mm (0.090 inch) thick. Internal vertical walls must be a minimum of 85 percent of the height of the attached perimeter vertical wall. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1153,
+        "question_id": 292,
+        "answer_text": "The floor or bottom of the accumulator must be constructed of steel 1.25mm (0.049 inch) thick or aluminum 3.5mm (0.125 inch) thick. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1154,
+        "question_id": 292,
+        "answer_text": "The perimeter vertical walls forward, aft, left, and right must be constructed of steel 0.9mm (0.035 inch) thick or aluminum 2.3mm (0.09 inch) thick. ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1151,
+        "question_id": 292,
+        "answer_text": "Internal vertical walls divide the accumulator container into sections. A maximum of 10kg (22 lbs.) is allowed in any section of the accumulator container. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1152,
+        "question_id": 292,
+        "answer_text": "Internal vertical walls separating cells and/or segments must be constructed of steel 0.9mm (0.035 inch) thick or aluminum 2.3mm (0.090 inch) thick. Internal vertical walls must be a minimum of 85 percent of the height of the attached perimeter vertical wall. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1153,
+        "question_id": 292,
+        "answer_text": "The floor or bottom of the accumulator must be constructed of steel 1.25mm (0.049 inch) thick or aluminum 3.5mm (0.125 inch) thick. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1154,
+        "question_id": 292,
+        "answer_text": "The perimeter vertical walls forward, aft, left, and right must be constructed of steel 0.9mm (0.035 inch) thick or aluminum 2.3mm (0.09 inch) thick. ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      28
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 293,
+    "text": "Select the materials correctly sorted by their density from the least dense to the most dense.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1155,
+        "question_id": 293,
+        "answer_text": "Magnesium - Aluminum - Titanium - Steel ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1156,
+        "question_id": 293,
+        "answer_text": "Aluminum - Magnesium - Titanium - Steel ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1157,
+        "question_id": 293,
+        "answer_text": "Titanium - Magnesium - Aluminum - Steel ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1158,
+        "question_id": 293,
+        "answer_text": "Magnesium - Aluminum - Steel - Titanium ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1155,
+        "question_id": 293,
+        "answer_text": "Magnesium - Aluminum - Titanium - Steel ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1156,
+        "question_id": 293,
+        "answer_text": "Aluminum - Magnesium - Titanium - Steel ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1157,
+        "question_id": 293,
+        "answer_text": "Titanium - Magnesium - Aluminum - Steel ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1158,
+        "question_id": 293,
+        "answer_text": "Magnesium - Aluminum - Steel - Titanium ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      28
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 295,
+    "text": "Select allowed positive locking mechanism ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1163,
+        "question_id": 295,
+        "answer_text": "Lock washer ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1164,
+        "question_id": 295,
+        "answer_text": "Bolt with thread locking compounds (i.e. Loctite) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1165,
+        "question_id": 295,
+        "answer_text": "Bolt with nylon patches ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1166,
+        "question_id": 295,
+        "answer_text": "Nylon lock nut (except in high temperature locations) ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 54,
+        "question_id": 295,
+        "text": "T 11.2.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1163,
+        "question_id": 295,
+        "answer_text": "Lock washer ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1164,
+        "question_id": 295,
+        "answer_text": "Bolt with thread locking compounds (i.e. Loctite) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1165,
+        "question_id": 295,
+        "answer_text": "Bolt with nylon patches ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1166,
+        "question_id": 295,
+        "answer_text": "Nylon lock nut (except in high temperature locations) ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      29
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 297,
+    "text": "Select correct statement.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1171,
+        "question_id": 297,
+        "answer_text": "The battery container material must be fire resistant according to UL90-V0, FAR20 or equivalent. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1172,
+        "question_id": 297,
+        "answer_text": "Regenerating energy is allowed and unrestricted but only when the vehicle speed is ≥ 5kph. It is not allowed at vehicle speeds < 5kph. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1173,
+        "question_id": 297,
+        "answer_text": "mplausibility is defined as a deviation of more than 5% pedal travel between the sensors. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1174,
+        "question_id": 297,
+        "answer_text": "Each accumulator container must have a prominent indicator, such as an LED that will illuminate whenever a voltage greater than 60V DC is present at the vehicle side of the AIRs. ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1171,
+        "question_id": 297,
+        "answer_text": "The battery container material must be fire resistant according to UL90-V0, FAR20 or equivalent. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1172,
+        "question_id": 297,
+        "answer_text": "Regenerating energy is allowed and unrestricted but only when the vehicle speed is ≥ 5kph. It is not allowed at vehicle speeds < 5kph. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1173,
+        "question_id": 297,
+        "answer_text": "mplausibility is defined as a deviation of more than 5% pedal travel between the sensors. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1174,
+        "question_id": 297,
+        "answer_text": "Each accumulator container must have a prominent indicator, such as an LED that will illuminate whenever a voltage greater than 60V DC is present at the vehicle side of the AIRs. ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      29
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

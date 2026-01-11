@@ -1,0 +1,630 @@
+[
+  {
+    "question_id": 300,
+    "text": "The power to the motors has to be immediately shut down completely, if...",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1183,
+        "question_id": 300,
+        "answer_text": "...the driver's visor is open.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1184,
+        "question_id": 300,
+        "answer_text": "...the motor temperature is above the limit specified in the respective data sheet.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1185,
+        "question_id": 300,
+        "answer_text": "...a maximum vehicle speed of 120km/h has been reached.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1186,
+        "question_id": 300,
+        "answer_text": "...the brake pedal is actuated and the torque encoder signals more than 25% pedal travel at the same time.\r\n",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1183,
+        "question_id": 300,
+        "answer_text": "...the driver's visor is open.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1184,
+        "question_id": 300,
+        "answer_text": "...the motor temperature is above the limit specified in the respective data sheet.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1185,
+        "question_id": 300,
+        "answer_text": "...a maximum vehicle speed of 120km/h has been reached.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1186,
+        "question_id": 300,
+        "answer_text": "...the brake pedal is actuated and the torque encoder signals more than 25% pedal travel at the same time.\r\n",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 301,
+    "text": "If critical fasteners are secured with a lock nut, what is the minimum number of full threads that must project from this lock nut?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1187,
+        "question_id": 301,
+        "answer_text": "There is no limitation regarding the minimum number of full threads.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1188,
+        "question_id": 301,
+        "answer_text": "One full thread.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1189,
+        "question_id": 301,
+        "answer_text": "Two full threads.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1190,
+        "question_id": 301,
+        "answer_text": "Five full threads",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1191,
+        "question_id": 301,
+        "answer_text": "Three full threads.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 55,
+        "question_id": 301,
+        "text": "T 10.2.3",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1187,
+        "question_id": 301,
+        "answer_text": "There is no limitation regarding the minimum number of full threads.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1188,
+        "question_id": 301,
+        "answer_text": "One full thread.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1189,
+        "question_id": 301,
+        "answer_text": "Two full threads.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1190,
+        "question_id": 301,
+        "answer_text": "Five full threads",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1191,
+        "question_id": 301,
+        "answer_text": "Three full threads.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 302,
+    "text": "Which safety systems are not allowed to be resettable by the driver?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1192,
+        "question_id": 302,
+        "answer_text": "HVMP, RTDS and Cockpit-Mounted-Master-Switch ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1193,
+        "question_id": 302,
+        "answer_text": "IMD, BMS and Brake-Over-Travel-Switch",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1194,
+        "question_id": 302,
+        "answer_text": "Inertia Switch, TSAL and HVD",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1195,
+        "question_id": 302,
+        "answer_text": "ESF, FMEA and SEF",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1192,
+        "question_id": 302,
+        "answer_text": "HVMP, RTDS and Cockpit-Mounted-Master-Switch ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1193,
+        "question_id": 302,
+        "answer_text": "IMD, BMS and Brake-Over-Travel-Switch",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1194,
+        "question_id": 302,
+        "answer_text": "Inertia Switch, TSAL and HVD",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1195,
+        "question_id": 302,
+        "answer_text": "ESF, FMEA and SEF",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 304,
+    "text": "Which force in rearward direction must the driver's head restraint, its attachment and mounting withstand?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1205,
+        "question_id": 304,
+        "answer_text": "At least 510 Newton.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1206,
+        "question_id": 304,
+        "answer_text": "At least 890 Newton.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1207,
+        "question_id": 304,
+        "answer_text": "At least 1280 Newton. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1208,
+        "question_id": 304,
+        "answer_text": "At least 750 Newton.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 56,
+        "question_id": 304,
+        "text": "T 5.7.3",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1205,
+        "question_id": 304,
+        "answer_text": "At least 510 Newton.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1206,
+        "question_id": 304,
+        "answer_text": "At least 890 Newton.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1207,
+        "question_id": 304,
+        "answer_text": "At least 1280 Newton. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1208,
+        "question_id": 304,
+        "answer_text": "At least 750 Newton.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 305,
+    "text": "How many events may a driver drive during a competition?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1209,
+        "question_id": 305,
+        "answer_text": "One",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1210,
+        "question_id": 305,
+        "answer_text": "Two",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1211,
+        "question_id": 305,
+        "answer_text": "As many as he/she likes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1212,
+        "question_id": 305,
+        "answer_text": "Three",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 57,
+        "question_id": 305,
+        "text": "D 1.1.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1209,
+        "question_id": 305,
+        "answer_text": "One",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1210,
+        "question_id": 305,
+        "answer_text": "Two",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1211,
+        "question_id": 305,
+        "answer_text": "As many as he/she likes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1212,
+        "question_id": 305,
+        "answer_text": "Three",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 307,
+    "text": "Which measure is mentioned in the FSE rules to reach a high electrical conductivity of carbon fibre parts for grounding purposes?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1217,
+        "question_id": 307,
+        "answer_text": "Using liquid silver instead of resin for building carbon fibre parts.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1218,
+        "question_id": 307,
+        "answer_text": "Using carbon fibre parts is completely prohibited for FSE vehicles.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1219,
+        "question_id": 307,
+        "answer_text": "Using copper mesh or similar. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1220,
+        "question_id": 307,
+        "answer_text": "No explicit measure is mentioned",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1217,
+        "question_id": 307,
+        "answer_text": "Using liquid silver instead of resin for building carbon fibre parts.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1218,
+        "question_id": 307,
+        "answer_text": "Using carbon fibre parts is completely prohibited for FSE vehicles.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1219,
+        "question_id": 307,
+        "answer_text": "Using copper mesh or similar. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1220,
+        "question_id": 307,
+        "answer_text": "No explicit measure is mentioned",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 309,
+    "text": "Which of the following statements with respect to the firewall is wrong?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1226,
+        "question_id": 309,
+        "answer_text": "The firewall must be made from or coated with an electrically insulating material.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1227,
+        "question_id": 309,
+        "answer_text": "None of the given statements is wrong.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1228,
+        "question_id": 309,
+        "answer_text": "The firewall must be puncture and scratch resistant",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1229,
+        "question_id": 309,
+        "answer_text": "A firewall must separate the driver compartment from all tractive system components and any oil or liquid cooling\r\nsystems. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1230,
+        "question_id": 309,
+        "answer_text": "The firewall must be fire resistant according to UL94-V0 or equivalent.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1226,
+        "question_id": 309,
+        "answer_text": "The firewall must be made from or coated with an electrically insulating material.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1227,
+        "question_id": 309,
+        "answer_text": "None of the given statements is wrong.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1228,
+        "question_id": 309,
+        "answer_text": "The firewall must be puncture and scratch resistant",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1229,
+        "question_id": 309,
+        "answer_text": "A firewall must separate the driver compartment from all tractive system components and any oil or liquid cooling\r\nsystems. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1230,
+        "question_id": 309,
+        "answer_text": "The firewall must be fire resistant according to UL94-V0 or equivalent.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 311,
+    "text": "What is the minimum height of the characters forming the school name shown on the left and right side of the car?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1235,
+        "question_id": 311,
+        "answer_text": "50mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1236,
+        "question_id": 311,
+        "answer_text": "70mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1237,
+        "question_id": 311,
+        "answer_text": "60mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1238,
+        "question_id": 311,
+        "answer_text": "40mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 58,
+        "question_id": 311,
+        "text": "T 12.2.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1235,
+        "question_id": 311,
+        "answer_text": "50mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1236,
+        "question_id": 311,
+        "answer_text": "70mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1237,
+        "question_id": 311,
+        "answer_text": "60mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1238,
+        "question_id": 311,
+        "answer_text": "40mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

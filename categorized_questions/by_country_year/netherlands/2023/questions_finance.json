@@ -1,0 +1,247 @@
+[
+  {
+    "question_id": 595,
+    "text": "During the Autocross event, the front brake fluid reservoir is leaking. You loose all function in your front brakes. Which statement is true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2281,
+        "question_id": 595,
+        "answer_text": "The driver must stop the car immediately",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2282,
+        "question_id": 595,
+        "answer_text": "Points will be awarded if the rear brakes work properly",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2283,
+        "question_id": 595,
+        "answer_text": "The Brake Pressure Sensor must shutdown the vehicle",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2284,
+        "question_id": 595,
+        "answer_text": "The run is considered DQ regardless whether the rear wheels can be locked",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 103,
+        "question_id": 595,
+        "text": "IN 12.1.5. There are no rules describing the other given situations",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2281,
+        "question_id": 595,
+        "answer_text": "The driver must stop the car immediately",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2282,
+        "question_id": 595,
+        "answer_text": "Points will be awarded if the rear brakes work properly",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2283,
+        "question_id": 595,
+        "answer_text": "The Brake Pressure Sensor must shutdown the vehicle",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2284,
+        "question_id": 595,
+        "answer_text": "The run is considered DQ regardless whether the rear wheels can be locked",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 602,
+    "text": "A vehicle is taking part in the Acceleration Event. Just before braking, the vehicle is traveling at 105 kph. Assume that the braking force per axle is 2.1kN.\\n Furthermore, the car has a mass of 255kg and aerodynamic package with Cd*A = 2.5\\n Consider the Mean Aerodynamic braking force equal to 2/3 of the Maximum Aerodynamic Drag Force, and air density = 1.18 kg/m3.\\n What is the minimum distance for the vehicle to come to a complete stop?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2309,
+        "question_id": 602,
+        "answer_text": "21.97m",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2310,
+        "question_id": 602,
+        "answer_text": "26.84m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2311,
+        "question_id": 602,
+        "answer_text": "27.02m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2312,
+        "question_id": 602,
+        "answer_text": "29.33m",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 110,
+        "question_id": 602,
+        "text": null,
+        "images": [
+          {
+            "img_id": 157,
+            "path": "solutions/602_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2309,
+        "question_id": 602,
+        "answer_text": "21.97m",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2310,
+        "question_id": 602,
+        "answer_text": "26.84m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2311,
+        "question_id": 602,
+        "answer_text": "27.02m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2312,
+        "question_id": 602,
+        "answer_text": "29.33m",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 603,
+    "text": "Calculate the greatest static F force in the rope during a tilt-test procedure\\n What is the minimum load capacity if a 1.35 safety factor is implemented?\\n (g is 10m/s^2, weight of the car is 240 kg)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2313,
+        "question_id": 603,
+        "answer_text": "1500N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2314,
+        "question_id": 603,
+        "answer_text": "2000N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2315,
+        "question_id": 603,
+        "answer_text": "2500N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2316,
+        "question_id": 603,
+        "answer_text": "3000N",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 111,
+        "question_id": 603,
+        "text": "The greatest load is at the starting, when the angle between the table and the ground is 0, so every data is on the picture, no need for trigonometrics/Pithagoras/CoG height.\\n The torque at the turning point from the car’s mass:\\n M = 1.2m ∗ 2400N = 2880Nm\\n Static force, the torque by the car’s mass and the torque by the forc are equal:\\n F = 2880Nm/2m = 1440N\\n Implementing a safety factor of 1.35:\\n F(capacity) = 1440N ∗ 1.35 = 1944N\\n Which is the closest, but smaller to 2000N",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2313,
+        "question_id": 603,
+        "answer_text": "1500N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2314,
+        "question_id": 603,
+        "answer_text": "2000N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2315,
+        "question_id": 603,
+        "answer_text": "2500N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2316,
+        "question_id": 603,
+        "answer_text": "3000N",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

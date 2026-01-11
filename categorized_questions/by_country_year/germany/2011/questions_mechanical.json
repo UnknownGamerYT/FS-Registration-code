@@ -1,0 +1,304 @@
+[
+  {
+    "question_id": 334,
+    "text": "The rise time (10% to 90%) of a given one stage low pass RC network is 3.00ms. What are possible values for R and C",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1331,
+        "question_id": 334,
+        "answer_text": "R=1500Ohm and C=950.6nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1332,
+        "question_id": 334,
+        "answer_text": "R=2000Ohm and C=640.0nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1333,
+        "question_id": 334,
+        "answer_text": "R=2500Ohm and C=546.2nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1334,
+        "question_id": 334,
+        "answer_text": "R=3000Ohm and C=420.8nanoFarad",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1331,
+        "question_id": 334,
+        "answer_text": "R=1500Ohm and C=950.6nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1332,
+        "question_id": 334,
+        "answer_text": "R=2000Ohm and C=640.0nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1333,
+        "question_id": 334,
+        "answer_text": "R=2500Ohm and C=546.2nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1334,
+        "question_id": 334,
+        "answer_text": "R=3000Ohm and C=420.8nanoFarad",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 335,
+    "text": "What is the minimum allowable thickness of metal material used for the firewall?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1335,
+        "question_id": 335,
+        "answer_text": "There is no minimum thickness",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1336,
+        "question_id": 335,
+        "answer_text": "0.001mm/V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1337,
+        "question_id": 335,
+        "answer_text": "0.3mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1338,
+        "question_id": 335,
+        "answer_text": "0.5mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 60,
+        "question_id": 335,
+        "text": "T 4.8.7",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1335,
+        "question_id": 335,
+        "answer_text": "There is no minimum thickness",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1336,
+        "question_id": 335,
+        "answer_text": "0.001mm/V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1337,
+        "question_id": 335,
+        "answer_text": "0.3mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1338,
+        "question_id": 335,
+        "answer_text": "0.5mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 337,
+    "text": "The total time of the rain test is",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1343,
+        "question_id": 337,
+        "answer_text": "240s, 120s with water-spray and 120s without.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1344,
+        "question_id": 337,
+        "answer_text": "60s, all the time with water-spray..",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1345,
+        "question_id": 337,
+        "answer_text": "120s, 60s with water-spray and 60s without.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1346,
+        "question_id": 337,
+        "answer_text": "240s, 60s with water-spray and 180s without.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 62,
+        "question_id": 337,
+        "text": "IN 9.2.7",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1343,
+        "question_id": 337,
+        "answer_text": "240s, 120s with water-spray and 120s without.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1344,
+        "question_id": 337,
+        "answer_text": "60s, all the time with water-spray..",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1345,
+        "question_id": 337,
+        "answer_text": "120s, 60s with water-spray and 60s without.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1346,
+        "question_id": 337,
+        "answer_text": "240s, 60s with water-spray and 180s without.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 340,
+    "text": "Which of the following statements regarding the BMS is wrong?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1355,
+        "question_id": 340,
+        "answer_text": "If the used accumulator cells are not intrinsically safe, the temperature of at least 35% of the cells must be monitored.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1356,
+        "question_id": 340,
+        "answer_text": "The BMS must be capable of shutting down the tractive system, if critical voltage or temperature values are detected.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1357,
+        "question_id": 340,
+        "answer_text": "The BMS must shut down the system, if more than 100kW are sourced from the accumulators to the motors.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1358,
+        "question_id": 340,
+        "answer_text": "The BMS must continuously measure the cell voltage of every cell.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1355,
+        "question_id": 340,
+        "answer_text": "If the used accumulator cells are not intrinsically safe, the temperature of at least 35% of the cells must be monitored.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1356,
+        "question_id": 340,
+        "answer_text": "The BMS must be capable of shutting down the tractive system, if critical voltage or temperature values are detected.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1357,
+        "question_id": 340,
+        "answer_text": "The BMS must shut down the system, if more than 100kW are sourced from the accumulators to the motors.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1358,
+        "question_id": 340,
+        "answer_text": "The BMS must continuously measure the cell voltage of every cell.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

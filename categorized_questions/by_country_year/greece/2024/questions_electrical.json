@@ -1,0 +1,150 @@
+[
+  {
+    "question_id": 697,
+    "text": "Which current F1 track this was the initial track layout?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2618,
+        "question_id": 697,
+        "answer_text": "Österreichring ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2619,
+        "question_id": 697,
+        "answer_text": "RedBull Ring ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2620,
+        "question_id": 697,
+        "answer_text": "Sachsenring ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2621,
+        "question_id": 697,
+        "answer_text": "Mantrop Park ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000697__img000189__697_5.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2618,
+        "question_id": 697,
+        "answer_text": "Österreichring ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2619,
+        "question_id": 697,
+        "answer_text": "RedBull Ring ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2620,
+        "question_id": 697,
+        "answer_text": "Sachsenring ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2621,
+        "question_id": 697,
+        "answer_text": "Mantrop Park ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 698,
+    "text": "For the following circuit, used as an ideal transformer with turn n=10.  Determine the impendence reflected to the primary ZR and the current I(t) through the source. ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2622,
+        "question_id": 698,
+        "answer_text": "ZR = 0.2 ohms, I(t)= 20 A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2623,
+        "question_id": 698,
+        "answer_text": "ZR = 0.4 ohms, I(t)= 25 A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2624,
+        "question_id": 698,
+        "answer_text": "ZR = 0.02 ohms, I(t)= 100 A ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2625,
+        "question_id": 698,
+        "answer_text": "ZR = 0.1 ohms, I(t)= 500 A ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000698__img000190__698_6.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2622,
+        "question_id": 698,
+        "answer_text": "ZR = 0.2 ohms, I(t)= 20 A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2623,
+        "question_id": 698,
+        "answer_text": "ZR = 0.4 ohms, I(t)= 25 A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2624,
+        "question_id": 698,
+        "answer_text": "ZR = 0.02 ohms, I(t)= 100 A ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2625,
+        "question_id": 698,
+        "answer_text": "ZR = 0.1 ohms, I(t)= 500 A ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  }
+]

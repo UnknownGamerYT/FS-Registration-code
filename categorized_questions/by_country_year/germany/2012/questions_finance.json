@@ -1,0 +1,206 @@
+[
+  {
+    "question_id": 303,
+    "text": "Assume that the power drawn during an Acceleration run is monotically and linearly increasing with time, starting at OkW when crossing the start light barrier. What is the maximum energy that may be used during a run that takes 3.95s (uncorrected) without violating the power restriction rule?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1196,
+        "question_id": 303,
+        "answer_text": "167.874kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1197,
+        "question_id": 303,
+        "answer_text": "167.875kJ ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1198,
+        "question_id": 303,
+        "answer_text": "171.300kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1199,
+        "question_id": 303,
+        "answer_text": "171.302kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1200,
+        "question_id": 303,
+        "answer_text": "167.873kJ ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1201,
+        "question_id": 303,
+        "answer_text": "171.232kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1202,
+        "question_id": 303,
+        "answer_text": "171.303kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1203,
+        "question_id": 303,
+        "answer_text": "171.233kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1204,
+        "question_id": 303,
+        "answer_text": "171.301kJ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1196,
+        "question_id": 303,
+        "answer_text": "167.874kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1197,
+        "question_id": 303,
+        "answer_text": "167.875kJ ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1198,
+        "question_id": 303,
+        "answer_text": "171.300kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1199,
+        "question_id": 303,
+        "answer_text": "171.302kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1200,
+        "question_id": 303,
+        "answer_text": "167.873kJ ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1201,
+        "question_id": 303,
+        "answer_text": "171.232kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1202,
+        "question_id": 303,
+        "answer_text": "171.303kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1203,
+        "question_id": 303,
+        "answer_text": "171.233kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1204,
+        "question_id": 303,
+        "answer_text": "171.301kJ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 306,
+    "text": "The first 4 pages of the submitted design report may contain...",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1213,
+        "question_id": 306,
+        "answer_text": "only text",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1214,
+        "question_id": 306,
+        "answer_text": "whatever the respective team determines to be appropriate.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1215,
+        "question_id": 306,
+        "answer_text": "text and graphs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1216,
+        "question_id": 306,
+        "answer_text": "only pictures, graphs, etc.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1213,
+        "question_id": 306,
+        "answer_text": "only text",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1214,
+        "question_id": 306,
+        "answer_text": "whatever the respective team determines to be appropriate.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1215,
+        "question_id": 306,
+        "answer_text": "text and graphs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1216,
+        "question_id": 306,
+        "answer_text": "only pictures, graphs, etc.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

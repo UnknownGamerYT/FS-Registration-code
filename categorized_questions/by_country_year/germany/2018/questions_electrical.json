@@ -1,0 +1,78 @@
+[
+  {
+    "question_id": 516,
+    "text": "Calculate the total resistance in Ohm of the shown electrical circuit between point A and B if each of the shown resistors have a value of R = 3 Ω.\\n Give the answer in Ohm and round the answer to a tenth.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2510,
+        "question_id": 516,
+        "answer_text": "2.2",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000516__img000140__516_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2510,
+        "question_id": 516,
+        "answer_text": "2.2",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 666,
+    "text": "To directly connect an AD-converter to the output (Ua) of the shown passive low-pass filter, the data sheet of the ADC proposes a capacitor C of > 50nF. You choose C = 220 nF (since you have lots of them in your workshop). What resistor (out of the E12 series) do you have to choose for a low pass filter matching the cut-off frequency of 300Hz as good as possible?Give the answer in kilo Ohm and round to the nearest tenth.",
+    "type": "input",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 2514,
+        "question_id": 666,
+        "answer_text": "2.2",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2514,
+        "question_id": 666,
+        "answer_text": "2.2",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

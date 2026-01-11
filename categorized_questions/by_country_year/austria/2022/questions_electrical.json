@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 466,
+    "text": "What is true regarding the tractive system accumulator container (TSAC)?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1851,
+        "question_id": 466,
+        "answer_text": "A Steel bracket used to mount the TSAC to the primary structure with M6 bolts and the mounting holes on its centerline must be at least 18mm wide.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1852,
+        "question_id": 466,
+        "answer_text": "The name of the ESO must be clearly written on the lid of each TSAC.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1853,
+        "question_id": 466,
+        "answer_text": "The sufficient ressistance against penetration of the insulating barrier on the inside of the primary structure using steel or aluminium brackets and 2mm steel backing plates.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1854,
+        "question_id": 466,
+        "answer_text": "A TS accumulator container made from composite materials must be fastened tothe primary structure using steel or aluminium brackets and 2mm steel bracking plates.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1851,
+        "question_id": 466,
+        "answer_text": "A Steel bracket used to mount the TSAC to the primary structure with M6 bolts and the mounting holes on its centerline must be at least 18mm wide.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1852,
+        "question_id": 466,
+        "answer_text": "The name of the ESO must be clearly written on the lid of each TSAC.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1853,
+        "question_id": 466,
+        "answer_text": "The sufficient ressistance against penetration of the insulating barrier on the inside of the primary structure using steel or aluminium brackets and 2mm steel backing plates.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1854,
+        "question_id": 466,
+        "answer_text": "A TS accumulator container made from composite materials must be fastened tothe primary structure using steel or aluminium brackets and 2mm steel bracking plates.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      43
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "question_id": 151,
+    "text": "Your current race car burns 4 liters of RON100 gasoline in your IC engine during an endurance race. By what amount [kg] you may lower your fossil carbon dioxide emissions by using a E85 mixture (per volume) as biofuel?\nAssume complete combustion and the same amount of chemical energy needed to run your engine on E85 fuel during an endurance. Consider the properties below.\nround to 2 decimal places and number format be like \"3.14\".\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 610,
+        "question_id": 151,
+        "answer_text": "7.30",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 34,
+        "question_id": 151,
+        "text": "The mixture is 85 volume-% Ethanol. The density has to be considered.",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000151__img000041__151_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 610,
+        "question_id": 151,
+        "answer_text": "7.30",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      15
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

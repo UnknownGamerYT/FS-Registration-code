@@ -1,0 +1,394 @@
+[
+  {
+    "question_id": 182,
+    "text": "You want to drive with a Lithium Polymer Cell with 3.2 Ah and weighing 70g. Which of the following configurations would be allowed by the rules?\nU(norm)=3.7V U(max)=4.2V",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 709,
+        "question_id": 182,
+        "answer_text": "4 compartments in series with 4p32s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 710,
+        "question_id": 182,
+        "answer_text": "4 compartments in series with 6p26s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 711,
+        "question_id": 182,
+        "answer_text": "6 compartments in series with 4p28s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 712,
+        "question_id": 182,
+        "answer_text": "5 compartments in series with 4p22s configurations",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 709,
+        "question_id": 182,
+        "answer_text": "4 compartments in series with 4p32s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 710,
+        "question_id": 182,
+        "answer_text": "4 compartments in series with 6p26s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 711,
+        "question_id": 182,
+        "answer_text": "6 compartments in series with 4p28s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 712,
+        "question_id": 182,
+        "answer_text": "5 compartments in series with 4p22s configurations",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18,
+      70
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 183,
+    "text": "Your head of powertrain has found a battery cell with excellent specifications and yet cheap. He decides upon a 142s2p accumulator configuration using the cells with a capacity of 5.8 Ah. The manufacturer specifies an internal impedance of 1.5 mOhm. However, after a while you notice the cells are horrible quality and their real capacity caries significantly leading to an unbalanced accumulator.\nHe performed experiments to find an approximation of the cells SoC relation to their open-circuit volage (EMF) as shown in the following figure:\nAssume due to imbalance, exactly half of the accumulators cells are at 40% SoC and half at 80% SoC. What current will be drawn at the maximum allowed power usage? (answer in A)\nRound the voltage in the figure and the answer to the nearest decimal (e.g. 3.15V becomes 3.2V and 1.15 A becomes 1.2 A)\nPlease use the following format: 12.3 or 1.23 (no ',' comma, no latters), round to 3 significant digits.",
+    "type": "input-range",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 713,
+        "question_id": 183,
+        "answer_text": "153-156",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 39,
+        "question_id": 183,
+        "text": null,
+        "images": [
+          {
+            "img_id": 111,
+            "path": "solutions/183_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000183__img000062__183_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 713,
+        "question_id": 183,
+        "answer_text": "153-156",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 186,
+    "text": "You have an electric car with these specifications:\nTen 12V batteries\nConstant velocity of 80 km/h\nFlat road ((friction 1.2kN) Aerodynamic drag included)\nLoad for battery 160 Ah\nEfficiency of 80% (Motor)\n\nHow far can you drive with one load? (in km)\nPlease use the following format: 12.3 or 1.23 (no ',' comma, no latters), round to 3 significant digits.",
+    "type": "input-range",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 722,
+        "question_id": 186,
+        "answer_text": "44-48",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 41,
+        "question_id": 186,
+        "text": null,
+        "images": [
+          {
+            "img_id": 113,
+            "path": "solutions/186_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 722,
+        "question_id": 186,
+        "answer_text": "44-48",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 188,
+    "text": "Which of the following statements about LV battery packs with lithium based chemistry other then LiFEPO4 is not true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 729,
+        "question_id": 188,
+        "answer_text": "They must be in a rigid and sturdy casing",
+        "is_correct": false
+      },
+      {
+        "answer_id": 730,
+        "question_id": 188,
+        "answer_text": "They must be enclosed in a non-conductive, waterproof and acid resistant container",
+        "is_correct": true
+      },
+      {
+        "answer_id": 731,
+        "question_id": 188,
+        "answer_text": "They must be protected from short circuits, not more then 100 mm from ungrounded terminals",
+        "is_correct": false
+      },
+      {
+        "answer_id": 732,
+        "question_id": 188,
+        "answer_text": "They must include overcurrent protection that rips at or below the maximum specified discharge current of the cells",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 729,
+        "question_id": 188,
+        "answer_text": "They must be in a rigid and sturdy casing",
+        "is_correct": false
+      },
+      {
+        "answer_id": 730,
+        "question_id": 188,
+        "answer_text": "They must be enclosed in a non-conductive, waterproof and acid resistant container",
+        "is_correct": true
+      },
+      {
+        "answer_id": 731,
+        "question_id": 188,
+        "answer_text": "They must be protected from short circuits, not more then 100 mm from ungrounded terminals",
+        "is_correct": false
+      },
+      {
+        "answer_id": 732,
+        "question_id": 188,
+        "answer_text": "They must include overcurrent protection that rips at or below the maximum specified discharge current of the cells",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      18
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 491,
+    "text": "Which statements about the TSAL are wrong?\\n 1) Be red in color and flash continuously with a frequency between 2Hz and 5Hz only if the TS is active.\\n 2) Be green in color and continuously illuminated only if the TS is deactived, see EV4.10.3\\n 3) The TSAL and all needed circuitry must be hard wired electronics. Software control is not permitted\\n 4) The voltage outside of the TS accumulator must at least be measured independently across DC-link capacitators in each housing with DC-link capacitators and at the vehicle side of the AIRs inside the accumulator container",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1957,
+        "question_id": 491,
+        "answer_text": "1)   2)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1958,
+        "question_id": 491,
+        "answer_text": "1)   3) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1959,
+        "question_id": 491,
+        "answer_text": "2)   3)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1960,
+        "question_id": 491,
+        "answer_text": "3)   4)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1961,
+        "question_id": 491,
+        "answer_text": "all",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1962,
+        "question_id": 491,
+        "answer_text": "none",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1957,
+        "question_id": 491,
+        "answer_text": "1)   2)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1958,
+        "question_id": 491,
+        "answer_text": "1)   3) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1959,
+        "question_id": 491,
+        "answer_text": "2)   3)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1960,
+        "question_id": 491,
+        "answer_text": "3)   4)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1961,
+        "question_id": 491,
+        "answer_text": "all",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1962,
+        "question_id": 491,
+        "answer_text": "none",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 536,
+    "text": "An electrical load is connected to a 12V battery via a copper cable. The copper cable has an inductance of L=0.75 uH and a resistance R=1.5 Ohm. In steady state (t_0...t_1), the load draws a current of 2.5A. At t_1, the characteristics of the load change and the current starts rising with 2A/us. What is the voltage across the load in the moment directly after the change?\\n Answer in V. Use the following format: 12.3",
+    "type": "input-range",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2084,
+        "question_id": 536,
+        "answer_text": "6.7-6.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 79,
+        "question_id": 536,
+        "text": null,
+        "images": [
+          {
+            "img_id": 142,
+            "path": "solutions/536_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2084,
+        "question_id": 536,
+        "answer_text": "6.7-6.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      52
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "question_id": 308,
+    "text": "According to the raw energy meter data a team has drawn 19.912MJ from the battery and has regenerated 4.736MJ during the Endurance. Which energy consumption will be used for Efficiency Scoring?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1221,
+        "question_id": 308,
+        "answer_text": "4.736MJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1222,
+        "question_id": 308,
+        "answer_text": "15.650MJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1223,
+        "question_id": 308,
+        "answer_text": "19.912MJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1224,
+        "question_id": 308,
+        "answer_text": "15.176MJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1225,
+        "question_id": 308,
+        "answer_text": "15.643MJ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1221,
+        "question_id": 308,
+        "answer_text": "4.736MJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1222,
+        "question_id": 308,
+        "answer_text": "15.650MJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1223,
+        "question_id": 308,
+        "answer_text": "19.912MJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1224,
+        "question_id": 308,
+        "answer_text": "15.176MJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1225,
+        "question_id": 308,
+        "answer_text": "15.643MJ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

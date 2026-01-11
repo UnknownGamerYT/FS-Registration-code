@@ -1,0 +1,298 @@
+[
+  {
+    "question_id": 826,
+    "text": "Calculate the end-of-straight ride height at the front axle of your RWD race car at it's top speed of 108 kph. \\nFrom CFD simulation you obtained your force coefficient (c_L*A) to be 5.7m^2 at an aero balance of 45% at the front.\\nThe stiffness of your front suspension spring is 55 N/mm, one spring per wheel. \\nThe motion ratio is 1.2 and the vertical stiffness of each tyre is 95 N/mm. \\nThe static ride height at the front axle was set to the minimum allowed by the rules. \\n(Air density = 1.1 kg/m^3; motion ratio is defined as: wheel travel / spring travel; round to one digit after the decimal point)",
+    "type": "single-choice",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 3095,
+        "question_id": 826,
+        "answer_text": "3.9 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3096,
+        "question_id": 826,
+        "answer_text": "9.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3097,
+        "question_id": 826,
+        "answer_text": "6.7 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3098,
+        "question_id": 826,
+        "answer_text": "11.8 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3095,
+        "question_id": 826,
+        "answer_text": "3.9 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3096,
+        "question_id": 826,
+        "answer_text": "9.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3097,
+        "question_id": 826,
+        "answer_text": "6.7 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3098,
+        "question_id": 826,
+        "answer_text": "11.8 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 828,
+    "text": "You are driving your race car on a test track with a cornering radius of 50m (measured in the horizontal plane) and a bank angle of 20°.\\nHow fast must the car travel to experience no lateral acceleration (measured in the vehicle coordinate system)? \\n(round to one digit after the decimal point) g = 9.81 m/s^2",
+    "type": "single-choice",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 3104,
+        "question_id": 828,
+        "answer_text": "48.1 kph",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3105,
+        "question_id": 828,
+        "answer_text": "53.1 kph",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3106,
+        "question_id": 828,
+        "answer_text": "50.3 kph",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3107,
+        "question_id": 828,
+        "answer_text": "46.6 kph",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3104,
+        "question_id": 828,
+        "answer_text": "48.1 kph",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3105,
+        "question_id": 828,
+        "answer_text": "53.1 kph",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3106,
+        "question_id": 828,
+        "answer_text": "50.3 kph",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3107,
+        "question_id": 828,
+        "answer_text": "46.6 kph",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 830,
+    "text": "You want to heat up your pool at the FSA campsite by burning wood. You brought a heat exchanger like shown in the sketch.\\nUnfortunately, you didn't bring any wood, and now you have to buy it from the campground owner.\\nHow much wood do you need to buy to raise the temperature in your 4 m diameter pool with a 0.95 m water height from 12 °C to 20 °C, given the following values?\\nOverall efficiency of the water heating system: 35%\\nEnergy content of the firewood: 4 kWh/kg\\nSpecific heat capacity of water: 4184 J/kgK\\nWater capacity of the heating system outside the pool: 15 l\\nDensity of water 1000 kg/m^3\\nOther influences on the temperature other than the heating system itself are not taken into account\\n(e.g. ambient temperature, heat capacity of the pool itself)\\n(Give your answer in kg, round to two digit after the decimal points)\\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 3112,
+        "question_id": 830,
+        "answer_text": "79.38",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000830__img000222__830_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3112,
+        "question_id": 830,
+        "answer_text": "79.38",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 836,
+    "text": "To what must the business case presented in the BPP event relate to?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3137,
+        "question_id": 836,
+        "answer_text": "To the team's specific prototype race car or a specific component",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3138,
+        "question_id": 836,
+        "answer_text": "To the team's specific prototype race car",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3139,
+        "question_id": 836,
+        "answer_text": "To an existing racing series",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3140,
+        "question_id": 836,
+        "answer_text": "To a specific component, not the overall race car",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3137,
+        "question_id": 836,
+        "answer_text": "To the team's specific prototype race car or a specific component",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3138,
+        "question_id": 836,
+        "answer_text": "To the team's specific prototype race car",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3139,
+        "question_id": 836,
+        "answer_text": "To an existing racing series",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3140,
+        "question_id": 836,
+        "answer_text": "To a specific component, not the overall race car",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 840,
+    "text": "Given the following circuit, what is the frequency with to maximum attenuation?\\n\n(Give your answer in Hz, round to two digit after the decimal points)\\n\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 3158,
+        "question_id": 840,
+        "answer_text": "72.34",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000840__img000224__840_5.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3158,
+        "question_id": 840,
+        "answer_text": "72.34",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  }
+]

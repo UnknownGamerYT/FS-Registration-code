@@ -1,0 +1,461 @@
+[
+  {
+    "question_id": 748,
+    "text": "The figure below depicts an Improved Howland Current Pump circuit. Assume that Vin- is connected to ground, 0 V, and Vin  is 5 V. For R1 = R2 = R3 = 1 kΩ and R4 = 100 Ω, compute the magnitude of the output current Iout.\\n Answer in mA and provide the value with 1 decimal place, e.g. 12.3.",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2911,
+        "question_id": 748,
+        "answer_text": "50.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 153,
+        "question_id": 748,
+        "text": "Formulas for an improved howland pump circuit:\\n\nIout = (G × (Vin + − Vin −))/R4,\\n\nG = R3/R1; R3/R1 = (R5 + R4)/R3\\n\nG = 1k/1k = 1; 1 = (R5 + R4)/R3 <=> R5 = 1000 − 100 = 900 Ω\\n\nIout = 1 * (5 − 0)/100 = 0. 05 A = 50. 0 mA",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000748__img000203__748_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2911,
+        "question_id": 748,
+        "answer_text": "50.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 753,
+    "text": "Compute the energy retrieved from a 2F supercapacitor charged to 100V and discharged at constant current down to 50V?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2800,
+        "question_id": 753,
+        "answer_text": "All wrong",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2801,
+        "question_id": 753,
+        "answer_text": "5 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2802,
+        "question_id": 753,
+        "answer_text": "10 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2803,
+        "question_id": 753,
+        "answer_text": "7.5 kJ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2804,
+        "question_id": 753,
+        "answer_text": "2.5 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2805,
+        "question_id": 753,
+        "answer_text": "3.75 kJ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 148,
+        "question_id": 753,
+        "text": "E = 0. 5 * 𝐶 * (Vinitia^2 − Vfinal^2)\\n\nE = 0. 5 * 2 * (100^2 − 50^2) = 0. 5 * 2 * (100000 − 2500) = 1 * (7500) = 7. 5 𝑘J",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2800,
+        "question_id": 753,
+        "answer_text": "All wrong",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2801,
+        "question_id": 753,
+        "answer_text": "5 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2802,
+        "question_id": 753,
+        "answer_text": "10 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2803,
+        "question_id": 753,
+        "answer_text": "7.5 kJ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2804,
+        "question_id": 753,
+        "answer_text": "2.5 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2805,
+        "question_id": 753,
+        "answer_text": "3.75 kJ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 754,
+    "text": "You have a battery in a 27s1p configuration, where each cell has a capacity of 15 Ah and 4.2 V maximum voltage. The cell discharge circuit uses a constant current of 500 mA to discharge individual cells when balancing is required. Your battery has currently an unbalance of 5% SoC between the highest and lowest SoC cells. You want to perfectly balance your battery so that the difference between the highest and lowest cells is 0V / 0% SoC. How much time will balancing take? \\nAnswer in hours and provide the value with 1 decimal place, e.g. 12.3.",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2902,
+        "question_id": 754,
+        "answer_text": "1.5",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 144,
+        "question_id": 754,
+        "text": "Divide the charge difference by the current: 5% x 15 Ah / 0.5A = 1.5 h",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2902,
+        "question_id": 754,
+        "answer_text": "1.5",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 755,
+    "text": "This year you want to double your accumulator voltage to match your new high voltage electrical motor. Assume you keep the same accumulator nominal energy and the same cells you used last year and change only the cell configuration (series/parallel). Complete the statement: For the same power profile at the battery output, the power dissipated in the new accumulator internal resistance is (………) the previous accumulator. ",
+    "type": "single-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2806,
+        "question_id": 755,
+        "answer_text": "equal to",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2807,
+        "question_id": 755,
+        "answer_text": "half",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2808,
+        "question_id": 755,
+        "answer_text": "double",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2809,
+        "question_id": 755,
+        "answer_text": "one fourth",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2810,
+        "question_id": 755,
+        "answer_text": "four times",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 143,
+        "question_id": 755,
+        "text": "Cells - Ecell (cell nominal energy), Vcell (cell nominal voltage), Rcell (cell internal resistance)\\n\r\nBattery old - Eold (old battery nominal energy), Vold (old battery total nominal voltage),\\n\r\nRold (old battery total internal resistance), (Sold)s(Pold)p (old battery series parallel configuration), Presold (old battery dissipated power in internal resistance)\\n\r\nBattery new - Enew (new battery nominal energy), Vnew (new battery total nominal voltage),\\n\r\nRnew (new battery total internal resistance), (Snew)s(Pnew)p (new battery series parallel configuration), Presnew (new battery dissipated power in internal resistance)\\n\r\nPower profile - Ppro (RMS power), Ipro (RMS current)\\n\r\nWe want Vnew = 2*Vold => Snew = 2*Sold (eqA)\\n\r\nTo keep Enew = Eold => Sold * Pold = Snew * Pnew (eqB)\\n\r\nFrom A and B we get Pnew = Pold/2 (eqC)\\n\r\nRold = Rcell * Sold / Pold (eqD)\\n\r\nRnew = Rcell * Snew / Pnew (eqE)\\n\r\nFrom A, B and E we get Rnew = Rcell * 2*Sold / (Pod/2) = Rcel * 4 * Sold/Pold => Rnew = 4*Rold\\n\r\nIpro = Ppro / Vbat\\n\r\nIproold = Ppro / Vold\\n\r\nIpronew = Ppro / Vnew = Ppro / (2*Vold) => Ipronew = ½ * Iproold\\n\r\nPres = Rbat * Ipro^2\\n\r\nPresold = Rold * Iproold\\n\r\nPresnew = Rnew * Ipronew = 4*Rold * (½ * Iprold)^2 =>\\n\r\n=> Presnew = Presold",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2806,
+        "question_id": 755,
+        "answer_text": "equal to",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2807,
+        "question_id": 755,
+        "answer_text": "half",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2808,
+        "question_id": 755,
+        "answer_text": "double",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2809,
+        "question_id": 755,
+        "answer_text": "one fourth",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2810,
+        "question_id": 755,
+        "answer_text": "four times",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 756,
+    "text": "Your task is the design of the control circuit for the TSAL. Which of the LEDs in the circuit shown can be used as the red TSAL? Select the option which lists all correct answers comma-separated. ",
+    "type": "single-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2811,
+        "question_id": 756,
+        "answer_text": "B, C, D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2812,
+        "question_id": 756,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2813,
+        "question_id": 756,
+        "answer_text": "A, B, D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2814,
+        "question_id": 756,
+        "answer_text": "B, D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2815,
+        "question_id": 756,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2816,
+        "question_id": 756,
+        "answer_text": "B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2817,
+        "question_id": 756,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2818,
+        "question_id": 756,
+        "answer_text": "B, D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2819,
+        "question_id": 756,
+        "answer_text": "none",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2820,
+        "question_id": 756,
+        "answer_text": "A, C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2821,
+        "question_id": 756,
+        "answer_text": "C, D",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 142,
+        "question_id": 756,
+        "text": "The NE555 has an output signal of 4.45 Hz with 92% duty cycle.\\n\r\nThe CD4040 is a Ripple Counter, where the output frequency is divided by 2 every output.\\n\r\nSo the frequency of C and D is too low. But for A, the duty cycle is inverted, and with 8% too low. \\n\r\nThus, only B is correct.",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000756__img000205__756_4.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2811,
+        "question_id": 756,
+        "answer_text": "B, C, D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2812,
+        "question_id": 756,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2813,
+        "question_id": 756,
+        "answer_text": "A, B, D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2814,
+        "question_id": 756,
+        "answer_text": "B, D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2815,
+        "question_id": 756,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2816,
+        "question_id": 756,
+        "answer_text": "B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2817,
+        "question_id": 756,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2818,
+        "question_id": 756,
+        "answer_text": "B, D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2819,
+        "question_id": 756,
+        "answer_text": "none",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2820,
+        "question_id": 756,
+        "answer_text": "A, C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2821,
+        "question_id": 756,
+        "answer_text": "C, D",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  }
+]

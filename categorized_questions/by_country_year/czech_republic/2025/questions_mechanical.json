@@ -1,0 +1,222 @@
+[
+  {
+    "question_id": 903,
+    "text": "The material testing laboratory at your university is equipped with extremely precise measurement instruments but has very limited capacity. Your team worked hard to prepare all the laminate panels for SES testing. However, upon entering the laboratory, you realised you forgot to bring the baseline steel tube required by T3.2 to determine the test rig compliance. Fortunately, you spot what appears to be a piece of EN13674-1 50E2 steel Vignole rail lying in the corner, just long enough for use on your test rig with a 400 mm support span. With great effort, you place it on its flat bottom, and measure the following data:\\nF [N] dY [mm]\\n0 0.120210\\n5000 0.122638\\n10000 0.125065\\n15000 0.127493\\n20000 0.129920\\n25000 0.132348\\n30000 0.134776",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3365,
+        "question_id": 903,
+        "answer_text": "42",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3366,
+        "question_id": 903,
+        "answer_text": "69",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3367,
+        "question_id": 903,
+        "answer_text": "88",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3368,
+        "question_id": 903,
+        "answer_text": "96",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3365,
+        "question_id": 903,
+        "answer_text": "42",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3366,
+        "question_id": 903,
+        "answer_text": "69",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3367,
+        "question_id": 903,
+        "answer_text": "88",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3368,
+        "question_id": 903,
+        "answer_text": "96",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 907,
+    "text": "Assign airfoils to their respective lift curves. Variant 1 Reynolds number (Re) is higher than variant 2 Reynolds number. Reynolds number of variant 3 is the same as for variant 2. Base airfoil of variants 4, 5 and 6 is the same.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3381,
+        "question_id": 907,
+        "answer_text": "1F, 2D , 3E, 4A, 5C, 6B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3382,
+        "question_id": 907,
+        "answer_text": "1C, 2B, 3A, 4D, 5E, 6F",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3383,
+        "question_id": 907,
+        "answer_text": "1C, 2B, 3A, 4D, 5F, 6E",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3384,
+        "question_id": 907,
+        "answer_text": "1C, 2A, 3B, 4D, 5F, 6E",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000907__img000289__907_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3381,
+        "question_id": 907,
+        "answer_text": "1F, 2D , 3E, 4A, 5C, 6B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3382,
+        "question_id": 907,
+        "answer_text": "1C, 2B, 3A, 4D, 5E, 6F",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3383,
+        "question_id": 907,
+        "answer_text": "1C, 2B, 3A, 4D, 5F, 6E",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3384,
+        "question_id": 907,
+        "answer_text": "1C, 2A, 3B, 4D, 5F, 6E",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 908,
+    "text": "You need to use a discrete power switch in your vehicle in half-bridge configuration, switching into an appropriate LC filter. For your design, you are deciding between Infineon - IKW25N120T2 which you would be switching at fixed 16kHz, or ST - SCT025H120G3AG, which you could switch at any chosen frequency.\\nWhat switching frequency would you choose for the ST transistor, so that both (ST and Infineon) transistors would have the same power losses?\\nConsider only conductive and switching losses of the high side MOSFET. For switching losses, consider only Eon / Eoff from the datasheet and typical datasheet values. Results are significantly rounded, choose the nearest option.\\n\\nSome constants, that may or may not be needed:\\nHV  = 600V\\nIrms_out = 25A\\nDuty_cycle = 50%\\nTj = 25C\\nMOSFET Vgs_on = 18V\\nRg = 15 Ω (Gate resistance)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3385,
+        "question_id": 908,
+        "answer_text": "~1 kHz",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3386,
+        "question_id": 908,
+        "answer_text": "~10 kHz",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3387,
+        "question_id": 908,
+        "answer_text": "~100 kHz",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3388,
+        "question_id": 908,
+        "answer_text": "~1 MHz",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000908__img000290__908_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3385,
+        "question_id": 908,
+        "answer_text": "~1 kHz",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3386,
+        "question_id": 908,
+        "answer_text": "~10 kHz",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3387,
+        "question_id": 908,
+        "answer_text": "~100 kHz",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3388,
+        "question_id": 908,
+        "answer_text": "~1 MHz",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

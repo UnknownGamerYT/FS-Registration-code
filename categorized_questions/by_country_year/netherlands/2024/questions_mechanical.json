@@ -1,0 +1,826 @@
+[
+  {
+    "question_id": 2,
+    "text": "What is the maximum vertical distance allowed between the lowest part of the front hoop and the lowest part of the diagonal bracing in the front bulkhead support when the diagonal bracing is attached at the top at the FBH?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 6,
+        "question_id": 2,
+        "answer_text": "0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 7,
+        "question_id": 2,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 8,
+        "question_id": 2,
+        "answer_text": "50 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 9,
+        "question_id": 2,
+        "answer_text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 10,
+        "question_id": 2,
+        "answer_text": "100 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 6,
+        "question_id": 2,
+        "answer_text": "0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 7,
+        "question_id": 2,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 8,
+        "question_id": 2,
+        "answer_text": "50 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 9,
+        "question_id": 2,
+        "answer_text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 10,
+        "question_id": 2,
+        "answer_text": "100 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2,
+      71
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 554,
+    "text": "Which of the following equations is a basic principle of electrical engineering?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 97,
+        "question_id": 554,
+        "text": "Ohm’s law formula",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      55,
+      70
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 812,
+    "text": "What will Young's Modulus be for a 10 mm square bar and with a length of 400mm when it lengthens by 3 mm under a load of 100 kN?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3039,
+        "question_id": 812,
+        "answer_text": "101.87 GPa.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3040,
+        "question_id": 812,
+        "answer_text": "85.46 GPa.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3041,
+        "question_id": 812,
+        "answer_text": "133.33 GPa.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3042,
+        "question_id": 812,
+        "answer_text": "210.48 GPa.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 158,
+        "question_id": 812,
+        "text": null,
+        "images": [
+          {
+            "img_id": 217,
+            "path": "solutions/812_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3039,
+        "question_id": 812,
+        "answer_text": "101.87 GPa.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3040,
+        "question_id": 812,
+        "answer_text": "85.46 GPa.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3041,
+        "question_id": 812,
+        "answer_text": "133.33 GPa.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3042,
+        "question_id": 812,
+        "answer_text": "210.48 GPa.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      88,
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 813,
+    "text": "Which material is suited as a protective cover for a cooling hose of a cooling system using plain water and runs through the monocoque under the driver`s legs?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3043,
+        "question_id": 813,
+        "answer_text": "Aluminum sheet with holes smaller than 25 mm diameter.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3044,
+        "question_id": 813,
+        "answer_text": "Aluminum sheet without any holes.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3045,
+        "question_id": 813,
+        "answer_text": "There is no need for any protective cover.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3046,
+        "question_id": 813,
+        "answer_text": "Aluminum grid with a minimal spacing of 2 mm between the strings.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 159,
+        "question_id": 813,
+        "text": "T 7.2.3",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3043,
+        "question_id": 813,
+        "answer_text": "Aluminum sheet with holes smaller than 25 mm diameter.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3044,
+        "question_id": 813,
+        "answer_text": "Aluminum sheet without any holes.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3045,
+        "question_id": 813,
+        "answer_text": "There is no need for any protective cover.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3046,
+        "question_id": 813,
+        "answer_text": "Aluminum grid with a minimal spacing of 2 mm between the strings.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      87,
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 815,
+    "text": "Which of the following is not correct about the Front Hoop Bracing?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3051,
+        "question_id": 815,
+        "answer_text": "The minimum wall thickness for the steel tube used for Front hoop bracings must be 1.2mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3052,
+        "question_id": 815,
+        "answer_text": "Front hoop bracing may be used with bends if provided with additional support structure.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3053,
+        "question_id": 815,
+        "answer_text": "If front hoop is inclined more than 10 degrees then additional bracing support is needed extending rearwards.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3054,
+        "question_id": 815,
+        "answer_text": "The front hoop bracing structure must be attached no lower than 50 mm below the top-most surface of the front hoop.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 162,
+        "question_id": 815,
+        "text": "T 3.11.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3051,
+        "question_id": 815,
+        "answer_text": "The minimum wall thickness for the steel tube used for Front hoop bracings must be 1.2mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3052,
+        "question_id": 815,
+        "answer_text": "Front hoop bracing may be used with bends if provided with additional support structure.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3053,
+        "question_id": 815,
+        "answer_text": "If front hoop is inclined more than 10 degrees then additional bracing support is needed extending rearwards.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3054,
+        "question_id": 815,
+        "answer_text": "The front hoop bracing structure must be attached no lower than 50 mm below the top-most surface of the front hoop.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      87,
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 816,
+    "text": "What is true about jacks?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3055,
+        "question_id": 816,
+        "answer_text": "A driver must be able to enter the vehicle in a lifted position",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3056,
+        "question_id": 816,
+        "answer_text": "Using their jack(s), a team must be able to lift any wheel at least 100mm from the ground",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3057,
+        "question_id": 816,
+        "answer_text": "Pick-up points must be marked with red triangles",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3058,
+        "question_id": 816,
+        "answer_text": "Only team members named Jack may operate a jack",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 163,
+        "question_id": 816,
+        "text": "T 13.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3055,
+        "question_id": 816,
+        "answer_text": "A driver must be able to enter the vehicle in a lifted position",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3056,
+        "question_id": 816,
+        "answer_text": "Using their jack(s), a team must be able to lift any wheel at least 100mm from the ground",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3057,
+        "question_id": 816,
+        "answer_text": "Pick-up points must be marked with red triangles",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3058,
+        "question_id": 816,
+        "answer_text": "Only team members named Jack may operate a jack",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      88,
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 817,
+    "text": "If a full cylinder has a Moment of Inertia of J = 1,08 kg/m^2, what is the Moment of Inertia of a full cylinder with the same mass but half the diameter?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3059,
+        "question_id": 817,
+        "answer_text": "0.16 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3060,
+        "question_id": 817,
+        "answer_text": "0.84 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3061,
+        "question_id": 817,
+        "answer_text": "0.73 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3062,
+        "question_id": 817,
+        "answer_text": "0.27 kg/m^2",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 164,
+        "question_id": 817,
+        "text": null,
+        "images": [
+          {
+            "img_id": 218,
+            "path": "solutions/817_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3059,
+        "question_id": 817,
+        "answer_text": "0.16 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3060,
+        "question_id": 817,
+        "answer_text": "0.84 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3061,
+        "question_id": 817,
+        "answer_text": "0.73 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3062,
+        "question_id": 817,
+        "answer_text": "0.27 kg/m^2",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 819,
+    "text": "Which of the following statements about the Fuel System is correct?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3067,
+        "question_id": 819,
+        "answer_text": "The fuel tank can be made of flexible material.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3068,
+        "question_id": 819,
+        "answer_text": "The fuel tank must not be located within the surface envelope.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3069,
+        "question_id": 819,
+        "answer_text": "The fuel tank must be securely attached to the vehicle structure with mountings that do not allow flexibility such that chassis flex cannot unintentionally load the fuel tank.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3070,
+        "question_id": 819,
+        "answer_text": "The fuel tank must only be made of a rigid material to prevent failure under loading.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 166,
+        "question_id": 819,
+        "text": "CV2.3.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3067,
+        "question_id": 819,
+        "answer_text": "The fuel tank can be made of flexible material.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3068,
+        "question_id": 819,
+        "answer_text": "The fuel tank must not be located within the surface envelope.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3069,
+        "question_id": 819,
+        "answer_text": "The fuel tank must be securely attached to the vehicle structure with mountings that do not allow flexibility such that chassis flex cannot unintentionally load the fuel tank.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3070,
+        "question_id": 819,
+        "answer_text": "The fuel tank must only be made of a rigid material to prevent failure under loading.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 821,
+    "text": "You must submit a DBOM for FSN2024, for which system?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3075,
+        "question_id": 821,
+        "answer_text": "Steering System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3076,
+        "question_id": 821,
+        "answer_text": "Engine and Drivetrain",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3077,
+        "question_id": 821,
+        "answer_text": "Brake System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3078,
+        "question_id": 821,
+        "answer_text": "Suspension System",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 168,
+        "question_id": 821,
+        "text": "FSN Competition Handbook NL3.16",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3075,
+        "question_id": 821,
+        "answer_text": "Steering System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3076,
+        "question_id": 821,
+        "answer_text": "Engine and Drivetrain",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3077,
+        "question_id": 821,
+        "answer_text": "Brake System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3078,
+        "question_id": 821,
+        "answer_text": "Suspension System",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      87,
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 822,
+    "text": "The Technical Inspection Order at FSN2024 is based on what factor?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3079,
+        "question_id": 822,
+        "answer_text": "VSV Submission Date",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3080,
+        "question_id": 822,
+        "answer_text": "Registration Quiz Result",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3081,
+        "question_id": 822,
+        "answer_text": "Random Draw",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3082,
+        "question_id": 822,
+        "answer_text": "Position on WRL",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 169,
+        "question_id": 822,
+        "text": "FSN Competition Handbook NL4.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3079,
+        "question_id": 822,
+        "answer_text": "VSV Submission Date",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3080,
+        "question_id": 822,
+        "answer_text": "Registration Quiz Result",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3081,
+        "question_id": 822,
+        "answer_text": "Random Draw",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3082,
+        "question_id": 822,
+        "answer_text": "Position on WRL",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      88,
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

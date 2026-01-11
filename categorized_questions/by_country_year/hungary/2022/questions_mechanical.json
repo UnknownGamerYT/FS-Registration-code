@@ -1,0 +1,494 @@
+[
+  {
+    "question_id": 392,
+    "text": "Which of the following events did NOT happen on this day (Jan 28th)?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1587,
+        "question_id": 392,
+        "answer_text": "The Lego company patents the design of its Lego bricks, still compatible with bricks produced today.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1588,
+        "question_id": 392,
+        "answer_text": "Birthday of former F1 driver, Jody Scheckter.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1589,
+        "question_id": 392,
+        "answer_text": "The World Land Speed Record on a public road is broken with a Mercedes-Benz W195 at a speed of 432.7 km/h.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1590,
+        "question_id": 392,
+        "answer_text": "Birthday of former F1 driver, Takuma Sato.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1587,
+        "question_id": 392,
+        "answer_text": "The Lego company patents the design of its Lego bricks, still compatible with bricks produced today.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1588,
+        "question_id": 392,
+        "answer_text": "Birthday of former F1 driver, Jody Scheckter.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1589,
+        "question_id": 392,
+        "answer_text": "The World Land Speed Record on a public road is broken with a Mercedes-Benz W195 at a speed of 432.7 km/h.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1590,
+        "question_id": 392,
+        "answer_text": "Birthday of former F1 driver, Takuma Sato.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 393,
+    "text": "In which temperature range must the resistor of the TSMP operate (at least)?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1591,
+        "question_id": 393,
+        "answer_text": "0 °C to 85 °C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1592,
+        "question_id": 393,
+        "answer_text": "-10 °C to 75 °C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1593,
+        "question_id": 393,
+        "answer_text": "0 °C to 75 °C",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1591,
+        "question_id": 393,
+        "answer_text": "0 °C to 85 °C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1592,
+        "question_id": 393,
+        "answer_text": "-10 °C to 75 °C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1593,
+        "question_id": 393,
+        "answer_text": "0 °C to 75 °C",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 394,
+    "text": "When can you spin the wheels of an EV vehicle in reverse direction?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1594,
+        "question_id": 394,
+        "answer_text": "After the Technical Inspection is completed successfully.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1595,
+        "question_id": 394,
+        "answer_text": "Only on dynamic events when you accidentally leave the track and there is no other reasonable solution to remove the vehicle from the track.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1596,
+        "question_id": 394,
+        "answer_text": "During Technical Inspection.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1597,
+        "question_id": 394,
+        "answer_text": "It is forbidden to spin the wheels in reverse direction.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1594,
+        "question_id": 394,
+        "answer_text": "After the Technical Inspection is completed successfully.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1595,
+        "question_id": 394,
+        "answer_text": "Only on dynamic events when you accidentally leave the track and there is no other reasonable solution to remove the vehicle from the track.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1596,
+        "question_id": 394,
+        "answer_text": "During Technical Inspection.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1597,
+        "question_id": 394,
+        "answer_text": "It is forbidden to spin the wheels in reverse direction.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 395,
+    "text": "Your car has the shortest possible wheelbase and 20.5x7-10 tires. What is the maximum length of your aero package?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1598,
+        "question_id": 395,
+        "answer_text": "3115.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1599,
+        "question_id": 395,
+        "answer_text": "2835 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1600,
+        "question_id": 395,
+        "answer_text": "2995.7 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1601,
+        "question_id": 395,
+        "answer_text": "3200.5 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1598,
+        "question_id": 395,
+        "answer_text": "3115.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1599,
+        "question_id": 395,
+        "answer_text": "2835 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1600,
+        "question_id": 395,
+        "answer_text": "2995.7 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1601,
+        "question_id": 395,
+        "answer_text": "3200.5 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 397,
+    "text": "What is the height of the measurement tool that is used to check the allowable deflection in the load carrying direction at aerodynamic devices? The applied material for the tool is aluminium.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1606,
+        "question_id": 397,
+        "answer_text": "287.80 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1607,
+        "question_id": 397,
+        "answer_text": "19.98 cm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1608,
+        "question_id": 397,
+        "answer_text": "32.92 cm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1609,
+        "question_id": 397,
+        "answer_text": "312.00 mm ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1606,
+        "question_id": 397,
+        "answer_text": "287.80 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1607,
+        "question_id": 397,
+        "answer_text": "19.98 cm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1608,
+        "question_id": 397,
+        "answer_text": "32.92 cm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1609,
+        "question_id": 397,
+        "answer_text": "312.00 mm ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 398,
+    "text": "How do you have to mount the transponder to the car which is necessary for the timekeeping?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1610,
+        "question_id": 398,
+        "answer_text": "Transceiving surface of the transponder must be faced to the ground, not pointing to the left, so not parallel to the ground and not perpendicularly to the centerline of the vehicle.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1611,
+        "question_id": 398,
+        "answer_text": "Transceiving surface of the transponder must not be faced to the ground, but point to the right parallel to the ground and perpendicularly to the centerline of the vehicle.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1612,
+        "question_id": 398,
+        "answer_text": "Transceiving surface of the transponder must not be faced to the ground, but point to the left parallel to the ground and perpendicularly to the centerline of the vehicle. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1613,
+        "question_id": 398,
+        "answer_text": "Transponder can be put anywhere on the vehicle.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1610,
+        "question_id": 398,
+        "answer_text": "Transceiving surface of the transponder must be faced to the ground, not pointing to the left, so not parallel to the ground and not perpendicularly to the centerline of the vehicle.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1611,
+        "question_id": 398,
+        "answer_text": "Transceiving surface of the transponder must not be faced to the ground, but point to the right parallel to the ground and perpendicularly to the centerline of the vehicle.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1612,
+        "question_id": 398,
+        "answer_text": "Transceiving surface of the transponder must not be faced to the ground, but point to the left parallel to the ground and perpendicularly to the centerline of the vehicle. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1613,
+        "question_id": 398,
+        "answer_text": "Transponder can be put anywhere on the vehicle.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 405,
+    "text": "In which year was the first Paris-Dakar Rally?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1638,
+        "question_id": 405,
+        "answer_text": "1979",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1639,
+        "question_id": 405,
+        "answer_text": "1991",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1640,
+        "question_id": 405,
+        "answer_text": "1984",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1641,
+        "question_id": 405,
+        "answer_text": "1962",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1638,
+        "question_id": 405,
+        "answer_text": "1979",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1639,
+        "question_id": 405,
+        "answer_text": "1991",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1640,
+        "question_id": 405,
+        "answer_text": "1984",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1641,
+        "question_id": 405,
+        "answer_text": "1962",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "question_id": 378,
+    "text": "The best skidpad time of your team is 5.2s aditionally you have knocked down two cones, the fastest team without hitting any cones did it in 5.1s. What is the skidpad score of your team? Answer in points and round to 2 decimal places.    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1504,
+        "question_id": 378,
+        "answer_text": "67.43",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1505,
+        "question_id": 378,
+        "answer_text": "41.12",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1506,
+        "question_id": 378,
+        "answer_text": "64.47",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1507,
+        "question_id": 378,
+        "answer_text": "63.93",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1508,
+        "question_id": 378,
+        "answer_text": "67.97",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1509,
+        "question_id": 378,
+        "answer_text": "37.62",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 68,
+        "question_id": 378,
+        "text": "T-team: 5,2\r\nDOO: 2​\r\nT-max: 5,1​\r\n=> 41,117 => 41,12​",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1504,
+        "question_id": 378,
+        "answer_text": "67.43",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1505,
+        "question_id": 378,
+        "answer_text": "41.12",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1506,
+        "question_id": 378,
+        "answer_text": "64.47",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1507,
+        "question_id": 378,
+        "answer_text": "63.93",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1508,
+        "question_id": 378,
+        "answer_text": "67.97",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1509,
+        "question_id": 378,
+        "answer_text": "37.62",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 387,
+    "text": "The best skidpad time of your team is 5.2s aditionally you have knocked down two cones, the fastest team without hitting any cones did it in 5.1s. What is the skidpad score of your team?\\n Answer in points and round to 2 decimal places.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1559,
+        "question_id": 387,
+        "answer_text": "37.62",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1560,
+        "question_id": 387,
+        "answer_text": "63.93",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1561,
+        "question_id": 387,
+        "answer_text": "67.43",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1562,
+        "question_id": 387,
+        "answer_text": "41.12",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1563,
+        "question_id": 387,
+        "answer_text": "64.47",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1564,
+        "question_id": 387,
+        "answer_text": "67.97",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1559,
+        "question_id": 387,
+        "answer_text": "37.62",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1560,
+        "question_id": 387,
+        "answer_text": "63.93",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1561,
+        "question_id": 387,
+        "answer_text": "67.43",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1562,
+        "question_id": 387,
+        "answer_text": "41.12",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1563,
+        "question_id": 387,
+        "answer_text": "64.47",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1564,
+        "question_id": 387,
+        "answer_text": "67.97",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

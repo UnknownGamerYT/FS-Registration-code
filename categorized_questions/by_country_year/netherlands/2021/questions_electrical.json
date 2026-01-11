@@ -1,0 +1,232 @@
+[
+  {
+    "question_id": 556,
+    "text": "In which situation needs the commanded motor torque to equal 0 Nm?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2159,
+        "question_id": 556,
+        "answer_text": "The mechanical brakes are actuated and the torque encoder signals 15% pedal travel at the same time",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2160,
+        "question_id": 556,
+        "answer_text": "The mechanical brakes are actuated and the torque encoder signals 20% pedal travel at the same time",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2161,
+        "question_id": 556,
+        "answer_text": "The mechanical brakes are actuated and the torque encoder signals 30% pedal travel at the same time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2162,
+        "question_id": 556,
+        "answer_text": " None of the answers above are correct",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2159,
+        "question_id": 556,
+        "answer_text": "The mechanical brakes are actuated and the torque encoder signals 15% pedal travel at the same time",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2160,
+        "question_id": 556,
+        "answer_text": "The mechanical brakes are actuated and the torque encoder signals 20% pedal travel at the same time",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2161,
+        "question_id": 556,
+        "answer_text": "The mechanical brakes are actuated and the torque encoder signals 30% pedal travel at the same time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2162,
+        "question_id": 556,
+        "answer_text": " None of the answers above are correct",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      53
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 557,
+    "text": "Which minimum spacing through air must be maintained between tractive system and GLV parts that are in the same enclosure, if the potential between those parts is above 200VDC?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2163,
+        "question_id": 557,
+        "answer_text": "0 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2164,
+        "question_id": 557,
+        "answer_text": "10 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2165,
+        "question_id": 557,
+        "answer_text": "20 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2166,
+        "question_id": 557,
+        "answer_text": "30 mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 99,
+        "question_id": 557,
+        "text": "EV4.3.3",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2163,
+        "question_id": 557,
+        "answer_text": "0 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2164,
+        "question_id": 557,
+        "answer_text": "10 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2165,
+        "question_id": 557,
+        "answer_text": "20 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2166,
+        "question_id": 557,
+        "answer_text": "30 mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      53
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 558,
+    "text": "There is an LED on the accumulator that will illuminate whenever a voltage greater than a specific level is present at the vehicle side of the AIRs. What is this specific voltage level with a maximum TS voltage of 100V?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2167,
+        "question_id": 558,
+        "answer_text": "30V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2168,
+        "question_id": 558,
+        "answer_text": "50V",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2169,
+        "question_id": 558,
+        "answer_text": "60V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2170,
+        "question_id": 558,
+        "answer_text": "70V",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 100,
+        "question_id": 558,
+        "text": "EV5.4.8 (Max TS voltage /2 = 50V < 60V)",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2167,
+        "question_id": 558,
+        "answer_text": "30V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2168,
+        "question_id": 558,
+        "answer_text": "50V",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2169,
+        "question_id": 558,
+        "answer_text": "60V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2170,
+        "question_id": 558,
+        "answer_text": "70V",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

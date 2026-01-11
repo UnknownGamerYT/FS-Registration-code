@@ -1,0 +1,153 @@
+[
+  {
+    "question_id": 120,
+    "text": "What applies if tractive system and LVS are on the same PCB?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 483,
+        "question_id": 120,
+        "answer_text": "Spacing over surface between traces/board areas for voltage 0V DC to 60V DC at least 1.6mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 484,
+        "question_id": 120,
+        "answer_text": "Spacing over surface between traces/board areas for voltage 0V DC to 60V DC at least 1.6mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 485,
+        "question_id": 120,
+        "answer_text": "Spacing through air between traces/board areas for voltage 100V DC to 300V DC at least 3.2mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 486,
+        "question_id": 120,
+        "answer_text": "Spacing over surface between traces/board areas for voltage 300V DC to 600V DC at least 12.7mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 29,
+        "question_id": 120,
+        "text": "EV 4.3.5",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 483,
+        "question_id": 120,
+        "answer_text": "Spacing over surface between traces/board areas for voltage 0V DC to 60V DC at least 1.6mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 484,
+        "question_id": 120,
+        "answer_text": "Spacing over surface between traces/board areas for voltage 0V DC to 60V DC at least 1.6mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 485,
+        "question_id": 120,
+        "answer_text": "Spacing through air between traces/board areas for voltage 100V DC to 300V DC at least 3.2mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 486,
+        "question_id": 120,
+        "answer_text": "Spacing over surface between traces/board areas for voltage 300V DC to 600V DC at least 12.7mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 129,
+    "text": "A cylindrical conductor of diameter 3mm and conductivity 59,6MS/m carries a steady current 3A, which is distributed uniformly over its cross-section. What is the rate at which electromagnetic energy flows into the conductor of length 10m?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 519,
+        "question_id": 129,
+        "answer_text": "0,53 A^2 Ω",
+        "is_correct": false
+      },
+      {
+        "answer_id": 520,
+        "question_id": 129,
+        "answer_text": "0,12 A^2 Ω",
+        "is_correct": false
+      },
+      {
+        "answer_id": 521,
+        "question_id": 129,
+        "answer_text": "0,21 A^2 Ω",
+        "is_correct": true
+      },
+      {
+        "answer_id": 522,
+        "question_id": 129,
+        "answer_text": "0,35 A^2 Ω",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 519,
+        "question_id": 129,
+        "answer_text": "0,53 A^2 Ω",
+        "is_correct": false
+      },
+      {
+        "answer_id": 520,
+        "question_id": 129,
+        "answer_text": "0,12 A^2 Ω",
+        "is_correct": false
+      },
+      {
+        "answer_id": 521,
+        "question_id": 129,
+        "answer_text": "0,21 A^2 Ω",
+        "is_correct": true
+      },
+      {
+        "answer_id": 522,
+        "question_id": 129,
+        "answer_text": "0,35 A^2 Ω",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

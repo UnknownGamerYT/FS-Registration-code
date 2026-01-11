@@ -1,0 +1,356 @@
+[
+  {
+    "question_id": 431,
+    "text": "The truss structure shown in the figure is loaded at joints F, G and H as shown. The truss structure is supported in points E and K as shown. Each segment of the truss structure is assumed to have no mass and infinite stiffness.\\n Identify the obvious zero-force members in the structure under the given load and indicate them by placing a check-mark!",
+    "type": "multi-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1743,
+        "question_id": 431,
+        "answer_text": "AB",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1744,
+        "question_id": 431,
+        "answer_text": "AG",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1745,
+        "question_id": 431,
+        "answer_text": "AF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1746,
+        "question_id": 431,
+        "answer_text": "BC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1747,
+        "question_id": 431,
+        "answer_text": "BG",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1748,
+        "question_id": 431,
+        "answer_text": "CD",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1749,
+        "question_id": 431,
+        "answer_text": "CG",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1750,
+        "question_id": 431,
+        "answer_text": "CH",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1751,
+        "question_id": 431,
+        "answer_text": "CI",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1752,
+        "question_id": 431,
+        "answer_text": "DE",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1753,
+        "question_id": 431,
+        "answer_text": "DI",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1754,
+        "question_id": 431,
+        "answer_text": "EI",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1755,
+        "question_id": 431,
+        "answer_text": "EJ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1756,
+        "question_id": 431,
+        "answer_text": "FG",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1757,
+        "question_id": 431,
+        "answer_text": "GH",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1758,
+        "question_id": 431,
+        "answer_text": "GK",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1759,
+        "question_id": 431,
+        "answer_text": "IJ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1760,
+        "question_id": 431,
+        "answer_text": "IK",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000431__img000096__431_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1743,
+        "question_id": 431,
+        "answer_text": "AB",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1744,
+        "question_id": 431,
+        "answer_text": "AG",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1745,
+        "question_id": 431,
+        "answer_text": "AF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1746,
+        "question_id": 431,
+        "answer_text": "BC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1747,
+        "question_id": 431,
+        "answer_text": "BG",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1748,
+        "question_id": 431,
+        "answer_text": "CD",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1749,
+        "question_id": 431,
+        "answer_text": "CG",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1750,
+        "question_id": 431,
+        "answer_text": "CH",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1751,
+        "question_id": 431,
+        "answer_text": "CI",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1752,
+        "question_id": 431,
+        "answer_text": "DE",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1753,
+        "question_id": 431,
+        "answer_text": "DI",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1754,
+        "question_id": 431,
+        "answer_text": "EI",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1755,
+        "question_id": 431,
+        "answer_text": "EJ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1756,
+        "question_id": 431,
+        "answer_text": "FG",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1757,
+        "question_id": 431,
+        "answer_text": "GH",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1758,
+        "question_id": 431,
+        "answer_text": "GK",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1759,
+        "question_id": 431,
+        "answer_text": "IJ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1760,
+        "question_id": 431,
+        "answer_text": "IK",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 432,
+    "text": "The truss structure shown in the figure is loaded at joints F, G and H as shown. The truss structure is supported in points E and K as shown. Each segment of the truss structure is assumed to have no mass and infinite stiffness.\\nCalculate the reaction force Ey at Point E in y-direction in multiples of P! Round the solution to one decimal place.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 1761,
+        "question_id": 432,
+        "answer_text": "-2.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000432__img000097__432_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1761,
+        "question_id": 432,
+        "answer_text": "-2.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 447,
+    "text": "Fred, FSG's race alpaca, does a skidpad event according to D 4 while pulling a driver on a typical single axis two-wheel sulky, a lightweight cart used for horse races. The sulky always moves on the center of the track. The axis of the center of both wheels always points to the circle's center. The wheels have an dynamic outer diameter of 42 cm. The sulky track width is 1.5 m.\\n Calculate the difference in the number of turns of the right wheel compared to the left wheel after the skidpad! \\nRound the solution to one decimal place.",
+    "type": "input",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 1805,
+        "question_id": 447,
+        "answer_text": "0.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000447__img000101__447_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1805,
+        "question_id": 447,
+        "answer_text": "0.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 449,
+    "text": "Assume that the power drawn during an Acceleration run is monotonically and linearly increasing with time, starting at 0 kW when crossing the start light barrier.\\nCalculate the maximum energy in kJ that may be used during a run that takes 3.95 s (uncorrected) without exceeding 80 kW power! Round to the nearest one.    ",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1807,
+        "question_id": 449,
+        "answer_text": "158",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1807,
+        "question_id": 449,
+        "answer_text": "158",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

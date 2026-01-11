@@ -1,0 +1,81 @@
+[
+  {
+    "question_id": 170,
+    "text": "Measuring the ground clearance (gc) of our car, we have seen that without driver the gc=34mm, with the endurance driver gc=31mm and with the skid pad driver gc=28mm. Which of the following sentences is correct?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 666,
+        "question_id": 170,
+        "answer_text": "We will have no ground clearance penalization, because the minimum ground clearance is 20mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 667,
+        "question_id": 170,
+        "answer_text": "We will be penalized with Disqualified (DQ) only for that particular runs where ground clearance is violated",
+        "is_correct": true
+      },
+      {
+        "answer_id": 668,
+        "question_id": 170,
+        "answer_text": "The team will be penalized in all the dynamic events, because the minimum gc=30mm with driver",
+        "is_correct": false
+      },
+      {
+        "answer_id": 669,
+        "question_id": 170,
+        "answer_text": "We will not be penalized, because the minimum gc=30mm without driver",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 36,
+        "question_id": 170,
+        "text": "T2.3.2 und IN12.1.5",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 666,
+        "question_id": 170,
+        "answer_text": "We will have no ground clearance penalization, because the minimum ground clearance is 20mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 667,
+        "question_id": 170,
+        "answer_text": "We will be penalized with Disqualified (DQ) only for that particular runs where ground clearance is violated",
+        "is_correct": true
+      },
+      {
+        "answer_id": 668,
+        "question_id": 170,
+        "answer_text": "The team will be penalized in all the dynamic events, because the minimum gc=30mm with driver",
+        "is_correct": false
+      },
+      {
+        "answer_id": 669,
+        "question_id": 170,
+        "answer_text": "We will not be penalized, because the minimum gc=30mm without driver",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  }
+]

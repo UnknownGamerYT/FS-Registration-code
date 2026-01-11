@@ -1,0 +1,136 @@
+[
+  {
+    "question_id": 27,
+    "text": "Your car is the ultimate accelerating machine and is able to lift the front tires off the track during the first section of the acceleration event!\nYour wheelbase is the required minimum your weight distribution with driver is 70% rear and you are using the latest tires with a friction coefficient of µ=2 (CoF).\nWhat is the minimum possible height of your center of gravity of your car to show the mentioned behaviour?\nAnswer in [m], rounded to 0.01",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 110,
+        "question_id": 27,
+        "answer_text": "0.23",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 13,
+        "question_id": 27,
+        "text": "Calculate the sum of moments around the CG. Front axle load = 0",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 110,
+        "question_id": 27,
+        "answer_text": "0.23",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 28,
+    "text": "You do an acceleration run​.\nYour car constantly accelerates with 10m/s^2. After 10 meters your engine die an deliver no power any more. Your car constantly deaccelerates with 0.2 m/s^2.​\nHow far do you make it from the start.\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 111,
+        "question_id": 28,
+        "answer_text": "509.85",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 14,
+        "question_id": 28,
+        "text": "use the timeless formula for constant acceleration: v=sqrt(2*acc*dist)",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 111,
+        "question_id": 28,
+        "answer_text": "509.85",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 29,
+    "text": "Your car has a suspension geometry with zero caster, camber and toe. The tire contact path is assumed to be linear, the contact force distribution is assumed to be triangular (see image). How much steering torque applied on the steering wheel is required to move the steering from the center postion during standstill?\nTire width w: 7 inch\nControl rod arm e: 95mm\nPinion meshing diameter d: 34mm\nWeight of car /w driver 272kg\nWeight distrubution /w driver: 48% Rear\nStatic tire µ: 1.5 (CoF)\ng= 9.81 m/s²\nAnswer in [Nm] rounded to .1",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 112,
+        "question_id": 29,
+        "answer_text": "8.5",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 15,
+        "question_id": 29,
+        "text": "The triangular load can be replaced by a vector at 1/3*1/2w distance from the center.",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000029__img000005__29_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 112,
+        "question_id": 29,
+        "answer_text": "8.5",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "question_id": 647,
+    "text": "Autocross Scorring: Competing in the FSA 2023 autocross event, your team achieves the following run times: The fastest time in your class is 00:58.49. What is your final autocross score? Round your result to the nearest integer.",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2443,
+        "question_id": 647,
+        "answer_text": "72 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2444,
+        "question_id": 647,
+        "answer_text": "57 points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2445,
+        "question_id": 647,
+        "answer_text": "83 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2446,
+        "question_id": 647,
+        "answer_text": "56 points",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 132,
+        "question_id": 647,
+        "text": "D6.3.1 and D6.3.2",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000647__img000173__647_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2443,
+        "question_id": 647,
+        "answer_text": "72 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2444,
+        "question_id": 647,
+        "answer_text": "57 points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2445,
+        "question_id": 647,
+        "answer_text": "83 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2446,
+        "question_id": 647,
+        "answer_text": "56 points",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 648,
+    "text": "Late in the evening at the FSA campsite, your team is using just ine electic socket to supply all appliances with power. This socket has a single phase with 230V AC (RMS) and a 16A fuse. The lights in your tem tent use 100W. Cooking dinner for the hungry team on an electric stove uses 2500W. Six laptops, to prepare static events tomorrow, are plugged into the chargers at 65W each.A very hungry team member wants to make some popcorn in the microwave using 800W. How many laptops does he have to unplug to not blow the fuse which will not trip when plugging in / starting an appliance but will trip exactly at the specified power rating in the time it takes the popcorn to cook)",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2447,
+        "question_id": 648,
+        "answer_text": "2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2448,
+        "question_id": 648,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2449,
+        "question_id": 648,
+        "answer_text": "the fuse will blow even if all laptops are unplugged.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2450,
+        "question_id": 648,
+        "answer_text": "4",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2447,
+        "question_id": 648,
+        "answer_text": "2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2448,
+        "question_id": 648,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2449,
+        "question_id": 648,
+        "answer_text": "the fuse will blow even if all laptops are unplugged.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2450,
+        "question_id": 648,
+        "answer_text": "4",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 650,
+    "text": "Your team is very motivated to get the car ready for the VSV. At 23:30, all preparations are finished and yout decide to immediately film the video and upload it to the FSA homepage and celebarate this success. Your also send the video to the rest of your team members, who are not present, to share the wonderful moment.The next morning, a few team members contact you, wanting to film the video again, because they think it will fail upon review.Which of them is right?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2452,
+        "question_id": 650,
+        "answer_text": "The submissison may fail, because it was filmed at night, running under low visibility conditions.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2453,
+        "question_id": 650,
+        "answer_text": "The submission may fail, because after the car stops at the end of the video, the loud cheering of the present team members is embarrassing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2454,
+        "question_id": 650,
+        "answer_text": "The submission may fail, because not all 4 wheels are locking, when braking at the end.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2455,
+        "question_id": 650,
+        "answer_text": "The submission may fail, because the car is not painted yet.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2452,
+        "question_id": 650,
+        "answer_text": "The submissison may fail, because it was filmed at night, running under low visibility conditions.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2453,
+        "question_id": 650,
+        "answer_text": "The submission may fail, because after the car stops at the end of the video, the loud cheering of the present team members is embarrassing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2454,
+        "question_id": 650,
+        "answer_text": "The submission may fail, because not all 4 wheels are locking, when braking at the end.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2455,
+        "question_id": 650,
+        "answer_text": "The submission may fail, because the car is not painted yet.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 659,
+    "text": "Document Review Failed: What happens if the uploaded document is set to \"failed\" by an offical during the SES document review?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2488,
+        "question_id": 659,
+        "answer_text": "The team leader must write an apology email and upload the new document within 24 hours on order to avoid penalties.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2489,
+        "question_id": 659,
+        "answer_text": "The team has to upload a corrected version within 168 hours in order not to be de-registered from the event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2490,
+        "question_id": 659,
+        "answer_text": "The team will receive 10 penalty points, which will be added to the total score.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2491,
+        "question_id": 659,
+        "answer_text": "The team has to upload a corrected version within tow weeks in order to avoid penalties.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2488,
+        "question_id": 659,
+        "answer_text": "The team leader must write an apology email and upload the new document within 24 hours on order to avoid penalties.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2489,
+        "question_id": 659,
+        "answer_text": "The team has to upload a corrected version within 168 hours in order not to be de-registered from the event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2490,
+        "question_id": 659,
+        "answer_text": "The team will receive 10 penalty points, which will be added to the total score.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2491,
+        "question_id": 659,
+        "answer_text": "The team has to upload a corrected version within tow weeks in order to avoid penalties.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

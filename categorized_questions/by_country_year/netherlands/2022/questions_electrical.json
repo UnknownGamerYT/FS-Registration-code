@@ -1,0 +1,150 @@
+[
+  {
+    "question_id": 429,
+    "text": "For this Wheatstone Bridge based NTC temperature measurement circuit, which is the lowest voltage measurement (VAB) that is possible to obtain at 60°C? (NTC B: 3435  /-1%)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1735,
+        "question_id": 429,
+        "answer_text": "2.58 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1736,
+        "question_id": 429,
+        "answer_text": "2.47 V",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1737,
+        "question_id": 429,
+        "answer_text": "2.56 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1738,
+        "question_id": 429,
+        "answer_text": "2.49 V",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000429__img000094__429_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1735,
+        "question_id": 429,
+        "answer_text": "2.58 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1736,
+        "question_id": 429,
+        "answer_text": "2.47 V",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1737,
+        "question_id": 429,
+        "answer_text": "2.56 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1738,
+        "question_id": 429,
+        "answer_text": "2.49 V",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 430,
+    "text": "How long will it take to discharge C1 below 60V using the following constant current sink if it is initially charged at 565V? (MOSFET's VGSth: 4V)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1739,
+        "question_id": 430,
+        "answer_text": "2.23 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1740,
+        "question_id": 430,
+        "answer_text": "5.42 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1741,
+        "question_id": 430,
+        "answer_text": "3.56 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1742,
+        "question_id": 430,
+        "answer_text": "4.71 s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000430__img000095__430_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1739,
+        "question_id": 430,
+        "answer_text": "2.23 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1740,
+        "question_id": 430,
+        "answer_text": "5.42 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1741,
+        "question_id": 430,
+        "answer_text": "3.56 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1742,
+        "question_id": 430,
+        "answer_text": "4.71 s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

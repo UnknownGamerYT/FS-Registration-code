@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 695,
+    "text": "On a track day, you perform your first Skidpad run with a full aero package (Cl= 2.8, Cd = 1.1, m = 200 kg, A = 1.2 m2). On your second run, your aero team decides to remove the aero package that weighs 20 kg (Cl = -0.3, Cd = 0.6, A = 0.9 m2). Calculate the percentage difference in the max cornering speed between the first and second run, assuming that the vehicle moves in the middle of the track as a point of mass with no driving resistance. \\n (round to the nearest one decimal place)\\n μ = 1,5; g = 9.81 m/s2; ρ=1,1 kg/m3",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2610,
+        "question_id": 695,
+        "answer_text": "-7,1%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2611,
+        "question_id": 695,
+        "answer_text": "7,0% ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2612,
+        "question_id": 695,
+        "answer_text": "-6,0% ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2613,
+        "question_id": 695,
+        "answer_text": "7,1% ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2610,
+        "question_id": 695,
+        "answer_text": "-7,1%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2611,
+        "question_id": 695,
+        "answer_text": "7,0% ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2612,
+        "question_id": 695,
+        "answer_text": "-6,0% ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2613,
+        "question_id": 695,
+        "answer_text": "7,1% ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  }
+]

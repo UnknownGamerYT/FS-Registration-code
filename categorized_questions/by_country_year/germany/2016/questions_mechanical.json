@@ -1,0 +1,698 @@
+[
+  {
+    "question_id": 41,
+    "text": "Which type of fastening method is allowed for the mounting of the brake caliper?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 156,
+        "question_id": 41,
+        "answer_text": "Round head bolt metric grade 10.9 with prevailing torque lock nut",
+        "is_correct": false
+      },
+      {
+        "answer_id": 157,
+        "question_id": 41,
+        "answer_text": "Allen bolt metric grade 10.9 with any lon lock nut",
+        "is_correct": false
+      },
+      {
+        "answer_id": 158,
+        "question_id": 41,
+        "answer_text": "Allen bolt metric grade 10.9 bolt with a self locking helicoil",
+        "is_correct": false
+      },
+      {
+        "answer_id": 159,
+        "question_id": 41,
+        "answer_text": "Allen bolt metric grade 8.8 bolt with any lon locknut",
+        "is_correct": false
+      },
+      {
+        "answer_id": 160,
+        "question_id": 41,
+        "answer_text": "Hex headcap bolt metric grade 8.8 with prevailing torque locknut",
+        "is_correct": true
+      },
+      {
+        "answer_id": 161,
+        "question_id": 41,
+        "answer_text": "Hex headcap bolt metric grade 10.9 with Locktite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 162,
+        "question_id": 41,
+        "answer_text": "Flat head bolt metric grade 8.8 with lockwire",
+        "is_correct": false
+      },
+      {
+        "answer_id": 163,
+        "question_id": 41,
+        "answer_text": "Round head bolt metric grade 8.8 with Loctite",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 156,
+        "question_id": 41,
+        "answer_text": "Round head bolt metric grade 10.9 with prevailing torque lock nut",
+        "is_correct": false
+      },
+      {
+        "answer_id": 157,
+        "question_id": 41,
+        "answer_text": "Allen bolt metric grade 10.9 with any lon lock nut",
+        "is_correct": false
+      },
+      {
+        "answer_id": 158,
+        "question_id": 41,
+        "answer_text": "Allen bolt metric grade 10.9 bolt with a self locking helicoil",
+        "is_correct": false
+      },
+      {
+        "answer_id": 159,
+        "question_id": 41,
+        "answer_text": "Allen bolt metric grade 8.8 bolt with any lon locknut",
+        "is_correct": false
+      },
+      {
+        "answer_id": 160,
+        "question_id": 41,
+        "answer_text": "Hex headcap bolt metric grade 8.8 with prevailing torque locknut",
+        "is_correct": true
+      },
+      {
+        "answer_id": 161,
+        "question_id": 41,
+        "answer_text": "Hex headcap bolt metric grade 10.9 with Locktite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 162,
+        "question_id": 41,
+        "answer_text": "Flat head bolt metric grade 8.8 with lockwire",
+        "is_correct": false
+      },
+      {
+        "answer_id": 163,
+        "question_id": 41,
+        "answer_text": "Round head bolt metric grade 8.8 with Loctite",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 43,
+    "text": "How much is the maximum surface area difference between the minimum required fixed and move able head restraint type?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 170,
+        "question_id": 43,
+        "answer_text": "185 cm²",
+        "is_correct": true
+      },
+      {
+        "answer_id": 171,
+        "question_id": 43,
+        "answer_text": "235 cm²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 172,
+        "question_id": 43,
+        "answer_text": "30 inch²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 173,
+        "question_id": 43,
+        "answer_text": "36 inch²",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 170,
+        "question_id": 43,
+        "answer_text": "185 cm²",
+        "is_correct": true
+      },
+      {
+        "answer_id": 171,
+        "question_id": 43,
+        "answer_text": "235 cm²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 172,
+        "question_id": 43,
+        "answer_text": "30 inch²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 173,
+        "question_id": 43,
+        "answer_text": "36 inch²",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 44,
+    "text": "What is the minimum height of the school name?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 174,
+        "question_id": 44,
+        "answer_text": "44 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 175,
+        "question_id": 44,
+        "answer_text": "46 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 176,
+        "question_id": 44,
+        "answer_text": "48 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 177,
+        "question_id": 44,
+        "answer_text": "50 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 178,
+        "question_id": 44,
+        "answer_text": "56 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 179,
+        "question_id": 44,
+        "answer_text": "60 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 174,
+        "question_id": 44,
+        "answer_text": "44 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 175,
+        "question_id": 44,
+        "answer_text": "46 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 176,
+        "question_id": 44,
+        "answer_text": "48 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 177,
+        "question_id": 44,
+        "answer_text": "50 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 178,
+        "question_id": 44,
+        "answer_text": "56 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 179,
+        "question_id": 44,
+        "answer_text": "60 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 45,
+    "text": "What is the minimum volume of an oil catch-can connected to a vent of a transmission containing 14 liters of oil?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 180,
+        "question_id": 45,
+        "answer_text": "0.9 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 181,
+        "question_id": 45,
+        "answer_text": "0.5 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 182,
+        "question_id": 45,
+        "answer_text": "1.0 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 183,
+        "question_id": 45,
+        "answer_text": "1.2 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 184,
+        "question_id": 45,
+        "answer_text": "0.05 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 185,
+        "question_id": 45,
+        "answer_text": "1.4 liter",
+        "is_correct": true
+      },
+      {
+        "answer_id": 186,
+        "question_id": 45,
+        "answer_text": "1.5 liter",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 180,
+        "question_id": 45,
+        "answer_text": "0.9 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 181,
+        "question_id": 45,
+        "answer_text": "0.5 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 182,
+        "question_id": 45,
+        "answer_text": "1.0 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 183,
+        "question_id": 45,
+        "answer_text": "1.2 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 184,
+        "question_id": 45,
+        "answer_text": "0.05 liter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 185,
+        "question_id": 45,
+        "answer_text": "1.4 liter",
+        "is_correct": true
+      },
+      {
+        "answer_id": 186,
+        "question_id": 45,
+        "answer_text": "1.5 liter",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 46,
+    "text": "What is the procentual deviation of the yield strength between a grade 8.8 and a grade 10.9 bolt?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 187,
+        "question_id": 46,
+        "answer_text": "40.6 %",
+        "is_correct": false
+      },
+      {
+        "answer_id": 188,
+        "question_id": 46,
+        "answer_text": "80.7 %",
+        "is_correct": false
+      },
+      {
+        "answer_id": 189,
+        "question_id": 46,
+        "answer_text": "28.9 %",
+        "is_correct": false
+      },
+      {
+        "answer_id": 190,
+        "question_id": 46,
+        "answer_text": "19.3 %",
+        "is_correct": false
+      },
+      {
+        "answer_id": 191,
+        "question_id": 46,
+        "answer_text": "71.1 %",
+        "is_correct": true
+      },
+      {
+        "answer_id": 192,
+        "question_id": 46,
+        "answer_text": "140.6 %",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 187,
+        "question_id": 46,
+        "answer_text": "40.6 %",
+        "is_correct": false
+      },
+      {
+        "answer_id": 188,
+        "question_id": 46,
+        "answer_text": "80.7 %",
+        "is_correct": false
+      },
+      {
+        "answer_id": 189,
+        "question_id": 46,
+        "answer_text": "28.9 %",
+        "is_correct": false
+      },
+      {
+        "answer_id": 190,
+        "question_id": 46,
+        "answer_text": "19.3 %",
+        "is_correct": false
+      },
+      {
+        "answer_id": 191,
+        "question_id": 46,
+        "answer_text": "71.1 %",
+        "is_correct": true
+      },
+      {
+        "answer_id": 192,
+        "question_id": 46,
+        "answer_text": "140.6 %",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 50,
+    "text": "How many non-removeble pylons are used to construct the two circles for the skid pad?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 207,
+        "question_id": 50,
+        "answer_text": "29",
+        "is_correct": true
+      },
+      {
+        "answer_id": 208,
+        "question_id": 50,
+        "answer_text": "58",
+        "is_correct": false
+      },
+      {
+        "answer_id": 209,
+        "question_id": 50,
+        "answer_text": "59",
+        "is_correct": false
+      },
+      {
+        "answer_id": 210,
+        "question_id": 50,
+        "answer_text": "26",
+        "is_correct": false
+      },
+      {
+        "answer_id": 211,
+        "question_id": 50,
+        "answer_text": "32",
+        "is_correct": false
+      },
+      {
+        "answer_id": 212,
+        "question_id": 50,
+        "answer_text": "13",
+        "is_correct": false
+      },
+      {
+        "answer_id": 213,
+        "question_id": 50,
+        "answer_text": "16",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 207,
+        "question_id": 50,
+        "answer_text": "29",
+        "is_correct": true
+      },
+      {
+        "answer_id": 208,
+        "question_id": 50,
+        "answer_text": "58",
+        "is_correct": false
+      },
+      {
+        "answer_id": 209,
+        "question_id": 50,
+        "answer_text": "59",
+        "is_correct": false
+      },
+      {
+        "answer_id": 210,
+        "question_id": 50,
+        "answer_text": "26",
+        "is_correct": false
+      },
+      {
+        "answer_id": 211,
+        "question_id": 50,
+        "answer_text": "32",
+        "is_correct": false
+      },
+      {
+        "answer_id": 212,
+        "question_id": 50,
+        "answer_text": "13",
+        "is_correct": false
+      },
+      {
+        "answer_id": 213,
+        "question_id": 50,
+        "answer_text": "16",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 51,
+    "text": "What is the weight of the driver according to the FSAE2016 rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 214,
+        "question_id": 51,
+        "answer_text": "80 kilo",
+        "is_correct": false
+      },
+      {
+        "answer_id": 215,
+        "question_id": 51,
+        "answer_text": "75 kilo",
+        "is_correct": false
+      },
+      {
+        "answer_id": 216,
+        "question_id": 51,
+        "answer_text": "76 kilo",
+        "is_correct": false
+      },
+      {
+        "answer_id": 217,
+        "question_id": 51,
+        "answer_text": "79 kilo",
+        "is_correct": false
+      },
+      {
+        "answer_id": 218,
+        "question_id": 51,
+        "answer_text": "77 kilo",
+        "is_correct": true
+      },
+      {
+        "answer_id": 219,
+        "question_id": 51,
+        "answer_text": "78 kilo",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 214,
+        "question_id": 51,
+        "answer_text": "80 kilo",
+        "is_correct": false
+      },
+      {
+        "answer_id": 215,
+        "question_id": 51,
+        "answer_text": "75 kilo",
+        "is_correct": false
+      },
+      {
+        "answer_id": 216,
+        "question_id": 51,
+        "answer_text": "76 kilo",
+        "is_correct": false
+      },
+      {
+        "answer_id": 217,
+        "question_id": 51,
+        "answer_text": "79 kilo",
+        "is_correct": false
+      },
+      {
+        "answer_id": 218,
+        "question_id": 51,
+        "answer_text": "77 kilo",
+        "is_correct": true
+      },
+      {
+        "answer_id": 219,
+        "question_id": 51,
+        "answer_text": "78 kilo",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

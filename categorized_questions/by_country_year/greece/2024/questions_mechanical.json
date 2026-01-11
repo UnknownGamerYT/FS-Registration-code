@@ -1,0 +1,654 @@
+[
+  {
+    "question_id": 685,
+    "text": "Which shape of steering wheel can be used in an FSAE car:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2570,
+        "question_id": 685,
+        "answer_text": "FW 45 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2571,
+        "question_id": 685,
+        "answer_text": "Ferrari F1 1989",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2572,
+        "question_id": 685,
+        "answer_text": "Ferrari 499P",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2573,
+        "question_id": 685,
+        "answer_text": "Mazda MX-3 1985",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2570,
+        "question_id": 685,
+        "answer_text": "FW 45 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2571,
+        "question_id": 685,
+        "answer_text": "Ferrari F1 1989",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2572,
+        "question_id": 685,
+        "answer_text": "Ferrari 499P",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2573,
+        "question_id": 685,
+        "answer_text": "Mazda MX-3 1985",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 686,
+    "text": "What is true about ground clearance?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2574,
+        "question_id": 686,
+        "answer_text": "Active suspension systems can go below 30mm if you pass the inspection at a higher setting ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2575,
+        "question_id": 686,
+        "answer_text": "You can have a dynamic ground clearance of less than 30mm ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2576,
+        "question_id": 686,
+        "answer_text": "You can’t have ground clearance of more than 45mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2577,
+        "question_id": 686,
+        "answer_text": "Your ground clearance is always greater when you start your endurance run than when you finish ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2574,
+        "question_id": 686,
+        "answer_text": "Active suspension systems can go below 30mm if you pass the inspection at a higher setting ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2575,
+        "question_id": 686,
+        "answer_text": "You can have a dynamic ground clearance of less than 30mm ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2576,
+        "question_id": 686,
+        "answer_text": "You can’t have ground clearance of more than 45mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2577,
+        "question_id": 686,
+        "answer_text": "Your ground clearance is always greater when you start your endurance run than when you finish ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 687,
+    "text": "The energy absorbed in the IA test must meet or exceed:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2578,
+        "question_id": 687,
+        "answer_text": "1756.6921616119 cal-th ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2579,
+        "question_id": 687,
+        "answer_text": "0.0020416667 kWh ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2580,
+        "question_id": 687,
+        "answer_text": "8000 J ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2581,
+        "question_id": 687,
+        "answer_text": "40,788.089 ev ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2578,
+        "question_id": 687,
+        "answer_text": "1756.6921616119 cal-th ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2579,
+        "question_id": 687,
+        "answer_text": "0.0020416667 kWh ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2580,
+        "question_id": 687,
+        "answer_text": "8000 J ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2581,
+        "question_id": 687,
+        "answer_text": "40,788.089 ev ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 688,
+    "text": "Which is true:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2582,
+        "question_id": 688,
+        "answer_text": "Prevailing torque locknuts are not allowed to be used in locations over 80oC. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2583,
+        "question_id": 688,
+        "answer_text": "A tube with a wall thickness of 0.05 inch and minimum moment of inertia 0.01609 inch^4 will be accessed to any rule regarding the vehicle structure. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2584,
+        "question_id": 688,
+        "answer_text": "During the driver change, the team can adjust the head restrain ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2585,
+        "question_id": 688,
+        "answer_text": "An EDR of twelve pages will not be evaluated ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2582,
+        "question_id": 688,
+        "answer_text": "Prevailing torque locknuts are not allowed to be used in locations over 80oC. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2583,
+        "question_id": 688,
+        "answer_text": "A tube with a wall thickness of 0.05 inch and minimum moment of inertia 0.01609 inch^4 will be accessed to any rule regarding the vehicle structure. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2584,
+        "question_id": 688,
+        "answer_text": "During the driver change, the team can adjust the head restrain ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2585,
+        "question_id": 688,
+        "answer_text": "An EDR of twelve pages will not be evaluated ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 689,
+    "text": "Given a countercurrent heat exchanger that heats water from 20C to 80C using steam at 100C. The overall coefficient of heat transfer is U=20kJ/m^2K. The mass flow rate of the water is 1kg/s. The heat capacity of the water is Cp=4.18 kJ/kgK. Assume that F=1. Calculate the area (in m^2) required for the exchange.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2586,
+        "question_id": 689,
+        "answer_text": "0.2897 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2587,
+        "question_id": 689,
+        "answer_text": "0.5795 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2588,
+        "question_id": 689,
+        "answer_text": "0.1449 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2589,
+        "question_id": 689,
+        "answer_text": "0.1375 ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2586,
+        "question_id": 689,
+        "answer_text": "0.2897 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2587,
+        "question_id": 689,
+        "answer_text": "0.5795 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2588,
+        "question_id": 689,
+        "answer_text": "0.1449 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2589,
+        "question_id": 689,
+        "answer_text": "0.1375 ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 691,
+    "text": "Does this track comply with the rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2595,
+        "question_id": 691,
+        "answer_text": "Yes ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2596,
+        "question_id": 691,
+        "answer_text": "No ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2597,
+        "question_id": 691,
+        "answer_text": "Not enough information ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000691__img000186__691_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2595,
+        "question_id": 691,
+        "answer_text": "Yes ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2596,
+        "question_id": 691,
+        "answer_text": "No ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2597,
+        "question_id": 691,
+        "answer_text": "Not enough information ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 694,
+    "text": "Calculate the % of this investment using the following data: investment: 100.000$ duration: 5 years return: 250.000€ USD/EUR: 0,9175",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2606,
+        "question_id": 694,
+        "answer_text": "150% ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2607,
+        "question_id": 694,
+        "answer_text": "129,38% ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2608,
+        "question_id": 694,
+        "answer_text": "172,48% ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2609,
+        "question_id": 694,
+        "answer_text": "216,38% ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2606,
+        "question_id": 694,
+        "answer_text": "150% ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2607,
+        "question_id": 694,
+        "answer_text": "129,38% ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2608,
+        "question_id": 694,
+        "answer_text": "172,48% ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2609,
+        "question_id": 694,
+        "answer_text": "216,38% ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 696,
+    "text": "Which roll hoops are rule-compliant?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2614,
+        "question_id": 696,
+        "answer_text": "2,3,4 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2615,
+        "question_id": 696,
+        "answer_text": "2,4 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2616,
+        "question_id": 696,
+        "answer_text": "2,5,6 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2617,
+        "question_id": 696,
+        "answer_text": "2 ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000696__img000188__696_4.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2614,
+        "question_id": 696,
+        "answer_text": "2,3,4 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2615,
+        "question_id": 696,
+        "answer_text": "2,4 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2616,
+        "question_id": 696,
+        "answer_text": "2,5,6 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2617,
+        "question_id": 696,
+        "answer_text": "2 ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 699,
+    "text": "How many Prime Ministers with the name Papandreou were elected in Greece:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2626,
+        "question_id": 699,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2627,
+        "question_id": 699,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2628,
+        "question_id": 699,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2629,
+        "question_id": 699,
+        "answer_text": "3",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2630,
+        "question_id": 699,
+        "answer_text": "TBA",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2626,
+        "question_id": 699,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2627,
+        "question_id": 699,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2628,
+        "question_id": 699,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2629,
+        "question_id": 699,
+        "answer_text": "3",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2630,
+        "question_id": 699,
+        "answer_text": "TBA",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  }
+]

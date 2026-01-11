@@ -1,0 +1,245 @@
+[
+  {
+    "question_id": 600,
+    "text": "Which statement about the maximal permitted AC voltage in LV systems is false?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2301,
+        "question_id": 600,
+        "answer_text": "a) Maximum peak voltage is 70.41 V",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2302,
+        "question_id": 600,
+        "answer_text": "b) Maximum peak-to-peak voltage is 141.42 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2303,
+        "question_id": 600,
+        "answer_text": "c) Maximum average voltage is 50V",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2304,
+        "question_id": 600,
+        "answer_text": "d) The peak AC voltage can be greater than the maximum DC voltage",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 108,
+        "question_id": 600,
+        "text": "Maximum permitted AC voltage is 50V RMS (root median square)\\n So the maximum peak voltage is 50*sqr(2)=70.71 (A is true [After Protest: is false])\\n Which is greater than the maximum DC (60V) (D is true)\\n The maximum peak-to-peak is 2*peak=141.42 V (B is true)\\n The maximum average voltage is RMS/1.1111 = 45 V (C is false)",
+        "images": [
+          {
+            "img_id": 156,
+            "path": "solutions/600_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2301,
+        "question_id": 600,
+        "answer_text": "a) Maximum peak voltage is 70.41 V",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2302,
+        "question_id": 600,
+        "answer_text": "b) Maximum peak-to-peak voltage is 141.42 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2303,
+        "question_id": 600,
+        "answer_text": "c) Maximum average voltage is 50V",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2304,
+        "question_id": 600,
+        "answer_text": "d) The peak AC voltage can be greater than the maximum DC voltage",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 609,
+    "text": "How long will it take to charge a 6,1kWh battery from the 20% of SOC, with an initial voltage of 510V, to the 80% of SOC, with a final voltage of 550V, using a 5,5kW charger with a current setpoint of 12A and 580V of maximum voltage? Round your answer.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2337,
+        "question_id": 609,
+        "answer_text": "32 minutes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2338,
+        "question_id": 609,
+        "answer_text": "40 minutes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2339,
+        "question_id": 609,
+        "answer_text": "47 minutes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2340,
+        "question_id": 609,
+        "answer_text": "53 minutes",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 117,
+        "question_id": 609,
+        "text": "The 12A setpoint for the battery voltage range results in the charger being limited by its maximum power; therefore, the battery is charged at 5,5kW. Charging the battery from 20% to 80% results in 3,66kWh of energy required. If these 3,66kWh are charged at 5,5kW it’ll take about 40 minutes.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2337,
+        "question_id": 609,
+        "answer_text": "32 minutes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2338,
+        "question_id": 609,
+        "answer_text": "40 minutes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2339,
+        "question_id": 609,
+        "answer_text": "47 minutes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2340,
+        "question_id": 609,
+        "answer_text": "53 minutes",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 610,
+    "text": "The maximum TS voltage of an EV car is 110 V DC, from what voltage should it be indicated on the TSAC?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2341,
+        "question_id": 610,
+        "answer_text": "55V DC",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2342,
+        "question_id": 610,
+        "answer_text": "60V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2343,
+        "question_id": 610,
+        "answer_text": "100V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2344,
+        "question_id": 610,
+        "answer_text": "110V DC",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 118,
+        "question_id": 610,
+        "text": "EV5.4.8 (55V < 60V)",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2341,
+        "question_id": 610,
+        "answer_text": "55V DC",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2342,
+        "question_id": 610,
+        "answer_text": "60V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2343,
+        "question_id": 610,
+        "answer_text": "100V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2344,
+        "question_id": 610,
+        "answer_text": "110V DC",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

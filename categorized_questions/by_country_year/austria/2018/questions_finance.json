@@ -1,0 +1,295 @@
+[
+  {
+    "question_id": 468,
+    "text": "What is the penalty for not being ready to drive in the endurance at your designated time slot?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1859,
+        "question_id": 468,
+        "answer_text": "10s penalty on the endurance time for each (following) time slot that is missed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1860,
+        "question_id": 468,
+        "answer_text": "2 min penalty on the endurance time",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1861,
+        "question_id": 468,
+        "answer_text": "no penalty if the team is able to start their run at a later time slot, (e.g. at the end of endurance event)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1862,
+        "question_id": 468,
+        "answer_text": "200s penalty on the endurance time",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1863,
+        "question_id": 468,
+        "answer_text": "50 points penalty",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1859,
+        "question_id": 468,
+        "answer_text": "10s penalty on the endurance time for each (following) time slot that is missed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1860,
+        "question_id": 468,
+        "answer_text": "2 min penalty on the endurance time",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1861,
+        "question_id": 468,
+        "answer_text": "no penalty if the team is able to start their run at a later time slot, (e.g. at the end of endurance event)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1862,
+        "question_id": 468,
+        "answer_text": "200s penalty on the endurance time",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1863,
+        "question_id": 468,
+        "answer_text": "50 points penalty",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 470,
+    "text": "Use the given linear single track model and parameters of a formula student vehicle to calculate the side slip angle ẞ during skid pad (quasi static cornering).\\n Assume the vehicle is driving on the centreline and the run time is 5.5 sec (no penalties). Calculation hints: use full precision for intermediate results and pi.\\n ay is the lateral acceleration\\n Answer: in degrees, round to 0.01",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1868,
+        "question_id": 470,
+        "answer_text": "1.98",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000470__img000119__470_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1868,
+        "question_id": 470,
+        "answer_text": "1.98",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 475,
+    "text": "You have fitted your 4WD car with a 3-axis accelerometer and  have carefully aligned and zeroed it before the test session. In the data, you notice that at higher speeds the filtered z (vertical) acceleration drifts toward 0.98g but goes back when driving slowly.\\n What could be going on?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1883,
+        "question_id": 475,
+        "answer_text": "You are experiencing aero balance shift and chassis pitch",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1884,
+        "question_id": 475,
+        "answer_text": "Your sensor is mounted at an angle",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1885,
+        "question_id": 475,
+        "answer_text": "Your suspension stiffens up at high speeds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1886,
+        "question_id": 475,
+        "answer_text": "Only driven wheels grow bigger at higher speeds, jacking up the rear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1887,
+        "question_id": 475,
+        "answer_text": "The car creates lift and therfore you measure a smaller g",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1883,
+        "question_id": 475,
+        "answer_text": "You are experiencing aero balance shift and chassis pitch",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1884,
+        "question_id": 475,
+        "answer_text": "Your sensor is mounted at an angle",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1885,
+        "question_id": 475,
+        "answer_text": "Your suspension stiffens up at high speeds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1886,
+        "question_id": 475,
+        "answer_text": "Only driven wheels grow bigger at higher speeds, jacking up the rear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1887,
+        "question_id": 475,
+        "answer_text": "The car creates lift and therfore you measure a smaller g",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      45
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 477,
+    "text": "What is not true for the business plan excutive summary?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1900,
+        "question_id": 477,
+        "answer_text": "The Executive Summary is part of the Business Presentation Judging",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1901,
+        "question_id": 477,
+        "answer_text": "The name of the University must be given",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1902,
+        "question_id": 477,
+        "answer_text": "A picture of the car has to be included",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1903,
+        "question_id": 477,
+        "answer_text": "The number of the team has to be in the right top corner",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1904,
+        "question_id": 477,
+        "answer_text": "The template for the UK business logic case can be used",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1900,
+        "question_id": 477,
+        "answer_text": "The Executive Summary is part of the Business Presentation Judging",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1901,
+        "question_id": 477,
+        "answer_text": "The name of the University must be given",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1902,
+        "question_id": 477,
+        "answer_text": "A picture of the car has to be included",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1903,
+        "question_id": 477,
+        "answer_text": "The number of the team has to be in the right top corner",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1904,
+        "question_id": 477,
+        "answer_text": "The template for the UK business logic case can be used",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

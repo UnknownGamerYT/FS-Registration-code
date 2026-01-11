@@ -1,0 +1,276 @@
+[
+  {
+    "question_id": 841,
+    "text": "You want ro replace the conventional fusing of your drive train's motors by using the programmable overcurrent protection of your Inverter. The motors as well as their connection cables shall be protected.\\n According to the inverter's manual, there is a fast and a slow shutdown limit for short-term and long-term protection. The table below shows the respective parameters.\\nThe measured current is compared to the threshold and a counter is counting upwards or downwards, depending on the comparator result. If the specified time is exceeded, the inverter output is shut down. \\n Excerpts from your motor's and cable's data sheet are shown below. Note: If the maximum operation time is exceeded, the motor may be damaged. Please allow the machine to cool down before operating again.\\n\\nWhich parameters do you set in the motor controller software? Mark the correct answer. ",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3159,
+        "question_id": 841,
+        "answer_text": "I_slow = 35A, t_slow = 3000s, I_fast = 80A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3160,
+        "question_id": 841,
+        "answer_text": "I_slow = 30A, t_slow = 7200s, I_fast = 200A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3161,
+        "question_id": 841,
+        "answer_text": "I_slow = 30A, t_slow = 3000s, I_fast = 80A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3162,
+        "question_id": 841,
+        "answer_text": "I_slow = 30A, t_slow = 3000s, I_fast = 200A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3163,
+        "question_id": 841,
+        "answer_text": "I_slow = 50A, t_slow = 3000s, I_fast = 80A",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 170,
+        "question_id": 841,
+        "text": "This Question is actually contradictory as the given continuous current rating of the cable of 30 A while the diagram of the cable's short-term current rating states less than 10 s at 30 A. Therefore, question has been removed from the quiz.",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000841__img000225__841_6.jpg",
+      "images\\q000841__img000226__841_7.jpg",
+      "images\\q000841__img000227__841_8.jpg",
+      "images\\q000841__img000228__841_9.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3159,
+        "question_id": 841,
+        "answer_text": "I_slow = 35A, t_slow = 3000s, I_fast = 80A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3160,
+        "question_id": 841,
+        "answer_text": "I_slow = 30A, t_slow = 7200s, I_fast = 200A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3161,
+        "question_id": 841,
+        "answer_text": "I_slow = 30A, t_slow = 3000s, I_fast = 80A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3162,
+        "question_id": 841,
+        "answer_text": "I_slow = 30A, t_slow = 3000s, I_fast = 200A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3163,
+        "question_id": 841,
+        "answer_text": "I_slow = 50A, t_slow = 3000s, I_fast = 80A",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 842,
+    "text": "Given is the three-dimensional circuit as shown. It consists of three resistors, each 4.7 kOhm, six capacitors, each 470 nF, and three inductors, each 4.7 μH.\\nCalculate the magnitude of the impedance |z| in kOhm between the input and output marked in red for a sinusoidal voltage of 12V and 50 Hz between the input and output. Round to two decimals.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 3164,
+        "question_id": 842,
+        "answer_text": "1.93",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000842__img000229__842_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3164,
+        "question_id": 842,
+        "answer_text": "1.93",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 844,
+    "text": "Consider a digital LVTTL signal from your pedalbox to your main control unit. The length / of the cable inbetween is 5m. Your motor controllers introduce a noise of 0.15 V per meter cable. To correct for that noise, you introduce 74LVC1G34, non-inverting buffers into the cable.\\nThe purpose of the buffer is to take a signal, to which a certain amount of noise has been added so that it would no longer meet the input specification of the static discipline, and clean it up so that it once again meets the output specification of the static discipline.\\nThe non-inverting LVTTL buffers, as well as the gates shown, obey the following static discipline:\\n\\nWhat is the minimum number of non-inverting LVTTL buffers required to connect inbetween in oder to ensure correct operation?",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3166,
+        "question_id": 844,
+        "answer_text": "1",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000844__img000231__844_1.jpg",
+      "images\\q000844__img000232__844_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3166,
+        "question_id": 844,
+        "answer_text": "1",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 845,
+    "text": "The figure shows the output voltage Vout versus the input voltage Vin as the transfer function of 74LVC1G34, a non-inverting LVTTL buffer.\\nThe non-inverting LVTTL buffer obeys the following static discipline:\\n\\nDoes the given tranfer curve satisfy the static discipline? Mark all correct answers.",
+    "type": "multi-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3167,
+        "question_id": 845,
+        "answer_text": "Yes, it satifies the static dicipline.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3168,
+        "question_id": 845,
+        "answer_text": "No, because the V(OL) is not met for all valid inputs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3169,
+        "question_id": 845,
+        "answer_text": "No, because the V(OH) is not met for all valid inputs.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000845__img000233__845_1.jpg",
+      "images\\q000845__img000234__845_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3167,
+        "question_id": 845,
+        "answer_text": "Yes, it satifies the static dicipline.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3168,
+        "question_id": 845,
+        "answer_text": "No, because the V(OL) is not met for all valid inputs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3169,
+        "question_id": 845,
+        "answer_text": "No, because the V(OH) is not met for all valid inputs.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 849,
+    "text": "You built a cannon to impress your friends with a basketball trickshot. It has a railgun-style accelerator with a length / of 1 m. Your cannon is tilted upwards by an angle a of 77.25° and is placed as depicted with the lower part in the origin of the coordinate system. The cannonball has a mass m of 0.567 kg. Assume that the capacitors have a total capacity C of 33 mF, that the standard acceleration due to gravity 9, is 980.665 cm/s^2 and that there is no friction and no energy loss.\\nWhat voltage do you need to charge the capacitors supplying the railgun to, in order to hit the basket at (4.191 m, 3.05 m). Round to the nearest one.",
+    "type": "input",
+    "time": 1200,
+    "answer_options": [
+      {
+        "answer_id": 3195,
+        "question_id": 849,
+        "answer_text": "46",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000849__img000238__849_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3195,
+        "question_id": 849,
+        "answer_text": "46",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "question_id": 649,
+    "text": "Coil Spring Design: You wnat to manufacture your own suspension coil springs to get exactly the right spring rate for your car. You have a spring steel wire with a diameter of 8mm and a shear modulus of 80GPa. The final spring should have an inside diameter of 50mm. How many active coils must your spring have to give you a spring rate of 42N/mm? Round your result to one decimal place. Please use the following format: 12.34",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2451,
+        "question_id": 649,
+        "answer_text": "5.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2451,
+        "question_id": 649,
+        "answer_text": "5.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 653,
+    "text": "Flags on Track: What does the red and yellow striped flag indicate?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2464,
+        "question_id": 653,
+        "answer_text": "Danger, the driver must slow down, something has beyond the flag station, no overtaking unless directed by the track marshals.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2465,
+        "question_id": 653,
+        "answer_text": "The driver must pull into the driver change area for a mechanical inspection of the vehicle, something has been observed that requires a closer inspection.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2466,
+        "question_id": 653,
+        "answer_text": "The driver must come to an immediate safe and controlled stop on the track and must follow track marshals directions.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2467,
+        "question_id": 653,
+        "answer_text": "The track is slippery or something is on the racing surface that should not be there. The driver must be prepared for evasive maneuvers to avoid the situation.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2464,
+        "question_id": 653,
+        "answer_text": "Danger, the driver must slow down, something has beyond the flag station, no overtaking unless directed by the track marshals.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2465,
+        "question_id": 653,
+        "answer_text": "The driver must pull into the driver change area for a mechanical inspection of the vehicle, something has been observed that requires a closer inspection.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2466,
+        "question_id": 653,
+        "answer_text": "The driver must come to an immediate safe and controlled stop on the track and must follow track marshals directions.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2467,
+        "question_id": 653,
+        "answer_text": "The track is slippery or something is on the racing surface that should not be there. The driver must be prepared for evasive maneuvers to avoid the situation.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 654,
+    "text": "Bonded Joints: Whitch of the following statements regarding the connection of components is correct?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2468,
+        "question_id": 654,
+        "answer_text": "Bonded joints without a mechanical backup are not permitted.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2469,
+        "question_id": 654,
+        "answer_text": "Only bounded joints that can be proven with an FEM simulation are accepted.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2470,
+        "question_id": 654,
+        "answer_text": "At bonded joints a 50% reduction shall be applied to all nominal and tested adhesive values and bonded joints in the primary structure must be shown in the SES.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2471,
+        "question_id": 654,
+        "answer_text": "Only values from data sheets may be used for calculations for bonded joints.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2468,
+        "question_id": 654,
+        "answer_text": "Bonded joints without a mechanical backup are not permitted.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2469,
+        "question_id": 654,
+        "answer_text": "Only bounded joints that can be proven with an FEM simulation are accepted.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2470,
+        "question_id": 654,
+        "answer_text": "At bonded joints a 50% reduction shall be applied to all nominal and tested adhesive values and bonded joints in the primary structure must be shown in the SES.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2471,
+        "question_id": 654,
+        "answer_text": "Only values from data sheets may be used for calculations for bonded joints.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 655,
+    "text": "Tube Bending Radius: The FSA cat wants to make the main hoop for its race car itself this year. To do this, its is using the thinnest-walled tube at the lowest allowed cross-section made of S355JR material available to it (according to the rules). What is the minimum inner radius of the finished bend in millimeters?",
+    "type": "single-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2472,
+        "question_id": 655,
+        "answer_text": "75mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2473,
+        "question_id": 655,
+        "answer_text": "82mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2474,
+        "question_id": 655,
+        "answer_text": "90mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2475,
+        "question_id": 655,
+        "answer_text": "63mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2472,
+        "question_id": 655,
+        "answer_text": "75mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2473,
+        "question_id": 655,
+        "answer_text": "82mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2474,
+        "question_id": 655,
+        "answer_text": "90mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2475,
+        "question_id": 655,
+        "answer_text": "63mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 660,
+    "text": "Front Impact Attenuator Systems: What is true regarding the Anti Intrusion Plate (AIP), the Impact Attenuator (IA) and its surroundings?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2492,
+        "question_id": 660,
+        "answer_text": "A rectangular 350x380mm AIP may be attached to the front bulkhead using 15 M6 grade 8.8 bolts",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2493,
+        "question_id": 660,
+        "answer_text": "If a standard aluminium honeycomb IA is bonded to a 4mm think aluminium AIP, there is no circumstance where officials can require additional physical testing or changes to the design",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2494,
+        "question_id": 660,
+        "answer_text": "A rectangular 350x380 AIP may be attached to the front bulkhead using 4 M10 grade 12.9 bolts if equivalent strangth to the required number of M8 grade 8.8 bolts can be shown",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2495,
+        "question_id": 660,
+        "answer_text": "No part of any IA may be above 350mm from the ground during the tech inspection",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2492,
+        "question_id": 660,
+        "answer_text": "A rectangular 350x380mm AIP may be attached to the front bulkhead using 15 M6 grade 8.8 bolts",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2493,
+        "question_id": 660,
+        "answer_text": "If a standard aluminium honeycomb IA is bonded to a 4mm think aluminium AIP, there is no circumstance where officials can require additional physical testing or changes to the design",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2494,
+        "question_id": 660,
+        "answer_text": "A rectangular 350x380 AIP may be attached to the front bulkhead using 4 M10 grade 12.9 bolts if equivalent strangth to the required number of M8 grade 8.8 bolts can be shown",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2495,
+        "question_id": 660,
+        "answer_text": "No part of any IA may be above 350mm from the ground during the tech inspection",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 661,
+    "text": "Frequencies: At which dominant frequency is a four-cylinder in-line engine with standard flat-plane crankshaft vibrating at an engine speed of 4500rpm? Assume that it is perfectly balanced through counter-weights located on the crankshaft. Give the result in HZ, round to the nearest integer.",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 2496,
+        "question_id": 661,
+        "answer_text": "75HZ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2497,
+        "question_id": 661,
+        "answer_text": "300HZ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2498,
+        "question_id": 661,
+        "answer_text": "4500HZ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2499,
+        "question_id": 661,
+        "answer_text": "150HZ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2496,
+        "question_id": 661,
+        "answer_text": "75HZ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2497,
+        "question_id": 661,
+        "answer_text": "300HZ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2498,
+        "question_id": 661,
+        "answer_text": "4500HZ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2499,
+        "question_id": 661,
+        "answer_text": "150HZ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "question_id": 715,
+    "text": "Your Team just received a package of components for your 2024 car including:\\n - Two 15kΩ, 15W TSMP resistors;\\n - Bender IR155-4203 device with response value set to 210kΩ;\\n - Opto-isolator for the TSAL (to be installed between TS and LV),\\n certified for 1250 [Vrms] with 1 minute AC isolation test\\n The maximum tractive system voltage of your car could be:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2686,
+        "question_id": 715,
+        "answer_text": "420 [V]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2687,
+        "question_id": 715,
+        "answer_text": "410 [V] ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2688,
+        "question_id": 715,
+        "answer_text": "400 [V] ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2689,
+        "question_id": 715,
+        "answer_text": "390 [V]",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2686,
+        "question_id": 715,
+        "answer_text": "420 [V]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2687,
+        "question_id": 715,
+        "answer_text": "410 [V] ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2688,
+        "question_id": 715,
+        "answer_text": "400 [V] ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2689,
+        "question_id": 715,
+        "answer_text": "390 [V]",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      76
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 716,
+    "text": "Your team is designing a battery pack for a Formula Student competition. The simulation team calculated that with derating ensuring optimal results in the Endurance event, you will need to use a total sum of 5.334 kWh of energy.\\n You are considering using three different cylindrical cells for your battery, and you are trying to judge which cell and pack configuration is the most optimal to use for your Formula Student race car. Your design criteria are: total weight of the cells, gravimetric energy density, gravimetric power density and compliance to the latest FS rules.\\n  Which of the proposed cell, segment, pack configurations is best optimized according to these criteria?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2690,
+        "question_id": 716,
+        "answer_text": "Cell A: 5 segments connected in series; single segment configuration 28S3P ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2691,
+        "question_id": 716,
+        "answer_text": "Cell A: 6 segments connected in series; single segment configuration 18S3P ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2692,
+        "question_id": 716,
+        "answer_text": "Cell B: 5 segments connected in series; single segment configuration 24S4P",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2693,
+        "question_id": 716,
+        "answer_text": "Cell C: 8 segments connected in series; single segment configuration 18S1P ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000716__img000195__716_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2690,
+        "question_id": 716,
+        "answer_text": "Cell A: 5 segments connected in series; single segment configuration 28S3P ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2691,
+        "question_id": 716,
+        "answer_text": "Cell A: 6 segments connected in series; single segment configuration 18S3P ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2692,
+        "question_id": 716,
+        "answer_text": "Cell B: 5 segments connected in series; single segment configuration 24S4P",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2693,
+        "question_id": 716,
+        "answer_text": "Cell C: 8 segments connected in series; single segment configuration 18S1P ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      76
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 718,
+    "text": "Two teams are competing in Skid Pad Event on FSP 2024, they have their second run. Both vehicles are running in the middle of the track. \\n - Car A has average coefficient of friction on both circles µA=1,32 [-], car B has average coefficient of friction on right circle µBr=1,51 [-] and on left circle µBl=1,27 [-]. \\n - Both vehicles have their maximum speed in steady state conditions and have full contact patch with the track. \\n - Which team is faster and what is the final run time difference according to procedure between those teams after finish Skid Pad event. \\n - Assume that aerodynamic resistance and downforce are negligible and g=9,81 m/sec^2.\\n Round the calculations and answer to hundredths. ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2698,
+        "question_id": 718,
+        "answer_text": "Team A is faster by 0,23 [s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2699,
+        "question_id": 718,
+        "answer_text": "Both teams have the same time ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2700,
+        "question_id": 718,
+        "answer_text": "Team B is faster by 0,18 [s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2701,
+        "question_id": 718,
+        "answer_text": "Team A is slower by 0,13 [s]",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2698,
+        "question_id": 718,
+        "answer_text": "Team A is faster by 0,23 [s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2699,
+        "question_id": 718,
+        "answer_text": "Both teams have the same time ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2700,
+        "question_id": 718,
+        "answer_text": "Team B is faster by 0,18 [s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2701,
+        "question_id": 718,
+        "answer_text": "Team A is slower by 0,13 [s]",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      76,
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 719,
+    "text": "The crystal structure denoted by A2 is a structure: ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2702,
+        "question_id": 719,
+        "answer_text": "Simple cubic",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2703,
+        "question_id": 719,
+        "answer_text": "Body-centered cubic ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2704,
+        "question_id": 719,
+        "answer_text": "Face-centered cubic",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2705,
+        "question_id": 719,
+        "answer_text": "Tetragonal-disphenoidal cubic",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2702,
+        "question_id": 719,
+        "answer_text": "Simple cubic",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2703,
+        "question_id": 719,
+        "answer_text": "Body-centered cubic ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2704,
+        "question_id": 719,
+        "answer_text": "Face-centered cubic",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2705,
+        "question_id": 719,
+        "answer_text": "Tetragonal-disphenoidal cubic",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      76,
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 721,
+    "text": "A cargo ship has left the port of Gdansk at a constant speed. The captain decided to increase the speed on open water. What is the expected draft (the distance between the waterline and the keel) change of the ship when the velocity is increased and steady state is reached, assuming laminar flow? ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2710,
+        "question_id": 721,
+        "answer_text": "Decreased draft",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2711,
+        "question_id": 721,
+        "answer_text": "Increased draft ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2712,
+        "question_id": 721,
+        "answer_text": "Increased at the rear end and decreased at the front end",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2713,
+        "question_id": 721,
+        "answer_text": "No change",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2710,
+        "question_id": 721,
+        "answer_text": "Decreased draft",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2711,
+        "question_id": 721,
+        "answer_text": "Increased draft ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2712,
+        "question_id": 721,
+        "answer_text": "Increased at the rear end and decreased at the front end",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2713,
+        "question_id": 721,
+        "answer_text": "No change",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      76,
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 722,
+    "text": "If distance of one lap during Endurance race on \"Autodrom Slomczyn\" racetrack is equal 1200 meters, and yours two last laps (e.g. 6th and 7th laps) had the same time equal 2 minutes and 31 second, Your Team:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2714,
+        "question_id": 722,
+        "answer_text": "Can be disqualified, in case the track is wet ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2715,
+        "question_id": 722,
+        "answer_text": "Can be disqualified, in case the track is dry",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2716,
+        "question_id": 722,
+        "answer_text": "Can continue the race, in case the track is dry ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2717,
+        "question_id": 722,
+        "answer_text": "Can continue the race, in every case on track conditions",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2714,
+        "question_id": 722,
+        "answer_text": "Can be disqualified, in case the track is wet ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2715,
+        "question_id": 722,
+        "answer_text": "Can be disqualified, in case the track is dry",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2716,
+        "question_id": 722,
+        "answer_text": "Can continue the race, in case the track is dry ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2717,
+        "question_id": 722,
+        "answer_text": "Can continue the race, in every case on track conditions",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      76,
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 724,
+    "text": "At T0 = 0, logic input (V1) switches from logic low V (Low) to logic high V (High).\\n Logic gate A1 is supplied from  5,0 [V] rail.\\n All elements are considered to be ideal. Calculate the exact time when C1 capacitor voltage (VC1) reaches 5,0 [V] level, with given:  \\n - V (Low) = 0 [V],  \\n - V (High) = 5,0 [V],  \\n - V (SUP) = 12,0 [V],  \\n - V (CC) = 15,0 [V],  \\n - V (EE) = -15,0 [V]\\n The result should be given in milliseconds [ms].\\n Note:\\n If a picture is too small, you can open it in new tab (mouse right button click > open image in new tab)\\n Enter your answer as a number rounded to 1 decimal place (e.g. 1,0 or 1,1). Use a comma (not a dot)",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2719,
+        "question_id": 724,
+        "answer_text": "5000,0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000724__img000197__724_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2719,
+        "question_id": 724,
+        "answer_text": "5000,0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      76,
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  }
+]

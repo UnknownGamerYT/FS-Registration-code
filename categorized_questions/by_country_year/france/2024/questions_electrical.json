@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": 839,
+    "text": "You want to enhance your CV vehicle with electric motors in the front wheels. You found motors and decided on an inverter, here are the specs:\\nMaximum Voltage: 80 V \\nMaximum Current: 200 A \\n\\nYou choose the following cells for your HSC:\\nManufacturer: Samsung SDI\\nModel: 25S (2)\\nSize: 18650\\nPositive Terminal: Flat Top\\nNominal Capacity: 2500 mAh\\nContinuous Discharge Rating (max): 25A without temperature cut / 35A with 80°C temperature cut\\nPeak Discharge Rating (max 10s): 100 A\\nNominal Voltage: 3.6 V\\nMaximum Voltage: 4.2 V\\nDischarge cut-off Voltage: 2.5 V\\nProtected: No\\nRechargeable: Yes\\nDimensions: 18.33 mm x 64.85 mm\\nWeight: 49 g\\nCountry of Origin: Republic of Korea or Malaysia\\nAssociated Names: INR18650-25S, 25S2\\n\\nThe weight of your other components in your HSC are:\\nHousing: 450 g\\nAIR: 350 g\\nBusbars: 120 g\\nConnectors: 80 g\\nFuse: 110 g\\nElectronics: 130 g\\nBMS: 130 g\\n\\nWhat is the rules compliant configuration of your fully charged cells for your hybrid car with the maximum stored energy?",
+    "type": "single-choice",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 3150,
+        "question_id": 839,
+        "answer_text": "s13p5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3151,
+        "question_id": 839,
+        "answer_text": "s14p4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3152,
+        "question_id": 839,
+        "answer_text": "s14p5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3153,
+        "question_id": 839,
+        "answer_text": "s4p12",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3154,
+        "question_id": 839,
+        "answer_text": "s10p3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3155,
+        "question_id": 839,
+        "answer_text": "s5p15",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3156,
+        "question_id": 839,
+        "answer_text": "s15p4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3157,
+        "question_id": 839,
+        "answer_text": "s14p2",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3150,
+        "question_id": 839,
+        "answer_text": "s13p5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3151,
+        "question_id": 839,
+        "answer_text": "s14p4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3152,
+        "question_id": 839,
+        "answer_text": "s14p5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3153,
+        "question_id": 839,
+        "answer_text": "s4p12",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3154,
+        "question_id": 839,
+        "answer_text": "s10p3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3155,
+        "question_id": 839,
+        "answer_text": "s5p15",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3156,
+        "question_id": 839,
+        "answer_text": "s15p4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3157,
+        "question_id": 839,
+        "answer_text": "s14p2",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  }
+]

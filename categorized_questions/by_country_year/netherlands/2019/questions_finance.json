@@ -1,0 +1,75 @@
+[
+  {
+    "question_id": 5,
+    "text": "What is true about the Engineering Design Event?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 20,
+        "question_id": 5,
+        "answer_text": "Drawings in the EDR may also be renderings",
+        "is_correct": false
+      },
+      {
+        "answer_id": 21,
+        "question_id": 5,
+        "answer_text": "A maximum of 5 points are awarded for the Design Spec Sheet (DSS) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 22,
+        "question_id": 5,
+        "answer_text": "Any EDR that exceeds 8 pages will not be reviewed at all ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 23,
+        "question_id": 5,
+        "answer_text": "Judges may be selected on the basis of the quality of the EDR",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 20,
+        "question_id": 5,
+        "answer_text": "Drawings in the EDR may also be renderings",
+        "is_correct": false
+      },
+      {
+        "answer_id": 21,
+        "question_id": 5,
+        "answer_text": "A maximum of 5 points are awarded for the Design Spec Sheet (DSS) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 22,
+        "question_id": 5,
+        "answer_text": "Any EDR that exceeds 8 pages will not be reviewed at all ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 23,
+        "question_id": 5,
+        "answer_text": "Judges may be selected on the basis of the quality of the EDR",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

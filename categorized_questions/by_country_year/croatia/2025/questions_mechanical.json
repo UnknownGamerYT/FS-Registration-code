@@ -1,0 +1,96 @@
+[
+  {
+    "question_id": 632,
+    "text": "You want to calculate the laminate of your front bulkhead when designing your monocoque.\\n What is the minimum shear strength required?\\n Re= 235 MPa; Rm= 350 MPa; τ= 280\\n Write the answer in N. Round to the nearest whole number.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2400,
+        "question_id": 632,
+        "answer_text": "32987",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2400,
+        "question_id": 632,
+        "answer_text": "32987",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61,
+      103,
+      104
+    ],
+    "years": [
+      "2023",
+      "2025"
+    ],
+    "countries": [
+      "Croatia",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Alpe Adria",
+      "Formula Student Türkiye"
+    ]
+  },
+  {
+    "question_id": 858,
+    "text": "Consider vehicle with a track width of 1200 mm and suppose it is balanced left-right. Target set for vehicle design is to have 25% of total weight on inside wheels during cornering at 1,2g. Calculate the maximum Centre of Gravity (CoG) height to achieve the target. Round the answer to the nearest millimetre.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3213,
+        "question_id": 858,
+        "answer_text": "250",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 176,
+        "question_id": 858,
+        "text": null,
+        "images": [
+          {
+            "img_id": 246,
+            "path": "solutions/858_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3213,
+        "question_id": 858,
+        "answer_text": "250",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90,
+      104,
+      103
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Croatia",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Alpe Adria",
+      "Formula Student Türkiye"
+    ]
+  }
+]

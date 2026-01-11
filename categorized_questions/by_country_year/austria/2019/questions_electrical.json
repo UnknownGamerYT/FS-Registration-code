@@ -1,0 +1,189 @@
+[
+  {
+    "question_id": 33,
+    "text": "What is true regarding the mechanicak configuration of the tractive system energy storage?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 126,
+        "question_id": 33,
+        "answer_text": "Holes in the container are only allowed if they are necessary for the venting of explosive gas",
+        "is_correct": false
+      },
+      {
+        "answer_id": 127,
+        "question_id": 33,
+        "answer_text": "Vertical walls must be made from steel 0.9 mm thick or aluminium 2.3 mm thick only",
+        "is_correct": false
+      },
+      {
+        "answer_id": 128,
+        "question_id": 33,
+        "answer_text": "The mounting of the accumulator cells to the container must withstand 40 g acceleration in vertical direction",
+        "is_correct": false
+      },
+      {
+        "answer_id": 129,
+        "question_id": 33,
+        "answer_text": "Fasteners to attach pouch cells to the container must comply with rule T10",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 126,
+        "question_id": 33,
+        "answer_text": "Holes in the container are only allowed if they are necessary for the venting of explosive gas",
+        "is_correct": false
+      },
+      {
+        "answer_id": 127,
+        "question_id": 33,
+        "answer_text": "Vertical walls must be made from steel 0.9 mm thick or aluminium 2.3 mm thick only",
+        "is_correct": false
+      },
+      {
+        "answer_id": 128,
+        "question_id": 33,
+        "answer_text": "The mounting of the accumulator cells to the container must withstand 40 g acceleration in vertical direction",
+        "is_correct": false
+      },
+      {
+        "answer_id": 129,
+        "question_id": 33,
+        "answer_text": "Fasteners to attach pouch cells to the container must comply with rule T10",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      3
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 34,
+    "text": "Your battery pack is built from 4 Stacks of 103 Cells each (103S4P)\nEach stack has a capacity of 1.20 kWh and an internal resistance of 320 mOhm. If all cells are charged & balanced to 3.80 V and behave equally, which current do you draw at 30 kW power output from the pack?\nAnswer rounded to .1\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 130,
+        "question_id": 34,
+        "answer_text": "77.9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 16,
+        "question_id": 34,
+        "text": "Model the system as voltage source, series resistance and load. Derive the sum of voltages in the circuit, expressed through currents. Solve the quadratic equation for I",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 130,
+        "question_id": 34,
+        "answer_text": "77.9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      3
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 132,
+    "text": "Which statement regarding the shutdown buttons is false?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 529,
+        "question_id": 132,
+        "answer_text": "The shutdown buttons must connected in series to the low voltage master switch",
+        "is_correct": false
+      },
+      {
+        "answer_id": 530,
+        "question_id": 132,
+        "answer_text": "The buttons must be clearly marked by the international electric symbol",
+        "is_correct": false
+      },
+      {
+        "answer_id": 531,
+        "question_id": 132,
+        "answer_text": "The minimum diameter of the cockpit mounted shutdown button in 24mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 532,
+        "question_id": 132,
+        "answer_text": "At a minimum, two shutdown buttons must be installed",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 529,
+        "question_id": 132,
+        "answer_text": "The shutdown buttons must connected in series to the low voltage master switch",
+        "is_correct": false
+      },
+      {
+        "answer_id": 530,
+        "question_id": 132,
+        "answer_text": "The buttons must be clearly marked by the international electric symbol",
+        "is_correct": false
+      },
+      {
+        "answer_id": 531,
+        "question_id": 132,
+        "answer_text": "The minimum diameter of the cockpit mounted shutdown button in 24mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 532,
+        "question_id": 132,
+        "answer_text": "At a minimum, two shutdown buttons must be installed",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

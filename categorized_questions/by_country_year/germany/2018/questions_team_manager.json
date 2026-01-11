@@ -1,0 +1,76 @@
+[
+  {
+    "question_id": 512,
+    "text": "A team missed the initial deadline for a document of group A and submitted this 49 hours after the deadline. After that the team got an official request to make a correction of this document and missed the given deadline of 168 hours and upload the revised version 77 hours too late. What total penalty will the team receive for the submission of this documents?\\n Give the answer in number of points.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2504,
+        "question_id": 512,
+        "answer_text": "50",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2504,
+        "question_id": 512,
+        "answer_text": "50",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 668,
+    "text": "A team submitted 6 pages of text including one cover page and 2 pages of drawings for the Engineering Design Report (a total of 8 pages). How many pages will be evaluated?",
+    "type": "input",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 2516,
+        "question_id": 668,
+        "answer_text": "7",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2516,
+        "question_id": 668,
+        "answer_text": "7",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

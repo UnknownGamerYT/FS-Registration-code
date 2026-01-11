@@ -1,0 +1,364 @@
+[
+  {
+    "question_id": 107,
+    "text": "Your self-developed electronic control module needs 200ms to safely shut down and write back data into nonvolatile memory.\nHow big would the power regulator output capacitance need to be at least to do that in the event of a unexpected shutdown (GLV Master switch turn-off), given that:\n+ The device needs a constant current of 120mA\n+ The regulated voltage is 5V\n+ The CPU will brown-out at 3.8V\n+ There is no reverse-flow back into the supply",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 417,
+        "question_id": 107,
+        "answer_text": "2000 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 418,
+        "question_id": 107,
+        "answer_text": "17.5 mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 419,
+        "question_id": 107,
+        "answer_text": "220 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 420,
+        "question_id": 107,
+        "answer_text": "47 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 421,
+        "question_id": 107,
+        "answer_text": "20000 µF",
+        "is_correct": true
+      },
+      {
+        "answer_id": 422,
+        "question_id": 107,
+        "answer_text": "1.2 F",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 417,
+        "question_id": 107,
+        "answer_text": "2000 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 418,
+        "question_id": 107,
+        "answer_text": "17.5 mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 419,
+        "question_id": 107,
+        "answer_text": "220 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 420,
+        "question_id": 107,
+        "answer_text": "47 µF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 421,
+        "question_id": 107,
+        "answer_text": "20000 µF",
+        "is_correct": true
+      },
+      {
+        "answer_id": 422,
+        "question_id": 107,
+        "answer_text": "1.2 F",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      11
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 112,
+    "text": "During charging you monitor the cell temperatures by tapping the BMS CAN Bus. The Temperature is transmitted as 16-bit unsigned integer (0.00229 °C/bit).\nLooking at the data the temperatures look somewhat implausible (see picture below) - what went wrong most likely?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 442,
+        "question_id": 112,
+        "answer_text": "The signed-ness is wrong",
+        "is_correct": false
+      },
+      {
+        "answer_id": 443,
+        "question_id": 112,
+        "answer_text": "The endianess is wrong",
+        "is_correct": true
+      },
+      {
+        "answer_id": 444,
+        "question_id": 112,
+        "answer_text": "The can bus is overloaded",
+        "is_correct": false
+      },
+      {
+        "answer_id": 445,
+        "question_id": 112,
+        "answer_text": "The conversion factor is wrong",
+        "is_correct": false
+      },
+      {
+        "answer_id": 446,
+        "question_id": 112,
+        "answer_text": "This is actually the cell voltage",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000112__img000030__112_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 442,
+        "question_id": 112,
+        "answer_text": "The signed-ness is wrong",
+        "is_correct": false
+      },
+      {
+        "answer_id": 443,
+        "question_id": 112,
+        "answer_text": "The endianess is wrong",
+        "is_correct": true
+      },
+      {
+        "answer_id": 444,
+        "question_id": 112,
+        "answer_text": "The can bus is overloaded",
+        "is_correct": false
+      },
+      {
+        "answer_id": 445,
+        "question_id": 112,
+        "answer_text": "The conversion factor is wrong",
+        "is_correct": false
+      },
+      {
+        "answer_id": 446,
+        "question_id": 112,
+        "answer_text": "This is actually the cell voltage",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      11
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 113,
+    "text": "Your battery pack is built from 3 Stacks of 112 Cells (112S3P), each stack has a capacity of 1.70 kWh and an internal resistance of 320 mOhm.\nIf all cells are charged & balanced to 3.80V and behave equally, which current do you draw at 35kW power output from the pack?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 447,
+        "question_id": 113,
+        "answer_text": "82.2 A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 448,
+        "question_id": 113,
+        "answer_text": "88.1 A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 449,
+        "question_id": 113,
+        "answer_text": "109.1 A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 450,
+        "question_id": 113,
+        "answer_text": "84.0 A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 451,
+        "question_id": 113,
+        "answer_text": "3906 A",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 447,
+        "question_id": 113,
+        "answer_text": "82.2 A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 448,
+        "question_id": 113,
+        "answer_text": "88.1 A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 449,
+        "question_id": 113,
+        "answer_text": "109.1 A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 450,
+        "question_id": 113,
+        "answer_text": "84.0 A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 451,
+        "question_id": 113,
+        "answer_text": "3906 A",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      11
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 118,
+    "text": "You measured a current of 150A in your starter cable while starting. The battery voltage was 12V at that time. Which percentage of the power provided by the battery was actually used by the starter?\nPositive supply and ground cable have a cross section of 10mm^2.\nThe total length of the positive supply cable is 4.5m, the ground cable is 1.2m long.\nAssumptions: the specific resistance of copper is independent from temperature, ground cable is directly connected to battery negative, master switch and starter relais do not have any resistance Specific Resistance of copper = 0.017μOhm*m.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 471,
+        "question_id": 118,
+        "answer_text": "95.6%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 472,
+        "question_id": 118,
+        "answer_text": "92.7%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 473,
+        "question_id": 118,
+        "answer_text": "99.9%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 474,
+        "question_id": 118,
+        "answer_text": "50%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 475,
+        "question_id": 118,
+        "answer_text": "87.9%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 476,
+        "question_id": 118,
+        "answer_text": "75 %",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 471,
+        "question_id": 118,
+        "answer_text": "95.6%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 472,
+        "question_id": 118,
+        "answer_text": "92.7%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 473,
+        "question_id": 118,
+        "answer_text": "99.9%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 474,
+        "question_id": 118,
+        "answer_text": "50%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 475,
+        "question_id": 118,
+        "answer_text": "87.9%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 476,
+        "question_id": 118,
+        "answer_text": "75 %",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

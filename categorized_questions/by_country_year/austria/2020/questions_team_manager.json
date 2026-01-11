@@ -1,0 +1,102 @@
+[
+  {
+    "question_id": 365,
+    "text": "Your car is equipped with a front and rear wing. The aerodynamic balance is given as 46:54 (front: rear), the weight distribution is 50:50 (front: rear). During the testing phase of your team, you have encountered a magical animal that can produce aerodynamic downforce without raising the car's drag. On which position of the car would you place the aerocat, in order to increase the maximum corner potential of the car in a left turn?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1454,
+        "question_id": 365,
+        "answer_text": "Front wing right side",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1455,
+        "question_id": 365,
+        "answer_text": "Front wing left side",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1456,
+        "question_id": 365,
+        "answer_text": "Front wing middle side",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000365__img000081__365_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1454,
+        "question_id": 365,
+        "answer_text": "Front wing right side",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1455,
+        "question_id": 365,
+        "answer_text": "Front wing left side",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1456,
+        "question_id": 365,
+        "answer_text": "Front wing middle side",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 366,
+    "text": "Your team is offered to do a wind tunnel test in order to validate your CFD-simulation and improve the aerodynamic development process The resulting wind tunnel test model is a 60% scale model, featuring all the details of the actual car. At which airspeed (in kph) should you run the wind tunnel in order to directly compare the results with the 80% scale CFD simulation 65kph?\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1457,
+        "question_id": 366,
+        "answer_text": "86.67",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1457,
+        "question_id": 366,
+        "answer_text": "86.67",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

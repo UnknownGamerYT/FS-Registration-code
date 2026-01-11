@@ -1,0 +1,76 @@
+[
+  {
+    "question_id": 242,
+    "text": "You would like to monitor the voltage of a LiPo cell by a mircocontroller. The voltage of the cell is always kept in the range of 3000...4000 mV. The microcontroller is supplied by 3.3V, the reference voltage of the 12 bit resolution ADC converter is 3V and the ground level for the ADC is the same as the cell's ground. The schematic of the system can be found below. Which one is the possible range of the ADC values?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 949,
+        "question_id": 242,
+        "answer_text": "2577...3436",
+        "is_correct": false
+      },
+      {
+        "answer_id": 950,
+        "question_id": 242,
+        "answer_text": "2835...3780",
+        "is_correct": true
+      },
+      {
+        "answer_id": 951,
+        "question_id": 242,
+        "answer_text": "1260...1680",
+        "is_correct": false
+      },
+      {
+        "answer_id": 952,
+        "question_id": 242,
+        "answer_text": "1145...1527",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000242__img000068__242_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 949,
+        "question_id": 242,
+        "answer_text": "2577...3436",
+        "is_correct": false
+      },
+      {
+        "answer_id": 950,
+        "question_id": 242,
+        "answer_text": "2835...3780",
+        "is_correct": true
+      },
+      {
+        "answer_id": 951,
+        "question_id": 242,
+        "answer_text": "1260...1680",
+        "is_correct": false
+      },
+      {
+        "answer_id": 952,
+        "question_id": 242,
+        "answer_text": "1145...1527",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

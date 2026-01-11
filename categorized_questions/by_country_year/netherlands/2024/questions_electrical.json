@@ -1,0 +1,173 @@
+[
+  {
+    "question_id": 811,
+    "text": "An FS race vehicle is entering a drag strip with an infinite strip length.\\nIt has a motor with a maximum rotational speed of 10500rpm at 70kW and a final gear reduction of 7.8. The motor to wheel power delivery efficiency is 61% and the wheel diameter is 0.4m \\nThe aero drag coefficient is equal to Cd*A=1.5m^2, while the density of the air is considered equal to 1.2 kg/m^3. \\nThe friction losses from tires, bearings etc can be modeled with the following equation: Ffriction=1.4∗V^2, where V is vehicle speed in m/s \\nWhat is the maximum speed that can be reached by that vehicle?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3035,
+        "question_id": 811,
+        "answer_text": "61.91 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3036,
+        "question_id": 811,
+        "answer_text": "112.39 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3037,
+        "question_id": 811,
+        "answer_text": "95.32 km/h",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3038,
+        "question_id": 811,
+        "answer_text": "101.49 km/h",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 157,
+        "question_id": 811,
+        "text": "The maximum speed is governed either by the maximum rotating speed of the motor or the maximum speed due to the forces acting on the vehicle due to power limitations.",
+        "images": [
+          {
+            "img_id": 216,
+            "path": "solutions/811_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3035,
+        "question_id": 811,
+        "answer_text": "61.91 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3036,
+        "question_id": 811,
+        "answer_text": "112.39 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3037,
+        "question_id": 811,
+        "answer_text": "95.32 km/h",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3038,
+        "question_id": 811,
+        "answer_text": "101.49 km/h",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      87,
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 820,
+    "text": "The datasheet of the the cells in your accumulator specifies a maximum of 4.2 volt and 55° Celsius. You implement a temperature measurement as shown in the figure. In your implementation Vdd equals 5 Volt, R1 is of 50Ω with 10% intolerance and R2 is a PTC. According to the datasheet of R2 the resistance is 92Ω for 50° Celsius and 108Ω at 60° Celsius with a 5% intolerance. What is the maximum voltage you are allowed to measure on Vout rounded to two decimal places without triggering an AMS error? You may use linear interpolation.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3071,
+        "question_id": 820,
+        "answer_text": "3.11 Volt",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3072,
+        "question_id": 820,
+        "answer_text": "3.16 Volt",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3073,
+        "question_id": 820,
+        "answer_text": "3.28 Volt",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3074,
+        "question_id": 820,
+        "answer_text": "3.33 Volt",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 167,
+        "question_id": 820,
+        "text": null,
+        "images": [
+          {
+            "img_id": 221,
+            "path": "solutions/820_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000820__img000220__820_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3071,
+        "question_id": 820,
+        "answer_text": "3.11 Volt",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3072,
+        "question_id": 820,
+        "answer_text": "3.16 Volt",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3073,
+        "question_id": 820,
+        "answer_text": "3.28 Volt",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3074,
+        "question_id": 820,
+        "answer_text": "3.33 Volt",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "question_id": 87,
+    "text": "According to the rules, an insulation monitoring between TS /TS- and LV- GND is mandatory. The measurement principle has to be",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 334,
+        "question_id": 87,
+        "answer_text": "configurable via can",
+        "is_correct": false
+      },
+      {
+        "answer_id": 335,
+        "question_id": 87,
+        "answer_text": "passive",
+        "is_correct": false
+      },
+      {
+        "answer_id": 336,
+        "question_id": 87,
+        "answer_text": "active",
+        "is_correct": true
+      },
+      {
+        "answer_id": 337,
+        "question_id": 87,
+        "answer_text": "either passive or active",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 334,
+        "question_id": 87,
+        "answer_text": "configurable via can",
+        "is_correct": false
+      },
+      {
+        "answer_id": 335,
+        "question_id": 87,
+        "answer_text": "passive",
+        "is_correct": false
+      },
+      {
+        "answer_id": 336,
+        "question_id": 87,
+        "answer_text": "active",
+        "is_correct": true
+      },
+      {
+        "answer_id": 337,
+        "question_id": 87,
+        "answer_text": "either passive or active",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 88,
+    "text": "As soon as all components defined in EV6.1.2 close the shutdown circuit, it is allowed to close the AIRs.",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 338,
+        "question_id": 88,
+        "answer_text": "Yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 339,
+        "question_id": 88,
+        "answer_text": "No",
+        "is_correct": true
+      },
+      {
+        "answer_id": 340,
+        "question_id": 88,
+        "answer_text": "Yes, after 500ms",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 338,
+        "question_id": 88,
+        "answer_text": "Yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 339,
+        "question_id": 88,
+        "answer_text": "No",
+        "is_correct": true
+      },
+      {
+        "answer_id": 340,
+        "question_id": 88,
+        "answer_text": "Yes, after 500ms",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 89,
+    "text": "All phases of a PMSM and a induction motor are independently shorted at standsill. The torque of which motor is higher if remanence is neglected and the rotors start to spin:",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 341,
+        "question_id": 89,
+        "answer_text": "Induction motor",
+        "is_correct": false
+      },
+      {
+        "answer_id": 342,
+        "question_id": 89,
+        "answer_text": "Both are 0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 343,
+        "question_id": 89,
+        "answer_text": "PMSM",
+        "is_correct": true
+      },
+      {
+        "answer_id": 344,
+        "question_id": 89,
+        "answer_text": "Equally",
+        "is_correct": false
+      },
+      {
+        "answer_id": 345,
+        "question_id": 89,
+        "answer_text": "Depends on Motor parameters",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 341,
+        "question_id": 89,
+        "answer_text": "Induction motor",
+        "is_correct": false
+      },
+      {
+        "answer_id": 342,
+        "question_id": 89,
+        "answer_text": "Both are 0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 343,
+        "question_id": 89,
+        "answer_text": "PMSM",
+        "is_correct": true
+      },
+      {
+        "answer_id": 344,
+        "question_id": 89,
+        "answer_text": "Equally",
+        "is_correct": false
+      },
+      {
+        "answer_id": 345,
+        "question_id": 89,
+        "answer_text": "Depends on Motor parameters",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10,
+      47
+    ],
+    "years": [
+      "2020",
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 91,
+    "text": "You want to drive with a Lithium Polymer cell with 3 Ah and weighting 60 g. Which of the following configurations would be allowed by the rules?\na) 7 compartments in series with 4p20s configurations\nb) 8 compartments in series with 4p18s configurations\nc) 4 compartments in series with 4p30s configurations\nd) 5 compartments in series with 4p24s configurations",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 347,
+        "question_id": 91,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 348,
+        "question_id": 91,
+        "answer_text": "all",
+        "is_correct": false
+      },
+      {
+        "answer_id": 349,
+        "question_id": 91,
+        "answer_text": "B and C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 350,
+        "question_id": 91,
+        "answer_text": "none",
+        "is_correct": false
+      },
+      {
+        "answer_id": 351,
+        "question_id": 91,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 352,
+        "question_id": 91,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 353,
+        "question_id": 91,
+        "answer_text": "A and D",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 9,
+        "question_id": 91,
+        "text": null,
+        "images": [
+          {
+            "img_id": 103,
+            "path": "solutions/91_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 347,
+        "question_id": 91,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 348,
+        "question_id": 91,
+        "answer_text": "all",
+        "is_correct": false
+      },
+      {
+        "answer_id": 349,
+        "question_id": 91,
+        "answer_text": "B and C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 350,
+        "question_id": 91,
+        "answer_text": "none",
+        "is_correct": false
+      },
+      {
+        "answer_id": 351,
+        "question_id": 91,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 352,
+        "question_id": 91,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 353,
+        "question_id": 91,
+        "answer_text": "A and D",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      10
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  }
+]

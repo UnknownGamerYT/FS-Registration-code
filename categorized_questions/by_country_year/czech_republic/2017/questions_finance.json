@@ -1,0 +1,165 @@
+[
+  {
+    "question_id": 126,
+    "text": "Which of the following conditions does not have to be fulfilled during the Cost and Manufacturing event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 507,
+        "question_id": 126,
+        "answer_text": "The team must present vehicle in finished condition, fully assembled and ready-to-race with dry tires mounted.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 508,
+        "question_id": 126,
+        "answer_text": "Presented vehicle must have passed the technical inspection.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 509,
+        "question_id": 126,
+        "answer_text": "The Bill of Material must be based on the actual manufacturing processes used for the prototype.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 510,
+        "question_id": 126,
+        "answer_text": "The team must discuss with judges to show general understanding of the manufacturing knowledge.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 70,
+        "question_id": 126,
+        "text": null,
+        "images": [
+          {
+            "img_id": 126,
+            "path": "solutions/489_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 507,
+        "question_id": 126,
+        "answer_text": "The team must present vehicle in finished condition, fully assembled and ready-to-race with dry tires mounted.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 508,
+        "question_id": 126,
+        "answer_text": "Presented vehicle must have passed the technical inspection.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 509,
+        "question_id": 126,
+        "answer_text": "The Bill of Material must be based on the actual manufacturing processes used for the prototype.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 510,
+        "question_id": 126,
+        "answer_text": "The team must discuss with judges to show general understanding of the manufacturing knowledge.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 127,
+    "text": "What must be included in vehicle manufacturing cost presented at the Cost and Manufacturing event:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 511,
+        "question_id": 127,
+        "answer_text": "Cost of paint on non-corrosive materials",
+        "is_correct": false
+      },
+      {
+        "answer_id": 512,
+        "question_id": 127,
+        "answer_text": "Cost of camera devices placed on vehicle during race",
+        "is_correct": false
+      },
+      {
+        "answer_id": 513,
+        "question_id": 127,
+        "answer_text": "Cost of datalogging devices",
+        "is_correct": false
+      },
+      {
+        "answer_id": 514,
+        "question_id": 127,
+        "answer_text": "Cost of hand or power tools",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 31,
+        "question_id": 127,
+        "text": "S 2.5.7",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 511,
+        "question_id": 127,
+        "answer_text": "Cost of paint on non-corrosive materials",
+        "is_correct": false
+      },
+      {
+        "answer_id": 512,
+        "question_id": 127,
+        "answer_text": "Cost of camera devices placed on vehicle during race",
+        "is_correct": false
+      },
+      {
+        "answer_id": 513,
+        "question_id": 127,
+        "answer_text": "Cost of datalogging devices",
+        "is_correct": false
+      },
+      {
+        "answer_id": 514,
+        "question_id": 127,
+        "answer_text": "Cost of hand or power tools",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

@@ -1,0 +1,276 @@
+[
+  {
+    "question_id": 93,
+    "text": "How do you have to choose the damping constant in a suspension system, if you want to have a critical damped system? (answer in Ns/mm)\nm = 240 kg\nk = 100 N/mm",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 355,
+        "question_id": 93,
+        "answer_text": "9.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 22,
+        "question_id": 93,
+        "text": null,
+        "images": [
+          {
+            "img_id": 108,
+            "path": "solutions/93_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 355,
+        "question_id": 93,
+        "answer_text": "9.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      10,
+      47,
+      52
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 94,
+    "text": "Which statement about the Ready-To-Drive sound is correct?    ",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 356,
+        "question_id": 94,
+        "answer_text": "The used sound must be easily recognizable.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 357,
+        "question_id": 94,
+        "answer_text": "The maximum duration is one secound.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 358,
+        "question_id": 94,
+        "answer_text": "It can be similar to the road noise, but must be louder.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 359,
+        "question_id": 94,
+        "answer_text": "Animal voices, except goat voices, are forbidden.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 356,
+        "question_id": 94,
+        "answer_text": "The used sound must be easily recognizable.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 357,
+        "question_id": 94,
+        "answer_text": "The maximum duration is one secound.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 358,
+        "question_id": 94,
+        "answer_text": "It can be similar to the road noise, but must be louder.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 359,
+        "question_id": 94,
+        "answer_text": "Animal voices, except goat voices, are forbidden.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 95,
+    "text": "You would like to attach your front hoop bracing to the rest your chassis primary structure using one metric bolt grade 8.8. Using standard hole clearance (ISO), what is the minimum diameter of the round backing plate according to the rules.",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 360,
+        "question_id": 95,
+        "answer_text": "16.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 361,
+        "question_id": 95,
+        "answer_text": "27 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 362,
+        "question_id": 95,
+        "answer_text": "33 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 363,
+        "question_id": 95,
+        "answer_text": "40.5 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 360,
+        "question_id": 95,
+        "answer_text": "16.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 361,
+        "question_id": 95,
+        "answer_text": "27 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 362,
+        "question_id": 95,
+        "answer_text": "33 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 363,
+        "question_id": 95,
+        "answer_text": "40.5 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10,
+      52
+    ],
+    "years": [
+      "2020",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 96,
+    "text": "Which of the following statements about steel tubes alloy 30CrMoV5-3 is true?    ",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 364,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure without additional testing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 365,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure except roll hoops if physical tasting is applied to show equivalency.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 366,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure if physical testing is applied to show equivalency.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 367,
+        "question_id": 96,
+        "answer_text": "May never be used in the primary structure.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 364,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure without additional testing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 365,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure except roll hoops if physical tasting is applied to show equivalency.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 366,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure if physical testing is applied to show equivalency.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 367,
+        "question_id": 96,
+        "answer_text": "May never be used in the primary structure.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10,
+      47,
+      52
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  }
+]

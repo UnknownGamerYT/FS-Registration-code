@@ -1,0 +1,161 @@
+[
+  {
+    "question_id": 510,
+    "text": "What is the maximum total score of Business Plan Presentation, Cost and Manufacturing, Skid Pad, Accerleration and Efficiency together?",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2004,
+        "question_id": 510,
+        "answer_text": "425",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2004,
+        "question_id": 510,
+        "answer_text": "425",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 513,
+    "text": "Without any other information: with whitch testing procedure can the static strength properties of a given material be directly determined?",
+    "type": "multi-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2006,
+        "question_id": 513,
+        "answer_text": "tensile test",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2007,
+        "question_id": 513,
+        "answer_text": "hardness test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2008,
+        "question_id": 513,
+        "answer_text": "metallography",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2009,
+        "question_id": 513,
+        "answer_text": "notch impact test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2010,
+        "question_id": 513,
+        "answer_text": "spectral analysis",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2006,
+        "question_id": 513,
+        "answer_text": "tensile test",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2007,
+        "question_id": 513,
+        "answer_text": "hardness test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2008,
+        "question_id": 513,
+        "answer_text": "metallography",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2009,
+        "question_id": 513,
+        "answer_text": "notch impact test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2010,
+        "question_id": 513,
+        "answer_text": "spectral analysis",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 667,
+    "text": "To build your race car you need a part what can be bought on the public market for 250 EUR per piece. Your plan is to sell 1000 race cars the next five years. If you will manufacture the part by yourself, you need an investment of 400.000 EUR for the installation. Furthermore, you need to pay 20.000 EUR per year for the machine operator. The material costs are 50 EUR per piece. The machine cannot be sold after the usage. What is the cost of one piece of the own manufactured parts?",
+    "type": "input",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 2515,
+        "question_id": 667,
+        "answer_text": "550",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2515,
+        "question_id": 667,
+        "answer_text": "550",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      68,
+      49
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

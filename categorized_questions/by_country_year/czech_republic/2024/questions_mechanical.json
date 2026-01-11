@@ -1,0 +1,309 @@
+[
+  {
+    "question_id": 2,
+    "text": "What is the maximum vertical distance allowed between the lowest part of the front hoop and the lowest part of the diagonal bracing in the front bulkhead support when the diagonal bracing is attached at the top at the FBH?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 6,
+        "question_id": 2,
+        "answer_text": "0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 7,
+        "question_id": 2,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 8,
+        "question_id": 2,
+        "answer_text": "50 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 9,
+        "question_id": 2,
+        "answer_text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 10,
+        "question_id": 2,
+        "answer_text": "100 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 6,
+        "question_id": 2,
+        "answer_text": "0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 7,
+        "question_id": 2,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 8,
+        "question_id": 2,
+        "answer_text": "50 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 9,
+        "question_id": 2,
+        "answer_text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 10,
+        "question_id": 2,
+        "answer_text": "100 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2,
+      71
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 406,
+    "text": "Which of the following is NOT one of the 4 forces that acts on an aircraft in straight-and-level, unaccelerated flight?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1642,
+        "question_id": 406,
+        "answer_text": "Thrust",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1643,
+        "question_id": 406,
+        "answer_text": "Weight",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1644,
+        "question_id": 406,
+        "answer_text": "Centrifugal",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1645,
+        "question_id": 406,
+        "answer_text": "Drag",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1642,
+        "question_id": 406,
+        "answer_text": "Thrust",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1643,
+        "question_id": 406,
+        "answer_text": "Weight",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1644,
+        "question_id": 406,
+        "answer_text": "Centrifugal",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1645,
+        "question_id": 406,
+        "answer_text": "Drag",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39,
+      71
+    ],
+    "years": [
+      "2022",
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 807,
+    "text": "Which of the following is TRUE about roll hoops in primary structure?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3019,
+        "question_id": 807,
+        "answer_text": "Both roll hoops must have 4.5 mm inspection hole in a non-critical straight location and its surface at this point must be unobstructed for at least 180°",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3020,
+        "question_id": 807,
+        "answer_text": "Mounting plates welded to the roll hoops must be at least 4mm thick steel or 6mm thick aluminium",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3021,
+        "question_id": 807,
+        "answer_text": "The main hoop may be constructed of multiple pieces of closed section steel tubing if the welded nodes are triangulated to SIS or MH bracing support",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3022,
+        "question_id": 807,
+        "answer_text": "In side view, front hoop can be inclined more then 20° form vertical",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3019,
+        "question_id": 807,
+        "answer_text": "Both roll hoops must have 4.5 mm inspection hole in a non-critical straight location and its surface at this point must be unobstructed for at least 180°",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3020,
+        "question_id": 807,
+        "answer_text": "Mounting plates welded to the roll hoops must be at least 4mm thick steel or 6mm thick aluminium",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3021,
+        "question_id": 807,
+        "answer_text": "The main hoop may be constructed of multiple pieces of closed section steel tubing if the welded nodes are triangulated to SIS or MH bracing support",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3022,
+        "question_id": 807,
+        "answer_text": "In side view, front hoop can be inclined more then 20° form vertical",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      86
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 808,
+    "text": "Which option below is INCORRECT about use of alernative materials for all parts of the primary structure and the TSAC?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3023,
+        "question_id": 808,
+        "answer_text": "The main hoop and the main hoop bracing must be steel.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3024,
+        "question_id": 808,
+        "answer_text": "The front hoop must be steel.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3025,
+        "question_id": 808,
+        "answer_text": "Any welded structures of the primary structure must be steel.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3026,
+        "question_id": 808,
+        "answer_text": "Front hoop bracing may be alternative material of equivalency to the minimum material properties for steel is proven.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3023,
+        "question_id": 808,
+        "answer_text": "The main hoop and the main hoop bracing must be steel.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3024,
+        "question_id": 808,
+        "answer_text": "The front hoop must be steel.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3025,
+        "question_id": 808,
+        "answer_text": "Any welded structures of the primary structure must be steel.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3026,
+        "question_id": 808,
+        "answer_text": "Front hoop bracing may be alternative material of equivalency to the minimum material properties for steel is proven.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      86
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "question_id": 517,
+    "text": "A team is competing in the Skidpad event at FSN. If the coefficient of friction is uf = 0.87, what is the maximum velocity in order for the car to stay in track without losing contact with the ground?\n Assume that the car is racing in the centerline of the track width.\n g = 9.81 m/sec^2",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2011,
+        "question_id": 517,
+        "answer_text": "31.75 km/h",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2012,
+        "question_id": 517,
+        "answer_text": "8.82 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2013,
+        "question_id": 517,
+        "answer_text": "37.15 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2014,
+        "question_id": 517,
+        "answer_text": "43.26 km/h",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2011,
+        "question_id": 517,
+        "answer_text": "31.75 km/h",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2012,
+        "question_id": 517,
+        "answer_text": "8.82 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2013,
+        "question_id": 517,
+        "answer_text": "37.15 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2014,
+        "question_id": 517,
+        "answer_text": "43.26 km/h",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 518,
+    "text": "A team is in the process of validating the compliance of the shoulder harness bar used in their car.\\n Choose the part in which their configuration is incompliant:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2015,
+        "question_id": 518,
+        "answer_text": "The steel tube has a thickness of 2 mm, and a 0.26% in carbon and 1.7% manganese content.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2016,
+        "question_id": 518,
+        "answer_text": "The bar is bent (not straight) and the team uses an analysis method of inducing 7 kN to each attachment in the horizontal plane to prove compliance.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2017,
+        "question_id": 518,
+        "answer_text": "The attachments are positioned 220 mm apart, measured center to center, and have a thickness of 1.7 mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2018,
+        "question_id": 518,
+        "answer_text": "From the driver’s shoulders rearwards to the mounting point or structural guide, the shoulder harness is 8° above the horizontal.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2015,
+        "question_id": 518,
+        "answer_text": "The steel tube has a thickness of 2 mm, and a 0.26% in carbon and 1.7% manganese content.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2016,
+        "question_id": 518,
+        "answer_text": "The bar is bent (not straight) and the team uses an analysis method of inducing 7 kN to each attachment in the horizontal plane to prove compliance.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2017,
+        "question_id": 518,
+        "answer_text": "The attachments are positioned 220 mm apart, measured center to center, and have a thickness of 1.7 mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2018,
+        "question_id": 518,
+        "answer_text": "From the driver’s shoulders rearwards to the mounting point or structural guide, the shoulder harness is 8° above the horizontal.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 519,
+    "text": "A team is evaluating if they can save weight by shortening some of their critical fasteners. Are you allowed to shorten bolts?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2019,
+        "question_id": 519,
+        "answer_text": "No",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2020,
+        "question_id": 519,
+        "answer_text": "Yes, as long as the bolts exceed metric grade 8.8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2021,
+        "question_id": 519,
+        "answer_text": "Yes, as long as a minimum of two full threads project from the lock nut",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2022,
+        "question_id": 519,
+        "answer_text": "Yes, unless the bolts are used in the brake system",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2019,
+        "question_id": 519,
+        "answer_text": "No",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2020,
+        "question_id": 519,
+        "answer_text": "Yes, as long as the bolts exceed metric grade 8.8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2021,
+        "question_id": 519,
+        "answer_text": "Yes, as long as a minimum of two full threads project from the lock nut",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2022,
+        "question_id": 519,
+        "answer_text": "Yes, unless the bolts are used in the brake system",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 520,
+    "text": "A team is competing in the Acceleration event at FSN. The car has a mass of 183 kg. What is the work needed in order for the car to finish in 3.8 sec with a speed of 133 km/h?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2023,
+        "question_id": 520,
+        "answer_text": "124.8 kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2024,
+        "question_id": 520,
+        "answer_text": "32.8 kW",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2025,
+        "question_id": 520,
+        "answer_text": "12.4 kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2026,
+        "question_id": 520,
+        "answer_text": "38.3 kW",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2023,
+        "question_id": 520,
+        "answer_text": "124.8 kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2024,
+        "question_id": 520,
+        "answer_text": "32.8 kW",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2025,
+        "question_id": 520,
+        "answer_text": "12.4 kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2026,
+        "question_id": 520,
+        "answer_text": "38.3 kW",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 526,
+    "text": "Your team is at the design event during FSN2020 and it’s quite cold for this time of the year, 18 degrees C. To impress the judges, you decide to make some tea for them.\\n What is the minimum required time to prepare the tea, knowing that you have to boil 8 tea cups of 150ml each and you have an electrical heater with a power of 0.86kW.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2047,
+        "question_id": 526,
+        "answer_text": "60 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2048,
+        "question_id": 526,
+        "answer_text": "106 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2049,
+        "question_id": 526,
+        "answer_text": "351 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2050,
+        "question_id": 526,
+        "answer_text": "479 seconds",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2047,
+        "question_id": 526,
+        "answer_text": "60 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2048,
+        "question_id": 526,
+        "answer_text": "106 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2049,
+        "question_id": 526,
+        "answer_text": "351 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2050,
+        "question_id": 526,
+        "answer_text": "479 seconds",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 529,
+    "text": "Your team is considering two languages, Verilog and VHDL, for programming an FPGA. Which language(s) could be used?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2059,
+        "question_id": 529,
+        "answer_text": "Both",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2060,
+        "question_id": 529,
+        "answer_text": "Only Verilog",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2061,
+        "question_id": 529,
+        "answer_text": "Only VHDL",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2062,
+        "question_id": 529,
+        "answer_text": "None of these options",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2059,
+        "question_id": 529,
+        "answer_text": "Both",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2060,
+        "question_id": 529,
+        "answer_text": "Only Verilog",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2061,
+        "question_id": 529,
+        "answer_text": "Only VHDL",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2062,
+        "question_id": 529,
+        "answer_text": "None of these options",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

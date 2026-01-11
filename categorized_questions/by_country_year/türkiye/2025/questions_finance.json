@@ -1,0 +1,75 @@
+[
+  {
+    "question_id": 937,
+    "text": "In FST 2025 rules, what is the load capacity requirement for attachment points when two parts of the primary structure are bolted together?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3511,
+        "question_id": 937,
+        "answer_text": "10 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3512,
+        "question_id": 937,
+        "answer_text": "20 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3513,
+        "question_id": 937,
+        "answer_text": "30 kN",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3514,
+        "question_id": 937,
+        "answer_text": "40 kN",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3511,
+        "question_id": 937,
+        "answer_text": "10 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3512,
+        "question_id": 937,
+        "answer_text": "20 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3513,
+        "question_id": 937,
+        "answer_text": "30 kN",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3514,
+        "question_id": 937,
+        "answer_text": "40 kN",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      104,
+      103
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Türkiye"
+    ]
+  }
+]

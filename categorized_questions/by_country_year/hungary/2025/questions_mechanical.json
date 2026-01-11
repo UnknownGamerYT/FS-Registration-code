@@ -1,0 +1,327 @@
+[
+  {
+    "question_id": 922,
+    "text": "Which of the following statements is true for LV batteries which are not hybrid system energy storages?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3446,
+        "question_id": 922,
+        "answer_text": "They must have short circuit protecƟon no more the 4 inches away from ungrounded terminals.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3447,
+        "question_id": 922,
+        "answer_text": "LV baƩeries must have a hermeƟcally sealed housing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3448,
+        "question_id": 922,
+        "answer_text": "LiFePO4 cells must be installed in a fire retardant casing. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3449,
+        "question_id": 922,
+        "answer_text": "If wires are used to measure voltage of LiPo cells, it must be possible to disconnect a voltage measurement wire during technical inspecƟon",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3446,
+        "question_id": 922,
+        "answer_text": "They must have short circuit protecƟon no more the 4 inches away from ungrounded terminals.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3447,
+        "question_id": 922,
+        "answer_text": "LV baƩeries must have a hermeƟcally sealed housing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3448,
+        "question_id": 922,
+        "answer_text": "LiFePO4 cells must be installed in a fire retardant casing. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3449,
+        "question_id": 922,
+        "answer_text": "If wires are used to measure voltage of LiPo cells, it must be possible to disconnect a voltage measurement wire during technical inspecƟon",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 923,
+    "text": "How much load will be transferred on the elastic elements on the front suspension of a car, which has a mass of 186 kg, 54% mass distribution on the front, 10% of the mass is unsprung, 1.2 m front track, 25 cm CoG height and 60 mm front roll centre height, while steady state cornering with 1 G and a 71 kg driver siƫng in CoG? Mark the nearest value from the options below.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3450,
+        "question_id": 923,
+        "answer_text": "3600 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3451,
+        "question_id": 923,
+        "answer_text": "2600 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3452,
+        "question_id": 923,
+        "answer_text": "2000 N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3453,
+        "question_id": 923,
+        "answer_text": "1800 N",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 201,
+        "question_id": 923,
+        "text": "Question was removed",
+        "images": [
+          {
+            "img_id": 293,
+            "path": "solutions/923_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3450,
+        "question_id": 923,
+        "answer_text": "3600 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3451,
+        "question_id": 923,
+        "answer_text": "2600 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3452,
+        "question_id": 923,
+        "answer_text": "2000 N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3453,
+        "question_id": 923,
+        "answer_text": "1800 N",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 924,
+    "text": "Which option does not influence the roll stiffness of the suspension?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3454,
+        "question_id": 924,
+        "answer_text": "tire",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3455,
+        "question_id": 924,
+        "answer_text": "coil spring",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3456,
+        "question_id": 924,
+        "answer_text": "track width",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3457,
+        "question_id": 924,
+        "answer_text": "anti-roll bar",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 213,
+        "question_id": 924,
+        "text": "Question was removed",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3454,
+        "question_id": 924,
+        "answer_text": "tire",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3455,
+        "question_id": 924,
+        "answer_text": "coil spring",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3456,
+        "question_id": 924,
+        "answer_text": "track width",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3457,
+        "question_id": 924,
+        "answer_text": "anti-roll bar",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 927,
+    "text": "A 20 kg, 30 cm x 20 cm x 15 cm block of unknown material is heated to 100 °C. How long will it take for it to cool down to 25 °C if the ambient temperature is 20 °C?\\n The only known properties are the following: The material’s specific heat capacity is 350 J/kgK, the heat transfer coefficient between the block and its surroundings is 75 W/m^2K (constant). The block is sitting on a table made of a perfect thermal insulator.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3467,
+        "question_id": 927,
+        "answer_text": "1232,3 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3468,
+        "question_id": 927,
+        "answer_text": "333,3 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3469,
+        "question_id": 927,
+        "answer_text": "61,6 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3470,
+        "question_id": 927,
+        "answer_text": "958,4 s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 204,
+        "question_id": 927,
+        "text": "+ Can be double checked here https://www.omnicalculator.com/physics/newtons-law-of-cooling",
+        "images": [
+          {
+            "img_id": 299,
+            "path": "solutions/927_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000927__img000298__927_4.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3467,
+        "question_id": 927,
+        "answer_text": "1232,3 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3468,
+        "question_id": 927,
+        "answer_text": "333,3 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3469,
+        "question_id": 927,
+        "answer_text": "61,6 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3470,
+        "question_id": 927,
+        "answer_text": "958,4 s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

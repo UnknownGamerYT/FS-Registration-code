@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 480,
+    "text": "During charging, the IMD opens the safety circuit and charging is interrupted.\\n What is true regarding automatic resume?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1917,
+        "question_id": 480,
+        "answer_text": "IMD errors are specifically excluded from autoresume",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1918,
+        "question_id": 480,
+        "answer_text": "The charger may resume charging if the safety circuit is closed again (i.e. when/if the IMD error goes away)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1919,
+        "question_id": 480,
+        "answer_text": "Automatic error mitigation strategies must be detailed in the FMEA",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1920,
+        "question_id": 480,
+        "answer_text": "It is not allowed to automatically resume charging ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1917,
+        "question_id": 480,
+        "answer_text": "IMD errors are specifically excluded from autoresume",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1918,
+        "question_id": 480,
+        "answer_text": "The charger may resume charging if the safety circuit is closed again (i.e. when/if the IMD error goes away)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1919,
+        "question_id": 480,
+        "answer_text": "Automatic error mitigation strategies must be detailed in the FMEA",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1920,
+        "question_id": 480,
+        "answer_text": "It is not allowed to automatically resume charging ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      45
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

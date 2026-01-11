@@ -1,0 +1,630 @@
+[
+  {
+    "question_id": 66,
+    "text": "In the illustrated thermodynamic cycle of an ideal gas, the values for pressure p1=7 bar and volume V1=0.6 m3 at point 1, volume V2=3.3 m3 and temperature T2=800 °C at point 2 and pressure p3=0,6 bar at point 3 are given. The volume at point 1 is the same as at point 4. The volume at point 2 is the same as at point 3. The pressure in point 4 is to be calculated in bar!\nRound the solution to one decimal place.",
+    "type": "input",
+    "time": 420,
+    "answer_options": [
+      {
+        "answer_id": 278,
+        "question_id": 66,
+        "answer_text": "3.3",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000066__img000011__66_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 278,
+        "question_id": 66,
+        "answer_text": "3.3",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 69,
+    "text": "A logic plan with the five logic valued inputs A, B, C, D and E is shown in the picture. The gates are drawn according to the commonly used ANSI/IEEE Std 91/91a-1991.\nHow mant possible input compinations result in a logic false at the output Z?",
+    "type": "input",
+    "time": 740,
+    "answer_options": [
+      {
+        "answer_id": 284,
+        "question_id": 69,
+        "answer_text": "4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000069__img000013__69_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 284,
+        "question_id": 69,
+        "answer_text": "4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 70,
+    "text": "A thin-walled (t ≪ a) cross-section is shown in the figure in gray. All relevant dimensions are given in the drawing. The drawing itself is not to scale. Calculate the second moment of area of the cross-section about the x-axis through point O using the thin-walled assumption and resulting simplification.\nEnter the exact solution:",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 285,
+        "question_id": 70,
+        "answer_text": "81",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000070__img000014__70_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 285,
+        "question_id": 70,
+        "answer_text": "81",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 73,
+    "text": "The shown finite state machine is used to check if an input data stream matches with some regular expression. The data matches the regular expression if the final state qd is reached at the end of the input stream.\nWhat regualar expression(s) will be checked by the state machine?\nYou may select one or more answers.",
+    "type": "multi-choice",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 292,
+        "question_id": 73,
+        "answer_text": "^([f|s|g]+(fs|gss|fs))*(fgg|s|gs[gg|s]*)$",
+        "is_correct": false
+      },
+      {
+        "answer_id": 293,
+        "question_id": 73,
+        "answer_text": "^((g(ss|ff|g))|fs)*(s|((f|gs)?gg))$",
+        "is_correct": true
+      },
+      {
+        "answer_id": 294,
+        "question_id": 73,
+        "answer_text": "^((g?(ss|g))|fs)+(s|gsgg|gg)$",
+        "is_correct": false
+      },
+      {
+        "answer_id": 295,
+        "question_id": 73,
+        "answer_text": "^(gff|gss|ff|sf)*(fgg|gsgg|s|gg)$",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000073__img000016__73_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 292,
+        "question_id": 73,
+        "answer_text": "^([f|s|g]+(fs|gss|fs))*(fgg|s|gs[gg|s]*)$",
+        "is_correct": false
+      },
+      {
+        "answer_id": 293,
+        "question_id": 73,
+        "answer_text": "^((g(ss|ff|g))|fs)*(s|((f|gs)?gg))$",
+        "is_correct": true
+      },
+      {
+        "answer_id": 294,
+        "question_id": 73,
+        "answer_text": "^((g?(ss|g))|fs)+(s|gsgg|gg)$",
+        "is_correct": false
+      },
+      {
+        "answer_id": 295,
+        "question_id": 73,
+        "answer_text": "^(gff|gss|ff|sf)*(fgg|gsgg|s|gg)$",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 74,
+    "text": "Mark all true statements according to the FS Rules",
+    "type": "multi-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 296,
+        "question_id": 74,
+        "answer_text": "After technical inspection a complete damper can be changed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 297,
+        "question_id": 74,
+        "answer_text": "The minimal bend radius for hoops is 2.5 times the outside diameter of\r\nthe used tubular material",
+        "is_correct": false
+      },
+      {
+        "answer_id": 298,
+        "question_id": 74,
+        "answer_text": "The minimal material outside diameter (without any decimal\r\nplace) of a closed section steel tube with wall thickness of 2 mm\r\nfor the main hoop is 30 mm \r\n",
+        "is_correct": true
+      },
+      {
+        "answer_id": 299,
+        "question_id": 74,
+        "answer_text": "The minimal fuel pressure for the injection system is 1.5 bar\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 300,
+        "question_id": 74,
+        "answer_text": "A team can receive penalty points for issues in Technical\r\nInspection \r\n",
+        "is_correct": true
+      },
+      {
+        "answer_id": 301,
+        "question_id": 74,
+        "answer_text": "For the Cost and Manufacturing Event, all costs must be displayed in\r\nDollar\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 302,
+        "question_id": 74,
+        "answer_text": "For the VSV the car must run under its own power ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 303,
+        "question_id": 74,
+        "answer_text": "The outer diameter of a skid pad track circle is 31.25 m\r\n",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 296,
+        "question_id": 74,
+        "answer_text": "After technical inspection a complete damper can be changed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 297,
+        "question_id": 74,
+        "answer_text": "The minimal bend radius for hoops is 2.5 times the outside diameter of\r\nthe used tubular material",
+        "is_correct": false
+      },
+      {
+        "answer_id": 298,
+        "question_id": 74,
+        "answer_text": "The minimal material outside diameter (without any decimal\r\nplace) of a closed section steel tube with wall thickness of 2 mm\r\nfor the main hoop is 30 mm \r\n",
+        "is_correct": true
+      },
+      {
+        "answer_id": 299,
+        "question_id": 74,
+        "answer_text": "The minimal fuel pressure for the injection system is 1.5 bar\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 300,
+        "question_id": 74,
+        "answer_text": "A team can receive penalty points for issues in Technical\r\nInspection \r\n",
+        "is_correct": true
+      },
+      {
+        "answer_id": 301,
+        "question_id": 74,
+        "answer_text": "For the Cost and Manufacturing Event, all costs must be displayed in\r\nDollar\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 302,
+        "question_id": 74,
+        "answer_text": "For the VSV the car must run under its own power ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 303,
+        "question_id": 74,
+        "answer_text": "The outer diameter of a skid pad track circle is 31.25 m\r\n",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 155,
+    "text": "In the illustrated thermodynamic cycle of an ideal gas, the values for p1=6.5bar, V1=0.7m3, V2=2.1m3, p4=1.2 bar and T1=800K are given.\nThe value T3 is to be calculated in Kelvin! Round solution to one decimal place.    ",
+    "type": "input",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 623,
+        "question_id": 155,
+        "answer_text": "147.7",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000155__img000043__155_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 623,
+        "question_id": 155,
+        "answer_text": "147.7",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 157,
+    "text": "The shown gears have weight forces of G1=40N, G2=60N, G3=35N, G4=55N. The weight of the shaft can be neglected. The distances are as follow: a=110mm, b=100mm, c=150mm, d=120mm and e=55mm.\nPlease calculate the force in bearing point FB in Newton! Round the solution to one decimal place.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 629,
+        "question_id": 157,
+        "answer_text": "91.1",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000157__img000045__157_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 629,
+        "question_id": 157,
+        "answer_text": "91.1",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 158,
+    "text": "The coupling of two rods with a tensile load of 80 kN is realized by flanges which are connected by 4 screws. All screws are oriented in the direction of the tensile load. Which screw core diameter must be at least present if the allowable tension stress is 32N/mm2?\nEnter the result of the screw core diameter in millimeter. Round solution to one decimal place.\nEnter the minimal possible ISO metric screw thread according to DIN 13-1 (Column 1, First Choice) / ISO 262 (Column 1, First Choice): (Mxx)\nGive your answer in the following format: screw core diameter, ISO metric screw thread. Example: if the screw core diameter is 12,3mm and the ISO metric screw thread is M12 then use 12.3, 12 as answer value.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 630,
+        "question_id": 158,
+        "answer_text": "28.2, 36",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000158__img000046__158_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 630,
+        "question_id": 158,
+        "answer_text": "28.2, 36",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 160,
+    "text": "A Main Hoop is designed out of a close section steel tube with an outside diameter of 30 mm and a wall thickness of 2.5 mm.\nPlease enter the minimum bending radius in millimeter.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 632,
+        "question_id": 160,
+        "answer_text": "90",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 632,
+        "question_id": 160,
+        "answer_text": "90",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 162,
+    "text": "An incompressible medium is flowing through a pipe with 27mm inner diameter. To what diameter in millimeter must the pipe be tapered so that the flow speed doubles. Consider a flow speed far below the speed of sound, and neglect all losses.\nRound the solution to one decimal place.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 641,
+        "question_id": 162,
+        "answer_text": "19.1",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 641,
+        "question_id": 162,
+        "answer_text": "19.1",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 163,
+    "text": "According to the FS Rules and the competition handbook: Which statements are true?",
+    "type": "multi-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 642,
+        "question_id": 163,
+        "answer_text": "All vehicles must be equipped with a brake system plausibility device",
+        "is_correct": true
+      },
+      {
+        "answer_id": 643,
+        "question_id": 163,
+        "answer_text": "Critical fasteners must not be shortened",
+        "is_correct": false
+      },
+      {
+        "answer_id": 644,
+        "question_id": 163,
+        "answer_text": "All signal failures of system critical signals must result in an opened shutdown circuit",
+        "is_correct": false
+      },
+      {
+        "answer_id": 645,
+        "question_id": 163,
+        "answer_text": "The tilt test simulates a lateral accelaration of 1.6g (rounded to one decimal place)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 646,
+        "question_id": 163,
+        "answer_text": "A black flag shows a disqualification to the driver",
+        "is_correct": false
+      },
+      {
+        "answer_id": 647,
+        "question_id": 163,
+        "answer_text": "Each driver may drive up to two dynamic events",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 642,
+        "question_id": 163,
+        "answer_text": "All vehicles must be equipped with a brake system plausibility device",
+        "is_correct": true
+      },
+      {
+        "answer_id": 643,
+        "question_id": 163,
+        "answer_text": "Critical fasteners must not be shortened",
+        "is_correct": false
+      },
+      {
+        "answer_id": 644,
+        "question_id": 163,
+        "answer_text": "All signal failures of system critical signals must result in an opened shutdown circuit",
+        "is_correct": false
+      },
+      {
+        "answer_id": 645,
+        "question_id": 163,
+        "answer_text": "The tilt test simulates a lateral accelaration of 1.6g (rounded to one decimal place)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 646,
+        "question_id": 163,
+        "answer_text": "A black flag shows a disqualification to the driver",
+        "is_correct": false
+      },
+      {
+        "answer_id": 647,
+        "question_id": 163,
+        "answer_text": "Each driver may drive up to two dynamic events",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 165,
+    "text": "The cat of a FSG technical inspector falls down from the fifth floor balcony (15m height to ground). The cat is oriented with its back downwards to the ground when starting to fall with no initial rotational or translational speed. Using the inertia of the tail, the cat tries to turn around the x-axis, see figure for definition, until the feet point downwards. How long does it take to turn? How long does the cat fall?\nThe cat is assumed to have a mass of 1.5kg. The tail has an rotational moment of inertia around the x-axis of 1.125gm2, the rest of the cat without the tail has an rotational moment of inertia around the x-axis of 4.8gm2. The tail has a maximum rotational angular speed of 2π rad/s around the x-axis. It is assumed, that the tail can be accelarated in no time. The aerodynamic drag coefficient is assumed to be cw = 0.8 independently of the orientation around the x-axis. The cats aerodynamic cross sectional area is given by 0.04m2, independently of the orientation around the x-axis. The air density is assumed to be 1.2kg/m3, the gravitational accelaration is defined to be 9.9m/s2.\nPlease enter:\n- the time needed until reaching the ground in seconds rounded to the nearest two decimals.\n- the time needed to turn on the feet in seconds rounded to the nearest two decimals.\nGive your answer in the following format: time needed until reaching the ground, time needed to turn on the feet. Example: if the time needed until reaching the ground is 12,34s and the time needed to turn on the feet is 23,45 then use 12.34, 23.45 as answer value.",
+    "type": "input",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 649,
+        "question_id": 165,
+        "answer_text": "1.80, 2.13",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000165__img000057__165_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 649,
+        "question_id": 165,
+        "answer_text": "1.80, 2.13",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "question_id": 717,
+    "text": "Calculate the rear wheel speed of the FS car, when crossing the finish line of the Formula Student Poland acceleration event knowing that:\\n - Its acceleration event time is 4 seconds\\n - the car is RWD\\n - the car is symmetrical\\n - it produces constant longitudinal acceleration through the whole course and when passing the finish line\\n - aerodynamic drag and downforce are negligible\\n - g = 9,81 [????/sec^2]\\n - car and driver mass m = 250 [kg]\\n - wheelbase WB = 1550 [mm]\\n - centre of gravity height CGh = 250 [mm]\\n - static front weight distribution of the car with driver WD = 45%\\n - tires rolling radius Re = 0,2 [m]\\n - We assume linear tire model where longitudinal slip stiffness Cκ of the rear tires is directly proportional to their vertical load Fz(rear tire). It is described as slip-stiffness coefficient Cx below:\\n Cx = Cκ/Fz(rear tire) = 20\\n Note:\\n -SAE slip ratio definition used, NOT the terra-mechanics.\\n -Fz(rear tire) > 0 ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2694,
+        "question_id": 717,
+        "answer_text": "187,5 [rad/s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2695,
+        "question_id": 717,
+        "answer_text": "195,9 [rad/s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2696,
+        "question_id": 717,
+        "answer_text": "199,5 [rad/s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2697,
+        "question_id": 717,
+        "answer_text": "200,2 [rad/s]",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2694,
+        "question_id": 717,
+        "answer_text": "187,5 [rad/s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2695,
+        "question_id": 717,
+        "answer_text": "195,9 [rad/s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2696,
+        "question_id": 717,
+        "answer_text": "199,5 [rad/s]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2697,
+        "question_id": 717,
+        "answer_text": "200,2 [rad/s]",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      76,
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 720,
+    "text": "Devices D1 and D2 are connected to a common High-speed CAN bus (ISO 11898-2) with matching settings:\\n - FCAN (after prescaler) = 8 [Mhz]- Tseg1 (Prop   Phase 1) = 13 \\n - Tseg2 (Phase 2) = 2\\n At T0, node D1 starts frame transmission (standard ID = 0x435, DLC = 1, Data = 0x55). At T1 until T2 lines CAN_H and CAN_L were shorted.\\n  What would be a behavior of D1 for given timing relations?\\n -T0 = 0;\\n -T1 = 2 us\\n -T2 = 4 us  ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2706,
+        "question_id": 720,
+        "answer_text": "D1 continues transmission normally",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2707,
+        "question_id": 720,
+        "answer_text": "D1 detects Bit Error and sends Error Flag ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2708,
+        "question_id": 720,
+        "answer_text": "D1 loses arbitration and stops transmission",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2709,
+        "question_id": 720,
+        "answer_text": "D1 detects Bit Stuffing Error and sends Error Flag ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2706,
+        "question_id": 720,
+        "answer_text": "D1 continues transmission normally",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2707,
+        "question_id": 720,
+        "answer_text": "D1 detects Bit Error and sends Error Flag ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2708,
+        "question_id": 720,
+        "answer_text": "D1 loses arbitration and stops transmission",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2709,
+        "question_id": 720,
+        "answer_text": "D1 detects Bit Stuffing Error and sends Error Flag ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      76,
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 759,
+    "text": "What is the power measured at the output shaft of the gearbox, which is coupled to the internal combustion engine with the given parameters for constant RPM powered by the fuel described below.\\n- Fuel specific energy = 47,30 [MJ/kg]\\n- Fuel density = 720 [kg/m^3]\\n- Air density = 1,29 [kg/m^3]\\n- Engine type: single cylinder, four stroke internal combustion naturally aspiratedspark plug indirect injection gasoline engine\\n- Engine volume = 500 [ccm]\\n- Volumetric efficiency = 80%\\n- Engine RPM = 9600\\n- Air to Fuel Stoichiometric Mass Ratio = 14,7:1\\n- Engine efficiency = 40%\\n- Gearbox power loss = 5 [kW] \\n- Gearbox ratio = 1,25 \\nAssume the complete combustion of the fuel and 100% efficiency in conversion of fuel energy to useful energy.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2827,
+        "question_id": 759,
+        "answer_text": "47,98 [HP]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2828,
+        "question_id": 759,
+        "answer_text": "38,38 [HP]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2829,
+        "question_id": 759,
+        "answer_text": "47,98 [kW]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2830,
+        "question_id": 759,
+        "answer_text": "61,23 [kW]",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2827,
+        "question_id": 759,
+        "answer_text": "47,98 [HP]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2828,
+        "question_id": 759,
+        "answer_text": "38,38 [HP]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2829,
+        "question_id": 759,
+        "answer_text": "47,98 [kW]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2830,
+        "question_id": 759,
+        "answer_text": "61,23 [kW]",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      81
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  }
+]

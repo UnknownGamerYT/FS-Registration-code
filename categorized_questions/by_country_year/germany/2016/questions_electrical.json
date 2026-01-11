@@ -1,0 +1,170 @@
+[
+  {
+    "question_id": 47,
+    "text": "A capacitor with a capacitance of 100 μF is currently charged to a voltage of 199.8V. How much additional energy is needed to charge it to a voltage of 301.4V and how long does that charging take?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 193,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.564 J. The time needed cannot be calculated with the given parameters.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 194,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.546 J. The time needed is 3.4 ms.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 195,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.546 J. The time needed cannot be calculated with the given parameters.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 196,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.564 J. The time needed is 3.2 ms.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 197,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.456 J. The time needed cannot be calculated with the given parameters.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 198,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.456 J. The time needed is 2.9 ms.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 193,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.564 J. The time needed cannot be calculated with the given parameters.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 194,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.546 J. The time needed is 3.4 ms.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 195,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.546 J. The time needed cannot be calculated with the given parameters.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 196,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.564 J. The time needed is 3.2 ms.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 197,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.456 J. The time needed cannot be calculated with the given parameters.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 198,
+        "question_id": 47,
+        "answer_text": "The additional energy needed is 2.456 J. The time needed is 2.9 ms.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 49,
+    "text": "In what situation is the driver allowed to reactivate the tractive system without the help of another person?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 203,
+        "question_id": 49,
+        "answer_text": "When the insulation monitoring device has shut down the tractive system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 204,
+        "question_id": 49,
+        "answer_text": "When the accumulator management system has shutdown the tractive system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 205,
+        "question_id": 49,
+        "answer_text": "When the inertia switch has shutdown the tractive system",
+        "is_correct": true
+      },
+      {
+        "answer_id": 206,
+        "question_id": 49,
+        "answer_text": "When the brake system plausibility device has shutdown the tractive system",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 203,
+        "question_id": 49,
+        "answer_text": "When the insulation monitoring device has shut down the tractive system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 204,
+        "question_id": 49,
+        "answer_text": "When the accumulator management system has shutdown the tractive system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 205,
+        "question_id": 49,
+        "answer_text": "When the inertia switch has shutdown the tractive system",
+        "is_correct": true
+      },
+      {
+        "answer_id": 206,
+        "question_id": 49,
+        "answer_text": "When the brake system plausibility device has shutdown the tractive system",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

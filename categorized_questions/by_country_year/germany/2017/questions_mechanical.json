@@ -1,0 +1,1389 @@
+[
+  {
+    "question_id": 226,
+    "text": "When using a tab or bracket for a bolted joint in the primary structure, what should be the minimum distance from the center of the hole (radius 5.05 mm) to the nearest free edge of the tab or bracket? <br>Answer in mm and round to 2 decimal places.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 889,
+        "question_id": 226,
+        "answer_text": "20.20 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 890,
+        "question_id": 226,
+        "answer_text": "7.57 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 891,
+        "question_id": 226,
+        "answer_text": "​10.10 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 892,
+        "question_id": 226,
+        "answer_text": "15.09",
+        "is_correct": false
+      },
+      {
+        "answer_id": 893,
+        "question_id": 226,
+        "answer_text": "7.58 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 894,
+        "question_id": 226,
+        "answer_text": "15.15 ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 45,
+        "question_id": 226,
+        "text": "Rule: T10.1.6: e/D >= 1,5 -> 15,15mm",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 889,
+        "question_id": 226,
+        "answer_text": "20.20 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 890,
+        "question_id": 226,
+        "answer_text": "7.57 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 891,
+        "question_id": 226,
+        "answer_text": "​10.10 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 892,
+        "question_id": 226,
+        "answer_text": "15.09",
+        "is_correct": false
+      },
+      {
+        "answer_id": 893,
+        "question_id": 226,
+        "answer_text": "7.58 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 894,
+        "question_id": 226,
+        "answer_text": "15.15 ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 227,
+    "text": "Due to electromagnetic interference a sensor signal is disturbed by a high frequency noise. To reduce this noise, you want to design a passive 1st-order Low-Pass Filter with a cut-off frequency at Fc=300Hz. What is the resulting phase shift of the sensor signal at F=150Hz?<br> Answer in degrees, the right sign and round to 2 decimal places.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 895,
+        "question_id": 227,
+        "answer_text": "26.57 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 896,
+        "question_id": 227,
+        "answer_text": "63.43 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 897,
+        "question_id": 227,
+        "answer_text": "​0.5 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 898,
+        "question_id": 227,
+        "answer_text": "-26.57 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 899,
+        "question_id": 227,
+        "answer_text": "​-0.5 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 900,
+        "question_id": 227,
+        "answer_text": "​-63.43",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 46,
+        "question_id": 227,
+        "text": "ARCTAN( F/ F_c)",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 895,
+        "question_id": 227,
+        "answer_text": "26.57 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 896,
+        "question_id": 227,
+        "answer_text": "63.43 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 897,
+        "question_id": 227,
+        "answer_text": "​0.5 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 898,
+        "question_id": 227,
+        "answer_text": "-26.57 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 899,
+        "question_id": 227,
+        "answer_text": "​-0.5 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 900,
+        "question_id": 227,
+        "answer_text": "​-63.43",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 228,
+    "text": "Your suspension expert told you, that the suspension travel changes by frequencies up to 220Hz. What is the theoretical minimum sample frequency you have to use for AD conversion of the sensor signal, such that all information of the continuous-time signal is captured?<br> Answer in Herz and round to 0 decimal places.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 901,
+        "question_id": 228,
+        "answer_text": "880 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 902,
+        "question_id": 228,
+        "answer_text": "110",
+        "is_correct": false
+      },
+      {
+        "answer_id": 903,
+        "question_id": 228,
+        "answer_text": "55 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 904,
+        "question_id": 228,
+        "answer_text": "​220 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 905,
+        "question_id": 228,
+        "answer_text": "​1000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 906,
+        "question_id": 228,
+        "answer_text": "440",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 47,
+        "question_id": 228,
+        "text": "Nyquist sampling theorem, must be at least twice maximum input frequency",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 901,
+        "question_id": 228,
+        "answer_text": "880 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 902,
+        "question_id": 228,
+        "answer_text": "110",
+        "is_correct": false
+      },
+      {
+        "answer_id": 903,
+        "question_id": 228,
+        "answer_text": "55 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 904,
+        "question_id": 228,
+        "answer_text": "​220 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 905,
+        "question_id": 228,
+        "answer_text": "​1000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 906,
+        "question_id": 228,
+        "answer_text": "440",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 376,
+    "text": "Calculate the force FBx for the given bracket when a force F=500 N is applied at the point of the thick red arrow, given the dimensions l1=35mm and l2=45mm. Answer in Newton and round to 0 decimal places.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1492,
+        "question_id": 376,
+        "answer_text": "-500",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1493,
+        "question_id": 376,
+        "answer_text": "389",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1494,
+        "question_id": 376,
+        "answer_text": "500",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1495,
+        "question_id": 376,
+        "answer_text": "-389",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1496,
+        "question_id": 376,
+        "answer_text": "643",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1497,
+        "question_id": 376,
+        "answer_text": "-643",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 67,
+        "question_id": 376,
+        "text": "Moment um F_ax: -500N * 45mm + F_bx * 35mm = 0​ -> F_bx = 642,86 -> 643N",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000376__img000085__376_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1492,
+        "question_id": 376,
+        "answer_text": "-500",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1493,
+        "question_id": 376,
+        "answer_text": "389",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1494,
+        "question_id": 376,
+        "answer_text": "500",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1495,
+        "question_id": 376,
+        "answer_text": "-389",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1496,
+        "question_id": 376,
+        "answer_text": "643",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1497,
+        "question_id": 376,
+        "answer_text": "-643",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 377,
+    "text": "Given a vehicle with an inner wheel steering angle (σi) of 20 degrees, a wheelbase of l=2586 mm, a trackwidth of j=719 mm and a scrub radius of 0. Calculate the outer wheel steering angle (σAa) in degrees (round to 2 decimal places) using the given \"Ackermann-Equation\".",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1498,
+        "question_id": 377,
+        "answer_text": "19.49",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1499,
+        "question_id": 377,
+        "answer_text": "​​17.46",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1500,
+        "question_id": 377,
+        "answer_text": "18.29",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1501,
+        "question_id": 377,
+        "answer_text": "17.98",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1502,
+        "question_id": 377,
+        "answer_text": "16.65",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1503,
+        "question_id": 377,
+        "answer_text": "17.58",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000377__img000086__377_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1498,
+        "question_id": 377,
+        "answer_text": "19.49",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1499,
+        "question_id": 377,
+        "answer_text": "​​17.46",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1500,
+        "question_id": 377,
+        "answer_text": "18.29",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1501,
+        "question_id": 377,
+        "answer_text": "17.98",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1502,
+        "question_id": 377,
+        "answer_text": "16.65",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1503,
+        "question_id": 377,
+        "answer_text": "17.58",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 379,
+    "text": "What is the minimum material volume of the head restraint?<br>Answer in liters (round to 2 decimal places)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1510,
+        "question_id": 379,
+        "answer_text": "0.85",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1511,
+        "question_id": 379,
+        "answer_text": "0.86",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1512,
+        "question_id": 379,
+        "answer_text": "0.87",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1513,
+        "question_id": 379,
+        "answer_text": "0.90",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1514,
+        "question_id": 379,
+        "answer_text": "0.88",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1515,
+        "question_id": 379,
+        "answer_text": "0.89",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 69,
+        "question_id": 379,
+        "text": "Rule: T4.5.7 => 0,90l",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1510,
+        "question_id": 379,
+        "answer_text": "0.85",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1511,
+        "question_id": 379,
+        "answer_text": "0.86",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1512,
+        "question_id": 379,
+        "answer_text": "0.87",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1513,
+        "question_id": 379,
+        "answer_text": "0.90",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1514,
+        "question_id": 379,
+        "answer_text": "0.88",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1515,
+        "question_id": 379,
+        "answer_text": "0.89",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 380,
+    "text": "You are standing between a combustion vehicle, which is running idle and producing a 30 Hz tone at a sound pressure level of 103 dB(C) at your position, and an electric vehicle, which is sounding its 2 kHz tone as ready-to-drive sound at a sound pressure level of 80 dB(A) at your position. What is the non weighted combined sound pressure level measured at your position, considering that the sound sources are non-coherent and there are no other sound sources present?\\nAnswer in dB and round to 0 decimal places.    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1516,
+        "question_id": 380,
+        "answer_text": "106",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1517,
+        "question_id": 380,
+        "answer_text": "106",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1518,
+        "question_id": 380,
+        "answer_text": "103",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1519,
+        "question_id": 380,
+        "answer_text": "183",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1520,
+        "question_id": 380,
+        "answer_text": "109",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1521,
+        "question_id": 380,
+        "answer_text": "100",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1516,
+        "question_id": 380,
+        "answer_text": "106",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1517,
+        "question_id": 380,
+        "answer_text": "106",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1518,
+        "question_id": 380,
+        "answer_text": "103",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1519,
+        "question_id": 380,
+        "answer_text": "183",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1520,
+        "question_id": 380,
+        "answer_text": "109",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1521,
+        "question_id": 380,
+        "answer_text": "100",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 382,
+    "text": "Given a vehicle with an inner wheel steering angle (σi) of 25 degrees, a wheelbase of l=2586 mm, a trackwidth of j=719 mm and a scrub radius of 0. Calculate the outer wheel steering angle (σAa) in degrees (round to 2 decimal places) using the given \"Ackermann-Equation\".",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1528,
+        "question_id": 382,
+        "answer_text": "22.86",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1529,
+        "question_id": 382,
+        "answer_text": "22.34",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1530,
+        "question_id": 382,
+        "answer_text": "22.13",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1531,
+        "question_id": 382,
+        "answer_text": "22.79",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1533,
+        "question_id": 382,
+        "answer_text": "22.52",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1534,
+        "question_id": 382,
+        "answer_text": "22.43",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000382__img000087__377_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1528,
+        "question_id": 382,
+        "answer_text": "22.86",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1529,
+        "question_id": 382,
+        "answer_text": "22.34",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1530,
+        "question_id": 382,
+        "answer_text": "22.13",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1531,
+        "question_id": 382,
+        "answer_text": "22.79",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1533,
+        "question_id": 382,
+        "answer_text": "22.52",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1534,
+        "question_id": 382,
+        "answer_text": "22.43",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 383,
+    "text": "Your suspension expert told you, that the suspension travel changes by frequencies up to 190Hz. What is the theoretical minimum sample frequency you have to use for AD conversion of the sensor signal, such that all information of the continuous-time signal is captured?\\nAnswer in Herz and round to 0 decimal places.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1535,
+        "question_id": 383,
+        "answer_text": "190",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1536,
+        "question_id": 383,
+        "answer_text": "1000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1537,
+        "question_id": 383,
+        "answer_text": "48",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1538,
+        "question_id": 383,
+        "answer_text": "380",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1539,
+        "question_id": 383,
+        "answer_text": "95",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1540,
+        "question_id": 383,
+        "answer_text": "760",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1535,
+        "question_id": 383,
+        "answer_text": "190",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1536,
+        "question_id": 383,
+        "answer_text": "1000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1537,
+        "question_id": 383,
+        "answer_text": "48",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1538,
+        "question_id": 383,
+        "answer_text": "380",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1539,
+        "question_id": 383,
+        "answer_text": "95",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1540,
+        "question_id": 383,
+        "answer_text": "760",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 384,
+    "text": "Calculate the force FBx for the given bracket when a force F=880 N is applied at the point of the thick red arrow, given the dimensions l1=45mm and l2=55mm.\\nAnswer in Newton and round to 0 decimal places.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1541,
+        "question_id": 384,
+        "answer_text": "720",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1542,
+        "question_id": 384,
+        "answer_text": "880",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1543,
+        "question_id": 384,
+        "answer_text": "-1076",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1544,
+        "question_id": 384,
+        "answer_text": "-720",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1545,
+        "question_id": 384,
+        "answer_text": "-880",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1546,
+        "question_id": 384,
+        "answer_text": "1076",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000384__img000088__376_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1541,
+        "question_id": 384,
+        "answer_text": "720",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1542,
+        "question_id": 384,
+        "answer_text": "880",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1543,
+        "question_id": 384,
+        "answer_text": "-1076",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1544,
+        "question_id": 384,
+        "answer_text": "-720",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1545,
+        "question_id": 384,
+        "answer_text": "-880",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1546,
+        "question_id": 384,
+        "answer_text": "1076",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 386,
+    "text": "Due to electromagnetic interference a sensor signal is disturbed by a high frequency noise. To reduce this noise, you want to design a passive 1st-order Low-Pass Filter with a cut-off frequency at Fc=300Hz. What is the resulting phase shift of the sensor signal at F=180Hz? <br>Answer in degrees, the right sign and round to 2 decimal places.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1553,
+        "question_id": 386,
+        "answer_text": "-59.04",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1554,
+        "question_id": 386,
+        "answer_text": "-30.96",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1555,
+        "question_id": 386,
+        "answer_text": "30.96",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1556,
+        "question_id": 386,
+        "answer_text": "59.04",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1557,
+        "question_id": 386,
+        "answer_text": "0.6",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1558,
+        "question_id": 386,
+        "answer_text": "-0.6",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1553,
+        "question_id": 386,
+        "answer_text": "-59.04",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1554,
+        "question_id": 386,
+        "answer_text": "-30.96",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1555,
+        "question_id": 386,
+        "answer_text": "30.96",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1556,
+        "question_id": 386,
+        "answer_text": "59.04",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1557,
+        "question_id": 386,
+        "answer_text": "0.6",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1558,
+        "question_id": 386,
+        "answer_text": "-0.6",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 388,
+    "text": "You are standing between a combustion vehicle, which is running idle and producing a 30 Hz tone at a sound pressure level of 103 dB(C) at your position, and an electric vehicle, which is sounding its 2 kHz tone as ready-to-drive sound at a sound pressure level of 80 dB(A) at your position. What is the non weighted combined sound pressure level measured at your position, considering that the sound sources are non-coherent and there are no other sound sources present?\\nAnswer in dB and round to 0 decimal places.    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1565,
+        "question_id": 388,
+        "answer_text": "183",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1566,
+        "question_id": 388,
+        "answer_text": "109",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1567,
+        "question_id": 388,
+        "answer_text": "180",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1568,
+        "question_id": 388,
+        "answer_text": "103",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1569,
+        "question_id": 388,
+        "answer_text": "106",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1570,
+        "question_id": 388,
+        "answer_text": "100",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1565,
+        "question_id": 388,
+        "answer_text": "183",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1566,
+        "question_id": 388,
+        "answer_text": "109",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1567,
+        "question_id": 388,
+        "answer_text": "180",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1568,
+        "question_id": 388,
+        "answer_text": "103",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1569,
+        "question_id": 388,
+        "answer_text": "106",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1570,
+        "question_id": 388,
+        "answer_text": "100",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 389,
+    "text": "When using a tab or bracket for a bolted joint in the primary structure, what should be the minimum distance from the center of the hole (radius 6.05 mm) to the nearest free edge of the tab or bracket?\\nAnswer in mm and round to 2 decimal places.    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1571,
+        "question_id": 389,
+        "answer_text": "18.15",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1572,
+        "question_id": 389,
+        "answer_text": "9.08",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1573,
+        "question_id": 389,
+        "answer_text": "24.20",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1574,
+        "question_id": 389,
+        "answer_text": "9.07",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1575,
+        "question_id": 389,
+        "answer_text": "18.09",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1576,
+        "question_id": 389,
+        "answer_text": "12.10",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1571,
+        "question_id": 389,
+        "answer_text": "18.15",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1572,
+        "question_id": 389,
+        "answer_text": "9.08",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1573,
+        "question_id": 389,
+        "answer_text": "24.20",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1574,
+        "question_id": 389,
+        "answer_text": "9.07",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1575,
+        "question_id": 389,
+        "answer_text": "18.09",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1576,
+        "question_id": 389,
+        "answer_text": "12.10",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 390,
+    "text": "What is the minimum material volume of the head restraint?<br>Answer in liters (round to 2 decimal places)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1577,
+        "question_id": 390,
+        "answer_text": "0.88",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1578,
+        "question_id": 390,
+        "answer_text": "0.85",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1579,
+        "question_id": 390,
+        "answer_text": "0.87",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1580,
+        "question_id": 390,
+        "answer_text": "0.86",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1581,
+        "question_id": 390,
+        "answer_text": "0.89",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1582,
+        "question_id": 390,
+        "answer_text": "0.90",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1577,
+        "question_id": 390,
+        "answer_text": "0.88",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1578,
+        "question_id": 390,
+        "answer_text": "0.85",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1579,
+        "question_id": 390,
+        "answer_text": "0.87",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1580,
+        "question_id": 390,
+        "answer_text": "0.86",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1581,
+        "question_id": 390,
+        "answer_text": "0.89",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1582,
+        "question_id": 390,
+        "answer_text": "0.90",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

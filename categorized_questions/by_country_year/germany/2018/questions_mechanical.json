@@ -1,0 +1,379 @@
+[
+  {
+    "question_id": 507,
+    "text": "What is the calculated outside diameter D of a closed section stell tube used for the main hoop with a minimal wall thickness allowed by the FS rules an area moment of inertia of l=11320 mm^4 if the inner diameter d=22 mm?\\n Give the anser in millimetres and round to the nearest tenth.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2001,
+        "question_id": 507,
+        "answer_text": "26.1",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2001,
+        "question_id": 507,
+        "answer_text": "26.1",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 508,
+    "text": "What is the weight (in grams) of the smallest permitted head restraint if is made of Confor foam CF 42-pink that has a nominal density of 93 kg/m^3?\\n Round to the nearest whole gram. Give the answer in grams and round to the nearest one.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2002,
+        "question_id": 508,
+        "answer_text": "84",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2002,
+        "question_id": 508,
+        "answer_text": "84",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 509,
+    "text": "Calculate the force FA in Newton and round ti the nearest one given:\\n F1 = 100N, F2 = 200N, α = 10° I1 = 0.1m, I2 = 1.1m and I3 = 0.3m",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2003,
+        "question_id": 509,
+        "answer_text": "43",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000509__img000137__509_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2003,
+        "question_id": 509,
+        "answer_text": "43",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 511,
+    "text": "How many years can you compete at FSG with one unchanged vehicle in the CV or EV class?\\n Give the answer in total number of times (numeric).",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2005,
+        "question_id": 511,
+        "answer_text": "1",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2005,
+        "question_id": 511,
+        "answer_text": "1",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 514,
+    "text": "When heating up from 20°C: up to what temperature in degrees Celsius does the pure material iron keep its body-centred cubic structure?\\n Round the answer to the nearest 100°C.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2509,
+        "question_id": 514,
+        "answer_text": "900",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2509,
+        "question_id": 514,
+        "answer_text": "900",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 515,
+    "text": "A car with a total gravitational force of G = 2060 N (m=210 kg) has its center of gravity (S) at h = 205mm above the ground and is driving in a corner with a speed of 40 km/h. The corner has a radius (center of the track) of r = 14.5m. The track width b = 1240 mm. What is the maximum speed (in km/h) befor the car will roll over in this corner?\\n The friction coefficients of the tires can be ignored and it may be assumed that the suspension, tires and damping are abolutely stiff. Give the answer in km/h and round the answer to the nearest tenth.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2512,
+        "question_id": 515,
+        "answer_text": "74.7",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000515__img000138__515_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2512,
+        "question_id": 515,
+        "answer_text": "74.7",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 663,
+    "text": "Which statements apply to the Vickers hardness test method?",
+    "type": "multi-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 2505,
+        "question_id": 663,
+        "answer_text": "This test method is also applicable for non-metallic materials",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2506,
+        "question_id": 663,
+        "answer_text": "The indenter is a ball",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2507,
+        "question_id": 663,
+        "answer_text": "The indenter is made of a diamond",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2508,
+        "question_id": 663,
+        "answer_text": "Hardness is a result of force/surface of the imprint",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2505,
+        "question_id": 663,
+        "answer_text": "This test method is also applicable for non-metallic materials",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2506,
+        "question_id": 663,
+        "answer_text": "The indenter is a ball",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2507,
+        "question_id": 663,
+        "answer_text": "The indenter is made of a diamond",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2508,
+        "question_id": 663,
+        "answer_text": "Hardness is a result of force/surface of the imprint",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      68,
+      49
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 664,
+    "text": "Given is a schematic of a gearbox that consists out of two gear sets with the wheels 1 and 2 or 3 and 4 respectively. The wheels are fixed to their shafts. The number of teeth are given as Z1=25, Z2=75, Z3=15 and Z4=100. The drive speed of wheel 1 is given with 600 rpm.Calculate the drive speed of wheel 4 in rpm rounded to the nearest one.",
+    "type": "input",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 2511,
+        "question_id": 664,
+        "answer_text": "30",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000664__img000175__664_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2511,
+        "question_id": 664,
+        "answer_text": "30",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 665,
+    "text": "Due to electromagnetic interference, a sensor signal is disturbed by a high frequency noise. To reduce this noise, you want to design a linear 1^st order low-pass Filter with a cut-off frequency at f0 = 300 Hz. What is the resulting phase shift of the sensor signal at f = 200 Hz?Give the result in degrees and round the result to the nearest tenth.",
+    "type": "input",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 2513,
+        "question_id": 665,
+        "answer_text": "-33.7",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000665__img000176__665_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2513,
+        "question_id": 665,
+        "answer_text": "-33.7",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      68,
+      49
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

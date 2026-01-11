@@ -1,0 +1,134 @@
+[
+  {
+    "question_id": 622,
+    "text": "Your team put a 1-axis accelerometer in the middle of a rear wing, which is supported on each side, and did a test drive. The output of the sensor is a series of measurements in mV saved as ACC_data.txt. What is the first resonance frequency of the wing as measured by the sensor? The sampling rate was 2 kHz. The sensor is calibrated at 20,23 mV/g. Round the answer to the nearest 5 Hz. (e.g.5, 10, 15, 20…)\\n Link to the file ACC_data.txt: https://fs-quiz.eu/doc/quiz/fsaa23/ACC_data.txt",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2381,
+        "question_id": 622,
+        "answer_text": "40",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 121,
+        "question_id": 622,
+        "text": "Step 1: Translate data (notepad++), Change blank space to TAB, Change ',' to '.'\\n Step 2: Example: Python, Use fft analysis script (Numpy), Sample rate: 2kHz = 2000Hz",
+        "images": [
+          {
+            "img_id": 169,
+            "path": "solutions/622_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2381,
+        "question_id": 622,
+        "answer_text": "40",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 624,
+    "text": "You are the last car to start in the Endurance event. So far, the overall fastest time on the time board is 1300 seconds. While watching the event you also saw another team finish endurance in respectable time. You know that team has an Energy Storage that holds only 4,2 kWh.\\n From simulations, you know your power consumption depends on the average speed in one lap. The faster the lap, the more energy it consumes.\\n EN= P*v^4\\n Where: EN is the energy consumed for the whole of Endurance, v is the average speed in km/h, P= 0,0005 [Wh^5/km^4]\\n Your Energy Storage holds 6 kWh of energy, and your driver is capable of driving it as fast as possible. BUT! You want to get as many overall points as possible. That means you want to maximize the sum of Endurance event AND Efficiency event points!\\n What lap times shall the drivers drive to maximize the points total for both events? The Endurance lap is 1 km long and there are 22 laps in total. Write the answer in seconds with 2 decimal points.\\n There is no regeneration of energy. No cones are hit.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2383,
+        "question_id": 624,
+        "answer_text": "61.17",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 122,
+        "question_id": 624,
+        "text": "Relevant times: 1345,64 s (fastest possible) – 1472,94 (100 points difference in endurance from max points",
+        "images": [
+          {
+            "img_id": 170,
+            "path": "solutions/624_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2383,
+        "question_id": 624,
+        "answer_text": "61.17",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 625,
+    "text": "Your team has a potential new sponsor in mind. He has offered to invite you to a meeting if you send him a summary/handout (A4) of a management presentation within 24 hours which your contact person at the company can send to the management. Like all sponsors in Formula Student, this company is not a charity but is after good engineers and managers. Convince the company that your team deserves to get big money (or maybe other support) from them. Upload this document as a Handout_UniversityName.pdf file (10 MB max file size).\\n Details: The same handout will be used at your on-site meeting.\\n The fictitious company has extensive expertise in the automotive field, especially regarding all powertrain components and electrification.\\n The fictitious company is willing to enter into a longer-term partnership if topics can be found that are profitable for both sides.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2384,
+        "question_id": 625,
+        "answer_text": "Upload is not supported (This answer is correct)",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2384,
+        "question_id": 625,
+        "answer_text": "Upload is not supported (This answer is correct)",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  }
+]

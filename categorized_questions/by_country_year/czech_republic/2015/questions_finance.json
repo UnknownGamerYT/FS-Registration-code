@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": 502,
+    "text": "All aerodynamic devices must be designed such that the mounting system provides adequate rigidity in the static condition and such that the aerodynamic devices do not oscillate or move excessively when the vehicle is moving. In Technical Inspection this will be checked by pushing on the aerodynamic devices in any direction and at any point. The guideline for approving it is:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1986,
+        "question_id": 502,
+        "answer_text": "If any deflection is significant, then a force of approximately 250N can be applied and the resulting deflection should not be more than 25mm and any permanent deflection less than 2,5mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1987,
+        "question_id": 502,
+        "answer_text": "If any deflection is significant, then a force of approximately 200N can be applied and the resulting deflection should not be more than 20mm and any permanent deflection less than 2mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1988,
+        "question_id": 502,
+        "answer_text": "If any deflection is significant, then a force of approximately 200N can be applied and the resulting deflection should not be more than 25mm and any permanent deflection less than 5mm.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1986,
+        "question_id": 502,
+        "answer_text": "If any deflection is significant, then a force of approximately 250N can be applied and the resulting deflection should not be more than 25mm and any permanent deflection less than 2,5mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1987,
+        "question_id": 502,
+        "answer_text": "If any deflection is significant, then a force of approximately 200N can be applied and the resulting deflection should not be more than 20mm and any permanent deflection less than 2mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1988,
+        "question_id": 502,
+        "answer_text": "If any deflection is significant, then a force of approximately 200N can be applied and the resulting deflection should not be more than 25mm and any permanent deflection less than 5mm.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      48
+    ],
+    "years": [
+      "2015"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 503,
+    "text": "What is a maximal possible thermal efficiency of a thermodynamic cycle working between 60°C (140°F) and 770°C (1418°F)?\\n The maximal pressure is limited to 120 bar.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1989,
+        "question_id": 503,
+        "answer_text": "68%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1990,
+        "question_id": 503,
+        "answer_text": "72%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1991,
+        "question_id": 503,
+        "answer_text": "92%",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1989,
+        "question_id": 503,
+        "answer_text": "68%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1990,
+        "question_id": 503,
+        "answer_text": "72%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1991,
+        "question_id": 503,
+        "answer_text": "92%",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      48
+    ],
+    "years": [
+      "2015"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

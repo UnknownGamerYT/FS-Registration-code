@@ -1,0 +1,508 @@
+[
+  {
+    "question_id": 522,
+    "text": "The weight distribution of a car is 44% to the front and 56% to the rear axle. The wheelbase of the car is 1570 ????????. In what distance, measuring from the rear axle, is the CoG located?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2031,
+        "question_id": 522,
+        "answer_text": "0.69 m",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2032,
+        "question_id": 522,
+        "answer_text": "0.87 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2033,
+        "question_id": 522,
+        "answer_text": "1.17 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2034,
+        "question_id": 522,
+        "answer_text": "1.32 m",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2031,
+        "question_id": 522,
+        "answer_text": "0.69 m",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2032,
+        "question_id": 522,
+        "answer_text": "0.87 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2033,
+        "question_id": 522,
+        "answer_text": "1.17 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2034,
+        "question_id": 522,
+        "answer_text": "1.32 m",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 524,
+    "text": "Which of the following is correct about the Driver’s Harness Attachment?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2039,
+        "question_id": 524,
+        "answer_text": "A minimum cross-sectional area of 60 mm^2 of the same steel used in the car must be physically tested to prove structural rigidity.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2040,
+        "question_id": 524,
+        "answer_text": "A belt can be regionally exposed to the engine or any other significant heat source, as long as it is not passing through the firewall.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2041,
+        "question_id": 524,
+        "answer_text": "Where lap belts and anti-submarine belts use the same attachment point, the tab or bracket to which they are attached, must have a minimum cross sectional area of 90mm^2 of steel to be sheared if failed in tension at any point of the tab.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2042,
+        "question_id": 524,
+        "answer_text": "An attachment welded to a steel structure must be able to carry 13 kN for shoulder and lap belts, and 6.5 kN for anti-submarine belts",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2039,
+        "question_id": 524,
+        "answer_text": "A minimum cross-sectional area of 60 mm^2 of the same steel used in the car must be physically tested to prove structural rigidity.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2040,
+        "question_id": 524,
+        "answer_text": "A belt can be regionally exposed to the engine or any other significant heat source, as long as it is not passing through the firewall.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2041,
+        "question_id": 524,
+        "answer_text": "Where lap belts and anti-submarine belts use the same attachment point, the tab or bracket to which they are attached, must have a minimum cross sectional area of 90mm^2 of steel to be sheared if failed in tension at any point of the tab.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2042,
+        "question_id": 524,
+        "answer_text": "An attachment welded to a steel structure must be able to carry 13 kN for shoulder and lap belts, and 6.5 kN for anti-submarine belts",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50,
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 525,
+    "text": "If a full cylinder has a Moment of Inertia of J = 1,08 kg/m^2, what is the Moment of Inertia of a full cylinder with the same mass but half the diameter?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2043,
+        "question_id": 525,
+        "answer_text": "0.16 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2044,
+        "question_id": 525,
+        "answer_text": "0.27 kg/m^2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2045,
+        "question_id": 525,
+        "answer_text": "0.73 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2046,
+        "question_id": 525,
+        "answer_text": "0.84 kg/m^2",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2043,
+        "question_id": 525,
+        "answer_text": "0.16 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2044,
+        "question_id": 525,
+        "answer_text": "0.27 kg/m^2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2045,
+        "question_id": 525,
+        "answer_text": "0.73 kg/m^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2046,
+        "question_id": 525,
+        "answer_text": "0.84 kg/m^2",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 527,
+    "text": "Which of the following statements about the Fuel System is correct?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2051,
+        "question_id": 527,
+        "answer_text": "The fuel tank must be located within the surface envelope",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2052,
+        "question_id": 527,
+        "answer_text": "The fuel tank must be securely attached to the vehicle structure with mountings that do not allow flexibility such that chassis flex cannot unintentionally load the fuel tank.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2053,
+        "question_id": 527,
+        "answer_text": "The fuel tank can be made of flexible material.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2054,
+        "question_id": 527,
+        "answer_text": "The fuel tank must be made of a rigid material to prevent failure under loading. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2051,
+        "question_id": 527,
+        "answer_text": "The fuel tank must be located within the surface envelope",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2052,
+        "question_id": 527,
+        "answer_text": "The fuel tank must be securely attached to the vehicle structure with mountings that do not allow flexibility such that chassis flex cannot unintentionally load the fuel tank.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2053,
+        "question_id": 527,
+        "answer_text": "The fuel tank can be made of flexible material.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2054,
+        "question_id": 527,
+        "answer_text": "The fuel tank must be made of a rigid material to prevent failure under loading. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 528,
+    "text": "Please read these two statements concerning the Fuel Filler Neck for CV Class at FSN2020.\\n 1. Fuel Filler Necks are considered part of the fuel tank\\n 2. A minimum inner diameter of 35mm is required.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2055,
+        "question_id": 528,
+        "answer_text": "Both statements are correct",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2056,
+        "question_id": 528,
+        "answer_text": "Only statement 1 is correct",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2057,
+        "question_id": 528,
+        "answer_text": "Only statement 2 is correct",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2058,
+        "question_id": 528,
+        "answer_text": "Both statements are incorrect",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2055,
+        "question_id": 528,
+        "answer_text": "Both statements are correct",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2056,
+        "question_id": 528,
+        "answer_text": "Only statement 1 is correct",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2057,
+        "question_id": 528,
+        "answer_text": "Only statement 2 is correct",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2058,
+        "question_id": 528,
+        "answer_text": "Both statements are incorrect",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      51
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 531,
+    "text": "Which of the following oscillators is not of sinusoidal nature?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2067,
+        "question_id": 531,
+        "answer_text": "Negative-resistance Oscillator",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2068,
+        "question_id": 531,
+        "answer_text": "RC phase shift oscillator",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2069,
+        "question_id": 531,
+        "answer_text": "Relaxation oscillator",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2070,
+        "question_id": 531,
+        "answer_text": "Crystal oscillator",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2067,
+        "question_id": 531,
+        "answer_text": "Negative-resistance Oscillator",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2068,
+        "question_id": 531,
+        "answer_text": "RC phase shift oscillator",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2069,
+        "question_id": 531,
+        "answer_text": "Relaxation oscillator",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2070,
+        "question_id": 531,
+        "answer_text": "Crystal oscillator",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 533,
+    "text": "Which of the following is an example of a piezoelectric material?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2075,
+        "question_id": 533,
+        "answer_text": "Copper",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2076,
+        "question_id": 533,
+        "answer_text": "Lead zirconate titanate",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2077,
+        "question_id": 533,
+        "answer_text": "Magnesiochromite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2078,
+        "question_id": 533,
+        "answer_text": "Potassium carbonate",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2075,
+        "question_id": 533,
+        "answer_text": "Copper",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2076,
+        "question_id": 533,
+        "answer_text": "Lead zirconate titanate",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2077,
+        "question_id": 533,
+        "answer_text": "Magnesiochromite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2078,
+        "question_id": 533,
+        "answer_text": "Potassium carbonate",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      50
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "question_id": 23,
+    "text": "What is true regarding the Brake Over-Travel Switch (BOTS)?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 93,
+        "question_id": 23,
+        "answer_text": "It has to be wirde in parallel to the inertia switch as part of the shutdown system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 94,
+        "question_id": 23,
+        "answer_text": "It has to open the shutdown circuit if ther is a leak in the rear braking circuit, even if the balance bar is set to 80% front",
+        "is_correct": true
+      },
+      {
+        "answer_id": 95,
+        "question_id": 23,
+        "answer_text": "The brake test is considered passed if the BOTS has opened the shutdown circuit as long as all wheels have locked up and the vehicle stopped in a straight line",
+        "is_correct": false
+      },
+      {
+        "answer_id": 96,
+        "question_id": 23,
+        "answer_text": "It may be reset by the driver when he comes to a stop for the endurance drivers‘ change",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 93,
+        "question_id": 23,
+        "answer_text": "It has to be wirde in parallel to the inertia switch as part of the shutdown system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 94,
+        "question_id": 23,
+        "answer_text": "It has to open the shutdown circuit if ther is a leak in the rear braking circuit, even if the balance bar is set to 80% front",
+        "is_correct": true
+      },
+      {
+        "answer_id": 95,
+        "question_id": 23,
+        "answer_text": "The brake test is considered passed if the BOTS has opened the shutdown circuit as long as all wheels have locked up and the vehicle stopped in a straight line",
+        "is_correct": false
+      },
+      {
+        "answer_id": 96,
+        "question_id": 23,
+        "answer_text": "It may be reset by the driver when he comes to a stop for the endurance drivers‘ change",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 24,
+    "text": "Your driver pushes the brake pedal and the accelerator pedal at the same time. Which statement is correct?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 97,
+        "question_id": 24,
+        "answer_text": "Above a brake pressure of 30 bar the car traction system will shut down if 4 kW power is deliverde to the electric motors (EV) or the throttle position is more than 5% over idle position (CV)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 98,
+        "question_id": 24,
+        "answer_text": "At the earliest the car traction system will shut down after one second ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 99,
+        "question_id": 24,
+        "answer_text": "The BSPD must be supplied from the low voltage master switch only",
+        "is_correct": true
+      },
+      {
+        "answer_id": 100,
+        "question_id": 24,
+        "answer_text": "Above a brake pressure of 20 bar the car traction system will shut down anyway",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 97,
+        "question_id": 24,
+        "answer_text": "Above a brake pressure of 30 bar the car traction system will shut down if 4 kW power is deliverde to the electric motors (EV) or the throttle position is more than 5% over idle position (CV)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 98,
+        "question_id": 24,
+        "answer_text": "At the earliest the car traction system will shut down after one second ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 99,
+        "question_id": 24,
+        "answer_text": "The BSPD must be supplied from the low voltage master switch only",
+        "is_correct": true
+      },
+      {
+        "answer_id": 100,
+        "question_id": 24,
+        "answer_text": "Above a brake pressure of 20 bar the car traction system will shut down anyway",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 25,
+    "text": "UL94-V0 rating cannot be granted if…    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 101,
+        "question_id": 25,
+        "answer_text": "Dripping of burning specimens including ignition  of cotton batting ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 102,
+        "question_id": 25,
+        "answer_text": "First flame application time = 10s, first burning time = 5s, second flame application time = 10s, second burning time = 9s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 103,
+        "question_id": 25,
+        "answer_text": "First flame application time = 10s, first burning time = 9s, second flame application time = 10s, second burning time = 8s, the total burning time of all 10 flame applications in the set did not exceed 45s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 104,
+        "question_id": 25,
+        "answer_text": "Flame height = 21 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 105,
+        "question_id": 25,
+        "answer_text": "Combustion up to 25mm before the holding clamp",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 101,
+        "question_id": 25,
+        "answer_text": "Dripping of burning specimens including ignition  of cotton batting ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 102,
+        "question_id": 25,
+        "answer_text": "First flame application time = 10s, first burning time = 5s, second flame application time = 10s, second burning time = 9s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 103,
+        "question_id": 25,
+        "answer_text": "First flame application time = 10s, first burning time = 9s, second flame application time = 10s, second burning time = 8s, the total burning time of all 10 flame applications in the set did not exceed 45s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 104,
+        "question_id": 25,
+        "answer_text": "Flame height = 21 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 105,
+        "question_id": 25,
+        "answer_text": "Combustion up to 25mm before the holding clamp",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 26,
+    "text": "Concerning aerodynamic devices which statement is not compliant to the rules?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 106,
+        "question_id": 26,
+        "answer_text": "A rear wing rearward of the driver head restraint is permitted if it‘s lower than 0.9 m from the ground",
+        "is_correct": false
+      },
+      {
+        "answer_id": 107,
+        "question_id": 26,
+        "answer_text": "Aerodynamic devices mounted forward than 800 mm from the front tire are prohibited",
+        "is_correct": false
+      },
+      {
+        "answer_id": 108,
+        "question_id": 26,
+        "answer_text": "All aerodynamic devices must be able to withstand a force of 150N distributed over certain surface",
+        "is_correct": false
+      },
+      {
+        "answer_id": 109,
+        "question_id": 26,
+        "answer_text": "All aerodynamic devices in front of the front axle and extending further outboard than the most inboard point of the front tire/wheel must be higher than 250 mm from the ground",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 106,
+        "question_id": 26,
+        "answer_text": "A rear wing rearward of the driver head restraint is permitted if it‘s lower than 0.9 m from the ground",
+        "is_correct": false
+      },
+      {
+        "answer_id": 107,
+        "question_id": 26,
+        "answer_text": "Aerodynamic devices mounted forward than 800 mm from the front tire are prohibited",
+        "is_correct": false
+      },
+      {
+        "answer_id": 108,
+        "question_id": 26,
+        "answer_text": "All aerodynamic devices must be able to withstand a force of 150N distributed over certain surface",
+        "is_correct": false
+      },
+      {
+        "answer_id": 109,
+        "question_id": 26,
+        "answer_text": "All aerodynamic devices in front of the front axle and extending further outboard than the most inboard point of the front tire/wheel must be higher than 250 mm from the ground",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 30,
+    "text": "You build an AutoX track on your testing ground. Which elements are not conformant to the rules?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 113,
+        "question_id": 30,
+        "answer_text": "45° turn with a diameter of 20 m and a track width of 2.75 m",
+        "is_correct": true
+      },
+      {
+        "answer_id": 114,
+        "question_id": 30,
+        "answer_text": "Slalom with constant spacing of 10 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 115,
+        "question_id": 30,
+        "answer_text": "Straight with a length of 70 m an a track width of 4 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 116,
+        "question_id": 30,
+        "answer_text": "Hairpin turn with an inner diameter of 6 m and a track width of 3.5 m",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 113,
+        "question_id": 30,
+        "answer_text": "45° turn with a diameter of 20 m and a track width of 2.75 m",
+        "is_correct": true
+      },
+      {
+        "answer_id": 114,
+        "question_id": 30,
+        "answer_text": "Slalom with constant spacing of 10 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 115,
+        "question_id": 30,
+        "answer_text": "Straight with a length of 70 m an a track width of 4 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 116,
+        "question_id": 30,
+        "answer_text": "Hairpin turn with an inner diameter of 6 m and a track width of 3.5 m",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 31,
+    "text": "You plan a nice display for your race cars in your shop consisting of platforms suspended on steel tie rods. All parts are delivered as designed, but you notice that the assembly was done differently. Is this a problem?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 117,
+        "question_id": 31,
+        "answer_text": "Yes, because the nuts might be overloaded",
+        "is_correct": true
+      },
+      {
+        "answer_id": 118,
+        "question_id": 31,
+        "answer_text": "No, all parts are still bearing their design loads",
+        "is_correct": false
+      },
+      {
+        "answer_id": 119,
+        "question_id": 31,
+        "answer_text": "Yes, because the ceiling mounts might be overloaded",
+        "is_correct": false
+      },
+      {
+        "answer_id": 120,
+        "question_id": 31,
+        "answer_text": "Yes, because the tie rods might be overloaded",
+        "is_correct": false
+      },
+      {
+        "answer_id": 121,
+        "question_id": 31,
+        "answer_text": "Yes, because some of the nuts are loaded in the wrong direction",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000031__img000004__31_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 117,
+        "question_id": 31,
+        "answer_text": "Yes, because the nuts might be overloaded",
+        "is_correct": true
+      },
+      {
+        "answer_id": 118,
+        "question_id": 31,
+        "answer_text": "No, all parts are still bearing their design loads",
+        "is_correct": false
+      },
+      {
+        "answer_id": 119,
+        "question_id": 31,
+        "answer_text": "Yes, because the ceiling mounts might be overloaded",
+        "is_correct": false
+      },
+      {
+        "answer_id": 120,
+        "question_id": 31,
+        "answer_text": "Yes, because the tie rods might be overloaded",
+        "is_correct": false
+      },
+      {
+        "answer_id": 121,
+        "question_id": 31,
+        "answer_text": "Yes, because some of the nuts are loaded in the wrong direction",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 32,
+    "text": "Which driving trajectory fits the data shown in the diagram?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 122,
+        "question_id": 32,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 123,
+        "question_id": 32,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 124,
+        "question_id": 32,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 125,
+        "question_id": 32,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000032__img000006__32_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 122,
+        "question_id": 32,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 123,
+        "question_id": 32,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 124,
+        "question_id": 32,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 125,
+        "question_id": 32,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      3,
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 35,
+    "text": "Which Statement regarding the Read to drive sound is true?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 131,
+        "question_id": 35,
+        "answer_text": "Which Statement regarding the Read to drive sound is true?",
+        "is_correct": false
+      },
+      {
+        "answer_id": 132,
+        "question_id": 35,
+        "answer_text": "The ready to drive sound must be 4s long, with tolerance of +/- 0.25s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 133,
+        "question_id": 35,
+        "answer_text": "No animal voices may be used",
+        "is_correct": false
+      },
+      {
+        "answer_id": 134,
+        "question_id": 35,
+        "answer_text": "A sound level of 85 dBA is conformant to the rules",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 131,
+        "question_id": 35,
+        "answer_text": "Which Statement regarding the Read to drive sound is true?",
+        "is_correct": false
+      },
+      {
+        "answer_id": 132,
+        "question_id": 35,
+        "answer_text": "The ready to drive sound must be 4s long, with tolerance of +/- 0.25s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 133,
+        "question_id": 35,
+        "answer_text": "No animal voices may be used",
+        "is_correct": false
+      },
+      {
+        "answer_id": 134,
+        "question_id": 35,
+        "answer_text": "A sound level of 85 dBA is conformant to the rules",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      3
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 36,
+    "text": "Under which conditions are outboard wheel motors allowed?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 136,
+        "question_id": 36,
+        "answer_text": "The TS wiring is of a length enough not be damaged even if the wheel is displaced (e.g. break of tie rod)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 137,
+        "question_id": 36,
+        "answer_text": "TS wiring will not touch the chassis regardless of where it is damaged",
+        "is_correct": false
+      },
+      {
+        "answer_id": 138,
+        "question_id": 36,
+        "answer_text": "The shutdown circuit is activated if the TS wiring is damaged",
+        "is_correct": true
+      },
+      {
+        "answer_id": 139,
+        "question_id": 36,
+        "answer_text": "The activation of the shutdown circuit occurs at max 1s after the TS wiring is damaged",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 136,
+        "question_id": 36,
+        "answer_text": "The TS wiring is of a length enough not be damaged even if the wheel is displaced (e.g. break of tie rod)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 137,
+        "question_id": 36,
+        "answer_text": "TS wiring will not touch the chassis regardless of where it is damaged",
+        "is_correct": false
+      },
+      {
+        "answer_id": 138,
+        "question_id": 36,
+        "answer_text": "The shutdown circuit is activated if the TS wiring is damaged",
+        "is_correct": true
+      },
+      {
+        "answer_id": 139,
+        "question_id": 36,
+        "answer_text": "The activation of the shutdown circuit occurs at max 1s after the TS wiring is damaged",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      3
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 133,
+    "text": "What is true regarding the management of unintentionally spilled fluids?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 533,
+        "question_id": 133,
+        "answer_text": "Fuel that is spilled during refueling must be directed into a catch can with at least 900ml volume",
+        "is_correct": false
+      },
+      {
+        "answer_id": 534,
+        "question_id": 133,
+        "answer_text": "The vent of a separate hydraulic shifting system must be connected to the engine oil catch can",
+        "is_correct": false
+      },
+      {
+        "answer_id": 535,
+        "question_id": 133,
+        "answer_text": "Engine oil that leaks from a broken seal must be catched by an undertray to prevent oil spills on the track and environmental pollution",
+        "is_correct": false
+      },
+      {
+        "answer_id": 536,
+        "question_id": 133,
+        "answer_text": "If there is more then one local lowest point in the enclosed structure between the chassis and the ground, a minimum of 3 venting holes in necessary",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 533,
+        "question_id": 133,
+        "answer_text": "Fuel that is spilled during refueling must be directed into a catch can with at least 900ml volume",
+        "is_correct": false
+      },
+      {
+        "answer_id": 534,
+        "question_id": 133,
+        "answer_text": "The vent of a separate hydraulic shifting system must be connected to the engine oil catch can",
+        "is_correct": false
+      },
+      {
+        "answer_id": 535,
+        "question_id": 133,
+        "answer_text": "Engine oil that leaks from a broken seal must be catched by an undertray to prevent oil spills on the track and environmental pollution",
+        "is_correct": false
+      },
+      {
+        "answer_id": 536,
+        "question_id": 133,
+        "answer_text": "If there is more then one local lowest point in the enclosed structure between the chassis and the ground, a minimum of 3 venting holes in necessary",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

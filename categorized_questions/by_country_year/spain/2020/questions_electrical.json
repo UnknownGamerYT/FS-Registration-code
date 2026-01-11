@@ -1,0 +1,150 @@
+[
+  {
+    "question_id": 172,
+    "text": "Your team has calculated from your vehicle model simulations that the minimum required battery pack energy to finish the Endurance is 6,5 kWh. Unfortunately, this year regenerative braking from electric motors will not be used during Endurance. Which of the following battery packages provides enough energy to finish the Endurance and also fulfils all requirements set in rule EV 5.3.2?\nNote 1: when calculating the total energy of the battery package use the nominal battery cell voltage.\nNote 2: when calculating the energy of the battery segment to verify rule EV 5.3.2 use the indicated battery cell voltage specified in the rules.\nNote 3: when calculating the segment mass, assume all mass is caused by the battery cells.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 674,
+        "question_id": 172,
+        "answer_text": "Battery Cell Supplier A. 5 segments connected in series. Each segment contains 21 cells connected in series and 3 connected in parallel (21s3p).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 675,
+        "question_id": 172,
+        "answer_text": "Battery Cell Supplier A. 8 segments connected in series. Each segment contains 15 cells connected in series and 2 connected in parallel (15s2p).",
+        "is_correct": true
+      },
+      {
+        "answer_id": 676,
+        "question_id": 172,
+        "answer_text": "Battery Cell Supplier B. 5 segments connected in series. Each segment contains 30 cells connected in series and 4 cells in parallel (30s4p).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 677,
+        "question_id": 172,
+        "answer_text": "Battery Cell Supplier B. 8 segments connected in series. Each segment contains 10 cells connected in series and 6 cells connected in parallel (10s6p).",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000172__img000059__172_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 674,
+        "question_id": 172,
+        "answer_text": "Battery Cell Supplier A. 5 segments connected in series. Each segment contains 21 cells connected in series and 3 connected in parallel (21s3p).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 675,
+        "question_id": 172,
+        "answer_text": "Battery Cell Supplier A. 8 segments connected in series. Each segment contains 15 cells connected in series and 2 connected in parallel (15s2p).",
+        "is_correct": true
+      },
+      {
+        "answer_id": 676,
+        "question_id": 172,
+        "answer_text": "Battery Cell Supplier B. 5 segments connected in series. Each segment contains 30 cells connected in series and 4 cells in parallel (30s4p).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 677,
+        "question_id": 172,
+        "answer_text": "Battery Cell Supplier B. 8 segments connected in series. Each segment contains 10 cells connected in series and 6 cells connected in parallel (10s6p).",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 176,
+    "text": "A very simplified model for a brushless DC surface permanent magnet motor is presented in the figure. Its equivalent magnetic circuit has also been included. Calculate the flux density (Bg) in the airgap, assuming the cross-sectional area of the airgap is the same cross-sectional area as for the ferromagnetic material and the permanent magnet (1cmx1cm). The length of the two ferromagnetic material sections (Lc1, Lc2) and the airgap length (g) are presented in the figure. Also, the permeability of the ferromagnetic material is presented (μ) and assume the permeability of the airgap is the permeability of free space (μ0). The reluctance of the permanent magnet (Rm) and its remanent flux (Φr) are also provided. When you have calculated the airgap flux density (Bg) use the equation provided below to calculate an estimation of the electromagnetic motor torque (Τ) using the parameters in the table and the calculated airgap flux density value (Bg).\nΤ=2Nm NBg Lst Rro I\nwhere Nm represents the number of magnets, N represents the number of conductors per stator slot, Bg represents the airgap flux density, Lst is the stator motor length, Rro is the airgap radius and I is the stator DC phase current.\nNumber of magnets: 4\nNumber of conductors per stator slot: 14\nStator motor length: 124 mm\nAirgap radius: 60 mm\nStator DC phase current: 300 A",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 690,
+        "question_id": 176,
+        "answer_text": "Airgap Flux Density (Bg) = 1.2T, Torque = 300 Nm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 691,
+        "question_id": 176,
+        "answer_text": "Airgap Flux Density (Bg) = 1.4T, Torque = 350 Nm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 692,
+        "question_id": 176,
+        "answer_text": "Airgap Flux Density (Bg) = 1T, Torque = 250 Nm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 693,
+        "question_id": 176,
+        "answer_text": "Airgap Flux Density (Bg) = 0,8T, Torque = 200 Nm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000176__img000060__176_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 690,
+        "question_id": 176,
+        "answer_text": "Airgap Flux Density (Bg) = 1.2T, Torque = 300 Nm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 691,
+        "question_id": 176,
+        "answer_text": "Airgap Flux Density (Bg) = 1.4T, Torque = 350 Nm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 692,
+        "question_id": 176,
+        "answer_text": "Airgap Flux Density (Bg) = 1T, Torque = 250 Nm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 693,
+        "question_id": 176,
+        "answer_text": "Airgap Flux Density (Bg) = 0,8T, Torque = 200 Nm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  }
+]

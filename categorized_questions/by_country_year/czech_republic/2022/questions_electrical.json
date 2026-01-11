@@ -1,0 +1,76 @@
+[
+  {
+    "question_id": 413,
+    "text": "The graph below shows a time current characteristics of FNH00 aR fuses. Electric circuit is fused by FNH00-100KA (nominal current 100 A) fuse. Consider the fault loop impedance 1,33 ohm and nominal effective voltage 400 V (ideal power supply). In what time will the fuse disconnect the circuit in case the circuit shorts?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1671,
+        "question_id": 413,
+        "answer_text": "6s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1672,
+        "question_id": 413,
+        "answer_text": "10 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1673,
+        "question_id": 413,
+        "answer_text": "200 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1674,
+        "question_id": 413,
+        "answer_text": "2s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000413__img000091__413_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1671,
+        "question_id": 413,
+        "answer_text": "6s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1672,
+        "question_id": 413,
+        "answer_text": "10 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1673,
+        "question_id": 413,
+        "answer_text": "200 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1674,
+        "question_id": 413,
+        "answer_text": "2s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

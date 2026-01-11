@@ -1,0 +1,301 @@
+[
+  {
+    "question_id": 879,
+    "text": "The given combination of logic gates, as shown in the diagram, implements a certain logicalfunction. Identify which logic operation this gate performs. ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3273,
+        "question_id": 879,
+        "answer_text": "A. XOR",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3274,
+        "question_id": 879,
+        "answer_text": "B. AND",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3275,
+        "question_id": 879,
+        "answer_text": "C. It cannot be determined as the diagram is not complete ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000879__img000277__879_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3273,
+        "question_id": 879,
+        "answer_text": "A. XOR",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3274,
+        "question_id": 879,
+        "answer_text": "B. AND",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3275,
+        "question_id": 879,
+        "answer_text": "C. It cannot be determined as the diagram is not complete ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 880,
+    "text": "From given data shown on stress/strain graph, please calculate Young's Modulus. Choose the correct answer:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3276,
+        "question_id": 880,
+        "answer_text": "A. 195 000 [MPa]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3277,
+        "question_id": 880,
+        "answer_text": "B. 200 [GPa]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3278,
+        "question_id": 880,
+        "answer_text": "C. 20 [Mpsi]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3279,
+        "question_id": 880,
+        "answer_text": "D. 195,5 [GPa]",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000880__img000278__880_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3276,
+        "question_id": 880,
+        "answer_text": "A. 195 000 [MPa]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3277,
+        "question_id": 880,
+        "answer_text": "B. 200 [GPa]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3278,
+        "question_id": 880,
+        "answer_text": "C. 20 [Mpsi]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3279,
+        "question_id": 880,
+        "answer_text": "D. 195,5 [GPa]",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 881,
+    "text": "Given the following circuit, determine maximum amplitude of Vout signal. All parameters are specified in SI units. All components are assumed to be ideal. Sine sources are described with equation u = A*sin(2*pi*f*t), where: \\n- t - time\\n- V5 – f = 5 [kHz], A =1 [V]\\n- V4 – f = 1 [kHz], A = 1 [V]\\n- V3 – f = 1 [kHz], A = 1 [V]\\n\\nAnswer format:\\nGive the answer in [V]\\nUse comma separator\\nRound the result to 3 decimal places (n,nnn)\\n",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3280,
+        "question_id": 881,
+        "answer_text": "3,000",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000881__img000279__881_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3280,
+        "question_id": 881,
+        "answer_text": "3,000",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 882,
+    "text": "A CAN bus contains two devices, both configured to the same bitrate. Device A switched on significantly faster than a device B. Before device B fully configured its CAN controller, device A managed to try to send a frame 300 times. What would be the state of device’s A CAN controller at the point Device B became ready to receive messages?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3281,
+        "question_id": 882,
+        "answer_text": "A. Bus off",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3282,
+        "question_id": 882,
+        "answer_text": "B. Error Passive",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3283,
+        "question_id": 882,
+        "answer_text": "C. Error Active",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3284,
+        "question_id": 882,
+        "answer_text": "D. Listen only",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3281,
+        "question_id": 882,
+        "answer_text": "A. Bus off",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3282,
+        "question_id": 882,
+        "answer_text": "B. Error Passive",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3283,
+        "question_id": 882,
+        "answer_text": "C. Error Active",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3284,
+        "question_id": 882,
+        "answer_text": "D. Listen only",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 885,
+    "text": "Does the:\\n- Engine for the CV need to be off,\\n- TS for the EV need to be deactivated,\\nwhen the vehicle is standing still, as the last point of the VSV sequence?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3288,
+        "question_id": 885,
+        "answer_text": "Yes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3289,
+        "question_id": 885,
+        "answer_text": "No",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3288,
+        "question_id": 885,
+        "answer_text": "Yes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3289,
+        "question_id": 885,
+        "answer_text": "No",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  }
+]

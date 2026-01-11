@@ -1,0 +1,432 @@
+[
+  {
+    "question_id": 89,
+    "text": "All phases of a PMSM and a induction motor are independently shorted at standsill. The torque of which motor is higher if remanence is neglected and the rotors start to spin:",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 341,
+        "question_id": 89,
+        "answer_text": "Induction motor",
+        "is_correct": false
+      },
+      {
+        "answer_id": 342,
+        "question_id": 89,
+        "answer_text": "Both are 0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 343,
+        "question_id": 89,
+        "answer_text": "PMSM",
+        "is_correct": true
+      },
+      {
+        "answer_id": 344,
+        "question_id": 89,
+        "answer_text": "Equally",
+        "is_correct": false
+      },
+      {
+        "answer_id": 345,
+        "question_id": 89,
+        "answer_text": "Depends on Motor parameters",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 341,
+        "question_id": 89,
+        "answer_text": "Induction motor",
+        "is_correct": false
+      },
+      {
+        "answer_id": 342,
+        "question_id": 89,
+        "answer_text": "Both are 0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 343,
+        "question_id": 89,
+        "answer_text": "PMSM",
+        "is_correct": true
+      },
+      {
+        "answer_id": 344,
+        "question_id": 89,
+        "answer_text": "Equally",
+        "is_correct": false
+      },
+      {
+        "answer_id": 345,
+        "question_id": 89,
+        "answer_text": "Depends on Motor parameters",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10,
+      47
+    ],
+    "years": [
+      "2020",
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 489,
+    "text": "You want to design your aluminium Bus Bars to have the same electrical Resistance/length as your high voltage cables. Your high voltage cables have a diameter of 10mm and are made from copper. The thickness of your Busbar is 5mm. What must be the width of the Busbar?\r\nAnswer in mm.\r\nUse the following format: 12.34",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1955,
+        "question_id": 489,
+        "answer_text": "24.20",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000489__img000125__489_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1955,
+        "question_id": 489,
+        "answer_text": "24.20",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 491,
+    "text": "Which statements about the TSAL are wrong?\\n 1) Be red in color and flash continuously with a frequency between 2Hz and 5Hz only if the TS is active.\\n 2) Be green in color and continuously illuminated only if the TS is deactived, see EV4.10.3\\n 3) The TSAL and all needed circuitry must be hard wired electronics. Software control is not permitted\\n 4) The voltage outside of the TS accumulator must at least be measured independently across DC-link capacitators in each housing with DC-link capacitators and at the vehicle side of the AIRs inside the accumulator container",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1957,
+        "question_id": 491,
+        "answer_text": "1)   2)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1958,
+        "question_id": 491,
+        "answer_text": "1)   3) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1959,
+        "question_id": 491,
+        "answer_text": "2)   3)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1960,
+        "question_id": 491,
+        "answer_text": "3)   4)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1961,
+        "question_id": 491,
+        "answer_text": "all",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1962,
+        "question_id": 491,
+        "answer_text": "none",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1957,
+        "question_id": 491,
+        "answer_text": "1)   2)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1958,
+        "question_id": 491,
+        "answer_text": "1)   3) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1959,
+        "question_id": 491,
+        "answer_text": "2)   3)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1960,
+        "question_id": 491,
+        "answer_text": "3)   4)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1961,
+        "question_id": 491,
+        "answer_text": "all",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1962,
+        "question_id": 491,
+        "answer_text": "none",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 496,
+    "text": "The previous season you could recuperate only 20% of your initially stored energy, but this season a big improvement in your drivetrain allows you to recuperate 60% of the initially stored energy. Knowing that you consumed 8 kWh during the endurances of last season, how much energy does your new accumulator need?\\n Answer in kWh. Use the following format: 12",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 1972,
+        "question_id": 496,
+        "answer_text": "6",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 74,
+        "question_id": 496,
+        "text": null,
+        "images": [
+          {
+            "img_id": 130,
+            "path": "solutions/496_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1972,
+        "question_id": 496,
+        "answer_text": "6",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 497,
+    "text": "An electrical load is connected to a 12V battery via a copper cable. The copper cable has an inductance of L=1uH and a resistance R=1Ohm. In steady state (t_0...t_1), the load draws a current of 2A. At t_1, the characteristics of the load change and the current starts rising with 2A/us. What is the voltage across the load in the moment directly after the change?\\n Answer in V. Use the following format: 12.3",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 1973,
+        "question_id": 497,
+        "answer_text": "8.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 75,
+        "question_id": 497,
+        "text": null,
+        "images": [
+          {
+            "img_id": 131,
+            "path": "solutions/497_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1973,
+        "question_id": 497,
+        "answer_text": "8.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 501,
+    "text": "Is the following statement true? It is not required to install AIRs in a 52V AC RMS accumulator for the tractive system.",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1982,
+        "question_id": 501,
+        "answer_text": "Yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1983,
+        "question_id": 501,
+        "answer_text": "Only if lithium based batteries used",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1984,
+        "question_id": 501,
+        "answer_text": "No",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1982,
+        "question_id": 501,
+        "answer_text": "Yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1983,
+        "question_id": 501,
+        "answer_text": "Only if lithium based batteries used",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1984,
+        "question_id": 501,
+        "answer_text": "No",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 573,
+    "text": "You designed a new discharge circuit for your inverter. Your maximum DC Link Voltage is 500V and you have a DC Link capacity of 400 pF. Your circuit discharges with a constant current of 50 mA and has a maximum operating Temperature of 125°C. The used cooling plate has a Thermal capacity of 3 J/K and a thermal resistance to the surrounding air of 0.2 W/K. Other thermal interfaces can be regarded as ideal. Is your circuit rules compliant?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2193,
+        "question_id": 573,
+        "answer_text": "yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2194,
+        "question_id": 573,
+        "answer_text": "no",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2193,
+        "question_id": 573,
+        "answer_text": "yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2194,
+        "question_id": 573,
+        "answer_text": "no",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]

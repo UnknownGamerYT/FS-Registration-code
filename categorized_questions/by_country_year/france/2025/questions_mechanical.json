@@ -1,0 +1,393 @@
+[
+  {
+    "question_id": 909,
+    "text": "Which is the correct statement regarding the Anti-Intrusion Plate (AIP)?",
+    "type": "single-choice",
+    "time": 220,
+    "answer_options": [
+      {
+        "answer_id": 3389,
+        "question_id": 909,
+        "answer_text": "All AIP designs using one of the standard FSAE IAs are exempted from carrying out physical tests.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3390,
+        "question_id": 909,
+        "answer_text": "The AIP is not part of the primary structure.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3391,
+        "question_id": 909,
+        "answer_text": "The AIP fixation to the Front Bulkhead can not be made by smaller than 8 mm fasteners.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3392,
+        "question_id": 909,
+        "answer_text": "Blind insert can be used for the fixation of the AIP to the Front Bulkhead.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3389,
+        "question_id": 909,
+        "answer_text": "All AIP designs using one of the standard FSAE IAs are exempted from carrying out physical tests.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3390,
+        "question_id": 909,
+        "answer_text": "The AIP is not part of the primary structure.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3391,
+        "question_id": 909,
+        "answer_text": "The AIP fixation to the Front Bulkhead can not be made by smaller than 8 mm fasteners.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3392,
+        "question_id": 909,
+        "answer_text": "Blind insert can be used for the fixation of the AIP to the Front Bulkhead.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      99,
+      100
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 913,
+    "text": "What is incorrect regarding the brake test procedure?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3408,
+        "question_id": 913,
+        "answer_text": "The vehicle must remain in a straight line under braking until the complete stop.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3409,
+        "question_id": 913,
+        "answer_text": "Teams can use an old a set of tyres equal to the ones they are planning to use for dynamic events.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3410,
+        "question_id": 913,
+        "answer_text": "The run is validated if the BOTS has been triggered during the brake test but the driver has been able to reset it to make the vehicle exit the area under its own power.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3411,
+        "question_id": 913,
+        "answer_text": "A single brake could be used for one axle.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3408,
+        "question_id": 913,
+        "answer_text": "The vehicle must remain in a straight line under braking until the complete stop.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3409,
+        "question_id": 913,
+        "answer_text": "Teams can use an old a set of tyres equal to the ones they are planning to use for dynamic events.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3410,
+        "question_id": 913,
+        "answer_text": "The run is validated if the BOTS has been triggered during the brake test but the driver has been able to reset it to make the vehicle exit the area under its own power.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3411,
+        "question_id": 913,
+        "answer_text": "A single brake could be used for one axle.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      99,
+      100
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 914,
+    "text": "A helicopter is flying horizontally at a constant speed. A perfectly flaxible and uniform cable is suspended beneath the helicopter. Air friction on the cable is not negligible. Which of the following diagrams best represents the shape of the cable as the helicopter flies through the air towards the right?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3412,
+        "question_id": 914,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3413,
+        "question_id": 914,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3414,
+        "question_id": 914,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3415,
+        "question_id": 914,
+        "answer_text": "B",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000914__img000291__914_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3412,
+        "question_id": 914,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3413,
+        "question_id": 914,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3414,
+        "question_id": 914,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3415,
+        "question_id": 914,
+        "answer_text": "B",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 917,
+    "text": "What setup regarding the lap belt is not permitted?",
+    "type": "single-choice",
+    "time": 270,
+    "answer_options": [
+      {
+        "answer_id": 3424,
+        "question_id": 917,
+        "answer_text": "In side view the lap belt is at an angle of 70° to the horizontal, with the seat back inclined 65° from horizontal",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3425,
+        "question_id": 917,
+        "answer_text": "In side view the lap belt is at an angle of 65° to the horizontal, with the seat back inclined 55° from horizontal",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3426,
+        "question_id": 917,
+        "answer_text": "In lap belt is part of a SFI Specification 16.5 harness manufactured in 2024",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3427,
+        "question_id": 917,
+        "answer_text": "The centerline of the lap belt at the seat bottom is 5mm rearward of the seat back to seat bottom junction, with the seat back inclined 40° from vertical",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3424,
+        "question_id": 917,
+        "answer_text": "In side view the lap belt is at an angle of 70° to the horizontal, with the seat back inclined 65° from horizontal",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3425,
+        "question_id": 917,
+        "answer_text": "In side view the lap belt is at an angle of 65° to the horizontal, with the seat back inclined 55° from horizontal",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3426,
+        "question_id": 917,
+        "answer_text": "In lap belt is part of a SFI Specification 16.5 harness manufactured in 2024",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3427,
+        "question_id": 917,
+        "answer_text": "The centerline of the lap belt at the seat bottom is 5mm rearward of the seat back to seat bottom junction, with the seat back inclined 40° from vertical",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      99,
+      100
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 920,
+    "text": "How many listed powertrain options are possible at FS Austria 2025?",
+    "type": "single-choice",
+    "time": 100,
+    "answer_options": [
+      {
+        "answer_id": 3436,
+        "question_id": 920,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3437,
+        "question_id": 920,
+        "answer_text": "7",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3438,
+        "question_id": 920,
+        "answer_text": "6",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3439,
+        "question_id": 920,
+        "answer_text": "5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3440,
+        "question_id": 920,
+        "answer_text": "3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3441,
+        "question_id": 920,
+        "answer_text": "4",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3436,
+        "question_id": 920,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3437,
+        "question_id": 920,
+        "answer_text": "7",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3438,
+        "question_id": 920,
+        "answer_text": "6",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3439,
+        "question_id": 920,
+        "answer_text": "5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3440,
+        "question_id": 920,
+        "answer_text": "3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3441,
+        "question_id": 920,
+        "answer_text": "4",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  }
+]

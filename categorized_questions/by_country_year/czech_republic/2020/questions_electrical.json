@@ -1,0 +1,150 @@
+[
+  {
+    "question_id": 257,
+    "text": "What are the revolutions per minute of a synchronous 4-pole motor when attached to the standard three-phase 230V grid.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1011,
+        "question_id": 257,
+        "answer_text": "1500",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1012,
+        "question_id": 257,
+        "answer_text": "3000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1013,
+        "question_id": 257,
+        "answer_text": "6000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1014,
+        "question_id": 257,
+        "answer_text": "3600",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1011,
+        "question_id": 257,
+        "answer_text": "1500",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1012,
+        "question_id": 257,
+        "answer_text": "3000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1013,
+        "question_id": 257,
+        "answer_text": "6000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1014,
+        "question_id": 257,
+        "answer_text": "3600",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 263,
+    "text": "The graph below shows a time current characteristics of Bussmann gG fuses. Electric circuit is fused by Bussmann 100NHG00B fuse (nominal current 100 A). Consider the fault loop impedance 0,8 ohm and nominal effective voltage 400 V (ideal power supply). In what time will the fuse disconnect the circuit in case the circuit shorts?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1035,
+        "question_id": 263,
+        "answer_text": "100 miliseconds.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1036,
+        "question_id": 263,
+        "answer_text": "300 miliseconds.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1037,
+        "question_id": 263,
+        "answer_text": "1 second.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1038,
+        "question_id": 263,
+        "answer_text": "3 second.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000263__img000071__263_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1035,
+        "question_id": 263,
+        "answer_text": "100 miliseconds.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1036,
+        "question_id": 263,
+        "answer_text": "300 miliseconds.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1037,
+        "question_id": 263,
+        "answer_text": "1 second.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1038,
+        "question_id": 263,
+        "answer_text": "3 second.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      25,
+      57
+    ],
+    "years": [
+      "2020",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

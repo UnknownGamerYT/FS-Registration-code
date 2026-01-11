@@ -1,0 +1,52 @@
+[
+  {
+    "question_id": 870,
+    "text": "Calculate the voltage UI of the current source and the voltage drop UR6 across the resistor R6.\\n\\nAnswer format: voltage, drop\\nAnswer example: 12, 3.45\\n\\nThe following direct current circuit is given:\\n",
+    "type": "input",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 3231,
+        "question_id": 870,
+        "answer_text": "50, -6.25",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 194,
+        "question_id": 870,
+        "text": null,
+        "images": [
+          {
+            "img_id": 268,
+            "path": "solutions/870_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000870__img000267__870_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3231,
+        "question_id": 870,
+        "answer_text": "50, -6.25",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "question_id": 618,
+    "text": "The truss structure shown in the figure is loaded with the forces F1, F2 and F3. The truss structure is supported in points A and B, as shown. Each segment of the truss structure is assumed to have no mass and infinite stiffness.\\n Identify the zero-force members in the structure under the given load and indicate them by placing a check mark.\\n You may select one or more answers.",
+    "type": "multi-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2366,
+        "question_id": 618,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2367,
+        "question_id": 618,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2368,
+        "question_id": 618,
+        "answer_text": "3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2369,
+        "question_id": 618,
+        "answer_text": "4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2370,
+        "question_id": 618,
+        "answer_text": "5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2371,
+        "question_id": 618,
+        "answer_text": "6",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2372,
+        "question_id": 618,
+        "answer_text": "7",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2373,
+        "question_id": 618,
+        "answer_text": "8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2374,
+        "question_id": 618,
+        "answer_text": "9",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2375,
+        "question_id": 618,
+        "answer_text": "10",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2376,
+        "question_id": 618,
+        "answer_text": "11",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000618__img000166__618_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2366,
+        "question_id": 618,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2367,
+        "question_id": 618,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2368,
+        "question_id": 618,
+        "answer_text": "3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2369,
+        "question_id": 618,
+        "answer_text": "4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2370,
+        "question_id": 618,
+        "answer_text": "5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2371,
+        "question_id": 618,
+        "answer_text": "6",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2372,
+        "question_id": 618,
+        "answer_text": "7",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2373,
+        "question_id": 618,
+        "answer_text": "8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2374,
+        "question_id": 618,
+        "answer_text": "9",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2375,
+        "question_id": 618,
+        "answer_text": "10",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2376,
+        "question_id": 618,
+        "answer_text": "11",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 619,
+    "text": "The truss structure shown in the figure is loaded with the forces F1, F2 and F3. The truss structure is supported in points A and B, as shown. Each segment of the truss structure is assumed to have no mass and infinite stiffness.\\n a = 2 m, F1 = 6 kN, F2 = 13 kN, F3 = 13 kN\\n Calculate the force in A and B in y-direction in kN. Enter the higher value. Round to one decimal.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2377,
+        "question_id": 619,
+        "answer_text": "16.0",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2378,
+        "question_id": 619,
+        "answer_text": "-16.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000619__img000166__618_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2377,
+        "question_id": 619,
+        "answer_text": "16.0",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2378,
+        "question_id": 619,
+        "answer_text": "-16.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 620,
+    "text": "Fred, the racing alpaca, has made a New Year's resolution to lose weight to improve his time in Acceleration. Assume that the traction force remains the same, is constant over the entire Acceleration, and that drag or other resistances can be neglected.\\n How much weight must he lose at least to improve his time by 13 %? Answer in % and round to the nearest one.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2379,
+        "question_id": 620,
+        "answer_text": "24",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 198,
+        "question_id": 620,
+        "text": null,
+        "images": [
+          {
+            "img_id": 273,
+            "path": "solutions/620_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2379,
+        "question_id": 620,
+        "answer_text": "24",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

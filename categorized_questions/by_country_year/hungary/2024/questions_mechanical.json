@@ -1,0 +1,1308 @@
+[
+  {
+    "question_id": 761,
+    "text": "Mark the correct statement from below.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2841,
+        "question_id": 761,
+        "answer_text": "The increase of slip does not affect the lateral force the tire can generate on the contact patch.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2842,
+        "question_id": 761,
+        "answer_text": "Single track model behaviour can be described with variables of steer angle, longitudinal speed, cornering stiffness etc., and constants mass, inertia and CoG position.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2843,
+        "question_id": 761,
+        "answer_text": "Cornering on the edge of the friction ellipse with constant speed on a constant circular flat track with a front wheel driven car, the car is understeered if more throttle is applied, because on the edge of the friction ellipse one can only generate more longitudinal force on the contact patch with the decreasing of lateral forces.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2844,
+        "question_id": 761,
+        "answer_text": "A 4-wheeled car touches the ground on 4 points along a corner, until the acting line of the overall resultant force projected to the centre of mass pierces the ground surface within the geometrical shape of the vertical projection of the outer suspension pickup points on the ground.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2841,
+        "question_id": 761,
+        "answer_text": "The increase of slip does not affect the lateral force the tire can generate on the contact patch.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2842,
+        "question_id": 761,
+        "answer_text": "Single track model behaviour can be described with variables of steer angle, longitudinal speed, cornering stiffness etc., and constants mass, inertia and CoG position.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2843,
+        "question_id": 761,
+        "answer_text": "Cornering on the edge of the friction ellipse with constant speed on a constant circular flat track with a front wheel driven car, the car is understeered if more throttle is applied, because on the edge of the friction ellipse one can only generate more longitudinal force on the contact patch with the decreasing of lateral forces.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2844,
+        "question_id": 761,
+        "answer_text": "A 4-wheeled car touches the ground on 4 points along a corner, until the acting line of the overall resultant force projected to the centre of mass pierces the ground surface within the geometrical shape of the vertical projection of the outer suspension pickup points on the ground.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 765,
+    "text": "A vehicle completes a 1100 m course in 60 seconds. The energy consumption during this lap is 1 MJ. What is the average traction force of this vehicle during the run?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2859,
+        "question_id": 765,
+        "answer_text": "880 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2860,
+        "question_id": 765,
+        "answer_text": "786 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2861,
+        "question_id": 765,
+        "answer_text": "1 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2862,
+        "question_id": 765,
+        "answer_text": "909 N",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2859,
+        "question_id": 765,
+        "answer_text": "880 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2860,
+        "question_id": 765,
+        "answer_text": "786 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2861,
+        "question_id": 765,
+        "answer_text": "1 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2862,
+        "question_id": 765,
+        "answer_text": "909 N",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 767,
+    "text": "What is the resistance of this resistor?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2867,
+        "question_id": 767,
+        "answer_text": "100 kΩ ± 5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2868,
+        "question_id": 767,
+        "answer_text": "10 kΩ ± 5%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2869,
+        "question_id": 767,
+        "answer_text": "1 kΩ ± 5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2870,
+        "question_id": 767,
+        "answer_text": "100 Ω ± 5%",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000767__img000208__767_7.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2867,
+        "question_id": 767,
+        "answer_text": "100 kΩ ± 5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2868,
+        "question_id": 767,
+        "answer_text": "10 kΩ ± 5%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2869,
+        "question_id": 767,
+        "answer_text": "1 kΩ ± 5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2870,
+        "question_id": 767,
+        "answer_text": "100 Ω ± 5%",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 769,
+    "text": "Calculate drag with the following parameters.\\nFrontal surface area: 0.7 m2\\nDrag coefficient: 1.6\\nVelocity: 50 km/h\\nAir density: 1.22 kg/m3",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2876,
+        "question_id": 769,
+        "answer_text": "1.708 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2877,
+        "question_id": 769,
+        "answer_text": "121.79 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2878,
+        "question_id": 769,
+        "answer_text": "1.317 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2879,
+        "question_id": 769,
+        "answer_text": "0.1318 kN",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2876,
+        "question_id": 769,
+        "answer_text": "1.708 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2877,
+        "question_id": 769,
+        "answer_text": "121.79 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2878,
+        "question_id": 769,
+        "answer_text": "1.317 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2879,
+        "question_id": 769,
+        "answer_text": "0.1318 kN",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 773,
+    "text": "Which of the following is not rule compliant?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2894,
+        "question_id": 773,
+        "answer_text": "Your measure a voltage drop of 0.5 V between LVS ground and one of your electrically conductive driver harness mounting points which is 150 mm away from the nearest TS component. The current used for the measurement is 1 A.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2895,
+        "question_id": 773,
+        "answer_text": "You measure a voltage drop of 1 V between LVS ground and one of your parts that may become electrically conductive and is 75 mm away from the nearest TS component. The current used for the measurement is 15 mA.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2896,
+        "question_id": 773,
+        "answer_text": "You measure a voltage drop of 0.5 V between LVS ground and your electrically non-conductive driver seat which is 50 mm away from your TSAC. The current used for the measurement is 0.1 A.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2897,
+        "question_id": 773,
+        "answer_text": "You measure a voltage drop of 1 V between LVS ground and one of your parts that may become electrically conductive and is 125 mm away from the nearest TS component. The current used for the measurement is 7 mA.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2894,
+        "question_id": 773,
+        "answer_text": "Your measure a voltage drop of 0.5 V between LVS ground and one of your electrically conductive driver harness mounting points which is 150 mm away from the nearest TS component. The current used for the measurement is 1 A.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2895,
+        "question_id": 773,
+        "answer_text": "You measure a voltage drop of 1 V between LVS ground and one of your parts that may become electrically conductive and is 75 mm away from the nearest TS component. The current used for the measurement is 15 mA.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2896,
+        "question_id": 773,
+        "answer_text": "You measure a voltage drop of 0.5 V between LVS ground and your electrically non-conductive driver seat which is 50 mm away from your TSAC. The current used for the measurement is 0.1 A.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2897,
+        "question_id": 773,
+        "answer_text": "You measure a voltage drop of 1 V between LVS ground and one of your parts that may become electrically conductive and is 125 mm away from the nearest TS component. The current used for the measurement is 7 mA.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 785,
+    "text": "Calculate drag with the following parameters.\\nFrontal surface area: 0.7 m^2\\nDrag coefficient: 1.6\\nVelocity: 50 km/h\\nAir density: 1.22 kg/m^3",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2935,
+        "question_id": 785,
+        "answer_text": "121.79 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2936,
+        "question_id": 785,
+        "answer_text": "0.1318 kN",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2937,
+        "question_id": 785,
+        "answer_text": "1.317 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2938,
+        "question_id": 785,
+        "answer_text": "1.708 kN",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2935,
+        "question_id": 785,
+        "answer_text": "121.79 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2936,
+        "question_id": 785,
+        "answer_text": "0.1318 kN",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2937,
+        "question_id": 785,
+        "answer_text": "1.317 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2938,
+        "question_id": 785,
+        "answer_text": "1.708 kN",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 787,
+    "text": "A vehicle completes a 1100 m course in 60 seconds. The energy consumption during this lap is 1 MJ. What is the average traction force of this vehicle during the run?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2945,
+        "question_id": 787,
+        "answer_text": "1 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2946,
+        "question_id": 787,
+        "answer_text": "880 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2947,
+        "question_id": 787,
+        "answer_text": "909 N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2948,
+        "question_id": 787,
+        "answer_text": "786 N",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2945,
+        "question_id": 787,
+        "answer_text": "1 kN",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2946,
+        "question_id": 787,
+        "answer_text": "880 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2947,
+        "question_id": 787,
+        "answer_text": "909 N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2948,
+        "question_id": 787,
+        "answer_text": "786 N",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 790,
+    "text": "What is the resistance of this resistor?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2957,
+        "question_id": 790,
+        "answer_text": "100 Ω 5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2958,
+        "question_id": 790,
+        "answer_text": "100 kΩ ± 5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2959,
+        "question_id": 790,
+        "answer_text": "10 kΩ ± 5%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2960,
+        "question_id": 790,
+        "answer_text": "1 kΩ ± 5%",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000790__img000213__790_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2957,
+        "question_id": 790,
+        "answer_text": "100 Ω 5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2958,
+        "question_id": 790,
+        "answer_text": "100 kΩ ± 5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2959,
+        "question_id": 790,
+        "answer_text": "10 kΩ ± 5%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2960,
+        "question_id": 790,
+        "answer_text": "1 kΩ ± 5%",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 793,
+    "text": "Mark the correct statement from below.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2969,
+        "question_id": 793,
+        "answer_text": "The increase of slip does not affect the lateral force the tire can generate on the contact patch.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2970,
+        "question_id": 793,
+        "answer_text": "Cornering on the edge of the friction ellipse with constant speed on a constant circular flat track with a front wheel driven car, the car is understeered if more throttle is applied, because on the edge of the friction ellipse one can only generate more longitudinal force on the contact patch with the decreasing of lateral forces.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2971,
+        "question_id": 793,
+        "answer_text": "Single track model behaviour can be described with variables of steer angle, longitudinal speed, cornering stiffness etc., and constants mass, inertia and CoG position.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2972,
+        "question_id": 793,
+        "answer_text": "A 4-wheeled car touches the ground on 4 points along a corner, until the acting line of the overall resultant force projected to the centre of mass pierces the ground surface within the geometrical shape of the vertical projection of the outer suspension p ickup points on the ground.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2969,
+        "question_id": 793,
+        "answer_text": "The increase of slip does not affect the lateral force the tire can generate on the contact patch.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2970,
+        "question_id": 793,
+        "answer_text": "Cornering on the edge of the friction ellipse with constant speed on a constant circular flat track with a front wheel driven car, the car is understeered if more throttle is applied, because on the edge of the friction ellipse one can only generate more longitudinal force on the contact patch with the decreasing of lateral forces.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2971,
+        "question_id": 793,
+        "answer_text": "Single track model behaviour can be described with variables of steer angle, longitudinal speed, cornering stiffness etc., and constants mass, inertia and CoG position.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2972,
+        "question_id": 793,
+        "answer_text": "A 4-wheeled car touches the ground on 4 points along a corner, until the acting line of the overall resultant force projected to the centre of mass pierces the ground surface within the geometrical shape of the vertical projection of the outer suspension p ickup points on the ground.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 795,
+    "text": "What is the maximum rules compliant breaking distance measured from the point where EBS was triggered in case of a failure within the ABS, given the vehicle is travelling with the minimum speed required for EBS test? The track conditions are dry.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2977,
+        "question_id": 795,
+        "answer_text": "14.568 m",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2978,
+        "question_id": 795,
+        "answer_text": "12.345 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2979,
+        "question_id": 795,
+        "answer_text": "8.395 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2980,
+        "question_id": 795,
+        "answer_text": "6.173 m",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2977,
+        "question_id": 795,
+        "answer_text": "14.568 m",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2978,
+        "question_id": 795,
+        "answer_text": "12.345 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2979,
+        "question_id": 795,
+        "answer_text": "8.395 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2980,
+        "question_id": 795,
+        "answer_text": "6.173 m",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 797,
+    "text": "Select the true statement.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2981,
+        "question_id": 797,
+        "answer_text": "Function coverage always implies statement coverage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2982,
+        "question_id": 797,
+        "answer_text": "Modified condition/decision coverage always implies Multiple Condition Coverage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2983,
+        "question_id": 797,
+        "answer_text": "Branch coverage always implies Modified condition/decision coverage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2984,
+        "question_id": 797,
+        "answer_text": "Multiple Condition Coverage always implies branch coverage.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2981,
+        "question_id": 797,
+        "answer_text": "Function coverage always implies statement coverage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2982,
+        "question_id": 797,
+        "answer_text": "Modified condition/decision coverage always implies Multiple Condition Coverage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2983,
+        "question_id": 797,
+        "answer_text": "Branch coverage always implies Modified condition/decision coverage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2984,
+        "question_id": 797,
+        "answer_text": "Multiple Condition Coverage always implies branch coverage.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 799,
+    "text": "What is the Almanac in a GPS frame?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2991,
+        "question_id": 799,
+        "answer_text": "Clock and health data of the transmitting satellite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2992,
+        "question_id": 799,
+        "answer_text": "Orbital information of the transmitting satellite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2993,
+        "question_id": 799,
+        "answer_text": "Clock and health data for every satellite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2994,
+        "question_id": 799,
+        "answer_text": "Orbital information for every satellite",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2991,
+        "question_id": 799,
+        "answer_text": "Clock and health data of the transmitting satellite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2992,
+        "question_id": 799,
+        "answer_text": "Orbital information of the transmitting satellite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2993,
+        "question_id": 799,
+        "answer_text": "Clock and health data for every satellite",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2994,
+        "question_id": 799,
+        "answer_text": "Orbital information for every satellite",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 800,
+    "text": "Assume the neural network shown in the picture with two inputs, two outputs, two hidden neurons and two biases. The parameters are:\\ni1 = 0.05, i2 = 0.1\\nw1 = 0.15, w2 = 0.2, w3 = 0.25, w4 = 0.3, w5 = 0.35, w6 = 0.4, w7 = 0.45, w8 = 0.5\\nb1 = 0.3 , b2 = 0.6\\nWhat are the outputs of this neural network if the standard logistic function is used as activation function?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2995,
+        "question_id": 800,
+        "answer_text": "o1 = 0.751, o2 = 0.773",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2996,
+        "question_id": 800,
+        "answer_text": "o1 = 0.773, o2 = 0.751",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2997,
+        "question_id": 800,
+        "answer_text": "o1 = 0.738, o2 = 0.760",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2998,
+        "question_id": 800,
+        "answer_text": "o1 = 0.760, o2 = 0.738",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000800__img000215__800_4.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2995,
+        "question_id": 800,
+        "answer_text": "o1 = 0.751, o2 = 0.773",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2996,
+        "question_id": 800,
+        "answer_text": "o1 = 0.773, o2 = 0.751",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2997,
+        "question_id": 800,
+        "answer_text": "o1 = 0.738, o2 = 0.760",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2998,
+        "question_id": 800,
+        "answer_text": "o1 = 0.760, o2 = 0.738",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 801,
+    "text": "What is the average density of gasoline at normal temperature and pressure?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2999,
+        "question_id": 801,
+        "answer_text": "0.63-0.69 [g/cm^3]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3000,
+        "question_id": 801,
+        "answer_text": "0.72-0.78 [g/cm^3]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3001,
+        "question_id": 801,
+        "answer_text": "0.80-0.86 [g/cm^3]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3002,
+        "question_id": 801,
+        "answer_text": "same as water",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2999,
+        "question_id": 801,
+        "answer_text": "0.63-0.69 [g/cm^3]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3000,
+        "question_id": 801,
+        "answer_text": "0.72-0.78 [g/cm^3]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3001,
+        "question_id": 801,
+        "answer_text": "0.80-0.86 [g/cm^3]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3002,
+        "question_id": 801,
+        "answer_text": "same as water",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 802,
+    "text": "Power to the electronic throttle must be immediately shut down if the throttle position differs by more than…",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3003,
+        "question_id": 802,
+        "answer_text": "5% from the expected target TPS position for more than 500 ms.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3004,
+        "question_id": 802,
+        "answer_text": "10% from the expected target TPS position for more than 500 ms.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3005,
+        "question_id": 802,
+        "answer_text": "15% from the expected target TPS position for more than 500 ms.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3006,
+        "question_id": 802,
+        "answer_text": "18% from the expected target TPS position for more than 500 ms.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3003,
+        "question_id": 802,
+        "answer_text": "5% from the expected target TPS position for more than 500 ms.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3004,
+        "question_id": 802,
+        "answer_text": "10% from the expected target TPS position for more than 500 ms.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3005,
+        "question_id": 802,
+        "answer_text": "15% from the expected target TPS position for more than 500 ms.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3006,
+        "question_id": 802,
+        "answer_text": "18% from the expected target TPS position for more than 500 ms.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 803,
+    "text": "Which of the following is true for an equipment rated IP 66?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3007,
+        "question_id": 803,
+        "answer_text": "The equipment is not dust tight.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3008,
+        "question_id": 803,
+        "answer_text": "The equipment enclosure can be cleaned by water jet.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3009,
+        "question_id": 803,
+        "answer_text": "The equipment can be immersed in water.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3010,
+        "question_id": 803,
+        "answer_text": "The equipment is not protected from a foreign object with a diameter of 1 mm.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3007,
+        "question_id": 803,
+        "answer_text": "The equipment is not dust tight.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3008,
+        "question_id": 803,
+        "answer_text": "The equipment enclosure can be cleaned by water jet.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3009,
+        "question_id": 803,
+        "answer_text": "The equipment can be immersed in water.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3010,
+        "question_id": 803,
+        "answer_text": "The equipment is not protected from a foreign object with a diameter of 1 mm.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 805,
+    "text": "You have the following gear ratios in a gearbox (primary/secondary):\\n- 1st gear 14/36\\n- 2nd gear 17/32\\n- 3rd gear 19/28\\n- 4th gear 22/26\\n- Final drive 12/33\\nThe selecting occurs on the secondary shaft with 30° to select a gear. What is the maximum available time to switch gears from 2nd to 3rd in case of 3000 RPM on the primary shaft?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3011,
+        "question_id": 805,
+        "answer_text": "11 ms",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3012,
+        "question_id": 805,
+        "answer_text": "1 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3013,
+        "question_id": 805,
+        "answer_text": "113 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3014,
+        "question_id": 805,
+        "answer_text": "23 ms",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3011,
+        "question_id": 805,
+        "answer_text": "11 ms",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3012,
+        "question_id": 805,
+        "answer_text": "1 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3013,
+        "question_id": 805,
+        "answer_text": "113 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3014,
+        "question_id": 805,
+        "answer_text": "23 ms",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 806,
+    "text": "You want to increase the compression ratio of your engine from 12 to 13 5.\\n Engine parameters: 4 cylinders, 67 mm bore, 42,5 mm stroke. To achieve the desired compression ratio, you have chosen a new cylinder head gasket which is 0,1 mm thinner than the original one, but this alone is not enough so you decide to also remove material from the top of the crankcase by machining.\\nHow many millimetres do you need to remove in thickness to achieve the desired compression ratio?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3015,
+        "question_id": 806,
+        "answer_text": "0.614 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3016,
+        "question_id": 806,
+        "answer_text": "0.564 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3017,
+        "question_id": 806,
+        "answer_text": "0.464 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3018,
+        "question_id": 806,
+        "answer_text": "0.364 mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3015,
+        "question_id": 806,
+        "answer_text": "0.614 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3016,
+        "question_id": 806,
+        "answer_text": "0.564 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3017,
+        "question_id": 806,
+        "answer_text": "0.464 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3018,
+        "question_id": 806,
+        "answer_text": "0.364 mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

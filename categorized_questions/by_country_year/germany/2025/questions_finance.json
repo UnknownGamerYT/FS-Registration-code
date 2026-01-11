@@ -1,0 +1,372 @@
+[
+  {
+    "question_id": 943,
+    "text": "Which of the following statements are false, regarding the Bussiness Plan Presentation Event (BPP) at FSG?",
+    "type": "multi-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 3541,
+        "question_id": 943,
+        "answer_text": "If a team exceeds the presentation time limit, points, will be deducted proportionally",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3542,
+        "question_id": 943,
+        "answer_text": "A business model that generates no monetary profit but has a strong social impact is compliant with BPP requirements",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3543,
+        "question_id": 943,
+        "answer_text": "The presentation can be interrupted by questions from the present juges at any time.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3544,
+        "question_id": 943,
+        "answer_text": "The evaluation of the BPP includes a category assessing how innovatiove the prototype is",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3545,
+        "question_id": 943,
+        "answer_text": "If a team misses its presentation slot, it will receive zero points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3546,
+        "question_id": 943,
+        "answer_text": "The pitch video must contain relevant investment figures",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3547,
+        "question_id": 943,
+        "answer_text": "The BPP finalists have a different scoring range compared to the initial judging",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3548,
+        "question_id": 943,
+        "answer_text": "If the business model does not relate to the teams' vehicle or a specific component, a 10-point penalty will be applied",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3541,
+        "question_id": 943,
+        "answer_text": "If a team exceeds the presentation time limit, points, will be deducted proportionally",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3542,
+        "question_id": 943,
+        "answer_text": "A business model that generates no monetary profit but has a strong social impact is compliant with BPP requirements",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3543,
+        "question_id": 943,
+        "answer_text": "The presentation can be interrupted by questions from the present juges at any time.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3544,
+        "question_id": 943,
+        "answer_text": "The evaluation of the BPP includes a category assessing how innovatiove the prototype is",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3545,
+        "question_id": 943,
+        "answer_text": "If a team misses its presentation slot, it will receive zero points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3546,
+        "question_id": 943,
+        "answer_text": "The pitch video must contain relevant investment figures",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3547,
+        "question_id": 943,
+        "answer_text": "The BPP finalists have a different scoring range compared to the initial judging",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3548,
+        "question_id": 943,
+        "answer_text": "If the business model does not relate to the teams' vehicle or a specific component, a 10-point penalty will be applied",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 957,
+    "text": "Which of the following statements are false regarding the Business Plan Presentation Event at FSG?",
+    "type": "multi-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3589,
+        "question_id": 957,
+        "answer_text": "The BPP allows teams to present unprofitable business models, if they can demonstrate high innovation value.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3590,
+        "question_id": 957,
+        "answer_text": "The business model can propose a product or service that does not generate any profit but has societal benefits.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3591,
+        "question_id": 957,
+        "answer_text": "Content, structure and the integration of the Deep Dive Topic are all part of the evaluation of the BPP.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3592,
+        "question_id": 957,
+        "answer_text": "Developing a business model without a clear connection to the prototype vehicle is allowed.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3593,
+        "question_id": 957,
+        "answer_text": "The prototype vehicle or a specific component of it must be an essential part of the value proposition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3594,
+        "question_id": 957,
+        "answer_text": "The BPP evaluates both the business model and its presentation during the competition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3595,
+        "question_id": 957,
+        "answer_text": "The results of the BPP finals are decided only by the head judge.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3596,
+        "question_id": 957,
+        "answer_text": "The business model can only be based on a physical component.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3589,
+        "question_id": 957,
+        "answer_text": "The BPP allows teams to present unprofitable business models, if they can demonstrate high innovation value.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3590,
+        "question_id": 957,
+        "answer_text": "The business model can propose a product or service that does not generate any profit but has societal benefits.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3591,
+        "question_id": 957,
+        "answer_text": "Content, structure and the integration of the Deep Dive Topic are all part of the evaluation of the BPP.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3592,
+        "question_id": 957,
+        "answer_text": "Developing a business model without a clear connection to the prototype vehicle is allowed.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3593,
+        "question_id": 957,
+        "answer_text": "The prototype vehicle or a specific component of it must be an essential part of the value proposition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3594,
+        "question_id": 957,
+        "answer_text": "The BPP evaluates both the business model and its presentation during the competition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3595,
+        "question_id": 957,
+        "answer_text": "The results of the BPP finals are decided only by the head judge.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3596,
+        "question_id": 957,
+        "answer_text": "The business model can only be based on a physical component.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 960,
+    "text": "Is it worth to develop autonomous functions for FSG?\nEstimate which place in the overall ranking car No. 74 would have reached at FSG 2024 if they had accomplished a driverless skidpad run with a time of 18.7 seconds and a driverless acceleration run with a time of 22 seconds.\nAll other competitors would have reached same points as they did at FSG 2024.",
+    "type": "input",
+    "time": 780,
+    "answer_options": [],
+    "solutions": [],
+    "question_images": [],
+    "answers": [],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 961,
+    "text": "Imagine you are on track at the Endurance. The Endurance is 18 laps long – 9 for each driver. The track is completely drying in your lap three. The track condition is changed from wet to dry by the officials in your fourth lap. Your vehicle is on wet tires. You are able to do a tire change in 110 seconds, if you combine it with the driver change. If you do a tire change only you are 34 seconds slower, because you need to enter and exit driver change area. At the moment you are losing 10 seconds compared to your expected lap times on dry tires.\nBased only on this information, which strategy would get you the most points?\na. Change to dry tires after lap 4\nb. Change to dry tires at drivers change\nc. Do not change tires\nd. It’s not permitted to change tires\n\nEnter the letter of the solution option.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3598,
+        "question_id": 961,
+        "answer_text": "c",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3598,
+        "question_id": 961,
+        "answer_text": "c",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 962,
+    "text": "Which of the following parts is not a fastener according to S3.4.5?",
+    "type": "multi-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3599,
+        "question_id": 962,
+        "answer_text": "Tape applied for edge protection",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3600,
+        "question_id": 962,
+        "answer_text": "Tape connecting two halves of a carbon steering wheel",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3601,
+        "question_id": 962,
+        "answer_text": "Adhesive used for gluing padding on the main hoop",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3602,
+        "question_id": 962,
+        "answer_text": "Zip ties applied for mounting of the head restraint",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3599,
+        "question_id": 962,
+        "answer_text": "Tape applied for edge protection",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3600,
+        "question_id": 962,
+        "answer_text": "Tape connecting two halves of a carbon steering wheel",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3601,
+        "question_id": 962,
+        "answer_text": "Adhesive used for gluing padding on the main hoop",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3602,
+        "question_id": 962,
+        "answer_text": "Zip ties applied for mounting of the head restraint",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": 575,
+    "text": "Direct current is present in a straight copper wire, with a cross-section of 2.5 [mm2] and a conductivity of 57 [MS/m]. The measured voltage between two points of the wire is 200 [mV], and the distance between the two points is 40 [cm]. What is the current density in the wire?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2199,
+        "question_id": 575,
+        "answer_text": "57.0 [A/mm2]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2200,
+        "question_id": 575,
+        "answer_text": "28.5 [A/mm2]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2201,
+        "question_id": 575,
+        "answer_text": "14.25 [A/mm2]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2202,
+        "question_id": 575,
+        "answer_text": "114 [A/mm2]",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2199,
+        "question_id": 575,
+        "answer_text": "57.0 [A/mm2]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2200,
+        "question_id": 575,
+        "answer_text": "28.5 [A/mm2]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2201,
+        "question_id": 575,
+        "answer_text": "14.25 [A/mm2]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2202,
+        "question_id": 575,
+        "answer_text": "114 [A/mm2]",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 577,
+    "text": "The parameters of a battery cell are the followings: \\n Maximum Cell Voltage: 4.2V \\n Nominal Cell Voltage: 3.7V \\n Minimum Cell Voltage: 3.2V \\n Nominal Capacity: 20Ah \\n Weight: 450g \\n What is the maximum number of these cells that can be used in one TS Accumulator Segment according to the Rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2207,
+        "question_id": 577,
+        "answer_text": "26",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2208,
+        "question_id": 577,
+        "answer_text": "19",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2209,
+        "question_id": 577,
+        "answer_text": "28",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2210,
+        "question_id": 577,
+        "answer_text": "22",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2207,
+        "question_id": 577,
+        "answer_text": "26",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2208,
+        "question_id": 577,
+        "answer_text": "19",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2209,
+        "question_id": 577,
+        "answer_text": "28",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2210,
+        "question_id": 577,
+        "answer_text": "22",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 588,
+    "text": "Your vehicle's maximum TS voltage is 500 V. You disconnect the TS cable which connects the TSAC to the motor controller housing at the TSAC side only (the TS cable is still connected to the motor controller housing). After that, you turn on the LVS only and supply 70 V to the TS cable (which is connected to the motor controller) with a laboratory power supply. How shall your TSAL behave?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2252,
+        "question_id": 588,
+        "answer_text": "The TSAL has to flash in red only with 50% duty cycle",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2253,
+        "question_id": 588,
+        "answer_text": "The TSAL has to light continuously in green",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2254,
+        "question_id": 588,
+        "answer_text": "The TSAL has to turn off completely.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2255,
+        "question_id": 588,
+        "answer_text": "The TSAL has to flash in green and orange with 50% duty cycle.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2252,
+        "question_id": 588,
+        "answer_text": "The TSAL has to flash in red only with 50% duty cycle",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2253,
+        "question_id": 588,
+        "answer_text": "The TSAL has to light continuously in green",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2254,
+        "question_id": 588,
+        "answer_text": "The TSAL has to turn off completely.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2255,
+        "question_id": 588,
+        "answer_text": "The TSAL has to flash in green and orange with 50% duty cycle.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

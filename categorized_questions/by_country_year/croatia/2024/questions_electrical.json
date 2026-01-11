@@ -1,0 +1,112 @@
+[
+  {
+    "question_id": 855,
+    "text": "How efficient is my machine really?\\nAt the beginning of the season, one of your aims is to design a permanent magnet synchronous machine for your tractive system. The machine’s total losses can be determined as follows: (see below)\\nP(Cu) represents the copper losses in the system. How much copper losses will occur assuming these specs?\\nP(rated) = 50kW\\nI(rated) = 7200mA\\nU(rated) = reffer to FSG's maximum permitted voltage\\nR(s) = 0,0001 kOhm\\nR(Eddy) = 50000 uOhm\\nNote: Enter your result with two decimal digits.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3208,
+        "question_id": 855,
+        "answer_text": "388,8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 173,
+        "question_id": 855,
+        "text": "Question has been removed from the quiz",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3208,
+        "question_id": 855,
+        "answer_text": "388,8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 857,
+    "text": "Suppose you have a permanent magnet electric motor with fixed space for windings that needs to have copper windings installed and will be connected directly to the battery that has fixed number of cells, but configuration (number of series and parallels) is not yet set. Battery cells are closely packed without separation into module. You want to have maximum power without overheating the battery and motor and maximum efficiency.\\nAssumption:\\n- Battery cells are closely packed without separation into modules.\\n- Commutation is resolved and has no losses.\\n- Although it is not the same depending on the configuration, positive and negative busses of the battery and the wires connecting to the motor are assumed to have irrelevant losses for simplicity.\\n- Battery and motor operating voltage will match.\\n- Inductance.\\n\\nWhile ignoring battery main positive and negative buses and short wire from buses to the motor windings, do you go for:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3210,
+        "question_id": 857,
+        "answer_text": "Fully utilizing winding space with more turns of thinner wire because it will result in higher operating voltage of the motor, thus less current for the same power meaning less losses and better efficiency. Battery current will also be lesser leading to less heating.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3211,
+        "question_id": 857,
+        "answer_text": "Wire thickness in motor and battery configuration don't impact efficiency and power if winding space is fully utilized and battery connections are as short as possible.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3212,
+        "question_id": 857,
+        "answer_text": "Fully utilizing winding space with less turns off thicker wire as it will be able to pass more current so more power will be produced, plus motor will spin faster for the same voltage.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 175,
+        "question_id": 857,
+        "text": "Question has been removed from the quiz",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3210,
+        "question_id": 857,
+        "answer_text": "Fully utilizing winding space with more turns of thinner wire because it will result in higher operating voltage of the motor, thus less current for the same power meaning less losses and better efficiency. Battery current will also be lesser leading to less heating.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3211,
+        "question_id": 857,
+        "answer_text": "Wire thickness in motor and battery configuration don't impact efficiency and power if winding space is fully utilized and battery connections are as short as possible.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3212,
+        "question_id": 857,
+        "answer_text": "Fully utilizing winding space with less turns off thicker wire as it will be able to pass more current so more power will be produced, plus motor will spin faster for the same voltage.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  }
+]

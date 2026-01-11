@@ -1,0 +1,176 @@
+[
+  {
+    "question_id": 185,
+    "text": "During last year acceleration a top speed of 100 km/h was reached. Due to big impreovement in the new drivetrain, the new vehicle reaches a top speed of 120 km/h. The aerodynamics chief has some worries about the stability of the rear wing bracing due of the highr aerodynamics load. Given the geometry below, by how much % does the bearing force in point A change in comparison to last year (The aerodynamic package did not change and therefore some values can be assumed for both vehicles). All the useful parameters are given below:\ncL=3.8, cD=1.2, A=1m², p=1.1kg/m³, L1=50mm, L2=100mm, H1=125mm, H2=165mm\nPlease use the following format: 12.3 or 1.23 (no ',' comma, no latters), round to 3 significant digits.",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 721,
+        "question_id": 185,
+        "answer_text": "44",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 40,
+        "question_id": 185,
+        "text": null,
+        "images": [
+          {
+            "img_id": 112,
+            "path": "solutions/185_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000185__img000063__185_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 721,
+        "question_id": 185,
+        "answer_text": "44",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18,
+      47,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 492,
+    "text": "You participate in the Acceleration event. On your second run, you set your best time of 4.80s, after passing the finish line the car comes to a complete stop after 32m. Assume acceleration and deceleration are both linear. What is the average velocity of the vehicle between the start and the complete stop on this run?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 1963,
+        "question_id": 492,
+        "answer_text": "6.666 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1964,
+        "question_id": 492,
+        "answer_text": "79.2 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1965,
+        "question_id": 492,
+        "answer_text": " 2952.76 ft/min",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1966,
+        "question_id": 492,
+        "answer_text": "69.345 mph",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 72,
+        "question_id": 492,
+        "text": "v = 75m/4.8s = 15.625 m/s = 2952.76 ft/min",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1963,
+        "question_id": 492,
+        "answer_text": "6.666 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1964,
+        "question_id": 492,
+        "answer_text": "79.2 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1965,
+        "question_id": 492,
+        "answer_text": " 2952.76 ft/min",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1966,
+        "question_id": 492,
+        "answer_text": "69.345 mph",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 562,
+    "text": "Acurve is given as f1(x) = x^2. Two points, connected as a line with a constant distance of exactly 4, are travelling on this curve. Its midpoint is generating a new curve. Calculate the area between both curves. \\n Hint: See the graph below given for random timestamps: \\n Answer has no units and provide the value with 2 digit behind decimal point, e.g. 12.34 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2351,
+        "question_id": 562,
+        "answer_text": "6.28",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000562__img000145__562_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2351,
+        "question_id": 562,
+        "answer_text": "6.28",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  }
+]

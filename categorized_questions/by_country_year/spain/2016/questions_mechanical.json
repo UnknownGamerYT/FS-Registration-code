@@ -1,0 +1,866 @@
+[
+  {
+    "question_id": 274,
+    "text": "Who can drive in the dynamics events Formula Student Spain:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1079,
+        "question_id": 274,
+        "answer_text": "Only registered drivers, smaller than 95th percentile ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1080,
+        "question_id": 274,
+        "answer_text": "Only register drivers bigger that 5th percentile ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1081,
+        "question_id": 274,
+        "answer_text": "Any register driver who meets the helmet clearance value ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1082,
+        "question_id": 274,
+        "answer_text": "Any team member if the vehicle has passed technical inspection ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1079,
+        "question_id": 274,
+        "answer_text": "Only registered drivers, smaller than 95th percentile ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1080,
+        "question_id": 274,
+        "answer_text": "Only register drivers bigger that 5th percentile ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1081,
+        "question_id": 274,
+        "answer_text": "Any register driver who meets the helmet clearance value ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1082,
+        "question_id": 274,
+        "answer_text": "Any team member if the vehicle has passed technical inspection ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 276,
+    "text": "The seat belts anchorages in FSS must be according to:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1087,
+        "question_id": 276,
+        "answer_text": "UNECE R.14 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1088,
+        "question_id": 276,
+        "answer_text": "The fith article of the Formula SAE ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1089,
+        "question_id": 276,
+        "answer_text": "FIA Appendix L ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1090,
+        "question_id": 276,
+        "answer_text": "It is only mandatory for monocoque vehicles ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1087,
+        "question_id": 276,
+        "answer_text": "UNECE R.14 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1088,
+        "question_id": 276,
+        "answer_text": "The fith article of the Formula SAE ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1089,
+        "question_id": 276,
+        "answer_text": "FIA Appendix L ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1090,
+        "question_id": 276,
+        "answer_text": "It is only mandatory for monocoque vehicles ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 277,
+    "text": "Bolts, which sentence is wrong",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1091,
+        "question_id": 277,
+        "answer_text": "Only metric bolts are allowed in FSS ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1092,
+        "question_id": 277,
+        "answer_text": "Nylon lock bolts are allowed ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1093,
+        "question_id": 277,
+        "answer_text": "There must be a minimum of two (2) full threads projecting from any lock nut ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1094,
+        "question_id": 277,
+        "answer_text": "Cotter pins can provide positive locking ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1091,
+        "question_id": 277,
+        "answer_text": "Only metric bolts are allowed in FSS ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1092,
+        "question_id": 277,
+        "answer_text": "Nylon lock bolts are allowed ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1093,
+        "question_id": 277,
+        "answer_text": "There must be a minimum of two (2) full threads projecting from any lock nut ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1094,
+        "question_id": 277,
+        "answer_text": "Cotter pins can provide positive locking ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 278,
+    "text": "When the rain lights are tested:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1095,
+        "question_id": 278,
+        "answer_text": "Not tested in FSS ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1096,
+        "question_id": 278,
+        "answer_text": "Electric cars in rain test ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1097,
+        "question_id": 278,
+        "answer_text": "When, the race is marked as wet race at the technical inspection prior to the dynamic tests ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1098,
+        "question_id": 278,
+        "answer_text": "No need to test for combustion cars, and in technical inspection for electric cars ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1095,
+        "question_id": 278,
+        "answer_text": "Not tested in FSS ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1096,
+        "question_id": 278,
+        "answer_text": "Electric cars in rain test ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1097,
+        "question_id": 278,
+        "answer_text": "When, the race is marked as wet race at the technical inspection prior to the dynamic tests ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1098,
+        "question_id": 278,
+        "answer_text": "No need to test for combustion cars, and in technical inspection for electric cars ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 279,
+    "text": "Which loads during technical inspections, must a wing withstand at least?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1099,
+        "question_id": 279,
+        "answer_text": "Only in vertical direction 200 N ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1100,
+        "question_id": 279,
+        "answer_text": "Only in longitudinal direction 200 N ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1101,
+        "question_id": 279,
+        "answer_text": "In vertical and longitudinal direction 200 N at the same time ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1102,
+        "question_id": 279,
+        "answer_text": "In any direction 200 N ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1099,
+        "question_id": 279,
+        "answer_text": "Only in vertical direction 200 N ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1100,
+        "question_id": 279,
+        "answer_text": "Only in longitudinal direction 200 N ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1101,
+        "question_id": 279,
+        "answer_text": "In vertical and longitudinal direction 200 N at the same time ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1102,
+        "question_id": 279,
+        "answer_text": "In any direction 200 N ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 280,
+    "text": "Aggressive driving, failing to obey signals, not yielding for passing, etc. ...",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1103,
+        "question_id": 280,
+        "answer_text": "Will result in a black flag ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1104,
+        "question_id": 280,
+        "answer_text": "Is allowed if the driver feels that has the situation under control ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1105,
+        "question_id": 280,
+        "answer_text": "Is allowed in the Dynamic Events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1106,
+        "question_id": 280,
+        "answer_text": "Is allowed in the testing ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1103,
+        "question_id": 280,
+        "answer_text": "Will result in a black flag ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1104,
+        "question_id": 280,
+        "answer_text": "Is allowed if the driver feels that has the situation under control ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1105,
+        "question_id": 280,
+        "answer_text": "Is allowed in the Dynamic Events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1106,
+        "question_id": 280,
+        "answer_text": "Is allowed in the testing ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 281,
+    "text": "Is it the school name mandatory to be displayed on?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1107,
+        "question_id": 281,
+        "answer_text": "The nose of the vehicle ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1108,
+        "question_id": 281,
+        "answer_text": "On each side of the vehicle ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1109,
+        "question_id": 281,
+        "answer_text": "On the front wing ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1110,
+        "question_id": 281,
+        "answer_text": "On the rear wing ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1107,
+        "question_id": 281,
+        "answer_text": "The nose of the vehicle ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1108,
+        "question_id": 281,
+        "answer_text": "On each side of the vehicle ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1109,
+        "question_id": 281,
+        "answer_text": "On the front wing ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1110,
+        "question_id": 281,
+        "answer_text": "On the rear wing ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 282,
+    "text": "Once the vehicle has got all the stickers from technical inspection, which changes on the vehicle are you allowed:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1111,
+        "question_id": 282,
+        "answer_text": "None ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1112,
+        "question_id": 282,
+        "answer_text": "Monocoque, if damaged as safety is first ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1113,
+        "question_id": 282,
+        "answer_text": "Tire pressure ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1114,
+        "question_id": 282,
+        "answer_text": "Car number ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1111,
+        "question_id": 282,
+        "answer_text": "None ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1112,
+        "question_id": 282,
+        "answer_text": "Monocoque, if damaged as safety is first ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1113,
+        "question_id": 282,
+        "answer_text": "Tire pressure ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1114,
+        "question_id": 282,
+        "answer_text": "Car number ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 283,
+    "text": "Regarding the tyres",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1115,
+        "question_id": 283,
+        "answer_text": "Teams can use unmarked tires for the dynamic events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1116,
+        "question_id": 283,
+        "answer_text": "Teams must use the same set of tyres in all dynamics events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1117,
+        "question_id": 283,
+        "answer_text": "Teams can use unmarked tires for the non-dynamic events ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1118,
+        "question_id": 283,
+        "answer_text": "Teams can change tyres during the driver change process of the Endurance Event ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1115,
+        "question_id": 283,
+        "answer_text": "Teams can use unmarked tires for the dynamic events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1116,
+        "question_id": 283,
+        "answer_text": "Teams must use the same set of tyres in all dynamics events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1117,
+        "question_id": 283,
+        "answer_text": "Teams can use unmarked tires for the non-dynamic events ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1118,
+        "question_id": 283,
+        "answer_text": "Teams can change tyres during the driver change process of the Endurance Event ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 284,
+    "text": "GoPro are allowed to be mounted if:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1119,
+        "question_id": 284,
+        "answer_text": "Are approved and marked during the technical inspection ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1120,
+        "question_id": 284,
+        "answer_text": "Always, they have already be proven in several formula SAE events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1121,
+        "question_id": 284,
+        "answer_text": "The team presents the invoice to certify the weight ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1122,
+        "question_id": 284,
+        "answer_text": "No in board cameras are allowed in FSS ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1119,
+        "question_id": 284,
+        "answer_text": "Are approved and marked during the technical inspection ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1120,
+        "question_id": 284,
+        "answer_text": "Always, they have already be proven in several formula SAE events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1121,
+        "question_id": 284,
+        "answer_text": "The team presents the invoice to certify the weight ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1122,
+        "question_id": 284,
+        "answer_text": "No in board cameras are allowed in FSS ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 285,
+    "text": "The scatters shields can be attached by bolts?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1123,
+        "question_id": 285,
+        "answer_text": "Not, only weld is allowed ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1124,
+        "question_id": 285,
+        "answer_text": "Yes, it can be easily removable if broken ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1125,
+        "question_id": 285,
+        "answer_text": "Yes, but only with minimun M6 grade 8.8 or equivalent ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1126,
+        "question_id": 285,
+        "answer_text": "Yes, but only with M6 grade 12.9 or equivalent ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1123,
+        "question_id": 285,
+        "answer_text": "Not, only weld is allowed ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1124,
+        "question_id": 285,
+        "answer_text": "Yes, it can be easily removable if broken ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1125,
+        "question_id": 285,
+        "answer_text": "Yes, but only with minimun M6 grade 8.8 or equivalent ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1126,
+        "question_id": 285,
+        "answer_text": "Yes, but only with M6 grade 12.9 or equivalent ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 287,
+    "text": "Which type of cars are allowed to enter in FSS:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1131,
+        "question_id": 287,
+        "answer_text": "Only 4 wheelers ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1132,
+        "question_id": 287,
+        "answer_text": "4 wheel cars that can be seen complety from the side view ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1133,
+        "question_id": 287,
+        "answer_text": "All ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1134,
+        "question_id": 287,
+        "answer_text": "Electric cars, combustion cars providing that they are made by the students ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1131,
+        "question_id": 287,
+        "answer_text": "Only 4 wheelers ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1132,
+        "question_id": 287,
+        "answer_text": "4 wheel cars that can be seen complety from the side view ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1133,
+        "question_id": 287,
+        "answer_text": "All ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1134,
+        "question_id": 287,
+        "answer_text": "Electric cars, combustion cars providing that they are made by the students ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  }
+]

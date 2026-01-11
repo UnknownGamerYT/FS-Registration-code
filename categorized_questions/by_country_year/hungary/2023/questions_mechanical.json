@@ -1,0 +1,810 @@
+[
+  {
+    "question_id": 574,
+    "text": "When was the 1st Formula One Grand Prix held at the Hungaroring and who won the race?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2195,
+        "question_id": 574,
+        "answer_text": "1985., Nelson Piquet",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2196,
+        "question_id": 574,
+        "answer_text": "1988., Ayrton Senna",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2197,
+        "question_id": 574,
+        "answer_text": "1986., Nelson Piquet",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2198,
+        "question_id": 574,
+        "answer_text": "1985., Ayrton Senna",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2195,
+        "question_id": 574,
+        "answer_text": "1985., Nelson Piquet",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2196,
+        "question_id": 574,
+        "answer_text": "1988., Ayrton Senna",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2197,
+        "question_id": 574,
+        "answer_text": "1986., Nelson Piquet",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2198,
+        "question_id": 574,
+        "answer_text": "1985., Ayrton Senna",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 576,
+    "text": "There is some oil on the track, which flag is the correct one for the car which caused it?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2203,
+        "question_id": 576,
+        "answer_text": "Black",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2204,
+        "question_id": 576,
+        "answer_text": "Black with orange dot",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2205,
+        "question_id": 576,
+        "answer_text": "Red and yellow striped",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2206,
+        "question_id": 576,
+        "answer_text": "Yellow",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 120,
+        "question_id": 576,
+        "text": "D2.1 in Formula Student Ruled 2023 V1.1.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2203,
+        "question_id": 576,
+        "answer_text": "Black",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2204,
+        "question_id": 576,
+        "answer_text": "Black with orange dot",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2205,
+        "question_id": 576,
+        "answer_text": "Red and yellow striped",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2206,
+        "question_id": 576,
+        "answer_text": "Yellow",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 578,
+    "text": "Where can you find the following racetrack?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2211,
+        "question_id": 578,
+        "answer_text": "Brazil",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2212,
+        "question_id": 578,
+        "answer_text": "USA",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2213,
+        "question_id": 578,
+        "answer_text": "Chile",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2214,
+        "question_id": 578,
+        "answer_text": "Australia",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 101,
+        "question_id": 578,
+        "text": "Santa Cruz do Sul in Brazil",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000578__img000150__578_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2211,
+        "question_id": 578,
+        "answer_text": "Brazil",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2212,
+        "question_id": 578,
+        "answer_text": "USA",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2213,
+        "question_id": 578,
+        "answer_text": "Chile",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2214,
+        "question_id": 578,
+        "answer_text": "Australia",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 579,
+    "text": "Which of the following is true about fire extinguishers regarding EV teams for FS EAST 2023?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2215,
+        "question_id": 579,
+        "answer_text": "Each EV team must have an additional fire extinguisher available, therefore a minimum total of 3.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2216,
+        "question_id": 579,
+        "answer_text": "One of the fire extinguishers must always accompany the TSAC when outside of the car.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2217,
+        "question_id": 579,
+        "answer_text": "FS EAST will provide a gel-based lithium battery-specific fire extinguisher for all EV teams.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2218,
+        "question_id": 579,
+        "answer_text": "One of the fire extinguishers must be a gel-based (Class A) fire extinguisher.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2215,
+        "question_id": 579,
+        "answer_text": "Each EV team must have an additional fire extinguisher available, therefore a minimum total of 3.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2216,
+        "question_id": 579,
+        "answer_text": "One of the fire extinguishers must always accompany the TSAC when outside of the car.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2217,
+        "question_id": 579,
+        "answer_text": "FS EAST will provide a gel-based lithium battery-specific fire extinguisher for all EV teams.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2218,
+        "question_id": 579,
+        "answer_text": "One of the fire extinguishers must be a gel-based (Class A) fire extinguisher.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 580,
+    "text": "What is the minimum distance between the driver and a radiator in the cooling system, if its surface temperature is 80 °C?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2219,
+        "question_id": 580,
+        "answer_text": "33 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2220,
+        "question_id": 580,
+        "answer_text": "25.4 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2222,
+        "question_id": 580,
+        "answer_text": "33.1 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2223,
+        "question_id": 580,
+        "answer_text": "25mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2219,
+        "question_id": 580,
+        "answer_text": "33 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2220,
+        "question_id": 580,
+        "answer_text": "25.4 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2222,
+        "question_id": 580,
+        "answer_text": "33.1 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2223,
+        "question_id": 580,
+        "answer_text": "25mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 581,
+    "text": "If the car is 143 kg, the wheels are used, and the ambient temperature is 28.2°C. On the brake test, where on the track do you need to start braking?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2224,
+        "question_id": 581,
+        "answer_text": "on the given brake line and stop in 10 meters",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2225,
+        "question_id": 581,
+        "answer_text": "before the given brake line",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2226,
+        "question_id": 581,
+        "answer_text": "immediately, when you reached 40 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2227,
+        "question_id": 581,
+        "answer_text": "after the given brake line",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2224,
+        "question_id": 581,
+        "answer_text": "on the given brake line and stop in 10 meters",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2225,
+        "question_id": 581,
+        "answer_text": "before the given brake line",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2226,
+        "question_id": 581,
+        "answer_text": "immediately, when you reached 40 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2227,
+        "question_id": 581,
+        "answer_text": "after the given brake line",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 582,
+    "text": "According to VDI 2221 regarding the design of a product which of the following steps has to be completed first?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2228,
+        "question_id": 582,
+        "answer_text": "Concept evaluation",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2229,
+        "question_id": 582,
+        "answer_text": "Requirements",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2230,
+        "question_id": 582,
+        "answer_text": "Function structure",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2231,
+        "question_id": 582,
+        "answer_text": "Elemental solutions",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2228,
+        "question_id": 582,
+        "answer_text": "Concept evaluation",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2229,
+        "question_id": 582,
+        "answer_text": "Requirements",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2230,
+        "question_id": 582,
+        "answer_text": "Function structure",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2231,
+        "question_id": 582,
+        "answer_text": "Elemental solutions",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 583,
+    "text": "To which level has the pre-charge circuit to pre-charge the intermediate circuit?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2232,
+        "question_id": 583,
+        "answer_text": "To 95% of the actual TS accumulator voltage.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2233,
+        "question_id": 583,
+        "answer_text": "To the actual TS accumulator voltage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2234,
+        "question_id": 583,
+        "answer_text": "To 95% of the maximum TS accumulator voltage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2235,
+        "question_id": 583,
+        "answer_text": "It is not specified by the rules but it is a good engineering practice to pre-charge at least to 50% of the actual TS accumulator voltage.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2232,
+        "question_id": 583,
+        "answer_text": "To 95% of the actual TS accumulator voltage.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2233,
+        "question_id": 583,
+        "answer_text": "To the actual TS accumulator voltage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2234,
+        "question_id": 583,
+        "answer_text": "To 95% of the maximum TS accumulator voltage.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2235,
+        "question_id": 583,
+        "answer_text": "It is not specified by the rules but it is a good engineering practice to pre-charge at least to 50% of the actual TS accumulator voltage.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 585,
+    "text": "If risk event 'A' happen, the consequences will be 5000 EUR. The event has a 20% chance of occurring. What does 1000 EUR represent in this case?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2240,
+        "question_id": 585,
+        "answer_text": "Risk Estimate",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2241,
+        "question_id": 585,
+        "answer_text": "Expected Monetary Value",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2242,
+        "question_id": 585,
+        "answer_text": "Contingency budget",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2243,
+        "question_id": 585,
+        "answer_text": "Risk Value",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2240,
+        "question_id": 585,
+        "answer_text": "Risk Estimate",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2241,
+        "question_id": 585,
+        "answer_text": "Expected Monetary Value",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2242,
+        "question_id": 585,
+        "answer_text": "Contingency budget",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2243,
+        "question_id": 585,
+        "answer_text": "Risk Value",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 586,
+    "text": "What's the maximum cross-sectional area of the sidebox(\"aerodynamic elements between the wheels\") from the side view of the car, while the car is standing, if the wheelbase is 1,550 mm, and we have 16\" (OD)tires? Give your answer in m^2!",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2244,
+        "question_id": 586,
+        "answer_text": "0.497m2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2245,
+        "question_id": 586,
+        "answer_text": "0.934m2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2246,
+        "question_id": 586,
+        "answer_text": "0.375m2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2247,
+        "question_id": 586,
+        "answer_text": " 0.467m2",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2244,
+        "question_id": 586,
+        "answer_text": "0.497m2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2245,
+        "question_id": 586,
+        "answer_text": "0.934m2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2246,
+        "question_id": 586,
+        "answer_text": "0.375m2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2247,
+        "question_id": 586,
+        "answer_text": " 0.467m2",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 587,
+    "text": "What is the total area of the internal cross-section template and cockpit opening template in mm2, rounded to the whole number, with the space for steering included?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2248,
+        "question_id": 587,
+        "answer_text": "109646 mm^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2249,
+        "question_id": 587,
+        "answer_text": "164469 mm^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2250,
+        "question_id": 587,
+        "answer_text": "392146 mm^2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2251,
+        "question_id": 587,
+        "answer_text": "282500 mm^2",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2248,
+        "question_id": 587,
+        "answer_text": "109646 mm^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2249,
+        "question_id": 587,
+        "answer_text": "164469 mm^2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2250,
+        "question_id": 587,
+        "answer_text": "392146 mm^2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2251,
+        "question_id": 587,
+        "answer_text": "282500 mm^2",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

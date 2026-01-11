@@ -1,0 +1,592 @@
+[
+  {
+    "question_id": 406,
+    "text": "Which of the following is NOT one of the 4 forces that acts on an aircraft in straight-and-level, unaccelerated flight?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1642,
+        "question_id": 406,
+        "answer_text": "Thrust",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1643,
+        "question_id": 406,
+        "answer_text": "Weight",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1644,
+        "question_id": 406,
+        "answer_text": "Centrifugal",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1645,
+        "question_id": 406,
+        "answer_text": "Drag",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1642,
+        "question_id": 406,
+        "answer_text": "Thrust",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1643,
+        "question_id": 406,
+        "answer_text": "Weight",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1644,
+        "question_id": 406,
+        "answer_text": "Centrifugal",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1645,
+        "question_id": 406,
+        "answer_text": "Drag",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39,
+      71
+    ],
+    "years": [
+      "2022",
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 407,
+    "text": "Where is the maximum stress in the concrete located?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1646,
+        "question_id": 407,
+        "answer_text": "Point A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1647,
+        "question_id": 407,
+        "answer_text": "Point B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1648,
+        "question_id": 407,
+        "answer_text": "Point C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1649,
+        "question_id": 407,
+        "answer_text": "Point D",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000407__img000089__407_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1646,
+        "question_id": 407,
+        "answer_text": "Point A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1647,
+        "question_id": 407,
+        "answer_text": "Point B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1648,
+        "question_id": 407,
+        "answer_text": "Point C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1649,
+        "question_id": 407,
+        "answer_text": "Point D",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39,
+      57
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 408,
+    "text": "What is the first natural frequency of the steel coil spring with spring rate (stiffness) 19500N/m, wire diameter 5mm, mean spring diameter 30mm and 12 coils?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1650,
+        "question_id": 408,
+        "answer_text": "134 Hz",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1651,
+        "question_id": 408,
+        "answer_text": "144 Hz",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1652,
+        "question_id": 408,
+        "answer_text": "154 Hz",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1653,
+        "question_id": 408,
+        "answer_text": "164 Hz",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1650,
+        "question_id": 408,
+        "answer_text": "134 Hz",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1651,
+        "question_id": 408,
+        "answer_text": "144 Hz",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1652,
+        "question_id": 408,
+        "answer_text": "154 Hz",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1653,
+        "question_id": 408,
+        "answer_text": "164 Hz",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 409,
+    "text": "What is the minimum tread depth of the wet tires?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1654,
+        "question_id": 409,
+        "answer_text": "2.1 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1655,
+        "question_id": 409,
+        "answer_text": "2.2 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1656,
+        "question_id": 409,
+        "answer_text": "2.3 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1658,
+        "question_id": 409,
+        "answer_text": "2.4 mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1654,
+        "question_id": 409,
+        "answer_text": "2.1 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1655,
+        "question_id": 409,
+        "answer_text": "2.2 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1656,
+        "question_id": 409,
+        "answer_text": "2.3 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1658,
+        "question_id": 409,
+        "answer_text": "2.4 mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      39,
+      57
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 410,
+    "text": "Bolts M6x22 8.8 DIN 912 with head diameter 10mm were used for bracket to secondary structure attachment. What is the maximal axial force created by tightening without plastic deformations? Material of the bracket and secondary structure is EN-AW6082 (Re=240MPa). Drilled holes have diameter 6,5mm.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1659,
+        "question_id": 410,
+        "answer_text": "9531 N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1660,
+        "question_id": 410,
+        "answer_text": "10885 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1661,
+        "question_id": 410,
+        "answer_text": "14314 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1662,
+        "question_id": 410,
+        "answer_text": "8347 N",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000410__img000090__410_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1659,
+        "question_id": 410,
+        "answer_text": "9531 N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1660,
+        "question_id": 410,
+        "answer_text": "10885 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1661,
+        "question_id": 410,
+        "answer_text": "14314 N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1662,
+        "question_id": 410,
+        "answer_text": "8347 N",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 412,
+    "text": "Nyquist-Shannon sampling theorem in signal processing states that:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1667,
+        "question_id": 412,
+        "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as 2ω. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1668,
+        "question_id": 412,
+        "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as less than 2ω. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1669,
+        "question_id": 412,
+        "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as πω. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1670,
+        "question_id": 412,
+        "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as ω. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1667,
+        "question_id": 412,
+        "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as 2ω. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1668,
+        "question_id": 412,
+        "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as less than 2ω. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1669,
+        "question_id": 412,
+        "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as πω. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1670,
+        "question_id": 412,
+        "answer_text": "If a function f(t) consists of serveral harmonic frequencies, where the highest in ω, it is completely determined by giving its ordinates at a sample period defined as ω. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 414,
+    "text": "Which of the following examples doesn't require grade 8.8 bolts",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1675,
+        "question_id": 414,
+        "answer_text": "Any harness attachment to a monocoque",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1676,
+        "question_id": 414,
+        "answer_text": "Bolted Primary Structure Attachments",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1677,
+        "question_id": 414,
+        "answer_text": "All threaded critical fasteners",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1678,
+        "question_id": 414,
+        "answer_text": "Catch tank attachment to bracket welded to tube frame",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1675,
+        "question_id": 414,
+        "answer_text": "Any harness attachment to a monocoque",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1676,
+        "question_id": 414,
+        "answer_text": "Bolted Primary Structure Attachments",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1677,
+        "question_id": 414,
+        "answer_text": "All threaded critical fasteners",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1678,
+        "question_id": 414,
+        "answer_text": "Catch tank attachment to bracket welded to tube frame",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      39,
+      57
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 415,
+    "text": "What doesn't apply for the NACA duct used on a vehicle body?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1679,
+        "question_id": 415,
+        "answer_text": "The rotation of side vorticas helps to draw air into the duct through a process of induced air flow",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1680,
+        "question_id": 415,
+        "answer_text": "This type of air intake provides the adventage of being mounted flush with the bodywork",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1681,
+        "question_id": 415,
+        "answer_text": "Having a flush inlet helps to induce downforce",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1682,
+        "question_id": 415,
+        "answer_text": "Having a flush inlet helps to reduce drag",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1679,
+        "question_id": 415,
+        "answer_text": "The rotation of side vorticas helps to draw air into the duct through a process of induced air flow",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1680,
+        "question_id": 415,
+        "answer_text": "This type of air intake provides the adventage of being mounted flush with the bodywork",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1681,
+        "question_id": 415,
+        "answer_text": "Having a flush inlet helps to induce downforce",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1682,
+        "question_id": 415,
+        "answer_text": "Having a flush inlet helps to reduce drag",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39,
+      57
+    ],
+    "years": [
+      "2022",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "question_id": 3,
+    "text": "Team SFN is considering two solutions for their driver restraining system:\r\nSolution A is from a well-known manufacturer based in Europe. Their 2020 system includes an antisubmarine strap, two shoulder straps and two lap belts, all belts have a width of 75mm. The system will be bought new from the manufacturer in 2020 and it meets the FIA specification 8853/2016.\r\nSolution B is a second hand system in mint condition, previously used by a rallycross team. This 6- point system has belts with a minimum width of 75mm and it meets SFI Specification 16.5. The manufacturing date on the label reads 01/01/2020.\r\nWhich solution(s) is/are compliant with the rules and eglible to use at FSN2020?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 11,
+        "question_id": 3,
+        "answer_text": "Solutions A and B ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 12,
+        "question_id": 3,
+        "answer_text": "Only Solution A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 13,
+        "question_id": 3,
+        "answer_text": "Only Solution B​",
+        "is_correct": true
+      },
+      {
+        "answer_id": 14,
+        "question_id": 3,
+        "answer_text": "Neither Solution​",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 11,
+        "question_id": 3,
+        "answer_text": "Solutions A and B ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 12,
+        "question_id": 3,
+        "answer_text": "Only Solution A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 13,
+        "question_id": 3,
+        "answer_text": "Only Solution B​",
+        "is_correct": true
+      },
+      {
+        "answer_id": 14,
+        "question_id": 3,
+        "answer_text": "Neither Solution​",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2,
+      71
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 411,
+    "text": "What is the minimal Re (yield strength) of a stainless-steel fasteners grade A2-70?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1663,
+        "question_id": 411,
+        "answer_text": "700 MPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1664,
+        "question_id": 411,
+        "answer_text": "630 MPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1665,
+        "question_id": 411,
+        "answer_text": "450 MPa",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1666,
+        "question_id": 411,
+        "answer_text": "210 MPa",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1663,
+        "question_id": 411,
+        "answer_text": "700 MPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1664,
+        "question_id": 411,
+        "answer_text": "630 MPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1665,
+        "question_id": 411,
+        "answer_text": "450 MPa",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1666,
+        "question_id": 411,
+        "answer_text": "210 MPa",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      39,
+      86
+    ],
+    "years": [
+      "2022",
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

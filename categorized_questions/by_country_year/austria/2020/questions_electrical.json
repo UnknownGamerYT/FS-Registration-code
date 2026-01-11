@@ -1,0 +1,334 @@
+[
+  {
+    "question_id": 370,
+    "text": "A device consumes 30 Amps at 12 Volts according to the datasheet (ohmic behavior). The device is supplied by a Li-Ion accumulator (4s) with 14.4 Volts and an inner restistance of 0.1 Ohm. What is the power loss caused by the inner resistance of the accumulator? (in Watt, 1 decimal)\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1471,
+        "question_id": 370,
+        "answer_text": "82.9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1471,
+        "question_id": 370,
+        "answer_text": "82.9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 371,
+    "text": "The LV system of your car consists of following electrical consumers:\nECU: 2Amps\nWater pump: 6 Amps\nFan: 10 Amps\nother devices: 4 Amps\nAll devices draw constant current, but the fan is only active 75% of the time. Endurance is expected to last exactly 25 minutes.\nWhat is the absolute minimum battery capacity (in Ah) required in order to finish the endurance on battery charge alone? Round to 3 decimals\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1472,
+        "question_id": 371,
+        "answer_text": "8.125",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000371__img000149__371_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1472,
+        "question_id": 371,
+        "answer_text": "8.125",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 372,
+    "text": "You are on the engine dyno adjusting your ECU calibration. To tune the ignition dwell time, you hooked up a current probe to the primary side of coil #1 (yellow trace) and the voltage probe to the ignition output of the ECU (blue trace).\nWhat infomation can you pull from the graph?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1473,
+        "question_id": 372,
+        "answer_text": "Your ECU ignition output (power stage) is faulty",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1474,
+        "question_id": 372,
+        "answer_text": "The battery voltage is low",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1475,
+        "question_id": 372,
+        "answer_text": "Your ignition advance is quite low",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1476,
+        "question_id": 372,
+        "answer_text": "dwell time could be decreased by ~3ms without losing spark energy",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1477,
+        "question_id": 372,
+        "answer_text": "dwell time should be increased by at least 2 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1478,
+        "question_id": 372,
+        "answer_text": "You run around 7 ms of dwell, which is correct",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1479,
+        "question_id": 372,
+        "answer_text": "You need bigger ignition coils",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000372__img000083__369_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1473,
+        "question_id": 372,
+        "answer_text": "Your ECU ignition output (power stage) is faulty",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1474,
+        "question_id": 372,
+        "answer_text": "The battery voltage is low",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1475,
+        "question_id": 372,
+        "answer_text": "Your ignition advance is quite low",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1476,
+        "question_id": 372,
+        "answer_text": "dwell time could be decreased by ~3ms without losing spark energy",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1477,
+        "question_id": 372,
+        "answer_text": "dwell time should be increased by at least 2 ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1478,
+        "question_id": 372,
+        "answer_text": "You run around 7 ms of dwell, which is correct",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1479,
+        "question_id": 372,
+        "answer_text": "You need bigger ignition coils",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 374,
+    "text": "What is true regarding the configuration of the tractive system energy storage?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1484,
+        "question_id": 374,
+        "answer_text": "The maintenance plugs may only be removable by using insulated tools",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1485,
+        "question_id": 374,
+        "answer_text": "When cell stacks are held ion place by the container walls and the lid, it is sufficient to comply with the minimum material requirements in EV 5.5.4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1486,
+        "question_id": 374,
+        "answer_text": "The complete load path from the cells to the chassis has to be considered in the structural equivalency documentation.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1487,
+        "question_id": 374,
+        "answer_text": "When using composite materials in the container structure, only the inside skin has to be fire retardant according to UL94 or FAR 25.853(a)(1)(i)",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1484,
+        "question_id": 374,
+        "answer_text": "The maintenance plugs may only be removable by using insulated tools",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1485,
+        "question_id": 374,
+        "answer_text": "When cell stacks are held ion place by the container walls and the lid, it is sufficient to comply with the minimum material requirements in EV 5.5.4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1486,
+        "question_id": 374,
+        "answer_text": "The complete load path from the cells to the chassis has to be considered in the structural equivalency documentation.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1487,
+        "question_id": 374,
+        "answer_text": "When using composite materials in the container structure, only the inside skin has to be fire retardant according to UL94 or FAR 25.853(a)(1)(i)",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      35
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 375,
+    "text": "You have an electric car and always when your car visits the workshop she runs away when you turn on the car. You think she is afraid of the inverter switching frequency, which is 18kHz. You want to design noise-canceling headphones for your cat where you want to integrate a band stop filter.\nYou wnat to reject fraquencies from 17 to 19kHz (-3db Points) with your circuit. Consider all resistors with a nominal value of 10kOhm.\nWhat capacitor do you need? (round to integer)",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1488,
+        "question_id": 375,
+        "answer_text": "Clp=936pF, Chp=838pf",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1489,
+        "question_id": 375,
+        "answer_text": "Clp=5263pF, Chp=5882pf",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1490,
+        "question_id": 375,
+        "answer_text": "Clp=838pF, Chp=939pf",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1491,
+        "question_id": 375,
+        "answer_text": "Clp=5882pF, Chp=5263pf",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000375__img000084__375_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1488,
+        "question_id": 375,
+        "answer_text": "Clp=936pF, Chp=838pf",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1489,
+        "question_id": 375,
+        "answer_text": "Clp=5263pF, Chp=5882pf",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1490,
+        "question_id": 375,
+        "answer_text": "Clp=838pF, Chp=939pf",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1491,
+        "question_id": 375,
+        "answer_text": "Clp=5882pF, Chp=5263pf",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      35
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

@@ -7,9 +7,10 @@ and writes per-category JSON files into categorized_questions/.
 import json
 import re
 import sys
+import argparse
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, Iterable, List, Set
+from typing import Dict, Iterable, List, Set, Optional, Any
 
 try:
     from pypdf import PdfReader
@@ -22,10 +23,10 @@ RULES_PDF = Path("FS-Rules_2026_v1.0.pdf")
 OUT_DIR = Path("categorized_questions")
 
 
-def load_questions() -> List[Dict]:
-    if not SRC_JSON.exists():
-        sys.exit(f"Missing {SRC_JSON}")
-    data = json.loads(SRC_JSON.read_text(encoding="utf-8"))
+def load_questions(path: Path) -> List[Dict]:
+    if not path.exists():
+        sys.exit(f"Missing {path}")
+    data = json.loads(path.read_text(encoding="utf-8"))
     if isinstance(data, list):
         return data
     if isinstance(data, dict) and "questions_full" in data:
@@ -58,6 +59,52 @@ def make_matcher(words: Iterable[str], phrases: Iterable[str] = ()) -> callable:
         return any(r.search(text) for r in regexes)
 
     return match
+
+
+COUNTRY_CODES = {
+    "austria": "A",
+    "croatia": "CRO",
+    "germany": "DE",
+    "netherlands": "NL",
+    "hungary": "HU",
+    "switzerland": "CH",
+    "united kingdom": "UK",
+    "great britain": "UK",
+    "france": "FR",
+    "spain": "ES",
+    "italy": "IT",
+    "portugal": "PT",
+    "poland": "PL",
+    "czech republic": "CZ",
+    "usa": "US",
+    "united states": "US",
+    "canada": "CA",
+    "india": "IN",
+    "china": "CN",
+    "japan": "JP",
+}
+
+
+def country_code(name: Any) -> str:
+    if name is None:
+        return ""
+    n = str(name).strip()
+    if not n:
+        return ""
+    key = n.lower()
+    if key in COUNTRY_CODES:
+        return COUNTRY_CODES[key]
+    # fallback: first 3 letters uppercased
+    return "".join(ch for ch in n[:3] if ch.isalnum()).upper()
+
+
+def year_code(y: Any) -> str:
+    if y is None:
+        return ""
+    s = str(y)
+    if len(s) >= 2:
+        return s[-2:]
+    return s
 
 
 # Keyword matchers
@@ -225,17 +272,43 @@ def categorize(text: str, codes: List[str]) -> str:
 
 
 def main() -> None:
-    questions = load_questions()
+    parser = argparse.ArgumentParser(description="Categorize questions into buckets.")
+    parser.add_argument("--source", type=Path, default=SRC_JSON, help="Source questions JSON.")
+    parser.add_argument("--country", nargs="*", help="Filter by country (exact string, can list multiple).")
+    parser.add_argument("--year", nargs="*", help="Filter by year (int, multiple allowed).")
+    args = parser.parse_args()
+
+    questions = load_questions(args.source)
     valid_codes = load_valid_rule_codes()
     rule_pat = re.compile(r"\b((?:A|IN|T|CV|EV|S|D)\s?\d+(?:\.\d+)*)")
 
+    countries_filter: Optional[Set[str]] = set(args.country) if args.country else None
+    years_filter: Optional[Set[str]] = set(str(y) for y in args.year) if args.year else None
+
     buckets: Dict[str, List[Dict]] = defaultdict(list)
+    country_year_buckets: Dict[str, Dict[str, Dict[str, List[Dict]]]] = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
     for q in questions:
         text = q.get("text", "") or ""
         codes = [c.replace(" ", "") for c in rule_pat.findall(text)]
         codes = [c for c in codes if c in valid_codes] if valid_codes else codes
+        # metadata filters
+        if countries_filter:
+            qcountries = {str(c) for c in q.get("countries", [])}
+            if not qcountries & countries_filter:
+                continue
+        if years_filter:
+            qyears = {str(y) for y in q.get("years", [])}
+            if not qyears & years_filter:
+                continue
+
         cat = categorize(text, codes)
         buckets[cat].append(q)
+        # populate country-year splits
+        q_countries = q.get("countries") or []
+        q_years = q.get("years") or []
+        for c in q_countries:
+            for y in q_years:
+                country_year_buckets[c][str(y)][cat].append(q)
 
     OUT_DIR.mkdir(exist_ok=True)
     name_map = {
@@ -248,6 +321,22 @@ def main() -> None:
         out_path = OUT_DIR / fname
         out_path.write_text(json.dumps(buckets.get(cat, []), ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"{cat:12s}: {len(buckets.get(cat, [])):4d} -> {out_path}")
+
+    # Write per-country, per-year splits
+    def slugify(val: str) -> str:
+        return "".join(ch.lower() if ch.isalnum() else "_" for ch in str(val)).strip("_")
+
+    for country, years_map in country_year_buckets.items():
+        c_code = country_code(country) or slugify(country)
+        for year, cat_map in years_map.items():
+            y_code = year_code(year) or slugify(year)
+            base_dir = OUT_DIR / "by_country_year" / slugify(c_code) / slugify(y_code)
+            base_dir.mkdir(parents=True, exist_ok=True)
+            for cat, qlist in cat_map.items():
+                fname = name_map.get(cat, f"questions_{slugify(cat)}.json")
+                out_path = base_dir / fname
+                out_path.write_text(json.dumps(qlist, ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"Wrote country/year split: {country} ({c_code}) {year} ({y_code}) -> {base_dir}")
 
     print("Done.")
 

@@ -1,0 +1,311 @@
+[
+  {
+    "question_id": 241,
+    "text": "Imagine that there is a Skidpad session. One of the drivers runs a full - skidpad scene, but at the end, the driver forgets to end the session and run a 3rd left circle instead of the normally 2 circles. What will be the result of this full - skidpad run?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 945,
+        "question_id": 241,
+        "answer_text": "If this 3rd left circle is faster then the secend left circle, the 3rd circle time will be counted.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 946,
+        "question_id": 241,
+        "answer_text": "The result of the run is a DNF.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 947,
+        "question_id": 241,
+        "answer_text": "0.2 second time penalty will be added to the measured skidpad time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 948,
+        "question_id": 241,
+        "answer_text": "There is no problem, every second lab will be measured, like a normal skidpad session.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 48,
+        "question_id": 241,
+        "text": "D 9.1.11",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 945,
+        "question_id": 241,
+        "answer_text": "If this 3rd left circle is faster then the secend left circle, the 3rd circle time will be counted.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 946,
+        "question_id": 241,
+        "answer_text": "The result of the run is a DNF.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 947,
+        "question_id": 241,
+        "answer_text": "0.2 second time penalty will be added to the measured skidpad time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 948,
+        "question_id": 241,
+        "answer_text": "There is no problem, every second lab will be measured, like a normal skidpad session.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 244,
+    "text": "The weather Condition during Endurance change from wet to damp. Which statement is true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 958,
+        "question_id": 244,
+        "answer_text": "The tire change during driver change is not allowed and the time used for dry tyre change is added to the team's total time.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 959,
+        "question_id": 244,
+        "answer_text": "The tire change during driver change is allowed and the time used is added to the team's total time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 960,
+        "question_id": 244,
+        "answer_text": "The tire change during driver change is not allowed and does not count as time penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 961,
+        "question_id": 244,
+        "answer_text": "The tire change during driver change is is allowed and does not count as time penalty.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 49,
+        "question_id": 244,
+        "text": "D 7.6.5",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 958,
+        "question_id": 244,
+        "answer_text": "The tire change during driver change is not allowed and the time used for dry tyre change is added to the team's total time.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 959,
+        "question_id": 244,
+        "answer_text": "The tire change during driver change is allowed and the time used is added to the team's total time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 960,
+        "question_id": 244,
+        "answer_text": "The tire change during driver change is not allowed and does not count as time penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 961,
+        "question_id": 244,
+        "answer_text": "The tire change during driver change is is allowed and does not count as time penalty.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 251,
+    "text": "The length of the acceleration track is 75 meters. Hypothetically the acceleration of the cars is constant, and linear, without slip. The vehicle starts from the starting line of the Acceleration track and then covers 75 eters. At the finish line, the speed of the racecar is 108 km/h. How much time it is needed for the car complete the Acceleration Event and what was the acceleration of the car?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 987,
+        "question_id": 251,
+        "answer_text": "Time = 4 sec, Acceleration = 7m/sec²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 988,
+        "question_id": 251,
+        "answer_text": "Time = 5 min, Acceleration = 6km/h²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 989,
+        "question_id": 251,
+        "answer_text": "Time = 5.65 sec, Acceleration = 5.84m/sec²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 990,
+        "question_id": 251,
+        "answer_text": "Time = 5 sec, Acceleration = 6m/sec²",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 987,
+        "question_id": 251,
+        "answer_text": "Time = 4 sec, Acceleration = 7m/sec²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 988,
+        "question_id": 251,
+        "answer_text": "Time = 5 min, Acceleration = 6km/h²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 989,
+        "question_id": 251,
+        "answer_text": "Time = 5.65 sec, Acceleration = 5.84m/sec²",
+        "is_correct": false
+      },
+      {
+        "answer_id": 990,
+        "question_id": 251,
+        "answer_text": "Time = 5 sec, Acceleration = 6m/sec²",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 253,
+    "text": "Which statement is true for the Cost and Manufacturing Event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 995,
+        "question_id": 253,
+        "answer_text": "Covers and/or parts must be removed befor the judging to fecilitate access and presentation of components or concepts.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 996,
+        "question_id": 253,
+        "answer_text": "The teams may present their vehicle at the designated time ot the judges. Teams that miss time slot can present thair vehicle at the end of the day to the judges.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 997,
+        "question_id": 253,
+        "answer_text": "Teams are allowed to bring laptops and tablets beside the handwritten, or printed handouts to the event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 998,
+        "question_id": 253,
+        "answer_text": "Vehicles must be presented for cost and manufacturing judging in finished condition, fully assembled, complete, ready-to-race condition, with its dry or wet tires mounted.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 52,
+        "question_id": 253,
+        "text": "S 2.2.6",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 995,
+        "question_id": 253,
+        "answer_text": "Covers and/or parts must be removed befor the judging to fecilitate access and presentation of components or concepts.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 996,
+        "question_id": 253,
+        "answer_text": "The teams may present their vehicle at the designated time ot the judges. Teams that miss time slot can present thair vehicle at the end of the day to the judges.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 997,
+        "question_id": 253,
+        "answer_text": "Teams are allowed to bring laptops and tablets beside the handwritten, or printed handouts to the event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 998,
+        "question_id": 253,
+        "answer_text": "Vehicles must be presented for cost and manufacturing judging in finished condition, fully assembled, complete, ready-to-race condition, with its dry or wet tires mounted.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

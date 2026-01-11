@@ -1,0 +1,50 @@
+[
+  {
+    "question_id": 130,
+    "text": "Heating up an ideal block of aluminum:\nMass 2.4kg, specific heat capacity 900J/kgK, heating power 2000W.\nCalculate the time in secounds [s] necessary to heat up this ideal block to 80°C starting at 25°C.<br> Round to nearest integer. Please use the following format: 12.34",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 523,
+        "question_id": 130,
+        "answer_text": "59",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 32,
+        "question_id": 130,
+        "text": "Exact result: 59.4, rounded to 59",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 523,
+        "question_id": 130,
+        "answer_text": "59",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      15,
+      14,
+      92
+    ],
+    "years": [
+      "2021",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "online"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "FS-Quiz Website"
+    ]
+  }
+]

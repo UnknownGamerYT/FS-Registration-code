@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 905,
+    "text": "In FSCzech 2023, NTHU Racing finished their fastest EV acceleration attempt with their 260 kg car and a 55 kg driver, securing them 4th place in this event. How much weight would they need to shave off the car (or driver) to match the winning time of the FSCzech 2024 EV acceleration event? Assume the car moves the entire distance with constant acceleration and the transferred longitudinal force on tires remains unchanged after lowering the weight.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3373,
+        "question_id": 905,
+        "answer_text": "57,6",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3374,
+        "question_id": 905,
+        "answer_text": "64,7",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3375,
+        "question_id": 905,
+        "answer_text": "71,1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3376,
+        "question_id": 905,
+        "answer_text": "78,4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3373,
+        "question_id": 905,
+        "answer_text": "57,6",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3374,
+        "question_id": 905,
+        "answer_text": "64,7",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3375,
+        "question_id": 905,
+        "answer_text": "71,1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3376,
+        "question_id": 905,
+        "answer_text": "78,4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      96
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

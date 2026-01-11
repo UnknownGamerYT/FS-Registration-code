@@ -1,0 +1,702 @@
+[
+  {
+    "question_id": 37,
+    "text": "Given a front track width of 1440mm, what is the allowed range of the the rear track width of an FSAE car?  ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 140,
+        "question_id": 37,
+        "answer_text": "1080mm - 1920mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 141,
+        "question_id": 37,
+        "answer_text": "1080mm - 1800mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 142,
+        "question_id": 37,
+        "answer_text": "1080mm - 1440mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 143,
+        "question_id": 37,
+        "answer_text": "1200mm - 1920mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 7,
+        "question_id": 37,
+        "text": "Rule: T2.8\r\n1080mm-1920mm\r\n1440/.75=1920mm\r\n1440*.75=1080mm\r\n",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 140,
+        "question_id": 37,
+        "answer_text": "1080mm - 1920mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 141,
+        "question_id": 37,
+        "answer_text": "1080mm - 1800mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 142,
+        "question_id": 37,
+        "answer_text": "1080mm - 1440mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 143,
+        "question_id": 37,
+        "answer_text": "1200mm - 1920mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 38,
+    "text": "In steady-state cornering of an understeering car, the lateral accelerationcauses the front wheels to slip sideways to a greater extent than the rearwheels. To develop the lateral force at the front wheels to maintain theradius of the turn the driver has to...    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 144,
+        "question_id": 38,
+        "answer_text": "adjust the brake balance rearward",
+        "is_correct": false
+      },
+      {
+        "answer_id": 145,
+        "question_id": 38,
+        "answer_text": "shift the CoG forward",
+        "is_correct": true
+      },
+      {
+        "answer_id": 146,
+        "question_id": 38,
+        "answer_text": "increase the acceleration",
+        "is_correct": false
+      },
+      {
+        "answer_id": 147,
+        "question_id": 38,
+        "answer_text": "increase the steering angle",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 144,
+        "question_id": 38,
+        "answer_text": "adjust the brake balance rearward",
+        "is_correct": false
+      },
+      {
+        "answer_id": 145,
+        "question_id": 38,
+        "answer_text": "shift the CoG forward",
+        "is_correct": true
+      },
+      {
+        "answer_id": 146,
+        "question_id": 38,
+        "answer_text": "increase the acceleration",
+        "is_correct": false
+      },
+      {
+        "answer_id": 147,
+        "question_id": 38,
+        "answer_text": "increase the steering angle",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 52,
+    "text": "What is not a member of the primary structure?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 220,
+        "question_id": 52,
+        "answer_text": "Roll Hoop Braces",
+        "is_correct": false
+      },
+      {
+        "answer_id": 221,
+        "question_id": 52,
+        "answer_text": "Impact Attenuator",
+        "is_correct": true
+      },
+      {
+        "answer_id": 222,
+        "question_id": 52,
+        "answer_text": "Drivers Harness Mount Supports",
+        "is_correct": false
+      },
+      {
+        "answer_id": 223,
+        "question_id": 52,
+        "answer_text": "Front Hoop",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 6,
+        "question_id": 52,
+        "text": "T1.1.10",
+        "images": []
+      },
+      {
+        "solution_id": 18,
+        "question_id": 52,
+        "text": "T1.1.10",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 220,
+        "question_id": 52,
+        "answer_text": "Roll Hoop Braces",
+        "is_correct": false
+      },
+      {
+        "answer_id": 221,
+        "question_id": 52,
+        "answer_text": "Impact Attenuator",
+        "is_correct": true
+      },
+      {
+        "answer_id": 222,
+        "question_id": 52,
+        "answer_text": "Drivers Harness Mount Supports",
+        "is_correct": false
+      },
+      {
+        "answer_id": 223,
+        "question_id": 52,
+        "answer_text": "Front Hoop",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 53,
+    "text": "Consider this discharge Circuit. What does the input do?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 224,
+        "question_id": 53,
+        "answer_text": "Input HIGH enables the discharge",
+        "is_correct": false
+      },
+      {
+        "answer_id": 225,
+        "question_id": 53,
+        "answer_text": "Input LOW enables the discharge ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 226,
+        "question_id": 53,
+        "answer_text": "Input HIGH shorts the HV",
+        "is_correct": false
+      },
+      {
+        "answer_id": 227,
+        "question_id": 53,
+        "answer_text": "The input does nothing",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 19,
+        "question_id": 53,
+        "text": "Input low, LED off, OPTO Hi-Z, FET gate pulled up, FET on, RDS ~0, Discharge on",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000053__img000007__53_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 224,
+        "question_id": 53,
+        "answer_text": "Input HIGH enables the discharge",
+        "is_correct": false
+      },
+      {
+        "answer_id": 225,
+        "question_id": 53,
+        "answer_text": "Input LOW enables the discharge ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 226,
+        "question_id": 53,
+        "answer_text": "Input HIGH shorts the HV",
+        "is_correct": false
+      },
+      {
+        "answer_id": 227,
+        "question_id": 53,
+        "answer_text": "The input does nothing",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 55,
+    "text": "How does your torque encoder have to be configured to satisfy the rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 232,
+        "question_id": 55,
+        "answer_text": "At least two separate sensors with separate supply",
+        "is_correct": true
+      },
+      {
+        "answer_id": 233,
+        "question_id": 55,
+        "answer_text": "At least two separate sensors with shared signal lines",
+        "is_correct": false
+      },
+      {
+        "answer_id": 234,
+        "question_id": 55,
+        "answer_text": "At least three separate sensors",
+        "is_correct": false
+      },
+      {
+        "answer_id": 235,
+        "question_id": 55,
+        "answer_text": "At least two separate sensors with shared supply",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 4,
+        "question_id": 55,
+        "text": "EV2.3 in FSAE 2014 rules",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 232,
+        "question_id": 55,
+        "answer_text": "At least two separate sensors with separate supply",
+        "is_correct": true
+      },
+      {
+        "answer_id": 233,
+        "question_id": 55,
+        "answer_text": "At least two separate sensors with shared signal lines",
+        "is_correct": false
+      },
+      {
+        "answer_id": 234,
+        "question_id": 55,
+        "answer_text": "At least three separate sensors",
+        "is_correct": false
+      },
+      {
+        "answer_id": 235,
+        "question_id": 55,
+        "answer_text": "At least two separate sensors with shared supply",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 56,
+    "text": "Your race car (1800mm Wheelbase) has a weight distribution of 64% rear. When seating a 75kg driver, the CoG shifts 144mm forward. What is the weight distribution with drive?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 236,
+        "question_id": 56,
+        "answer_text": "49% front",
+        "is_correct": false
+      },
+      {
+        "answer_id": 237,
+        "question_id": 56,
+        "answer_text": "54% rear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 238,
+        "question_id": 56,
+        "answer_text": "58% rear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 239,
+        "question_id": 56,
+        "answer_text": "44% front",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 3,
+        "question_id": 56,
+        "text": "1800*0.64=1152\r\n1152-144=1008\r\n1008/1800=0.56 rear\r\n1-0.56=0.44 front",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 236,
+        "question_id": 56,
+        "answer_text": "49% front",
+        "is_correct": false
+      },
+      {
+        "answer_id": 237,
+        "question_id": 56,
+        "answer_text": "54% rear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 238,
+        "question_id": 56,
+        "answer_text": "58% rear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 239,
+        "question_id": 56,
+        "answer_text": "44% front",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 57,
+    "text": "Which Field is missing ('?') from this CAN Datagram?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 240,
+        "question_id": 57,
+        "answer_text": "RTS",
+        "is_correct": false
+      },
+      {
+        "answer_id": 241,
+        "question_id": 57,
+        "answer_text": "DCD",
+        "is_correct": false
+      },
+      {
+        "answer_id": 242,
+        "question_id": 57,
+        "answer_text": "DLC",
+        "is_correct": true
+      },
+      {
+        "answer_id": 243,
+        "question_id": 57,
+        "answer_text": "CRC",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000057__img000008__57_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 240,
+        "question_id": 57,
+        "answer_text": "RTS",
+        "is_correct": false
+      },
+      {
+        "answer_id": 241,
+        "question_id": 57,
+        "answer_text": "DCD",
+        "is_correct": false
+      },
+      {
+        "answer_id": 242,
+        "question_id": 57,
+        "answer_text": "DLC",
+        "is_correct": true
+      },
+      {
+        "answer_id": 243,
+        "question_id": 57,
+        "answer_text": "CRC",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 59,
+    "text": "What is the required way to fuse the TSMP?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 248,
+        "question_id": 59,
+        "answer_text": "Fusible link wires",
+        "is_correct": false
+      },
+      {
+        "answer_id": 249,
+        "question_id": 59,
+        "answer_text": "All of the options are allowed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 250,
+        "question_id": 59,
+        "answer_text": "No fuse, but a current limiting resistor",
+        "is_correct": true
+      },
+      {
+        "answer_id": 251,
+        "question_id": 59,
+        "answer_text": "A fuse appropriate to the wire gauge",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 2,
+        "question_id": 59,
+        "text": "EV 4.7.6",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 248,
+        "question_id": 59,
+        "answer_text": "Fusible link wires",
+        "is_correct": false
+      },
+      {
+        "answer_id": 249,
+        "question_id": 59,
+        "answer_text": "All of the options are allowed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 250,
+        "question_id": 59,
+        "answer_text": "No fuse, but a current limiting resistor",
+        "is_correct": true
+      },
+      {
+        "answer_id": 251,
+        "question_id": 59,
+        "answer_text": "A fuse appropriate to the wire gauge",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 61,
+    "text": "Which documents have to be submitted to FSA in before the event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 257,
+        "question_id": 61,
+        "answer_text": "Cost Report Hard Copy",
+        "is_correct": false
+      },
+      {
+        "answer_id": 258,
+        "question_id": 61,
+        "answer_text": "Business Logic Case",
+        "is_correct": false
+      },
+      {
+        "answer_id": 259,
+        "question_id": 61,
+        "answer_text": "All of these",
+        "is_correct": true
+      },
+      {
+        "answer_id": 260,
+        "question_id": 61,
+        "answer_text": "Business Plan Executive Summary",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 257,
+        "question_id": 61,
+        "answer_text": "Cost Report Hard Copy",
+        "is_correct": false
+      },
+      {
+        "answer_id": 258,
+        "question_id": 61,
+        "answer_text": "Business Logic Case",
+        "is_correct": false
+      },
+      {
+        "answer_id": 259,
+        "question_id": 61,
+        "answer_text": "All of these",
+        "is_correct": true
+      },
+      {
+        "answer_id": 260,
+        "question_id": 61,
+        "answer_text": "Business Plan Executive Summary",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

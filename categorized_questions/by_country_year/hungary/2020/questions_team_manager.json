@@ -1,0 +1,170 @@
+[
+  {
+    "question_id": 243,
+    "text": "During a test drive at FS East 2020 your precharge relay got stuck, because its contacts were overloaded. The team restarts the vehicle and tries to activate the Tractive System. What will the team see on the TSAL, when they switch on the LVMS? ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 953,
+        "question_id": 243,
+        "answer_text": "Red flashing",
+        "is_correct": false
+      },
+      {
+        "answer_id": 954,
+        "question_id": 243,
+        "answer_text": "Green light",
+        "is_correct": false
+      },
+      {
+        "answer_id": 955,
+        "question_id": 243,
+        "answer_text": "No illumination",
+        "is_correct": true
+      },
+      {
+        "answer_id": 956,
+        "question_id": 243,
+        "answer_text": "Red light",
+        "is_correct": false
+      },
+      {
+        "answer_id": 957,
+        "question_id": 243,
+        "answer_text": "Green flashing",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 953,
+        "question_id": 243,
+        "answer_text": "Red flashing",
+        "is_correct": false
+      },
+      {
+        "answer_id": 954,
+        "question_id": 243,
+        "answer_text": "Green light",
+        "is_correct": false
+      },
+      {
+        "answer_id": 955,
+        "question_id": 243,
+        "answer_text": "No illumination",
+        "is_correct": true
+      },
+      {
+        "answer_id": 956,
+        "question_id": 243,
+        "answer_text": "Red light",
+        "is_correct": false
+      },
+      {
+        "answer_id": 957,
+        "question_id": 243,
+        "answer_text": "Green flashing",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 245,
+    "text": "Your team use a LiFePO4 TS battery with 120S1P layout. The minimal, norminal and maximal cell voltage is 2.8, 3.3 and 3.65V, the cell capacity is 7.2Ah. Only the rear wheels are driven by independent motors and inverters. The custom designed inverters have 900uF capacitance each. For the discharge circultry, only a relay and a resistor is used. What is the minimal switching power (contact rating) that the relay must be rated for?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 962,
+        "question_id": 245,
+        "answer_text": "137.3 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 963,
+        "question_id": 245,
+        "answer_text": "69.1 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 964,
+        "question_id": 245,
+        "answer_text": "68.6 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 965,
+        "question_id": 245,
+        "answer_text": "106.5 W",
+        "is_correct": true
+      },
+      {
+        "answer_id": 966,
+        "question_id": 245,
+        "answer_text": "159.0 W",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 962,
+        "question_id": 245,
+        "answer_text": "137.3 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 963,
+        "question_id": 245,
+        "answer_text": "69.1 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 964,
+        "question_id": 245,
+        "answer_text": "68.6 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 965,
+        "question_id": 245,
+        "answer_text": "106.5 W",
+        "is_correct": true
+      },
+      {
+        "answer_id": 966,
+        "question_id": 245,
+        "answer_text": "159.0 W",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

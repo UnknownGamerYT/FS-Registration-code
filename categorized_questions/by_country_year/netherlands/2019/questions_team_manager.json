@@ -1,0 +1,470 @@
+[
+  {
+    "question_id": 3,
+    "text": "Team SFN is considering two solutions for their driver restraining system:\r\nSolution A is from a well-known manufacturer based in Europe. Their 2020 system includes an antisubmarine strap, two shoulder straps and two lap belts, all belts have a width of 75mm. The system will be bought new from the manufacturer in 2020 and it meets the FIA specification 8853/2016.\r\nSolution B is a second hand system in mint condition, previously used by a rallycross team. This 6- point system has belts with a minimum width of 75mm and it meets SFI Specification 16.5. The manufacturing date on the label reads 01/01/2020.\r\nWhich solution(s) is/are compliant with the rules and eglible to use at FSN2020?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 11,
+        "question_id": 3,
+        "answer_text": "Solutions A and B ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 12,
+        "question_id": 3,
+        "answer_text": "Only Solution A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 13,
+        "question_id": 3,
+        "answer_text": "Only Solution B​",
+        "is_correct": true
+      },
+      {
+        "answer_id": 14,
+        "question_id": 3,
+        "answer_text": "Neither Solution​",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 11,
+        "question_id": 3,
+        "answer_text": "Solutions A and B ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 12,
+        "question_id": 3,
+        "answer_text": "Only Solution A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 13,
+        "question_id": 3,
+        "answer_text": "Only Solution B​",
+        "is_correct": true
+      },
+      {
+        "answer_id": 14,
+        "question_id": 3,
+        "answer_text": "Neither Solution​",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2,
+      71
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 4,
+    "text": "Your team set the fastest lap time at the Autocross event with a time of 86,3 seconds on your first and only run. However, on the final scoring sheet your team is listed in fifth place with 73,1 out of 100 points, while the new winner of the event has a corrected elapsed time of 87,1 seconds.\r\nHow many cones did your team knock Down or Out?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 15,
+        "question_id": 4,
+        "answer_text": "1 cone",
+        "is_correct": false
+      },
+      {
+        "answer_id": 16,
+        "question_id": 4,
+        "answer_text": "2 cones",
+        "is_correct": false
+      },
+      {
+        "answer_id": 17,
+        "question_id": 4,
+        "answer_text": "3 cones",
+        "is_correct": true
+      },
+      {
+        "answer_id": 18,
+        "question_id": 4,
+        "answer_text": "4 cones",
+        "is_correct": false
+      },
+      {
+        "answer_id": 19,
+        "question_id": 4,
+        "answer_text": "5 cones",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 15,
+        "question_id": 4,
+        "answer_text": "1 cone",
+        "is_correct": false
+      },
+      {
+        "answer_id": 16,
+        "question_id": 4,
+        "answer_text": "2 cones",
+        "is_correct": false
+      },
+      {
+        "answer_id": 17,
+        "question_id": 4,
+        "answer_text": "3 cones",
+        "is_correct": true
+      },
+      {
+        "answer_id": 18,
+        "question_id": 4,
+        "answer_text": "4 cones",
+        "is_correct": false
+      },
+      {
+        "answer_id": 19,
+        "question_id": 4,
+        "answer_text": "5 cones",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 8,
+    "text": "Two team members are presenting the Business Plan Presentation. After the introduction, team member A forgets all of his text. Luckily, team member B can finish the presentation by herself. After the presentation is completed, the FSN judges have a few questions for the team members. Which statement is correct?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 32,
+        "question_id": 8,
+        "answer_text": "Both team members may answer questions from the judges",
+        "is_correct": true
+      },
+      {
+        "answer_id": 33,
+        "question_id": 8,
+        "answer_text": "Only team member A may answer questions from the judges",
+        "is_correct": false
+      },
+      {
+        "answer_id": 34,
+        "question_id": 8,
+        "answer_text": "Only team member B may answer questions from the judges ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 35,
+        "question_id": 8,
+        "answer_text": "None of the team members may answer questions from the judges",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 32,
+        "question_id": 8,
+        "answer_text": "Both team members may answer questions from the judges",
+        "is_correct": true
+      },
+      {
+        "answer_id": 33,
+        "question_id": 8,
+        "answer_text": "Only team member A may answer questions from the judges",
+        "is_correct": false
+      },
+      {
+        "answer_id": 34,
+        "question_id": 8,
+        "answer_text": "Only team member B may answer questions from the judges ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 35,
+        "question_id": 8,
+        "answer_text": "None of the team members may answer questions from the judges",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 12,
+    "text": "Your team has brought three sets of rims, tow sets of dry tires and one set wet tires to FSN2019.\r\nAt technical inspection, you present the rim/tyre type combinations: A-1, B-2 and C-3. All are approved by the scrutieers. Befor the endruance event you decide to change your set due to a broken rim in set B. Which new combination are you allowed to use?\r\nThese details are known:",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 50,
+        "question_id": 12,
+        "answer_text": "A-3",
+        "is_correct": true
+      },
+      {
+        "answer_id": 51,
+        "question_id": 12,
+        "answer_text": "C-1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 52,
+        "question_id": 12,
+        "answer_text": "You are not allowed to change",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000012__img000001__12_1.jpg",
+      "images\\q000012__img000002__12_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 50,
+        "question_id": 12,
+        "answer_text": "A-3",
+        "is_correct": true
+      },
+      {
+        "answer_id": 51,
+        "question_id": 12,
+        "answer_text": "C-1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 52,
+        "question_id": 12,
+        "answer_text": "You are not allowed to change",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 15,
+    "text": "You have just found at that your team is de-registered from the competition. On what ground could this have happened?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 61,
+        "question_id": 15,
+        "answer_text": "You have submitted a group A document 122 hours after the deadline",
+        "is_correct": false
+      },
+      {
+        "answer_id": 62,
+        "question_id": 15,
+        "answer_text": "You have submitted a group B document 196 hours after the deadline",
+        "is_correct": false
+      },
+      {
+        "answer_id": 63,
+        "question_id": 15,
+        "answer_text": "You have failed to submit a corrected group A document 396 hours after the correction request",
+        "is_correct": true
+      },
+      {
+        "answer_id": 64,
+        "question_id": 15,
+        "answer_text": "You have failed to submit a corrected group B document 322 hours after the correction request",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 61,
+        "question_id": 15,
+        "answer_text": "You have submitted a group A document 122 hours after the deadline",
+        "is_correct": false
+      },
+      {
+        "answer_id": 62,
+        "question_id": 15,
+        "answer_text": "You have submitted a group B document 196 hours after the deadline",
+        "is_correct": false
+      },
+      {
+        "answer_id": 63,
+        "question_id": 15,
+        "answer_text": "You have failed to submit a corrected group A document 396 hours after the correction request",
+        "is_correct": true
+      },
+      {
+        "answer_id": 64,
+        "question_id": 15,
+        "answer_text": "You have failed to submit a corrected group B document 322 hours after the correction request",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 20,
+    "text": "A team has opted to make use of two identical accumulators in series mounted in the sides of the vehicle. This would have the advantage to have the weight closer to the center at the cost of more complexity. Given that this accumulator has been designed to the following configuration:\r\nAnd using the following battery cell:\r\nManufacturer: NSF Power LTD.\r\nNominal voltage: 3.7V\r\nMaximum voltage: 4.2V\r\nMinimum voltage: 3.0V\r\nCapacity: 8.5Ah\r\nMaximum continuous discharge current: 150Ah\r\nMaximum continuous charge current: 30A\r\nImpedance: 2.3mΩ\r\nAssuming a perfectly balanced accumulator with identical healthy cells and an OCV of 3.92V on every\r\ncell.\r\nWhat would be the power output with a current drawn of 135A?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 82,
+        "question_id": 20,
+        "answer_text": "24.0kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 83,
+        "question_id": 20,
+        "answer_text": "24.4kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 84,
+        "question_id": 20,
+        "answer_text": "25.4kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 85,
+        "question_id": 20,
+        "answer_text": "48.0kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 86,
+        "question_id": 20,
+        "answer_text": "48.8kW",
+        "is_correct": true
+      },
+      {
+        "answer_id": 87,
+        "question_id": 20,
+        "answer_text": "50.8kW",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 82,
+        "question_id": 20,
+        "answer_text": "24.0kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 83,
+        "question_id": 20,
+        "answer_text": "24.4kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 84,
+        "question_id": 20,
+        "answer_text": "25.4kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 85,
+        "question_id": 20,
+        "answer_text": "48.0kW",
+        "is_correct": false
+      },
+      {
+        "answer_id": 86,
+        "question_id": 20,
+        "answer_text": "48.8kW",
+        "is_correct": true
+      },
+      {
+        "answer_id": 87,
+        "question_id": 20,
+        "answer_text": "50.8kW",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

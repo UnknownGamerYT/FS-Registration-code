@@ -1,0 +1,731 @@
+[
+  {
+    "question_id": 320,
+    "text": "Imagine you would like to use Aluminium tubes for the Front roll hoop. Which of the following parameters give the lightest possible front roll hoop for a Formula Student racecar. Let's assume that the Young's modulus of the aluminum is 69MPa.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1273,
+        "question_id": 320,
+        "answer_text": "D = 40mm, t = 1,5mm ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1274,
+        "question_id": 320,
+        "answer_text": "D = 25mm, t = 2,5mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1275,
+        "question_id": 320,
+        "answer_text": "D = 30mm, t = 1,5mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1276,
+        "question_id": 320,
+        "answer_text": "D = 35mm, t = 2,5mm ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1273,
+        "question_id": 320,
+        "answer_text": "D = 40mm, t = 1,5mm ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1274,
+        "question_id": 320,
+        "answer_text": "D = 25mm, t = 2,5mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1275,
+        "question_id": 320,
+        "answer_text": "D = 30mm, t = 1,5mm ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1276,
+        "question_id": 320,
+        "answer_text": "D = 35mm, t = 2,5mm ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 323,
+    "text": "Which T-shirt color do track marshalls wear at FSeast?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1285,
+        "question_id": 323,
+        "answer_text": "Red",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1286,
+        "question_id": 323,
+        "answer_text": "Bright green ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1287,
+        "question_id": 323,
+        "answer_text": "Orange ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1288,
+        "question_id": 323,
+        "answer_text": "Grey",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1285,
+        "question_id": 323,
+        "answer_text": "Red",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1286,
+        "question_id": 323,
+        "answer_text": "Bright green ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1287,
+        "question_id": 323,
+        "answer_text": "Orange ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1288,
+        "question_id": 323,
+        "answer_text": "Grey",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 324,
+    "text": "What does the break-even point mean?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1289,
+        "question_id": 324,
+        "answer_text": "The point where a product revenue equals it's production costs. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1290,
+        "question_id": 324,
+        "answer_text": "The amount of product needs to be produced to cover the fixed costs.  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1291,
+        "question_id": 324,
+        "answer_text": "As the car brakes, the calculated point where it will stop. The calculated distance also called the brake-even line.  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1292,
+        "question_id": 324,
+        "answer_text": "The value when fixed costs and variable costs are equal. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1289,
+        "question_id": 324,
+        "answer_text": "The point where a product revenue equals it's production costs. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1290,
+        "question_id": 324,
+        "answer_text": "The amount of product needs to be produced to cover the fixed costs.  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1291,
+        "question_id": 324,
+        "answer_text": "As the car brakes, the calculated point where it will stop. The calculated distance also called the brake-even line.  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1292,
+        "question_id": 324,
+        "answer_text": "The value when fixed costs and variable costs are equal. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 325,
+    "text": "Your car doesn't leak and all wheels remain in contact with the tilt table surface at a lift angle of 60°. You are happy. Can your car get the Tilt test sticker?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1293,
+        "question_id": 325,
+        "answer_text": "Yes, if all vehicle fluids are on maximum level and your tallest pilot sits in the car. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1294,
+        "question_id": 325,
+        "answer_text": "Yes, if all vehicle fluids are on maximum level and your heaviest pilot sits in the car.  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1295,
+        "question_id": 325,
+        "answer_text": "No.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1296,
+        "question_id": 325,
+        "answer_text": "Yes, if all vehicle fluids are on maximum level and your lightest pilot sits in the car.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1293,
+        "question_id": 325,
+        "answer_text": "Yes, if all vehicle fluids are on maximum level and your tallest pilot sits in the car. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1294,
+        "question_id": 325,
+        "answer_text": "Yes, if all vehicle fluids are on maximum level and your heaviest pilot sits in the car.  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1295,
+        "question_id": 325,
+        "answer_text": "No.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1296,
+        "question_id": 325,
+        "answer_text": "Yes, if all vehicle fluids are on maximum level and your lightest pilot sits in the car.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 326,
+    "text": "You would like to send data on UART bus, using 8-N-1 configuration (1 start bit, 8 data bits, no parity, 1 stop bit). How much time does it take to send a 200 byte long frame, assuming that the data transfer is continuous and the baud rate is 115 200 bit/s?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1297,
+        "question_id": 326,
+        "answer_text": "17.36 ms ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1298,
+        "question_id": 326,
+        "answer_text": "15.63 ms  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1299,
+        "question_id": 326,
+        "answer_text": "13.89 ms ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1300,
+        "question_id": 326,
+        "answer_text": "20.83 ms ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1297,
+        "question_id": 326,
+        "answer_text": "17.36 ms ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1298,
+        "question_id": 326,
+        "answer_text": "15.63 ms  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1299,
+        "question_id": 326,
+        "answer_text": "13.89 ms ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1300,
+        "question_id": 326,
+        "answer_text": "20.83 ms ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 327,
+    "text": "Which microcontroller periphery/module can be used to transfer the ADC conversion result to an array, defined by the programmer?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1301,
+        "question_id": 327,
+        "answer_text": "DMA",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1302,
+        "question_id": 327,
+        "answer_text": "I2C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1303,
+        "question_id": 327,
+        "answer_text": "ADC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1304,
+        "question_id": 327,
+        "answer_text": "DAC",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1301,
+        "question_id": 327,
+        "answer_text": "DMA",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1302,
+        "question_id": 327,
+        "answer_text": "I2C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1303,
+        "question_id": 327,
+        "answer_text": "ADC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1304,
+        "question_id": 327,
+        "answer_text": "DAC",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 328,
+    "text": "Which material can be described with the following fictional mechanical properties of the listed options?\nSpecific strength (σ[MPa]/ρ[g/cm3]) = 1656\nSpecific modulus (σ[GPa]/ρ[g/cm3]) = 57\nFailure Strain (%) = 1,8",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1305,
+        "question_id": 328,
+        "answer_text": "Magnesium ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1306,
+        "question_id": 328,
+        "answer_text": "Titanium ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1307,
+        "question_id": 328,
+        "answer_text": "Carbon Fiber Reinforced Polymer",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1308,
+        "question_id": 328,
+        "answer_text": "Aramid Fiber Reinforced Polymer ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1305,
+        "question_id": 328,
+        "answer_text": "Magnesium ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1306,
+        "question_id": 328,
+        "answer_text": "Titanium ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1307,
+        "question_id": 328,
+        "answer_text": "Carbon Fiber Reinforced Polymer",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1308,
+        "question_id": 328,
+        "answer_text": "Aramid Fiber Reinforced Polymer ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 329,
+    "text": "Which one of the following statements is false about Nikola Tesla?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1309,
+        "question_id": 329,
+        "answer_text": "Elon Musk, an American-born entrepreneur started a company named after him in 2003.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1310,
+        "question_id": 329,
+        "answer_text": "In the early 1880s, he worked in Budapest at a telegraph company in an electrician position. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1311,
+        "question_id": 329,
+        "answer_text": "After his burial service in New York City, the body was cremated. His ashes were interned in a golden sphere, which is now on display in Belgrade, Serbia.  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1312,
+        "question_id": 329,
+        "answer_text": "His father was a priest and he was born near Gospić, in present-day Croatia, then part of the Austrian Empire. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 59,
+        "question_id": 329,
+        "text": "Elon comes from South Africa and Tesla was not founded by him",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1309,
+        "question_id": 329,
+        "answer_text": "Elon Musk, an American-born entrepreneur started a company named after him in 2003.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1310,
+        "question_id": 329,
+        "answer_text": "In the early 1880s, he worked in Budapest at a telegraph company in an electrician position. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1311,
+        "question_id": 329,
+        "answer_text": "After his burial service in New York City, the body was cremated. His ashes were interned in a golden sphere, which is now on display in Belgrade, Serbia.  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1312,
+        "question_id": 329,
+        "answer_text": "His father was a priest and he was born near Gospić, in present-day Croatia, then part of the Austrian Empire. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 332,
+    "text": "How is it possible the get the OEE (Overall Equipment Effectiveness) over 100%?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1323,
+        "question_id": 332,
+        "answer_text": "The reworked part number is 0. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1324,
+        "question_id": 332,
+        "answer_text": "If the given Work Center is scheduled to run for an 8-hour. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1325,
+        "question_id": 332,
+        "answer_text": "If the observed cycle time is lower than the calculated cycle time. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1326,
+        "question_id": 332,
+        "answer_text": "When the scrap rate is ideal 2%. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1323,
+        "question_id": 332,
+        "answer_text": "The reworked part number is 0. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1324,
+        "question_id": 332,
+        "answer_text": "If the given Work Center is scheduled to run for an 8-hour. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1325,
+        "question_id": 332,
+        "answer_text": "If the observed cycle time is lower than the calculated cycle time. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1326,
+        "question_id": 332,
+        "answer_text": "When the scrap rate is ideal 2%. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 333,
+    "text": "Which of the following is not equal to 1[N]?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1327,
+        "question_id": 333,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1328,
+        "question_id": 333,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1329,
+        "question_id": 333,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1330,
+        "question_id": 333,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000333__img000079__333_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1327,
+        "question_id": 333,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1328,
+        "question_id": 333,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1329,
+        "question_id": 333,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1330,
+        "question_id": 333,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

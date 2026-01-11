@@ -1,0 +1,194 @@
+[
+  {
+    "question_id": 68,
+    "text": "Which of the following terms describes an economic principle that is most essential for the success of companies that strive for cost leadership in their market?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 280,
+        "question_id": 68,
+        "answer_text": "Receiver Operator Characteristic (ROC) curve",
+        "is_correct": false
+      },
+      {
+        "answer_id": 281,
+        "question_id": 68,
+        "answer_text": "Economies of Scale",
+        "is_correct": true
+      },
+      {
+        "answer_id": 282,
+        "question_id": 68,
+        "answer_text": "FIFO (First In - First Out)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 283,
+        "question_id": 68,
+        "answer_text": "Maximization of differentiation",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 280,
+        "question_id": 68,
+        "answer_text": "Receiver Operator Characteristic (ROC) curve",
+        "is_correct": false
+      },
+      {
+        "answer_id": 281,
+        "question_id": 68,
+        "answer_text": "Economies of Scale",
+        "is_correct": true
+      },
+      {
+        "answer_id": 282,
+        "question_id": 68,
+        "answer_text": "FIFO (First In - First Out)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 283,
+        "question_id": 68,
+        "answer_text": "Maximization of differentiation",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 72,
+    "text": "How much does the customer price (incl 19 % VAT) for a sportscar need to be, in order to achieve a net present value (NPV) for the program at decision (year 1) of 100.000.000 € (one hundred million), considering that it will need an investment of 50.000.000 € (fifty million) in year one.\nThe program will sell 500 cars per year in year 2,3,4 and 5 and ends after that. In year 6 the tools and intellectual property can be sold for 10.000.000 € (ten million).\nThe cost of capital/interest rate is 7.5 % per year (WACC). The cars are sold with a calculated gross margin of product of 40 %. The customer price is assumed to be constant over all years.",
+    "type": "single-choice",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 287,
+        "question_id": 72,
+        "answer_text": "284.097,30 €",
+        "is_correct": false
+      },
+      {
+        "answer_id": 288,
+        "question_id": 72,
+        "answer_text": "271.097,30 €",
+        "is_correct": false
+      },
+      {
+        "answer_id": 289,
+        "question_id": 72,
+        "answer_text": "254.097,30 €",
+        "is_correct": true
+      },
+      {
+        "answer_id": 290,
+        "question_id": 72,
+        "answer_text": "245.097,30 €",
+        "is_correct": false
+      },
+      {
+        "answer_id": 291,
+        "question_id": 72,
+        "answer_text": "235.097,30 €",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 287,
+        "question_id": 72,
+        "answer_text": "284.097,30 €",
+        "is_correct": false
+      },
+      {
+        "answer_id": 288,
+        "question_id": 72,
+        "answer_text": "271.097,30 €",
+        "is_correct": false
+      },
+      {
+        "answer_id": 289,
+        "question_id": 72,
+        "answer_text": "254.097,30 €",
+        "is_correct": true
+      },
+      {
+        "answer_id": 290,
+        "question_id": 72,
+        "answer_text": "245.097,30 €",
+        "is_correct": false
+      },
+      {
+        "answer_id": 291,
+        "question_id": 72,
+        "answer_text": "235.097,30 €",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 76,
+    "text": "During Autocross, a Formula Student vehicle accelerates from 30 km/h to 100 km/h.\nAssume that there is no friction and no aerodynamic drag.\nThe mass of the vehicle is m = 190 kg.\nThe amount of energy needed for this accelaration is denoted by E.\nWhat would be the theoretical velocity vc if the vehicle is accelerated from standstill using the same amount of energy E? Enter the solution in km/h and round to one decimal place.\nWhat would be the theoretical velocity vF of Fred, the FSG race Alpaka as shown in the picture, accelerating from standstill and using 1/10th of the energy E?\nFred's initial mass in standstill is 50 kg. When reaching 20km/h, Fred will loose 750g of mass in no time.\nAssume, that the lost mass does not provide any thrust and has no initial relative velocity with respect to Fred. Fred is free of friction and aerodynamic drag.\nRound both solutions to one decimal place. Give the solution in the following format: vc, vF, e.g. 1.2, 3.4",
+    "type": "input",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 305,
+        "question_id": 76,
+        "answer_text": "95.4, 59.2",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 305,
+        "question_id": 76,
+        "answer_text": "95.4, 59.2",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

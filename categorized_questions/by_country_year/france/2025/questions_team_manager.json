@@ -1,0 +1,318 @@
+[
+  {
+    "question_id": 910,
+    "text": "Your team just participated in the auto-cross event, you are now preparing the car for the endurance event and your Chief Aero Engineer remarks that you have much more grip then expected and take a lot of pitch, hence losing downforce. He asks you (Suspension Engineer) to increase the pitch stiffness of the car. Unfortunately, you can only change the spring of each axle and the Performance Engineer wants you to keep the same stiffness balance in order to keep the drivers happy. Taking into account tyre stiffness, what spring do you choose for the front and rear axle to keep the same balance of stiffness (kAxleF/(kAxleF kAxleR)) rounded to 0.1%?\\n- Car mass (including driver and liquids) = 275kg\\n- Static Weight balance (including driver and liquids) = 45% front\\n- Car center of gravity height = 350mm\\n- Motion radios (= Wheel displacement / Spring displacement) = 1.1 front, 1.15 rear\\n- Tyre vertical stiffness = 80 N/mm (front and rear)\\n- Springs on the car during the autocross: Front = 42 N/mm, rear = 72 N/mm\\n- Springs at your disposal:\\nFront =  40, 42, 44, 46 N/mm\\nRear = 70, 72, 74, 76 N/mm",
+    "type": "single-choice",
+    "time": 400,
+    "answer_options": [
+      {
+        "answer_id": 3393,
+        "question_id": 910,
+        "answer_text": "Front: 40 N/mm, Rear: 70 N/mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3394,
+        "question_id": 910,
+        "answer_text": "Front: 46 N/mm, Rear: 76 N/mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3395,
+        "question_id": 910,
+        "answer_text": "Front: 44 N/mm, Rear: 76 N/mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3396,
+        "question_id": 910,
+        "answer_text": "Front: 44 N/mm, Rear: 74 N/mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3393,
+        "question_id": 910,
+        "answer_text": "Front: 40 N/mm, Rear: 70 N/mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3394,
+        "question_id": 910,
+        "answer_text": "Front: 46 N/mm, Rear: 76 N/mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3395,
+        "question_id": 910,
+        "answer_text": "Front: 44 N/mm, Rear: 76 N/mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3396,
+        "question_id": 910,
+        "answer_text": "Front: 44 N/mm, Rear: 74 N/mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 911,
+    "text": "Your team just finished the endurance. Well done.\\nThe first driver had run their round in 820 secounds.\\nThey have almost made a perfect run, but with a few DOOs:\\n- 2 cones counred as DOO in the secound lap\\n- 3 cones counted as DOO in the fourth lap\\nThe driver change was 200 secounds long.\\nThey made some errors:\\n- they totally missed a slalom with 4 gates.\\n- they forgot to drive into the slow lane after a Blue Flag was shown.\\nWhat is your corrected elapsed endurance time?",
+    "type": "single-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 3397,
+        "question_id": 911,
+        "answer_text": "1850 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3398,
+        "question_id": 911,
+        "answer_text": "1830 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3399,
+        "question_id": 911,
+        "answer_text": "1910 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3400,
+        "question_id": 911,
+        "answer_text": "1890 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3401,
+        "question_id": 911,
+        "answer_text": "1860 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3402,
+        "question_id": 911,
+        "answer_text": "1880 s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3397,
+        "question_id": 911,
+        "answer_text": "1850 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3398,
+        "question_id": 911,
+        "answer_text": "1830 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3399,
+        "question_id": 911,
+        "answer_text": "1910 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3400,
+        "question_id": 911,
+        "answer_text": "1890 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3401,
+        "question_id": 911,
+        "answer_text": "1860 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3402,
+        "question_id": 911,
+        "answer_text": "1880 s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      99,
+      100
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 916,
+    "text": "Which and how many fire extinguishers are necessary for each team?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3420,
+        "question_id": 916,
+        "answer_text": "Three foam-type extinguishers are required",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3421,
+        "question_id": 916,
+        "answer_text": "Two CO2-type extinguishers are required",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3422,
+        "question_id": 916,
+        "answer_text": "Two foam-type extinguishers are required",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3423,
+        "question_id": 916,
+        "answer_text": "Two extinguishers are required, one of which has to be foam-type",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3420,
+        "question_id": 916,
+        "answer_text": "Three foam-type extinguishers are required",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3421,
+        "question_id": 916,
+        "answer_text": "Two CO2-type extinguishers are required",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3422,
+        "question_id": 916,
+        "answer_text": "Two foam-type extinguishers are required",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3423,
+        "question_id": 916,
+        "answer_text": "Two extinguishers are required, one of which has to be foam-type",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 918,
+    "text": "As a new team member, you’ve been given the following exercise. For next year’s project, we are planning to use one dual piston (one on each side) caliper for each one of the two rear brakes. We already have a caliper in mind and we want you to double-check our choice.\\nWith the given information, calculate the minimum piston diameter/bore D in order to lock the rear wheels during the brake test?\\nSome reminders and simplifying considerations:\\n- No regenerative braking can be used during brake tests.\\n- We will not consider losses on transmission etc. and only consider the torque coming from the brake system.\\n- We will not consider the wheel’s inertia.\\nTo account for all simplifications, a safety factor of 15% is added to the brake force.\\nInput data:\\n- Tyre Rolling Radius = 0.203 m\\n- Tyre Friction Coefficient = 1.6\\n- Static Weight distribution = 45% on the Front and 55% on the Rear\\n- Total Mass (car   pilot) = 290 kg\\n- Deceleration during Brake test = -1.2g\\n- Gravity = 9.81 m/s²\\n- CG height = 0.226 m\\n- Wheelbase = 1.525 m\\n- Disc Effective Radius = 0.088 m\\n- Disc/Pad Friction Coefficient = 0.45\\n- Number of pistons per caliper = 2\\n- Number of rear axle brake disks = 2\\n- Safety factor = 1.15\\n- Pressure in the rear brake line = 2482000 Pa\\nWhich of the following piston diameters would be the smallest suitable for our project in order to lock the rear wheels during the brake Test?",
+    "type": "single-choice",
+    "time": 700,
+    "answer_options": [
+      {
+        "answer_id": 3428,
+        "question_id": 918,
+        "answer_text": "25.4 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3429,
+        "question_id": 918,
+        "answer_text": "38.1 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3430,
+        "question_id": 918,
+        "answer_text": "36.0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3431,
+        "question_id": 918,
+        "answer_text": "31.8 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3428,
+        "question_id": 918,
+        "answer_text": "25.4 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3429,
+        "question_id": 918,
+        "answer_text": "38.1 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3430,
+        "question_id": 918,
+        "answer_text": "36.0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3431,
+        "question_id": 918,
+        "answer_text": "31.8 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  }
+]

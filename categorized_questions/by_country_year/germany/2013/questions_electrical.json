@@ -1,0 +1,434 @@
+[
+  {
+    "question_id": 352,
+    "text": "Which minimum spacing through air must be maintained between tractive system and GLV parts that are in the same enclosure, if the potential between those parts is above 200VDC?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1404,
+        "question_id": 352,
+        "answer_text": "10 mm (0.4 inch)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1405,
+        "question_id": 352,
+        "answer_text": "20 mm (0.75 inch)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1406,
+        "question_id": 352,
+        "answer_text": "30 mm (1.2 inch)",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1404,
+        "question_id": 352,
+        "answer_text": "10 mm (0.4 inch)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1405,
+        "question_id": 352,
+        "answer_text": "20 mm (0.75 inch)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1406,
+        "question_id": 352,
+        "answer_text": "30 mm (1.2 inch)",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 354,
+    "text": "Which value must the current limiting resistors for the each tractive system measurement point have, if the maximum tractive system voltage is 398.8VDC?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1411,
+        "question_id": 354,
+        "answer_text": "10kR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1412,
+        "question_id": 354,
+        "answer_text": "15kR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1413,
+        "question_id": 354,
+        "answer_text": "20kR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1414,
+        "question_id": 354,
+        "answer_text": "5kR",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1411,
+        "question_id": 354,
+        "answer_text": "10kR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1412,
+        "question_id": 354,
+        "answer_text": "15kR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1413,
+        "question_id": 354,
+        "answer_text": "20kR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1414,
+        "question_id": 354,
+        "answer_text": "5kR",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 355,
+    "text": "Which of the following statements regarding the High-Voltage Disconnect (HVD) is wrong?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1415,
+        "question_id": 355,
+        "answer_text": "The HV Disconnect must be clearly marked with \"HVD\".",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1416,
+        "question_id": 355,
+        "answer_text": "It must be possible to disconnect the HVD without removing any bodywork.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1417,
+        "question_id": 355,
+        "answer_text": "It must be possible to remove the HVD within 10 seconds in ready-to-race condition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1418,
+        "question_id": 355,
+        "answer_text": "The HVD must be clearly marked with \"HVD\".",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1419,
+        "question_id": 355,
+        "answer_text": "The HVD must disconnect both poles of the tractive system accumulator.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1415,
+        "question_id": 355,
+        "answer_text": "The HV Disconnect must be clearly marked with \"HVD\".",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1416,
+        "question_id": 355,
+        "answer_text": "It must be possible to disconnect the HVD without removing any bodywork.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1417,
+        "question_id": 355,
+        "answer_text": "It must be possible to remove the HVD within 10 seconds in ready-to-race condition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1418,
+        "question_id": 355,
+        "answer_text": "The HVD must be clearly marked with \"HVD\".",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1419,
+        "question_id": 355,
+        "answer_text": "The HVD must disconnect both poles of the tractive system accumulator.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 357,
+    "text": "Given is a battery cell with an end-of-charge voltage of 4.2V, an average internal dis-charge resistance of 0.5mR and an average internal charge resistance of 0.7mR. 360 of these cells are used to build an accumulator in 120s3p configuration. This accumulator is used to drive an Endurance that takes 1440s. The car re-generated energy during 18% of the lap time with an average total accumulator charging current of 3A. 9% of the lap time the accumulator was not charged or discharged. Energy was sourced to the motors for the rest of the lap time with an average discharge current of 30A. How much energy is wasted during Endurance due to the internal resistance of the cells? NOTE: No other losses have to be taken into account. Wherever possible, average values may be used and simplifications may be applied. For example the influence of the internal cell resistance on the accumulator voltage should be neglected.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1425,
+        "question_id": 357,
+        "answer_text": "18978J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1426,
+        "question_id": 357,
+        "answer_text": "18980J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1427,
+        "question_id": 357,
+        "answer_text": "18983J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1428,
+        "question_id": 357,
+        "answer_text": "18985J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1429,
+        "question_id": 357,
+        "answer_text": "18987J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1430,
+        "question_id": 357,
+        "answer_text": "18989J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1431,
+        "question_id": 357,
+        "answer_text": "18991J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1432,
+        "question_id": 357,
+        "answer_text": "18992J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1433,
+        "question_id": 357,
+        "answer_text": "18994J",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1425,
+        "question_id": 357,
+        "answer_text": "18978J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1426,
+        "question_id": 357,
+        "answer_text": "18980J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1427,
+        "question_id": 357,
+        "answer_text": "18983J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1428,
+        "question_id": 357,
+        "answer_text": "18985J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1429,
+        "question_id": 357,
+        "answer_text": "18987J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1430,
+        "question_id": 357,
+        "answer_text": "18989J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1431,
+        "question_id": 357,
+        "answer_text": "18991J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1432,
+        "question_id": 357,
+        "answer_text": "18992J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1433,
+        "question_id": 357,
+        "answer_text": "18994J",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 358,
+    "text": "The rules allow to keep the Accumulator Isolation Relays(AIRs) open for a certain time after the Shutdown Circuit was de-activated. It is assumed that both AIRs are connected in parallel to the Shutdown Circuit and that the electrical behaviour of each AIR can be simplified as a single resistance of 15R. Each AIR opens its contacts, if the current drops below 200mA. The nominal Shutdown Circuit Voltage is 13.8VDC. What is the maximum capacitance that may be connected in parallel to each AIR in order to not violate the rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1434,
+        "question_id": 358,
+        "answer_text": "10.5mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1435,
+        "question_id": 358,
+        "answer_text": "10.6mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1436,
+        "question_id": 358,
+        "answer_text": "10.7mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1437,
+        "question_id": 358,
+        "answer_text": "10.8mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1438,
+        "question_id": 358,
+        "answer_text": "10.9mF",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1434,
+        "question_id": 358,
+        "answer_text": "10.5mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1435,
+        "question_id": 358,
+        "answer_text": "10.6mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1436,
+        "question_id": 358,
+        "answer_text": "10.7mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1437,
+        "question_id": 358,
+        "answer_text": "10.8mF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1438,
+        "question_id": 358,
+        "answer_text": "10.9mF",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

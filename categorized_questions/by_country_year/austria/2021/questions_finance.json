@@ -1,0 +1,376 @@
+[
+  {
+    "question_id": 134,
+    "text": "How many cones are placed on a Skidpad track?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 537,
+        "question_id": 134,
+        "answer_text": "58",
+        "is_correct": true
+      },
+      {
+        "answer_id": 538,
+        "question_id": 134,
+        "answer_text": "63",
+        "is_correct": false
+      },
+      {
+        "answer_id": 539,
+        "question_id": 134,
+        "answer_text": "59",
+        "is_correct": false
+      },
+      {
+        "answer_id": 540,
+        "question_id": 134,
+        "answer_text": "54",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 537,
+        "question_id": 134,
+        "answer_text": "58",
+        "is_correct": true
+      },
+      {
+        "answer_id": 538,
+        "question_id": 134,
+        "answer_text": "63",
+        "is_correct": false
+      },
+      {
+        "answer_id": 539,
+        "question_id": 134,
+        "answer_text": "59",
+        "is_correct": false
+      },
+      {
+        "answer_id": 540,
+        "question_id": 134,
+        "answer_text": "54",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 135,
+    "text": "During Endurance, you hit a cone with your car. When will this result in a penalty?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 541,
+        "question_id": 135,
+        "answer_text": "The cone has been lifted off the ground and landed in its marked box in upright position.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 542,
+        "question_id": 135,
+        "answer_text": "The cone is halfway outside of its marked box.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 543,
+        "question_id": 135,
+        "answer_text": "Hitting a cone always results in a penalty of 2s.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 544,
+        "question_id": 135,
+        "answer_text": "The cone has been thrown over but it is not outside its marked box.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 541,
+        "question_id": 135,
+        "answer_text": "The cone has been lifted off the ground and landed in its marked box in upright position.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 542,
+        "question_id": 135,
+        "answer_text": "The cone is halfway outside of its marked box.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 543,
+        "question_id": 135,
+        "answer_text": "Hitting a cone always results in a penalty of 2s.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 544,
+        "question_id": 135,
+        "answer_text": "The cone has been thrown over but it is not outside its marked box.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 141,
+    "text": "The Track is declared wet. What is the minimum tread depth for wet tires for dynamic events at FSA?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 565,
+        "question_id": 141,
+        "answer_text": "2.4 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 566,
+        "question_id": 141,
+        "answer_text": "no minimum tread depth is specified in the rules",
+        "is_correct": false
+      },
+      {
+        "answer_id": 567,
+        "question_id": 141,
+        "answer_text": "2 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 568,
+        "question_id": 141,
+        "answer_text": "1/16 inch",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 565,
+        "question_id": 141,
+        "answer_text": "2.4 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 566,
+        "question_id": 141,
+        "answer_text": "no minimum tread depth is specified in the rules",
+        "is_correct": false
+      },
+      {
+        "answer_id": 567,
+        "question_id": 141,
+        "answer_text": "2 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 568,
+        "question_id": 141,
+        "answer_text": "1/16 inch",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 142,
+    "text": "Your car has an overall width of 1.45 m and can pull 15 m/s² of lateral acceleration during skidpad.\nWhat is the fastest skid pad time you can achieve?\nHint: assume steady-state cornering for one full circle. Consider the best possible driving line, lateral acceleration is measured at the center of the car.   ",
+    "type": "single-choice",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 569,
+        "question_id": 142,
+        "answer_text": "4.688 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 570,
+        "question_id": 142,
+        "answer_text": "4.964 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 571,
+        "question_id": 142,
+        "answer_text": "5.071 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 572,
+        "question_id": 142,
+        "answer_text": "4.573 s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 569,
+        "question_id": 142,
+        "answer_text": "4.688 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 570,
+        "question_id": 142,
+        "answer_text": "4.964 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 571,
+        "question_id": 142,
+        "answer_text": "5.071 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 572,
+        "question_id": 142,
+        "answer_text": "4.573 s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 146,
+    "text": "At FSA 2020, three cats, Kitty (5kg), Mauzi (3kg) and Schnurli (4kg), are climbing up and down along a rope. At a certain moment Kitty descends with an acceleration of 1.6m/s², Schnurli pulls herself up with an accerleration of 90 Gal, while Mauzi climbs up with the constant speed of 1.968 feet/s.\nWhat is the load on the rope hanger at this moment? (mass of rope neglected, consider gravity g=9.80665m/s²)\nRound to first decimal.",
+    "type": "single-choice",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 587,
+        "question_id": 146,
+        "answer_text": "115.8N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 588,
+        "question_id": 146,
+        "answer_text": "122.8N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 589,
+        "question_id": 146,
+        "answer_text": "113.3N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 590,
+        "question_id": 146,
+        "answer_text": "130.0N",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 131,
+        "question_id": 146,
+        "text": "This question was later deleted because no answer was correct, as there was a different \"g\" value for the answers was used",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000146__img000037__146_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 587,
+        "question_id": 146,
+        "answer_text": "115.8N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 588,
+        "question_id": 146,
+        "answer_text": "122.8N",
+        "is_correct": false
+      },
+      {
+        "answer_id": 589,
+        "question_id": 146,
+        "answer_text": "113.3N",
+        "is_correct": true
+      },
+      {
+        "answer_id": 590,
+        "question_id": 146,
+        "answer_text": "130.0N",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

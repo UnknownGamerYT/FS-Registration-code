@@ -1,0 +1,128 @@
+[
+  {
+    "question_id": 78,
+    "text": "Which Brake System Plausibility Device (BSPD) cricuit is allowed according to the rules? Assume the threshold voltages VHi and VLo to be properly set, and both the brake pressure sensor as wall as the tractive system current (P) / throttle position sensor (TPS) to have a positive slopw. The power-on-reset (PoR) signal is assumed to switch from low/false to high/true shortly after the power supply for the circuitry is turned on. If there is a high/true input signal to the MOSFET power stage, the MOSFET is in conducting mode. There is only one correct cirucut!",
+    "type": "single-choice",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 307,
+        "question_id": 78,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 308,
+        "question_id": 78,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 309,
+        "question_id": 78,
+        "answer_text": "C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 310,
+        "question_id": 78,
+        "answer_text": "E",
+        "is_correct": false
+      },
+      {
+        "answer_id": 311,
+        "question_id": 78,
+        "answer_text": "F",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000078__img000018__78_1.jpg",
+      "images\\q000078__img000019__78_2.jpg",
+      "images\\q000078__img000020__78_3.jpg",
+      "images\\q000078__img000021__78_4.jpg",
+      "images\\q000078__img000022__78_5.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 307,
+        "question_id": 78,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 308,
+        "question_id": 78,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 309,
+        "question_id": 78,
+        "answer_text": "C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 310,
+        "question_id": 78,
+        "answer_text": "E",
+        "is_correct": false
+      },
+      {
+        "answer_id": 311,
+        "question_id": 78,
+        "answer_text": "F",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 83,
+    "text": "What is the dissipating heat energy per hour of a sooling system of an accumulator unit in an EV vehicle when the coolant surrounding the accumulator heats up to 55°C, the cooling ater (c=4.19kJ/kgK) circulates with 17 kg/min and the cooler has an outlet temperature of 40°C (assume the lines as lossless)?\nEnter the solution in kJ/h and round to whole numbers.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 316,
+        "question_id": 83,
+        "answer_text": "64107",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 316,
+        "question_id": 83,
+        "answer_text": "64107",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

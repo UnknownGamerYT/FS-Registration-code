@@ -1,0 +1,506 @@
+[
+  {
+    "question_id": 211,
+    "text": "Scoring at FS East 2018: which is true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 827,
+        "question_id": 211,
+        "answer_text": "CV & EV are scored together, but DV is scored separately",
+        "is_correct": false
+      },
+      {
+        "answer_id": 828,
+        "question_id": 211,
+        "answer_text": "​​Dynamic events are scored separately, but static ones are scored together",
+        "is_correct": false
+      },
+      {
+        "answer_id": 829,
+        "question_id": 211,
+        "answer_text": "All three categories are scored completely separately",
+        "is_correct": true
+      },
+      {
+        "answer_id": 830,
+        "question_id": 211,
+        "answer_text": "ll three categories are scored together",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 827,
+        "question_id": 211,
+        "answer_text": "CV & EV are scored together, but DV is scored separately",
+        "is_correct": false
+      },
+      {
+        "answer_id": 828,
+        "question_id": 211,
+        "answer_text": "​​Dynamic events are scored separately, but static ones are scored together",
+        "is_correct": false
+      },
+      {
+        "answer_id": 829,
+        "question_id": 211,
+        "answer_text": "All three categories are scored completely separately",
+        "is_correct": true
+      },
+      {
+        "answer_id": 830,
+        "question_id": 211,
+        "answer_text": "ll three categories are scored together",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 212,
+    "text": "What must the second drivers of the EV cars do first, when they finish the endurance event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 831,
+        "question_id": 212,
+        "answer_text": "Nothing special",
+        "is_correct": false
+      },
+      {
+        "answer_id": 832,
+        "question_id": 212,
+        "answer_text": "Recharge the battery",
+        "is_correct": false
+      },
+      {
+        "answer_id": 833,
+        "question_id": 212,
+        "answer_text": "Drive right off the track in the pit",
+        "is_correct": false
+      },
+      {
+        "answer_id": 834,
+        "question_id": 212,
+        "answer_text": "They must go to the energy meter download area, where the data will be downloaded",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 831,
+        "question_id": 212,
+        "answer_text": "Nothing special",
+        "is_correct": false
+      },
+      {
+        "answer_id": 832,
+        "question_id": 212,
+        "answer_text": "Recharge the battery",
+        "is_correct": false
+      },
+      {
+        "answer_id": 833,
+        "question_id": 212,
+        "answer_text": "Drive right off the track in the pit",
+        "is_correct": false
+      },
+      {
+        "answer_id": 834,
+        "question_id": 212,
+        "answer_text": "They must go to the energy meter download area, where the data will be downloaded",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 213,
+    "text": "What is the minimum permitted static ground clearance of the vehicle, including the driver?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 835,
+        "question_id": 213,
+        "answer_text": "​​0,35 [m]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 836,
+        "question_id": 213,
+        "answer_text": "0,03 [m]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 837,
+        "question_id": 213,
+        "answer_text": "0,3 [cm]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 838,
+        "question_id": 213,
+        "answer_text": "​0,25 [m]",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 835,
+        "question_id": 213,
+        "answer_text": "​​0,35 [m]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 836,
+        "question_id": 213,
+        "answer_text": "0,03 [m]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 837,
+        "question_id": 213,
+        "answer_text": "0,3 [cm]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 838,
+        "question_id": 213,
+        "answer_text": "​0,25 [m]",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 216,
+    "text": "What is the proper structure of the BOM?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 847,
+        "question_id": 216,
+        "answer_text": "Systems > Assemblies > Parts > Materials & Processes > Tooling & Fasteners Infinite",
+        "is_correct": true
+      },
+      {
+        "answer_id": 848,
+        "question_id": 216,
+        "answer_text": "Systems > Parts > Assemblies > Materials & Processes > Tooling & Fasteners Infinite  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 849,
+        "question_id": 216,
+        "answer_text": "Systems > Parts > Assemblies > Tooling & Fasteners Infinite ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 850,
+        "question_id": 216,
+        "answer_text": "​Assemblies > Parts > Materials & Processes > Tooling & Fasteners Infinite  ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 847,
+        "question_id": 216,
+        "answer_text": "Systems > Assemblies > Parts > Materials & Processes > Tooling & Fasteners Infinite",
+        "is_correct": true
+      },
+      {
+        "answer_id": 848,
+        "question_id": 216,
+        "answer_text": "Systems > Parts > Assemblies > Materials & Processes > Tooling & Fasteners Infinite  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 849,
+        "question_id": 216,
+        "answer_text": "Systems > Parts > Assemblies > Tooling & Fasteners Infinite ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 850,
+        "question_id": 216,
+        "answer_text": "​Assemblies > Parts > Materials & Processes > Tooling & Fasteners Infinite  ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 222,
+    "text": "Our vehicle completes the Acceleration Event with 4[s] result. What is its velocity when it crosses the finish line, if we assume, that its acceleration is constant during the run?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 873,
+        "question_id": 222,
+        "answer_text": "30 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 874,
+        "question_id": 222,
+        "answer_text": "135 km/h",
+        "is_correct": true
+      },
+      {
+        "answer_id": 875,
+        "question_id": 222,
+        "answer_text": "​​105 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 876,
+        "question_id": 222,
+        "answer_text": "​​120 km/h",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 873,
+        "question_id": 222,
+        "answer_text": "30 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 874,
+        "question_id": 222,
+        "answer_text": "135 km/h",
+        "is_correct": true
+      },
+      {
+        "answer_id": 875,
+        "question_id": 222,
+        "answer_text": "​​105 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 876,
+        "question_id": 222,
+        "answer_text": "​​120 km/h",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 223,
+    "text": "Which of the following is NOT considered as a \"system\" within the BOM?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 877,
+        "question_id": 223,
+        "answer_text": "Brake System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 878,
+        "question_id": 223,
+        "answer_text": "Wheels, wheel bearings and tires",
+        "is_correct": false
+      },
+      {
+        "answer_id": 879,
+        "question_id": 223,
+        "answer_text": "​Electrical System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 880,
+        "question_id": 223,
+        "answer_text": "Cooling System",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 877,
+        "question_id": 223,
+        "answer_text": "Brake System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 878,
+        "question_id": 223,
+        "answer_text": "Wheels, wheel bearings and tires",
+        "is_correct": false
+      },
+      {
+        "answer_id": 879,
+        "question_id": 223,
+        "answer_text": "​Electrical System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 880,
+        "question_id": 223,
+        "answer_text": "Cooling System",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 225,
+    "text": "Which of the following documents is directly evaluated during Engineering Design Event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 885,
+        "question_id": 225,
+        "answer_text": "ESO",
+        "is_correct": false
+      },
+      {
+        "answer_id": 886,
+        "question_id": 225,
+        "answer_text": "DSR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 887,
+        "question_id": 225,
+        "answer_text": "DSS",
+        "is_correct": true
+      },
+      {
+        "answer_id": 888,
+        "question_id": 225,
+        "answer_text": "SES",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 885,
+        "question_id": 225,
+        "answer_text": "ESO",
+        "is_correct": false
+      },
+      {
+        "answer_id": 886,
+        "question_id": 225,
+        "answer_text": "DSR",
+        "is_correct": false
+      },
+      {
+        "answer_id": 887,
+        "question_id": 225,
+        "answer_text": "DSS",
+        "is_correct": true
+      },
+      {
+        "answer_id": 888,
+        "question_id": 225,
+        "answer_text": "SES",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

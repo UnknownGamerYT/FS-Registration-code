@@ -1,0 +1,813 @@
+[
+  {
+    "question_id": 554,
+    "text": "Which of the following equations is a basic principle of electrical engineering?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 97,
+        "question_id": 554,
+        "text": "Ohm’s law formula",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      55,
+      70
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 594,
+    "text": "See the following series of numbers:\\n 1 2 3 4 5 8 7 16 9 \\n What number comes next?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2277,
+        "question_id": 594,
+        "answer_text": "10",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2278,
+        "question_id": 594,
+        "answer_text": "18",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2279,
+        "question_id": 594,
+        "answer_text": "24",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2280,
+        "question_id": 594,
+        "answer_text": "32",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 102,
+        "question_id": 594,
+        "text": "The series in the question consist of two individual series. One is made up of the odd numbers 1 3 5 7 9 and the other is a series of the powers of two 2 4 8 16. As can be seen, the last number in the combined series is 9 so the next number to follow is the next number of the series of powers of two which is 32.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2277,
+        "question_id": 594,
+        "answer_text": "10",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2278,
+        "question_id": 594,
+        "answer_text": "18",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2279,
+        "question_id": 594,
+        "answer_text": "24",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2280,
+        "question_id": 594,
+        "answer_text": "32",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 597,
+    "text": "What is true about jacks?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2289,
+        "question_id": 597,
+        "answer_text": "A) One person must solely be able to lift the vehicle using a jack",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2290,
+        "question_id": 597,
+        "answer_text": "B) Jacks must be able to lift the vehicle to a minimum height of 150mm off the ground",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2291,
+        "question_id": 597,
+        "answer_text": "C) In a lifted position, a driver is allowed to sit in the car",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2292,
+        "question_id": 597,
+        "answer_text": "D) Only team members named Jack may operate a jack",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 105,
+        "question_id": 597,
+        "text": "T 13.2.1-3\\n A is wrong, there is no rule that states this. T13.2.1 states a vehicle may also be lifted by 2 jacks (and therefore operated by 2 persons)\\n B is wrong, applicable rule states 100mm\\n C is correct, T13.2.3 states that a driver should be able to get in or out and is therefore allowed to sit in the car. Furthermore, some inspections require the driver to sit in the car in a lifted position e.g. noise test.\\n D is incorrect",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2289,
+        "question_id": 597,
+        "answer_text": "A) One person must solely be able to lift the vehicle using a jack",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2290,
+        "question_id": 597,
+        "answer_text": "B) Jacks must be able to lift the vehicle to a minimum height of 150mm off the ground",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2291,
+        "question_id": 597,
+        "answer_text": "C) In a lifted position, a driver is allowed to sit in the car",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2292,
+        "question_id": 597,
+        "answer_text": "D) Only team members named Jack may operate a jack",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 598,
+    "text": "What is the speed of the carrier if the speed of the sun gear is 1 rpm and the speed of the ring gear iszero?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2293,
+        "question_id": 598,
+        "answer_text": "0.272 rpm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2294,
+        "question_id": 598,
+        "answer_text": "0.727 rpm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2295,
+        "question_id": 598,
+        "answer_text": "1.272 rpm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2296,
+        "question_id": 598,
+        "answer_text": "1.727 rpm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 106,
+        "question_id": 598,
+        "text": "Correct answer is 0.272 rpm, picture & calculation model: http://www.thecatalystis.com/gears/",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000598__img000155__598_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2293,
+        "question_id": 598,
+        "answer_text": "0.272 rpm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2294,
+        "question_id": 598,
+        "answer_text": "0.727 rpm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2295,
+        "question_id": 598,
+        "answer_text": "1.272 rpm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2296,
+        "question_id": 598,
+        "answer_text": "1.727 rpm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 599,
+    "text": "Which standard for fasteners/retainers cannot be used at criticial places?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2297,
+        "question_id": 599,
+        "answer_text": "DIN 127 A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2298,
+        "question_id": 599,
+        "answer_text": "DIN 94",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2299,
+        "question_id": 599,
+        "answer_text": "EN 1663",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2300,
+        "question_id": 599,
+        "answer_text": "DIN 463",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 107,
+        "question_id": 599,
+        "text": "DIN 94 is not mentioned in T 10.2.2, but this standard is for cotter pins, which is in T 10.2.2\\n EN 1663 is nylon locknut, mentioned in T 10.2.2 \\n DIN 463 is not mentioned in T 10.2.2, but this standard is for tab washers, which is in T 10.2.2 \\n DIN 127 A is for spring washers, which cannot be used as it is based on pre-tensioning as mentioned in T 10.2.3",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2297,
+        "question_id": 599,
+        "answer_text": "DIN 127 A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2298,
+        "question_id": 599,
+        "answer_text": "DIN 94",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2299,
+        "question_id": 599,
+        "answer_text": "EN 1663",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2300,
+        "question_id": 599,
+        "answer_text": "DIN 463",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 601,
+    "text": "Which material is permitted to use as actuating medium in compressed gas systems?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2305,
+        "question_id": 601,
+        "answer_text": "Carbon monoxide",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2306,
+        "question_id": 601,
+        "answer_text": "Nitrous Oxide",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2307,
+        "question_id": 601,
+        "answer_text": "Ammonia",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2308,
+        "question_id": 601,
+        "answer_text": "Silene",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 109,
+        "question_id": 601,
+        "text": "T 9.1.1 Nitrous Oxide is not flammable, but supports combustion. Every other gas mentioned is flammable.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2305,
+        "question_id": 601,
+        "answer_text": "Carbon monoxide",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2306,
+        "question_id": 601,
+        "answer_text": "Nitrous Oxide",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2307,
+        "question_id": 601,
+        "answer_text": "Ammonia",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2308,
+        "question_id": 601,
+        "answer_text": "Silene",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 604,
+    "text": "Which of the following sections is the part of the TT Circuit Assen?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2317,
+        "question_id": 604,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2318,
+        "question_id": 604,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2319,
+        "question_id": 604,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2320,
+        "question_id": 604,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 112,
+        "question_id": 604,
+        "text": "A is Zandvoort\\n B is Hungaroring\\n C is Spa\\n D is Assen (turn 2-3-4)",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000604__img000158__604_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2317,
+        "question_id": 604,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2318,
+        "question_id": 604,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2319,
+        "question_id": 604,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2320,
+        "question_id": 604,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 605,
+    "text": "What is true about documentation?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2321,
+        "question_id": 605,
+        "answer_text": "a) Submitting all documents within the deadline will be awarded by 10 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2322,
+        "question_id": 605,
+        "answer_text": "b) The SES and SESA must submitted at the same deadline",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2323,
+        "question_id": 605,
+        "answer_text": "c) The SES file must be submitted via FSN MyTeam",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2324,
+        "question_id": 605,
+        "answer_text": "d) If any tab of the SES shows as green or passed, additional equivalency can still be requested.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 113,
+        "question_id": 605,
+        "text": "A is false, B is false (FSN Competition Handbook NL3.1), C is false (FSN Competition Handbook NL3.4)\\n D is correct (FSN Gray Area clarification document) ",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2321,
+        "question_id": 605,
+        "answer_text": "a) Submitting all documents within the deadline will be awarded by 10 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2322,
+        "question_id": 605,
+        "answer_text": "b) The SES and SESA must submitted at the same deadline",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2323,
+        "question_id": 605,
+        "answer_text": "c) The SES file must be submitted via FSN MyTeam",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2324,
+        "question_id": 605,
+        "answer_text": "d) If any tab of the SES shows as green or passed, additional equivalency can still be requested.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 606,
+    "text": "Select the false statement about CV powertrains",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2325,
+        "question_id": 606,
+        "answer_text": "a) The use of hybrid systems are permitted",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2326,
+        "question_id": 606,
+        "answer_text": "b) You must have a fuse near the positive pole of your LV battery",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2327,
+        "question_id": 606,
+        "answer_text": "c) The AIR must disconnect the positive pole of your HSC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2328,
+        "question_id": 606,
+        "answer_text": "d) You can use directly proportional sensors with different slopes as APPS",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 114,
+        "question_id": 606,
+        "text": "A is true, we do have hybrid systems at FSN\\n B T 11.7.6, the positive pole must have a fuse\\n C Hybrid rules 5.4\\n D directly proportional means you have 0V at 0% pedal position, therefore you can not tell apart the idle position and short to ground situation, ETC have to shut down at short to ground (T 11.9.2 and T 11.8.6)",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2325,
+        "question_id": 606,
+        "answer_text": "a) The use of hybrid systems are permitted",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2326,
+        "question_id": 606,
+        "answer_text": "b) You must have a fuse near the positive pole of your LV battery",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2327,
+        "question_id": 606,
+        "answer_text": "c) The AIR must disconnect the positive pole of your HSC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2328,
+        "question_id": 606,
+        "answer_text": "d) You can use directly proportional sensors with different slopes as APPS",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 611,
+    "text": "From your micro controller you are trying to interface with a peripheral device over a 4 wire connection. From the datasheet you learn, if you read from address 0x7F hexadecimal, you should receive the chip ID. According to the datasheet the chip ID should be 0x5A. Instead you receive 0x2D from the chip. In the figure below is a trace you made of the 4 wire communication between the devices.\\n What is the problem with this setup?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2345,
+        "question_id": 611,
+        "answer_text": "The clock frequency is set too high",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2346,
+        "question_id": 611,
+        "answer_text": "The CS should not have been deasserted",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2347,
+        "question_id": 611,
+        "answer_text": "The sampling of the signal is done on the wrong clock edge",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2348,
+        "question_id": 611,
+        "answer_text": "The data send is not 0x7F",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 119,
+        "question_id": 611,
+        "text": "When looking at the MISO line in the trace, while taking one clock signal width in mind, we see a pattern of bits resembling 0..001011010...0. Translating 0x5A into bits returns 0101 1010 and translating 0x2D into bits returns 0010 1101. \\n As can be seen both these translations of 0x5A and 0x2D match the pattern of the MOSI line. It is just how you would interpret the MOSI line. Interpretation of the MOSI line is done using the clock signal. \\n When you sample on the high clock edge the result is 0x2D whereas sampling on the low edge gives the value of 0x5A. It therefore seems, as the sampled returned value is not the one expected, that the sampling is done incorrectly and therefore C is the correct answer. As for sending the data, seeing that the signal on the MISO line is high until the deassert of the CS line, it is correctly sampled by the chip you are communicating to. \\n CS deassertion can always happen during command send and response receive.\\n The clock frequency is correct as the output traces of the MOSI line is showing the correct bits. Bits where not lost during transmission due to a too fast clock signal.",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000611__img000161__611_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2345,
+        "question_id": 611,
+        "answer_text": "The clock frequency is set too high",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2346,
+        "question_id": 611,
+        "answer_text": "The CS should not have been deasserted",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2347,
+        "question_id": 611,
+        "answer_text": "The sampling of the signal is done on the wrong clock edge",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2348,
+        "question_id": 611,
+        "answer_text": "The data send is not 0x7F",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

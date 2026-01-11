@@ -1,0 +1,40 @@
+[
+  {
+    "question_id": 433,
+    "text": "The force F acting on a pull rod shall be measured as shown in the figure by two strain gauges TR1 and TR2, both having a gauge factor of 2. The length of the pull rod is 400 mm the diameter is 12 mm. The tensile modulus is 220 GPa. The schematic shows the used electric circuit.The following conditions are assumed:\nF = 250 N\nR1 = R2 = 120 Ω\nR3 = R4 = 1 kΩ\nR5 = R6 = 200 kΩ\nR7 = 100 kΩ\nR8 = 1 kΩ\nVout = 0 V for F = 0 N\ntemperature is constant\noperational amplifiers are ideal\nCalculate the output voltage Vout! Round the solution to two decimal places.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 1762,
+        "question_id": 433,
+        "answer_text": "2.44",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000433__img000098__433_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1762,
+        "question_id": 433,
+        "answer_text": "2.44",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

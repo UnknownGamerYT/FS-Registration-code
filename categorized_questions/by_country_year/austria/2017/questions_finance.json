@@ -1,0 +1,271 @@
+[
+  {
+    "question_id": 103,
+    "text": "What is the minimum score for the third place in the Business Plan finals (with three finalists)?    ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 394,
+        "question_id": 103,
+        "answer_text": "Depends on the fourth place score",
+        "is_correct": true
+      },
+      {
+        "answer_id": 395,
+        "question_id": 103,
+        "answer_text": "70 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 396,
+        "question_id": 103,
+        "answer_text": "There is no lower bound",
+        "is_correct": false
+      },
+      {
+        "answer_id": 397,
+        "question_id": 103,
+        "answer_text": "73 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 398,
+        "question_id": 103,
+        "answer_text": "80 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 399,
+        "question_id": 103,
+        "answer_text": "71 points",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 394,
+        "question_id": 103,
+        "answer_text": "Depends on the fourth place score",
+        "is_correct": true
+      },
+      {
+        "answer_id": 395,
+        "question_id": 103,
+        "answer_text": "70 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 396,
+        "question_id": 103,
+        "answer_text": "There is no lower bound",
+        "is_correct": false
+      },
+      {
+        "answer_id": 397,
+        "question_id": 103,
+        "answer_text": "73 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 398,
+        "question_id": 103,
+        "answer_text": "80 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 399,
+        "question_id": 103,
+        "answer_text": "71 points",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 105,
+    "text": "What is false regarding an Off-Course (OC) during endurance?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 406,
+        "question_id": 105,
+        "answer_text": "The time penalty for an off-course is 10s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 407,
+        "question_id": 105,
+        "answer_text": "An off-course occurs if a slalom gate is missed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 408,
+        "question_id": 105,
+        "answer_text": "An off-course can be avoided if the driver re-enters the track at or before the point he left it",
+        "is_correct": true
+      },
+      {
+        "answer_id": 409,
+        "question_id": 105,
+        "answer_text": "An off-course during the skidpad event leads to a DNF for that run",
+        "is_correct": false
+      },
+      {
+        "answer_id": 410,
+        "question_id": 105,
+        "answer_text": "An off-course occurs if a vehicle is outside the track boundary with all four wheels",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 406,
+        "question_id": 105,
+        "answer_text": "The time penalty for an off-course is 10s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 407,
+        "question_id": 105,
+        "answer_text": "An off-course occurs if a slalom gate is missed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 408,
+        "question_id": 105,
+        "answer_text": "An off-course can be avoided if the driver re-enters the track at or before the point he left it",
+        "is_correct": true
+      },
+      {
+        "answer_id": 409,
+        "question_id": 105,
+        "answer_text": "An off-course during the skidpad event leads to a DNF for that run",
+        "is_correct": false
+      },
+      {
+        "answer_id": 410,
+        "question_id": 105,
+        "answer_text": "An off-course occurs if a vehicle is outside the track boundary with all four wheels",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 111,
+    "text": "Which of the following statements about the legality of the car below is true?\n+ track width = 2500mm\n+ car track = 1700mm\n+ cone height = 280mm\n+ rear wing height = 2100mm\n+ roll hoop height = 2200mm\nImage © TU Munich",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 437,
+        "question_id": 111,
+        "answer_text": "rear wing is too wide",
+        "is_correct": false
+      },
+      {
+        "answer_id": 438,
+        "question_id": 111,
+        "answer_text": "cone slots would have to be movable (illegal movable aero devices)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 439,
+        "question_id": 111,
+        "answer_text": "endplate gurneys are generally not allowed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 440,
+        "question_id": 111,
+        "answer_text": "front wing overall width is too wide",
+        "is_correct": false
+      },
+      {
+        "answer_id": 441,
+        "question_id": 111,
+        "answer_text": "the structure around the cone slots is too high",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000111__img000029__111_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 437,
+        "question_id": 111,
+        "answer_text": "rear wing is too wide",
+        "is_correct": false
+      },
+      {
+        "answer_id": 438,
+        "question_id": 111,
+        "answer_text": "cone slots would have to be movable (illegal movable aero devices)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 439,
+        "question_id": 111,
+        "answer_text": "endplate gurneys are generally not allowed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 440,
+        "question_id": 111,
+        "answer_text": "front wing overall width is too wide",
+        "is_correct": false
+      },
+      {
+        "answer_id": 441,
+        "question_id": 111,
+        "answer_text": "the structure around the cone slots is too high",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      11,
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

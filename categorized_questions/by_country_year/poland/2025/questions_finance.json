@@ -1,0 +1,135 @@
+[
+  {
+    "question_id": 878,
+    "text": "You run with Formula student car 2 skid pad runs. For the second run, you use modified suspension pickup points to put the front roll centre higher. In both cases you run in a perfectly steady state, with the same path, speed, lateral acceleration (let's say 1 [g]) and you get the same time.\\n- 1st run front roll centre height = 50 [mm] (above the ground)\\n- 2nd run front roll centre height = 100 [mm] (above the ground)\\n- Rear roll centre height = 100 [mm] (above the ground)\\n- Front and rear track are the same = 1000 [mm]\\n- Suspended mass centre of gravity height = 250 [mm] (above the ground)\\nYou run front and rear double wishbone suspensions setup without any ARBs, just a single coilover with a linear spring on every corner. You move the front roll centre higher, by moving the wishbones and steering rack pickup points higher on the chassis.\\nWe assume that:\\n- roll centre positions are static - they do not change when the car rolls,\\n- we do not take into account aerodynamic forces, tires deflection and race track is perfectly flat, non suspended mass and tires Mx are negligibly low (x is assumed as longitudinal axis).\\n- the car is symmetric, 50% front weight distribution, all motion ratios = 1, all spring stiffnesses are the same, 4 wheels are on the ground, coilovers do not reach their travel limit,\\n- the caster and KPI angle are equal 0, so we do not take into account any steer jacking,\\n- for the second run we do not change the centre gravity position, spring rates or motion ratios when changing the front roll centre height. The alignment, camber gain, bump steer, tires, track, wheelbase - all stays the same.\\nOn the front coilovers you run linear potentiometers. They read 0 when the car drives straight on a flat surface. We assume that they read the displacement as the absolute value. This means that no matter if the coilover is being compressed or extended, it gives positive value. You read with them 4 values:\\n- L1 - Front left coilover displacement on the first run\\n- R1 - Front right coilover displacement on the first run\\n- L2 - Front left coilover displacement on the second run\\n- R2 - Front right coilover displacement on the second run\\n\\nWhich set of equations is true for the last lap of the skid pad (left circle / left hand corner)?\\nWe are considering left hand corner, so left coilover potentiometers are being extended and right ones are being shortened.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3264,
+        "question_id": 878,
+        "answer_text": "A. (L1 R1) = (L2 R2); (L1-R1) = (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3265,
+        "question_id": 878,
+        "answer_text": "B. (L1 R1) = (L2 R2); (L1-R1) < (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3266,
+        "question_id": 878,
+        "answer_text": "C. (L1 R1) = (L2 R2); (L1-R1) > (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3267,
+        "question_id": 878,
+        "answer_text": "D. (L1 R1) < (L2 R2); (L1-R1) = (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3268,
+        "question_id": 878,
+        "answer_text": "E. (L1 R1) < (L2 R2); (L1-R1) < (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3269,
+        "question_id": 878,
+        "answer_text": "F. (L1 R1) < (L2 R2); (L1-R1) > (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3270,
+        "question_id": 878,
+        "answer_text": "G. (L1 R1) > (L2 R2); (L1-R1) = (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3271,
+        "question_id": 878,
+        "answer_text": "H. (L1 R1) > (L2 R2); (L1-R1) < (L2-R2)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3272,
+        "question_id": 878,
+        "answer_text": "I. (L1 R1) > (L2 R2); (L1-R1) > (L2-R2)",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3264,
+        "question_id": 878,
+        "answer_text": "A. (L1 R1) = (L2 R2); (L1-R1) = (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3265,
+        "question_id": 878,
+        "answer_text": "B. (L1 R1) = (L2 R2); (L1-R1) < (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3266,
+        "question_id": 878,
+        "answer_text": "C. (L1 R1) = (L2 R2); (L1-R1) > (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3267,
+        "question_id": 878,
+        "answer_text": "D. (L1 R1) < (L2 R2); (L1-R1) = (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3268,
+        "question_id": 878,
+        "answer_text": "E. (L1 R1) < (L2 R2); (L1-R1) < (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3269,
+        "question_id": 878,
+        "answer_text": "F. (L1 R1) < (L2 R2); (L1-R1) > (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3270,
+        "question_id": 878,
+        "answer_text": "G. (L1 R1) > (L2 R2); (L1-R1) = (L2-R2)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3271,
+        "question_id": 878,
+        "answer_text": "H. (L1 R1) > (L2 R2); (L1-R1) < (L2-R2)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3272,
+        "question_id": 878,
+        "answer_text": "I. (L1 R1) > (L2 R2); (L1-R1) > (L2-R2)",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  }
+]

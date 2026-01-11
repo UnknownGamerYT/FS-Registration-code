@@ -1,0 +1,273 @@
+[
+  {
+    "question_id": 846,
+    "text": "The figure shows a simplified quarter vehicle modal. The drive torque T(M) is the input, the wheel speed W is the output of the system. The torque due to the acceleration of the vehicle is modelled by the constant disturbance d. I models the inertia of the wheel and s is the complex variable of the Laplace transform.\\n\\nWhich statements are correct? Mark all correct answers.",
+    "type": "multi-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3170,
+        "question_id": 846,
+        "answer_text": "The plant model is a linear system.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3171,
+        "question_id": 846,
+        "answer_text": "The plant model is a nonlinear system.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3172,
+        "question_id": 846,
+        "answer_text": "The plant model is a time variant system.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3173,
+        "question_id": 846,
+        "answer_text": "The plant model is a time invariant system.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3174,
+        "question_id": 846,
+        "answer_text": "The plant model is causal system.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3175,
+        "question_id": 846,
+        "answer_text": "The plant model is an acausal system.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3176,
+        "question_id": 846,
+        "answer_text": "The plant model is BIBO-stable system.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000846__img000235__846_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3170,
+        "question_id": 846,
+        "answer_text": "The plant model is a linear system.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3171,
+        "question_id": 846,
+        "answer_text": "The plant model is a nonlinear system.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3172,
+        "question_id": 846,
+        "answer_text": "The plant model is a time variant system.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3173,
+        "question_id": 846,
+        "answer_text": "The plant model is a time invariant system.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3174,
+        "question_id": 846,
+        "answer_text": "The plant model is causal system.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3175,
+        "question_id": 846,
+        "answer_text": "The plant model is an acausal system.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3176,
+        "question_id": 846,
+        "answer_text": "The plant model is BIBO-stable system.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 847,
+    "text": "The figure shows a block diagram of a dynamic system.\\nWhat is the overall transfer function of the system?\\nMark the correct answer.",
+    "type": "single-choice",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 3177,
+        "question_id": 847,
+        "answer_text": "A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3178,
+        "question_id": 847,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3179,
+        "question_id": 847,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3180,
+        "question_id": 847,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3181,
+        "question_id": 847,
+        "answer_text": "E",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3182,
+        "question_id": 847,
+        "answer_text": "F",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3183,
+        "question_id": 847,
+        "answer_text": "G",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3184,
+        "question_id": 847,
+        "answer_text": "H",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000847__img000236__847_1.jpg",
+      "images\\q000847__img000237__847_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3177,
+        "question_id": 847,
+        "answer_text": "A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3178,
+        "question_id": 847,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3179,
+        "question_id": 847,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3180,
+        "question_id": 847,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3181,
+        "question_id": 847,
+        "answer_text": "E",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3182,
+        "question_id": 847,
+        "answer_text": "F",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3183,
+        "question_id": 847,
+        "answer_text": "G",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3184,
+        "question_id": 847,
+        "answer_text": "H",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 850,
+    "text": "Fred, the racing alpaca, challenges Coco, the 3-leged cat, to an acceleration event according to D 5.1.1. Being very confident, Fred gives Coco a head start h of 14 m infront of the start line. Both start the same time t=0 s having an initial speed V0 of 0m/s as shown in the figure. Coco accelerates with 6m/s^2. Assume that both are not limited by speed and have a constant acceleraton over the full acceleration event. \\n\\nCalculate the minimum acceleration Fred needs to achieve to reach the finish line at the same time as Coco. Round to one decimal.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 3196,
+        "question_id": 850,
+        "answer_text": "7.4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000850__img000239__850_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3196,
+        "question_id": 850,
+        "answer_text": "7.4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

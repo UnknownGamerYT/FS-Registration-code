@@ -1,0 +1,112 @@
+[
+  {
+    "question_id": 614,
+    "text": "Given is a parallel-plate capacitor with area A, separated by a uniform gap of thickness d1 filled with a dielectric with permittivity ε. At time t1, the voltage of the capacitor is V1. The capacitor is not connected to any electrical network.\\n How much energy is needed to change the plate spacing to d2 = 4 × d1?",
+    "type": "single-choice",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2355,
+        "question_id": 614,
+        "answer_text": "-3εAV12/(4d1)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2356,
+        "question_id": 614,
+        "answer_text": "3εAV12/(4d1)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2357,
+        "question_id": 614,
+        "answer_text": "-3εAV12/(2d1)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2358,
+        "question_id": 614,
+        "answer_text": "3εAV12/(2d1)",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000614__img000164__614_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2355,
+        "question_id": 614,
+        "answer_text": "-3εAV12/(4d1)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2356,
+        "question_id": 614,
+        "answer_text": "3εAV12/(4d1)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2357,
+        "question_id": 614,
+        "answer_text": "-3εAV12/(2d1)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2358,
+        "question_id": 614,
+        "answer_text": "3εAV12/(2d1)",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 617,
+    "text": "The TS of an EV can be simplified to be\\n an ideal TS energy storage and\\n an unshielded TS cable running through free air.\\n\\n The ideal TS energy storage consists of the following parts:\\n an ideal voltage source V0 supplying 600 V DC at any load\\n an ideal resistor Ri of 28.5 mΩ which combines all resistances in the high current path of the TS energy storage, such as the cell, contact, busbar, wiring, fuse, and outlet connector resistances\\n an ideal circuit-breaker as the main fuse having an appropriate DC voltage rating and a characteristic such that the instantaneous tripping current is 10 times the rated current\\n\\n The TS cable has the following properties:\\n the cross-section A is 2x6 mm2\\n the length l is 10 m\\n the specific conductivity κ is 56 m/(Ω*mm2)\\n a 30 % increase in the wire's resistance covers the thermal behavior and all other effects during a short-circuit event\\n Select the rated current In and breaking capability Icn of the TS energy storage circuit-breaker, such that\\n a short circuit event at any point of the TS wire triggers instantaneous tripping\\n a short circuit event at any point of the TS wire can be interrupted\\n the maximum possible rated current is chosen, although the value might be well above the typical continuous current rating of the cable\\n available values for the rated current In have a step of 10 A (e.g. 10 A, 20 A, 30 A)\\n the minimum possible breaking capability is chosen\\n available values of the breaking capability Icn have a step of 10 kA (e.g. 40 kA, 50 kA, 60 kA)\\n Give the rated current In in A and the breaking capability Icn in kA in the following format: In, Icn e.g. 123, 456",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2365,
+        "question_id": 617,
+        "answer_text": "560, 30",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2365,
+        "question_id": 617,
+        "answer_text": "560, 30",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

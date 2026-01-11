@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 268,
+    "text": "In a static or dynamic finite element simulation,",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1055,
+        "question_id": 268,
+        "answer_text": "governing equation is exactly satisfied at all points of the continuum. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1056,
+        "question_id": 268,
+        "answer_text": "on all nodes, the sum of element nodal forces is in equilibrium with the externally applied loads. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1057,
+        "question_id": 268,
+        "answer_text": "only elements are under equilibrium to external applied loads. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1058,
+        "question_id": 268,
+        "answer_text": "only global equilibrium can be ensured. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1055,
+        "question_id": 268,
+        "answer_text": "governing equation is exactly satisfied at all points of the continuum. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1056,
+        "question_id": 268,
+        "answer_text": "on all nodes, the sum of element nodal forces is in equilibrium with the externally applied loads. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1057,
+        "question_id": 268,
+        "answer_text": "only elements are under equilibrium to external applied loads. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1058,
+        "question_id": 268,
+        "answer_text": "only global equilibrium can be ensured. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

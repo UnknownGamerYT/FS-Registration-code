@@ -1,0 +1,146 @@
+[
+  {
+    "question_id": 396,
+    "text": "You upgraded your TS Accumulator by selecting a new type of cell and configuration in order to lose weight. The previous cell had 160 Wh/kg and the new one has 180 Wh/kg energy density. Cell energy in this case is calculated according to the Formula Student Rules 2022. The previous configuration was 140s3p and the new one is 144s2p. The nominal and maximum cell voltage has not changed, they are 3.7 V and 4.2 V respectively in both cases. The total mass of the cells in the previous configuration was 42 kg. The total energy stored in the new battery is 6220.8 Wh. What is the nominal capacity of the previous cell?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1602,
+        "question_id": 396,
+        "answer_text": "3.81 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1603,
+        "question_id": 396,
+        "answer_text": "5.29 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1604,
+        "question_id": 396,
+        "answer_text": "6 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1605,
+        "question_id": 396,
+        "answer_text": "4.32 Ah",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1602,
+        "question_id": 396,
+        "answer_text": "3.81 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1603,
+        "question_id": 396,
+        "answer_text": "5.29 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1604,
+        "question_id": 396,
+        "answer_text": "6 Ah",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1605,
+        "question_id": 396,
+        "answer_text": "4.32 Ah",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 403,
+    "text": "You are designing a PCB containing TS and LVS components. What is the minimum spacing between TS and LVS if conformal coating will be used and the maximum TS voltage is 336V?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1630,
+        "question_id": 403,
+        "answer_text": "3.0 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1631,
+        "question_id": 403,
+        "answer_text": "4.0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1632,
+        "question_id": 403,
+        "answer_text": "1.0 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1633,
+        "question_id": 403,
+        "answer_text": "2.0 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1630,
+        "question_id": 403,
+        "answer_text": "3.0 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1631,
+        "question_id": 403,
+        "answer_text": "4.0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1632,
+        "question_id": 403,
+        "answer_text": "1.0 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1633,
+        "question_id": 403,
+        "answer_text": "2.0 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

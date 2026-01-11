@@ -1,0 +1,774 @@
+[
+  {
+    "question_id": 344,
+    "text": "The baseline steel property for the Yield Strength (Sy) that is used for calculations of bending and buckling strength in an SES may not be lower than:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1371,
+        "question_id": 344,
+        "answer_text": "305 MPa (44.2 ksi)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1372,
+        "question_id": 344,
+        "answer_text": "180 MPa (26ksi)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1373,
+        "question_id": 344,
+        "answer_text": "300 MPa (43.5 ksi)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1374,
+        "question_id": 344,
+        "answer_text": "200 GPa (29,000 ksi)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1375,
+        "question_id": 344,
+        "answer_text": "365 MPa (52.9 ksi)",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1371,
+        "question_id": 344,
+        "answer_text": "305 MPa (44.2 ksi)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1372,
+        "question_id": 344,
+        "answer_text": "180 MPa (26ksi)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1373,
+        "question_id": 344,
+        "answer_text": "300 MPa (43.5 ksi)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1374,
+        "question_id": 344,
+        "answer_text": "200 GPa (29,000 ksi)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1375,
+        "question_id": 344,
+        "answer_text": "365 MPa (52.9 ksi)",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 345,
+    "text": "Which of these measures is not used to dimension the cockpit internal cross section template?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1376,
+        "question_id": 345,
+        "answer_text": "50mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1377,
+        "question_id": 345,
+        "answer_text": "350mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1378,
+        "question_id": 345,
+        "answer_text": "7mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1379,
+        "question_id": 345,
+        "answer_text": "75mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1376,
+        "question_id": 345,
+        "answer_text": "50mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1377,
+        "question_id": 345,
+        "answer_text": "350mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1378,
+        "question_id": 345,
+        "answer_text": "7mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1379,
+        "question_id": 345,
+        "answer_text": "75mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 346,
+    "text": "What is the minimum tread depth for rain tires?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1380,
+        "question_id": 346,
+        "answer_text": "2.4mm (3/32 inch).",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1381,
+        "question_id": 346,
+        "answer_text": "1.6mm (2/32 inch).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1382,
+        "question_id": 346,
+        "answer_text": "0.8mm (1/32 inch).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1383,
+        "question_id": 346,
+        "answer_text": "3.2mm (4/32 inch).",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 63,
+        "question_id": 346,
+        "text": "T 2.6.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1380,
+        "question_id": 346,
+        "answer_text": "2.4mm (3/32 inch).",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1381,
+        "question_id": 346,
+        "answer_text": "1.6mm (2/32 inch).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1382,
+        "question_id": 346,
+        "answer_text": "0.8mm (1/32 inch).",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1383,
+        "question_id": 346,
+        "answer_text": "3.2mm (4/32 inch).",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 347,
+    "text": "The rise time (10% to 90%) of a given one stage low pass RC network is 3.00ms. What are possible values for R and C?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1384,
+        "question_id": 347,
+        "answer_text": "R=1500Ohm and C=950.6nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1385,
+        "question_id": 347,
+        "answer_text": "R=2000Ohm and C=640.0nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1386,
+        "question_id": 347,
+        "answer_text": "R=2500Ohm and C=546.2nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1387,
+        "question_id": 347,
+        "answer_text": "R=3000Ohm and C=420.8nanoFarad",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1384,
+        "question_id": 347,
+        "answer_text": "R=1500Ohm and C=950.6nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1385,
+        "question_id": 347,
+        "answer_text": "R=2000Ohm and C=640.0nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1386,
+        "question_id": 347,
+        "answer_text": "R=2500Ohm and C=546.2nanoFarad",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1387,
+        "question_id": 347,
+        "answer_text": "R=3000Ohm and C=420.8nanoFarad",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 348,
+    "text": "Which is the correct technical inspection order for EVs according to the rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1388,
+        "question_id": 348,
+        "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Ready-To-Drive-Sound-Test, Rain Test, Brake Test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1389,
+        "question_id": 348,
+        "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Rain Test, Ready-To-Drive-Sound-Test, Brake Test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1390,
+        "question_id": 348,
+        "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Rain Test, Brake Test, Ready-To-Drive-Sound-Test",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1391,
+        "question_id": 348,
+        "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Ready-To-Drive-Sound-Test, Brake Test, Rain Test",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1388,
+        "question_id": 348,
+        "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Ready-To-Drive-Sound-Test, Rain Test, Brake Test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1389,
+        "question_id": 348,
+        "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Rain Test, Ready-To-Drive-Sound-Test, Brake Test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1390,
+        "question_id": 348,
+        "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Rain Test, Brake Test, Ready-To-Drive-Sound-Test",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1391,
+        "question_id": 348,
+        "answer_text": "E-Scrutineering, Mechanical Scrutineering, Tilt Table, Ready-To-Drive-Sound-Test, Brake Test, Rain Test",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 349,
+    "text": "All drivers have to wear underwear (long pants and long sleeve t-shirt) certified to",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1392,
+        "question_id": 349,
+        "answer_text": "SFI 3.3 or FIA 8856-2000",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1393,
+        "question_id": 349,
+        "answer_text": "SFI 3.3 or FIA 8586-2000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1394,
+        "question_id": 349,
+        "answer_text": "SFI 2.2 or FIA 8856-2000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1395,
+        "question_id": 349,
+        "answer_text": "SFI 33.33 or FIA 8856-2012",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 64,
+        "question_id": 349,
+        "text": "T 13.3.7",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1392,
+        "question_id": 349,
+        "answer_text": "SFI 3.3 or FIA 8856-2000",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1393,
+        "question_id": 349,
+        "answer_text": "SFI 3.3 or FIA 8586-2000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1394,
+        "question_id": 349,
+        "answer_text": "SFI 2.2 or FIA 8856-2000",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1395,
+        "question_id": 349,
+        "answer_text": "SFI 33.33 or FIA 8856-2012",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 350,
+    "text": "What does DFMA stand for in the rules?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1396,
+        "question_id": 350,
+        "answer_text": "Design for Manufacture and Assembly",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1397,
+        "question_id": 350,
+        "answer_text": "Designated Fire Management Assistant",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1398,
+        "question_id": 350,
+        "answer_text": "Double-folded Magnetic Anchor",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1399,
+        "question_id": 350,
+        "answer_text": "Desire for Mega-Ants",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1396,
+        "question_id": 350,
+        "answer_text": "Design for Manufacture and Assembly",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1397,
+        "question_id": 350,
+        "answer_text": "Designated Fire Management Assistant",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1398,
+        "question_id": 350,
+        "answer_text": "Double-folded Magnetic Anchor",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1399,
+        "question_id": 350,
+        "answer_text": "Desire for Mega-Ants",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 351,
+    "text": "Regenerating energy is allowed and unrestricted but only when the vehicle speed is >",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1400,
+        "question_id": 351,
+        "answer_text": "5 kph.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1401,
+        "question_id": 351,
+        "answer_text": "10 kph.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1402,
+        "question_id": 351,
+        "answer_text": "12 kph.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1403,
+        "question_id": 351,
+        "answer_text": "15 kph.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 65,
+        "question_id": 351,
+        "text": "EV 2.2.5",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1400,
+        "question_id": 351,
+        "answer_text": "5 kph.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1401,
+        "question_id": 351,
+        "answer_text": "10 kph.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1402,
+        "question_id": 351,
+        "answer_text": "12 kph.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1403,
+        "question_id": 351,
+        "answer_text": "15 kph.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 353,
+    "text": "Which of the following statements about the firewall is not correct?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1407,
+        "question_id": 353,
+        "answer_text": "The firewall must be fire resistant according to UL94-V0, FAR25 or equivalent.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1408,
+        "question_id": 353,
+        "answer_text": "The firewall must be puncture and scratch resistant.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1409,
+        "question_id": 353,
+        "answer_text": "The firewall must be grounded, if material is used that is or may become conductive.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1410,
+        "question_id": 353,
+        "answer_text": "The firewall must not contain any parts made of metal.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 66,
+        "question_id": 353,
+        "text": "T 4.8.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1407,
+        "question_id": 353,
+        "answer_text": "The firewall must be fire resistant according to UL94-V0, FAR25 or equivalent.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1408,
+        "question_id": 353,
+        "answer_text": "The firewall must be puncture and scratch resistant.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1409,
+        "question_id": 353,
+        "answer_text": "The firewall must be grounded, if material is used that is or may become conductive.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1410,
+        "question_id": 353,
+        "answer_text": "The firewall must not contain any parts made of metal.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 356,
+    "text": "Which of the following statements regarding the Energy Meter is wrong?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1420,
+        "question_id": 356,
+        "answer_text": "The Energy Meter must be directly supplied from the GLV master switch.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1421,
+        "question_id": 356,
+        "answer_text": "The energy meter is sealed by the officials before the dynamic events. Any manipulation or broken seals of the energy meter result in at least a DNF for the efficiency scoring.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1422,
+        "question_id": 356,
+        "answer_text": "The energy is calculated as the time integrated value of the measured voltage multiplied by the measured current logged by the Energy Meter.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1423,
+        "question_id": 356,
+        "answer_text": "Energy flowing from the accumulator(s) to the motor(s) will be multiplied with a factor of 1 and added to the used energy.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1424,
+        "question_id": 356,
+        "answer_text": "Energy flowing from the motor(s) to the accumulator(s) will be multiplied with a factor of 0.8 and subtracted from the used energy. \r\n",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1420,
+        "question_id": 356,
+        "answer_text": "The Energy Meter must be directly supplied from the GLV master switch.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1421,
+        "question_id": 356,
+        "answer_text": "The energy meter is sealed by the officials before the dynamic events. Any manipulation or broken seals of the energy meter result in at least a DNF for the efficiency scoring.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1422,
+        "question_id": 356,
+        "answer_text": "The energy is calculated as the time integrated value of the measured voltage multiplied by the measured current logged by the Energy Meter.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1423,
+        "question_id": 356,
+        "answer_text": "Energy flowing from the accumulator(s) to the motor(s) will be multiplied with a factor of 1 and added to the used energy.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1424,
+        "question_id": 356,
+        "answer_text": "Energy flowing from the motor(s) to the accumulator(s) will be multiplied with a factor of 0.8 and subtracted from the used energy. \r\n",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

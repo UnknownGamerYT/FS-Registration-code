@@ -1,0 +1,700 @@
+[
+  {
+    "question_id": 454,
+    "text": "What us true regarding autonomous cars?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1811,
+        "question_id": 454,
+        "answer_text": "At no point in the FSA 2022 competition will it be required or an advantage to have an autonomous car or autonomous system components mounted in the car",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1812,
+        "question_id": 454,
+        "answer_text": "The autonomous system can be presented in Engineering Design in order to gain extra points but can be removed for the Acceleration Event",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1813,
+        "question_id": 454,
+        "answer_text": "Autonomous systems must not be activated in any dynamic displine, but they can be tested at a dedicated practice area on the competition site",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1814,
+        "question_id": 454,
+        "answer_text": "Autonomous system components may stay in the car but at scrutineering it will not be checked that they are fully disabled by putting the ASMS in the \"Off\" position",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1811,
+        "question_id": 454,
+        "answer_text": "At no point in the FSA 2022 competition will it be required or an advantage to have an autonomous car or autonomous system components mounted in the car",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1812,
+        "question_id": 454,
+        "answer_text": "The autonomous system can be presented in Engineering Design in order to gain extra points but can be removed for the Acceleration Event",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1813,
+        "question_id": 454,
+        "answer_text": "Autonomous systems must not be activated in any dynamic displine, but they can be tested at a dedicated practice area on the competition site",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1814,
+        "question_id": 454,
+        "answer_text": "Autonomous system components may stay in the car but at scrutineering it will not be checked that they are fully disabled by putting the ASMS in the \"Off\" position",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 455,
+    "text": "How tall is Sir Percy (the 95th percentile male specified by the rules) when standing full upright?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1815,
+        "question_id": 455,
+        "answer_text": "min. 1835 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1816,
+        "question_id": 455,
+        "answer_text": "1935 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1817,
+        "question_id": 455,
+        "answer_text": "1732 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1818,
+        "question_id": 455,
+        "answer_text": "max. 1835 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000455__img000114__455_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1815,
+        "question_id": 455,
+        "answer_text": "min. 1835 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1816,
+        "question_id": 455,
+        "answer_text": "1935 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1817,
+        "question_id": 455,
+        "answer_text": "1732 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1818,
+        "question_id": 455,
+        "answer_text": "max. 1835 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      44,
+      43
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 456,
+    "text": "During a usual test day at 20°C ambient temperature and ambient air pressure pf 1.013 bar you want a tire overpressure of exactly 1.5 bat at a tire surface temperature of 60°C. As one manometer is broken and the other one is lost you want to pressurize your tires by measuring the needed air mass which has an ideal gas constant of 287 J/(kg*K). In order to choose an appropriate scale, you have to calculate the added air mass in gram [g] during this pressurize process.\\n Assume that:\\n - The tire dimensions remain the same over the whole process.\\n - The ite is neither over-pressurized nor under-pressurized at the starting point.\\n - The whole air in the tire has the same temperature as the tire surface at the end point.\\n Assume following tire dimensions:\\n - Outer diameter: 18 inches\\n - Inner diameter: 10 inches\\n - Tire width: 7 inches\\n Round to the nearest integer. Please use the following format: 12.34",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 1819,
+        "question_id": 456,
+        "answer_text": "29",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1819,
+        "question_id": 456,
+        "answer_text": "29",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 457,
+    "text": "Which cat causes the greatest displacement?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1820,
+        "question_id": 457,
+        "answer_text": "Cat A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1821,
+        "question_id": 457,
+        "answer_text": "Cat B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1822,
+        "question_id": 457,
+        "answer_text": "Cat C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1823,
+        "question_id": 457,
+        "answer_text": "Cat D",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000457__img000115__457_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1820,
+        "question_id": 457,
+        "answer_text": "Cat A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1821,
+        "question_id": 457,
+        "answer_text": "Cat B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1822,
+        "question_id": 457,
+        "answer_text": "Cat C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1823,
+        "question_id": 457,
+        "answer_text": "Cat D",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 458,
+    "text": "What is the maximum allowed pressure inside a compressed gas tank?",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 1824,
+        "question_id": 458,
+        "answer_text": "5 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1825,
+        "question_id": 458,
+        "answer_text": "more then 10 bar",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1826,
+        "question_id": 458,
+        "answer_text": "8 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1827,
+        "question_id": 458,
+        "answer_text": "10 bar",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1824,
+        "question_id": 458,
+        "answer_text": "5 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1825,
+        "question_id": 458,
+        "answer_text": "more then 10 bar",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1826,
+        "question_id": 458,
+        "answer_text": "8 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1827,
+        "question_id": 458,
+        "answer_text": "10 bar",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 460,
+    "text": "A Formula student racing car weighing 185 kg and a driver weighing 75 kg is traveling 80 km/h on a flat and level surface.\\n The driver sees a cat and starts braking 1.5 seconds later with full braking force. This time includes reaction time and pre-braking time. The rave car then decelerates with 10 m/s^2.\\n After how many meters after seeing the cat does the driver come to a stop?\\n Round result to the nearest integer. Please use the following format: 12.34 ",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1833,
+        "question_id": 460,
+        "answer_text": "58",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1833,
+        "question_id": 460,
+        "answer_text": "58",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 461,
+    "text": "What is true regarding tires used at Formula Student Austria?",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 1834,
+        "question_id": 461,
+        "answer_text": "You need one set of tires for dry weather, another set od tires for wet conditions, and you are allowed to use another set for practice.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1835,
+        "question_id": 461,
+        "answer_text": "After the acceleration event the rear tires are worn down, you are allowed to replace them with tires of the same manufacturer, size and compound for the endurance event.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1836,
+        "question_id": 461,
+        "answer_text": "You are allowed to use exactly one set of dry tires and one set of wet tires.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1837,
+        "question_id": 461,
+        "answer_text": "Weather forecast is sunny, so it is possible to use only 2 set of dry tires.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1834,
+        "question_id": 461,
+        "answer_text": "You need one set of tires for dry weather, another set od tires for wet conditions, and you are allowed to use another set for practice.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1835,
+        "question_id": 461,
+        "answer_text": "After the acceleration event the rear tires are worn down, you are allowed to replace them with tires of the same manufacturer, size and compound for the endurance event.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1836,
+        "question_id": 461,
+        "answer_text": "You are allowed to use exactly one set of dry tires and one set of wet tires.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1837,
+        "question_id": 461,
+        "answer_text": "Weather forecast is sunny, so it is possible to use only 2 set of dry tires.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 462,
+    "text": "On your vehicles CAN network, two nodes have a message with the same ID queued:\\n - Node A: ID 0x123, DLC 4, Date 0x55 0x55 0x55\\n - Node B: ID 0x123, DLC 2, Date 0x00 0x00\\n Both nodes start transmitting at the same time, which message will reach node C, which is setup to receive any 0x123 message, first if there is only a single attempt to transmit?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1838,
+        "question_id": 462,
+        "answer_text": "Node A, because Data Byte 0 has the higher value",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1839,
+        "question_id": 462,
+        "answer_text": "Node B, because Data Byte o has the lower value",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1840,
+        "question_id": 462,
+        "answer_text": "Node B, because the DLC has the lower value",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1841,
+        "question_id": 462,
+        "answer_text": "neither, this will cause a collision on the bus",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1838,
+        "question_id": 462,
+        "answer_text": "Node A, because Data Byte 0 has the higher value",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1839,
+        "question_id": 462,
+        "answer_text": "Node B, because Data Byte o has the lower value",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1840,
+        "question_id": 462,
+        "answer_text": "Node B, because the DLC has the lower value",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1841,
+        "question_id": 462,
+        "answer_text": "neither, this will cause a collision on the bus",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 463,
+    "text": "For what DBOM entries are processes needed?",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 1842,
+        "question_id": 463,
+        "answer_text": "For the manufacturing steps of every made part",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1843,
+        "question_id": 463,
+        "answer_text": "For every made part, building assemblies out of parts and mounting it to the car",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1844,
+        "question_id": 463,
+        "answer_text": "For the manufacturing steps of every bought part and made part",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1845,
+        "question_id": 463,
+        "answer_text": "For every made part and building assemblies out of parts",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1842,
+        "question_id": 463,
+        "answer_text": "For the manufacturing steps of every made part",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1843,
+        "question_id": 463,
+        "answer_text": "For every made part, building assemblies out of parts and mounting it to the car",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1844,
+        "question_id": 463,
+        "answer_text": "For the manufacturing steps of every bought part and made part",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1845,
+        "question_id": 463,
+        "answer_text": "For every made part and building assemblies out of parts",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 464,
+    "text": "Substances A and B both have a Face Centered Cubic Structure.\\n The atomic mass of B is twice that of A, and the lattice constant of B is half that of A.\\n What is the ratio of the theoretical density of B to the theoretical density of A (ρ B /ρ A)?",
+    "type": "single-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 1846,
+        "question_id": 464,
+        "answer_text": "4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1847,
+        "question_id": 464,
+        "answer_text": "8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1848,
+        "question_id": 464,
+        "answer_text": "9",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1849,
+        "question_id": 464,
+        "answer_text": "16",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1846,
+        "question_id": 464,
+        "answer_text": "4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1847,
+        "question_id": 464,
+        "answer_text": "8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1848,
+        "question_id": 464,
+        "answer_text": "9",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1849,
+        "question_id": 464,
+        "answer_text": "16",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      43,
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 465,
+    "text": "You have a reciprocating single piston engine with 500 cm^3 displacement and a bore to stroke ratio of 1/0.7 which generates a peak power of 50 hp @ 8850 rpm.\\n You want MORE power and switch to a four piston engine with the smae total displacement, same bore to stroke ratio and the same average piston speed and same torque at its peak power point.\\n What is your new peak power figure?\\n Give the answer in Horsepower [hp], and round two decimals (i.e. 1.12).",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1850,
+        "question_id": 465,
+        "answer_text": "79.37",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1850,
+        "question_id": 465,
+        "answer_text": "79.37",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      44
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

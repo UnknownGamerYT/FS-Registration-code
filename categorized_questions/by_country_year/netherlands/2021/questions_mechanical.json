@@ -1,0 +1,726 @@
+[
+  {
+    "question_id": 538,
+    "text": "What is true about front hoop bracing?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2086,
+        "question_id": 538,
+        "answer_text": "If the front hoop is inclined to the front, additional braces are required",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2087,
+        "question_id": 538,
+        "answer_text": "In side view, bended front hoop bracings are allowed as long as proper triangulation is used",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2088,
+        "question_id": 538,
+        "answer_text": "The front hoop bracings may be attached within 100mm from the top-most surface of the front hoop, if the front hoop is declined to the rear and additional braces are used.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2089,
+        "question_id": 538,
+        "answer_text": "Front hoop bracings must extend beyond the driver’s feet.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 81,
+        "question_id": 538,
+        "text": "T3.11 The front hoop bracing attaches on each side of the front hoop as well as the structure forward of the driver’s feet. A minimum of two tubes without any bends must be straight on a line in side view of the frame",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2086,
+        "question_id": 538,
+        "answer_text": "If the front hoop is inclined to the front, additional braces are required",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2087,
+        "question_id": 538,
+        "answer_text": "In side view, bended front hoop bracings are allowed as long as proper triangulation is used",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2088,
+        "question_id": 538,
+        "answer_text": "The front hoop bracings may be attached within 100mm from the top-most surface of the front hoop, if the front hoop is declined to the rear and additional braces are used.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2089,
+        "question_id": 538,
+        "answer_text": "Front hoop bracings must extend beyond the driver’s feet.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 542,
+    "text": "What is not accepted as a critical fastener?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2102,
+        "question_id": 542,
+        "answer_text": "Grade 10.9 steel nuts with thread-locking fluid (i.e. Loctite)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2103,
+        "question_id": 542,
+        "answer_text": "M8 Nylon lock nuts",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2104,
+        "question_id": 542,
+        "answer_text": "35CrMo4 Jet nuts",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2105,
+        "question_id": 542,
+        "answer_text": "Steel Tab Washers",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 85,
+        "question_id": 542,
+        "text": "T10.2.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2102,
+        "question_id": 542,
+        "answer_text": "Grade 10.9 steel nuts with thread-locking fluid (i.e. Loctite)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2103,
+        "question_id": 542,
+        "answer_text": "M8 Nylon lock nuts",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2104,
+        "question_id": 542,
+        "answer_text": "35CrMo4 Jet nuts",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2105,
+        "question_id": 542,
+        "answer_text": "Steel Tab Washers",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 543,
+    "text": "The Wet Skid Pad World Record was set at FSN2019 by TU Delft. They managed to set a time of 4.901 for the left circle and a time of 5.031 for the right circle. Assume the run was completed perfectly along the center line of the circles.\\n What was their average speed during this record run?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2106,
+        "question_id": 543,
+        "answer_text": "9.65 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2107,
+        "question_id": 543,
+        "answer_text": "11.55 m/s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2108,
+        "question_id": 543,
+        "answer_text": "13.44 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2109,
+        "question_id": 543,
+        "answer_text": "15.34 m/s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 86,
+        "question_id": 543,
+        "text": "Runtime (D4.4.1) = (4.901+5.031)/2 = 4.966 s\\n Distance (D4.1.2) = 18.25 * π ≈ 57.334 m\\n Speed = 57.334 / 4.966 ≈ 11.55 m/s",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2106,
+        "question_id": 543,
+        "answer_text": "9.65 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2107,
+        "question_id": 543,
+        "answer_text": "11.55 m/s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2108,
+        "question_id": 543,
+        "answer_text": "13.44 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2109,
+        "question_id": 543,
+        "answer_text": "15.34 m/s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 545,
+    "text": "What is the minimum ground clearance, with the driver seated?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2114,
+        "question_id": 545,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2115,
+        "question_id": 545,
+        "answer_text": "30 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2116,
+        "question_id": 545,
+        "answer_text": "40 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2117,
+        "question_id": 545,
+        "answer_text": "50 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 88,
+        "question_id": 545,
+        "text": "T2.3.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2114,
+        "question_id": 545,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2115,
+        "question_id": 545,
+        "answer_text": "30 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2116,
+        "question_id": 545,
+        "answer_text": "40 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2117,
+        "question_id": 545,
+        "answer_text": "50 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 548,
+    "text": "What is true about firewalls?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2127,
+        "question_id": 548,
+        "answer_text": "A) Wires cannot run through a firewall",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2128,
+        "question_id": 548,
+        "answer_text": "B) Hydraulic fluid lines must be separated from the drivers compartment by a firewall",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2129,
+        "question_id": 548,
+        "answer_text": "C) A firewall must be made of a single panel",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2130,
+        "question_id": 548,
+        "answer_text": "D) A firewall cannot be used for heat insulation of the driver compartment",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 91,
+        "question_id": 548,
+        "text": "A is false: T4.8.5\\n B is true: T4.8.1\\n C is false: T4.8.6\\n D is false: T4.6.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2127,
+        "question_id": 548,
+        "answer_text": "A) Wires cannot run through a firewall",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2128,
+        "question_id": 548,
+        "answer_text": "B) Hydraulic fluid lines must be separated from the drivers compartment by a firewall",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2129,
+        "question_id": 548,
+        "answer_text": "C) A firewall must be made of a single panel",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2130,
+        "question_id": 548,
+        "answer_text": "D) A firewall cannot be used for heat insulation of the driver compartment",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 549,
+    "text": "Besides displacement, what terms are used to define your engine in the design spec sheet?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2131,
+        "question_id": 549,
+        "answer_text": "Diameter and Length",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2132,
+        "question_id": 549,
+        "answer_text": "Diameter and Stroke",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2133,
+        "question_id": 549,
+        "answer_text": "Bore and Length",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2134,
+        "question_id": 549,
+        "answer_text": "Bore and Stroke",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 92,
+        "question_id": 549,
+        "text": "Bore and Stroke are typically used in the DSS to define engine size",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2131,
+        "question_id": 549,
+        "answer_text": "Diameter and Length",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2132,
+        "question_id": 549,
+        "answer_text": "Diameter and Stroke",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2133,
+        "question_id": 549,
+        "answer_text": "Bore and Length",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2134,
+        "question_id": 549,
+        "answer_text": "Bore and Stroke",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 550,
+    "text": "What factor is not used to determine the RPM level for the noise test?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2135,
+        "question_id": 550,
+        "answer_text": "Bore",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2136,
+        "question_id": 550,
+        "answer_text": "Piston Speed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2137,
+        "question_id": 550,
+        "answer_text": "Engine RPM",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2138,
+        "question_id": 550,
+        "answer_text": "Stroke",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 93,
+        "question_id": 550,
+        "text": "CV3.2 / IN10.1.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2135,
+        "question_id": 550,
+        "answer_text": "Bore",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2136,
+        "question_id": 550,
+        "answer_text": "Piston Speed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2137,
+        "question_id": 550,
+        "answer_text": "Engine RPM",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2138,
+        "question_id": 550,
+        "answer_text": "Stroke",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 553,
+    "text": "What is true about electrical systems for CV Class vehicles?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2147,
+        "question_id": 553,
+        "answer_text": "A) Inertia switches may be reset via an electrical connection",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2148,
+        "question_id": 553,
+        "answer_text": "B) The maximum permitted voltage in the low voltage system is 60 V DC or 30 V AC RMS",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2149,
+        "question_id": 553,
+        "answer_text": "C) CV Class vehicles can have high voltage systems",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2150,
+        "question_id": 553,
+        "answer_text": "D) LV masters switches must be installed on either side of the vehicle",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 96,
+        "question_id": 553,
+        "text": "A is false: T11.5.1 , B is false: T11.1.2 , C is true: T11.1.3 , D is false: T11.2.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2147,
+        "question_id": 553,
+        "answer_text": "A) Inertia switches may be reset via an electrical connection",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2148,
+        "question_id": 553,
+        "answer_text": "B) The maximum permitted voltage in the low voltage system is 60 V DC or 30 V AC RMS",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2149,
+        "question_id": 553,
+        "answer_text": "C) CV Class vehicles can have high voltage systems",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2150,
+        "question_id": 553,
+        "answer_text": "D) LV masters switches must be installed on either side of the vehicle",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 554,
+    "text": "Which of the following equations is a basic principle of electrical engineering?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 97,
+        "question_id": 554,
+        "text": "Ohm’s law formula",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      55,
+      70
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]

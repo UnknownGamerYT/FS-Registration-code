@@ -1,0 +1,362 @@
+[
+  {
+    "question_id": 391,
+    "text": "How many percentage of points is the Cost Understanding in the Overall Cost and Manufacturing Event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1583,
+        "question_id": 391,
+        "answer_text": "35",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1584,
+        "question_id": 391,
+        "answer_text": "50",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1585,
+        "question_id": 391,
+        "answer_text": "30",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1586,
+        "question_id": 391,
+        "answer_text": "40",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1583,
+        "question_id": 391,
+        "answer_text": "35",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1584,
+        "question_id": 391,
+        "answer_text": "50",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1585,
+        "question_id": 391,
+        "answer_text": "30",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1586,
+        "question_id": 391,
+        "answer_text": "40",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 399,
+    "text": "On the Endurance Day of FS East, a rabbit from the woods near the Hungaroring shows up on the event site and runs through it. Which of the following statements is/are true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1614,
+        "question_id": 399,
+        "answer_text": "The rabbit, running through the track, could be penalized, because it is not wearing the dynamic wristband, nor the needed clothes for safety.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1615,
+        "question_id": 399,
+        "answer_text": "According to experiences of earlier FS EASTs, the rabbit, if it wants to take part in the Endurance run, can mount the transponder on its forehead, arranged from nose to ears orientation.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1616,
+        "question_id": 399,
+        "answer_text": "The rabbit should slow down because running is prohibited on the event site otherwise, it can go any part of the event site.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1617,
+        "question_id": 399,
+        "answer_text": "The rabbit misses a corner and runs wide between two cones on the outer side of the track. If it switches to reverse and goes backward onto the track between the same cones, no penalty will be given out.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1614,
+        "question_id": 399,
+        "answer_text": "The rabbit, running through the track, could be penalized, because it is not wearing the dynamic wristband, nor the needed clothes for safety.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1615,
+        "question_id": 399,
+        "answer_text": "According to experiences of earlier FS EASTs, the rabbit, if it wants to take part in the Endurance run, can mount the transponder on its forehead, arranged from nose to ears orientation.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1616,
+        "question_id": 399,
+        "answer_text": "The rabbit should slow down because running is prohibited on the event site otherwise, it can go any part of the event site.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1617,
+        "question_id": 399,
+        "answer_text": "The rabbit misses a corner and runs wide between two cones on the outer side of the track. If it switches to reverse and goes backward onto the track between the same cones, no penalty will be given out.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 401,
+    "text": "What will be the procedure of the manual acceleration event in 2022?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1622,
+        "question_id": 401,
+        "answer_text": "2 drivers are is allowed to run from each team, performing 4 runs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1623,
+        "question_id": 401,
+        "answer_text": "2 drivers are is allowed to run from each team, performing 2 runs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1624,
+        "question_id": 401,
+        "answer_text": "1 driver is allowed to run from each team, performing 4 runs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1625,
+        "question_id": 401,
+        "answer_text": "1 driver is allowed to run from each team, performing 2 runs. ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1622,
+        "question_id": 401,
+        "answer_text": "2 drivers are is allowed to run from each team, performing 4 runs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1623,
+        "question_id": 401,
+        "answer_text": "2 drivers are is allowed to run from each team, performing 2 runs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1624,
+        "question_id": 401,
+        "answer_text": "1 driver is allowed to run from each team, performing 4 runs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1625,
+        "question_id": 401,
+        "answer_text": "1 driver is allowed to run from each team, performing 2 runs. ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 402,
+    "text": "How many years ago did FS East have the last Cost Real Case at the competition?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1626,
+        "question_id": 402,
+        "answer_text": "3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1627,
+        "question_id": 402,
+        "answer_text": "5",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1628,
+        "question_id": 402,
+        "answer_text": "7",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1629,
+        "question_id": 402,
+        "answer_text": "1",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1626,
+        "question_id": 402,
+        "answer_text": "3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1627,
+        "question_id": 402,
+        "answer_text": "5",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1628,
+        "question_id": 402,
+        "answer_text": "7",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1629,
+        "question_id": 402,
+        "answer_text": "1",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 404,
+    "text": "Which method shows the causes of an event and is often used in manufacturing and product development to outline the different steps in a process, demonstrate where quality control issues might arise, and determine which resources are required at specific times?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1634,
+        "question_id": 404,
+        "answer_text": "5S",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1635,
+        "question_id": 404,
+        "answer_text": "6σ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1636,
+        "question_id": 404,
+        "answer_text": "Ishikawa ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1637,
+        "question_id": 404,
+        "answer_text": "Poke Yoke",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1634,
+        "question_id": 404,
+        "answer_text": "5S",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1635,
+        "question_id": 404,
+        "answer_text": "6σ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1636,
+        "question_id": 404,
+        "answer_text": "Ishikawa ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1637,
+        "question_id": 404,
+        "answer_text": "Poke Yoke",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

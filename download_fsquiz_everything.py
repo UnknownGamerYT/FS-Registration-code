@@ -156,6 +156,60 @@ def extract_answer_options(qfull: Dict[str, Any]) -> List[Dict[str, Any]]:
     return []
 
 
+def build_quiz_meta(events: List[Dict[str, Any]], quizzes: List[Dict[str, Any]]) -> Dict[int, Dict[str, Any]]:
+    events_by_id = {e.get("id"): e for e in events}
+    quiz_to_event: Dict[int, int] = {}
+    for ev in events:
+        ev_id = ev.get("id")
+        for qz in ev.get("quizzes", []) or []:
+            qid = qz.get("quiz_id")
+            if qid is not None and ev_id is not None:
+                quiz_to_event[int(qid)] = int(ev_id)
+
+    meta: Dict[int, Dict[str, Any]] = {}
+    for qz in quizzes:
+        qid = qz.get("quiz_id")
+        if qid is None:
+            continue
+        ev_id = qz.get("event_id") or quiz_to_event.get(int(qid))
+        ev = events_by_id.get(ev_id, {})
+        meta[int(qid)] = {
+            "quiz_id": int(qid),
+            "year": qz.get("year"),
+            "class": qz.get("class"),
+            "event_id": ev_id,
+            "country": ev.get("country"),
+            "event_name": ev.get("event_name") or ev.get("short_name"),
+        }
+    return meta
+
+
+def enrich_question_meta(q: Dict[str, Any], quiz_meta: Dict[int, Dict[str, Any]]) -> Dict[str, Any]:
+    quiz_ids: List[int] = []
+    years: List[Any] = []
+    countries: List[Any] = []
+    events: List[Any] = []
+    for qref in q.get("quizzes", []) or []:
+        qzid = qref.get("quiz_id")
+        if qzid is None:
+            continue
+        quiz_ids.append(int(qzid))
+        qm = quiz_meta.get(int(qzid))
+        if qm:
+            if qm.get("year") is not None and qm["year"] not in years:
+                years.append(qm["year"])
+            if qm.get("country") is not None and qm["country"] not in countries:
+                countries.append(qm["country"])
+            if qm.get("event_name") and qm["event_name"] not in events:
+                events.append(qm["event_name"])
+    return {
+        "quiz_ids": quiz_ids,
+        "years": years,
+        "countries": countries,
+        "events": events,
+    }
+
+
 def main():
     print("Downloading FS-Quiz dataset (full) + images + solutions + merged Q&A…")
 
@@ -292,19 +346,31 @@ def main():
 
     print(f"   solutions linked to questions: {len(sol_by_qid)} question_ids (unlinked solutions: {unlinked})")
 
-    # 9) Produce merged Q&A file
+    # 9) Enrich questions with country/year metadata
+    quiz_meta = build_quiz_meta(events, quizzes)
+    questions_full_enriched: List[Dict[str, Any]] = []
     merged: List[Dict[str, Any]] = []
+
     for q in questions_full:
         qid = safe_int(q.get("question_id")) or 0
+        meta = enrich_question_meta(q, quiz_meta)
+        q_enriched = dict(q)
+        q_enriched.update(meta)
+        questions_full_enriched.append(q_enriched)
+
         merged.append({
             "question_id": qid,
             "text": q.get("text"),
             "type": q.get("type"),
             "time": q.get("time"),
-            "answer_options": extract_answer_options(q),          # possible answers (if provided)
-            "solutions": sol_by_qid.get(qid, []),                # contains correct answers if public
+            "answer_options": extract_answer_options(q),
+            "solutions": sol_by_qid.get(qid, []),
             "question_images": question_images.get(str(qid), []),
-            "answers": question_answers.get(str(qid), []),       # answers fetched via API
+            "answers": question_answers.get(str(qid), []),
+            "quiz_ids": meta["quiz_ids"],
+            "years": meta["years"],
+            "countries": meta["countries"],
+            "events": meta["events"],
         })
 
     # 10) Write outputs
@@ -315,7 +381,7 @@ def main():
         "events": events,
         "quizzes_short": quizzes,
         "quizzes_info": quizzes_info,
-        "questions_full": questions_full,
+        "questions_full": questions_full_enriched,
         "question_answers": question_answers,
         "solutions": solutions,
         "question_images": question_images,

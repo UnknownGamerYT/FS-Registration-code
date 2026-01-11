@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": 275,
+    "text": "The energy meter to be installed in the car for the dynamic events...",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1083,
+        "question_id": 275,
+        "answer_text": "Can be removed from the car between events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1084,
+        "question_id": 275,
+        "answer_text": "Can be manipulated if you do not brake it ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1085,
+        "question_id": 275,
+        "answer_text": "Must be in an easily accessible location so that the recorded data can be quickly downloaded by the officials after the Endurance Event ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1086,
+        "question_id": 275,
+        "answer_text": "Must be installed once the car has succesfully passed scrutineering ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1083,
+        "question_id": 275,
+        "answer_text": "Can be removed from the car between events ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1084,
+        "question_id": 275,
+        "answer_text": "Can be manipulated if you do not brake it ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1085,
+        "question_id": 275,
+        "answer_text": "Must be in an easily accessible location so that the recorded data can be quickly downloaded by the officials after the Endurance Event ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1086,
+        "question_id": 275,
+        "answer_text": "Must be installed once the car has succesfully passed scrutineering ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 286,
+    "text": "The FSS Endurance Event has a maximum score of ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1127,
+        "question_id": 286,
+        "answer_text": "300 points ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1128,
+        "question_id": 286,
+        "answer_text": "325 points ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1129,
+        "question_id": 286,
+        "answer_text": "250 points ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1130,
+        "question_id": 286,
+        "answer_text": "350 points ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1127,
+        "question_id": 286,
+        "answer_text": "300 points ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1128,
+        "question_id": 286,
+        "answer_text": "325 points ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1129,
+        "question_id": 286,
+        "answer_text": "250 points ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1130,
+        "question_id": 286,
+        "answer_text": "350 points ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 288,
+    "text": "Passing during Endurance may only be done...",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1135,
+        "question_id": 288,
+        "answer_text": "In the designated passing zones and under the control of the track officials ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1136,
+        "question_id": 288,
+        "answer_text": "Electric cars in rain test ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1137,
+        "question_id": 288,
+        "answer_text": "When, the race is marked as wet race at the technical inspection prior to the dynamic tests ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1138,
+        "question_id": 288,
+        "answer_text": "No need to test for combustion cars, and in technical inspection for electric cars ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1135,
+        "question_id": 288,
+        "answer_text": "In the designated passing zones and under the control of the track officials ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1136,
+        "question_id": 288,
+        "answer_text": "Electric cars in rain test ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1137,
+        "question_id": 288,
+        "answer_text": "When, the race is marked as wet race at the technical inspection prior to the dynamic tests ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1138,
+        "question_id": 288,
+        "answer_text": "No need to test for combustion cars, and in technical inspection for electric cars ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      27
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  }
+]

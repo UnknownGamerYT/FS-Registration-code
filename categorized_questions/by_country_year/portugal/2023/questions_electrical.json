@@ -1,0 +1,54 @@
+[
+  {
+    "question_id": 573,
+    "text": "You designed a new discharge circuit for your inverter. Your maximum DC Link Voltage is 500V and you have a DC Link capacity of 400 pF. Your circuit discharges with a constant current of 50 mA and has a maximum operating Temperature of 125°C. The used cooling plate has a Thermal capacity of 3 J/K and a thermal resistance to the surrounding air of 0.2 W/K. Other thermal interfaces can be regarded as ideal. Is your circuit rules compliant?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2193,
+        "question_id": 573,
+        "answer_text": "yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2194,
+        "question_id": 573,
+        "answer_text": "no",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2193,
+        "question_id": 573,
+        "answer_text": "yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2194,
+        "question_id": 573,
+        "answer_text": "no",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]

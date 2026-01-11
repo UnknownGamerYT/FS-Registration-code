@@ -1,0 +1,695 @@
+[
+  {
+    "question_id": 675,
+    "text": "You wanted to use a CAN bus (CAN 2.0A) to transmit the original Schokolade! - Spongebob Squarepants feat. 9MK2 Remix from YouTube (https://www.youtube.com/watch?v=WuQOfiD7gNg). Your CAN bus has a data rate of 500 kbit/s. The song is available at a constant quality of 128 kbit/s. Specify how many frames you need in total to be able to transmit the complete song via the CAN bus and how long this will take.\\n Assume the best case and round the time to seconds.\\n Answer format: count, time \\n Example: 1234, 12",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2533,
+        "question_id": 675,
+        "answer_text": "580000, 129",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 134,
+        "question_id": 675,
+        "text": "Song length: 4m50s = 290s\\n \nSong data size: 290s * 128 kBit/s = 37120000\\n \nCAN bus frame length: 108 bit (best case no bit stuffing) + 3 bit interframe space\\n \nData per frame: 64 bit (best case)\\n \nTotal number of frames: 37120000 bit / 64 bit = 580000\\n \nDuration of the transmission: 580000 * 111 bit / 500 kBit/s = 128.76 = 129\\n ",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2533,
+        "question_id": 675,
+        "answer_text": "580000, 129",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 676,
+    "text": "A wedge of weight mg with the opening angle a is loaded as sketched by a vertical force P on the upper side. All contacts are frictionless and the following relationship applies between the horizontal and vertical components of the virtual displacement of the wedge (see dotted lines).\\n How large must the horizontal force F be to keep the wedge in balance?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2534,
+        "question_id": 676,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2535,
+        "question_id": 676,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2536,
+        "question_id": 676,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2537,
+        "question_id": 676,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000676__img000177__676_1.jpg",
+      "images\\q000676__img000178__676_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2534,
+        "question_id": 676,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2535,
+        "question_id": 676,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2536,
+        "question_id": 676,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2537,
+        "question_id": 676,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 677,
+    "text": "You want to break through the separation of always the same music at the events on the camping site and are therefore planning to take an organ with you. As the purchase of an organ is beyond your budget and you still have old exhaust pipes available anyway, you decide to build them yourself.\\n Since you want to build a deeper sounding organ, you close one side of each organ pipe.\\n Calculate the length at which you have to cut off the exhaust pipe for a note with a frequency of 880 Hz at the first overtone.\\n c = 343 m/s\\n Round to four decimal places.\\n Answer example: 1.2345",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 2538,
+        "question_id": 677,
+        "answer_text": "0.2923",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 138,
+        "question_id": 677,
+        "text": null,
+        "images": [
+          {
+            "img_id": 183,
+            "path": "solutions/677_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2538,
+        "question_id": 677,
+        "answer_text": "0.2923",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 678,
+    "text": "The FSG Alpaca Fred an the FSA Cats Werner, Snowball, Rex, Purrlovia, Kat, Samantha are invited to an aftershow party in a bar on the last day of FSA 2024.\\n You are the party planner and designated to assign places and party hats for the 7 participants given these rules:\\n Order from left to right. Left is the the closest spot to the beer keg while right is right next to the window.\\n Werner and Rex are brothers. They want everybody to know it by wearing the same colored party hat. No one else should have their color.\\n Rex is Purrlovias father. They don't like to sit next to each other.\\n On Wednesdays it's Bean Burrito Day. Because of that Kat prefers to stay at least 2 seats away from Fred on Wednesdays and Thursdays.\\n Fred has a crush on Samantha but is too shy to sit next to her.\\n Samantha refuses to sit next to Kat, unless its Tuesday.\\n When its full moon then Werner wants to sit right next to the window, otherwise he prefers sitting 3 or less seats away from the beer keg.\\n Purrlovia refuses to war the color red.\\n If its Friday Fred refuses to wear green.\\n Which of the following seat and party hat orders are feasible:",
+    "type": "multi-choice",
+    "time": 420,
+    "answer_options": [
+      {
+        "answer_id": 2539,
+        "question_id": 678,
+        "answer_text": "A: Snowball (purple) - Rex (yellow) - Kat (orange) - Purrlovia (red) - Samantha (orange) - Fred (lime) - Werner (yellow)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2540,
+        "question_id": 678,
+        "answer_text": "B: Fred (green) - Werner (red) - Samantha (green) - Snowball (blue) - Rex (red) - Kat (blue) - Purrlovia (blue)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2541,
+        "question_id": 678,
+        "answer_text": "C: Purrlovia (blue) - Werner (red) - Samantha (red) - Fred (red) - Rex (green) - Snowball (yellow) - Kat (yellow)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2542,
+        "question_id": 678,
+        "answer_text": "D: Werner (green) - Purrlovia (red) - Kat (blue) - Rex (green) - Fred (green) - Samantha (blue) - Snowball (red)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2543,
+        "question_id": 678,
+        "answer_text": "E: Kat (blue) - Purrlovia (green) - Werner (yellow) - Samantha (purple) - Rex (yellow) - Fred (green) - Snowball (red)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2544,
+        "question_id": 678,
+        "answer_text": "F: Rex (red) - Werner (red) - Kat (yellow) - Snowball (blue) - Purrlovia (blue) - Samantha (yellow) - Fred (green)",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2539,
+        "question_id": 678,
+        "answer_text": "A: Snowball (purple) - Rex (yellow) - Kat (orange) - Purrlovia (red) - Samantha (orange) - Fred (lime) - Werner (yellow)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2540,
+        "question_id": 678,
+        "answer_text": "B: Fred (green) - Werner (red) - Samantha (green) - Snowball (blue) - Rex (red) - Kat (blue) - Purrlovia (blue)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2541,
+        "question_id": 678,
+        "answer_text": "C: Purrlovia (blue) - Werner (red) - Samantha (red) - Fred (red) - Rex (green) - Snowball (yellow) - Kat (yellow)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2542,
+        "question_id": 678,
+        "answer_text": "D: Werner (green) - Purrlovia (red) - Kat (blue) - Rex (green) - Fred (green) - Samantha (blue) - Snowball (red)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2543,
+        "question_id": 678,
+        "answer_text": "E: Kat (blue) - Purrlovia (green) - Werner (yellow) - Samantha (purple) - Rex (yellow) - Fred (green) - Snowball (red)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2544,
+        "question_id": 678,
+        "answer_text": "F: Rex (red) - Werner (red) - Kat (yellow) - Snowball (blue) - Purrlovia (blue) - Samantha (yellow) - Fred (green)",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 679,
+    "text": "Which Statement about the EDR is true?",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 2545,
+        "question_id": 679,
+        "answer_text": "A: Any portions of the EDR that exceed five pages of content and/or three pages of drawings will not be evaluated",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2546,
+        "question_id": 679,
+        "answer_text": "B: Any portions of the EDR that exceed ten pages of content and/or five pages of drawings will not be evaluated",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2547,
+        "question_id": 679,
+        "answer_text": "C: Any portions of the EDR that exceed three pages of content and/or five pages of drawings will not be evaluated",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2548,
+        "question_id": 679,
+        "answer_text": "D: The portion of the drawings in the EDR is unlimited",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 135,
+        "question_id": 679,
+        "text": "FS Rule 2024: S 3.2.5",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2545,
+        "question_id": 679,
+        "answer_text": "A: Any portions of the EDR that exceed five pages of content and/or three pages of drawings will not be evaluated",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2546,
+        "question_id": 679,
+        "answer_text": "B: Any portions of the EDR that exceed ten pages of content and/or five pages of drawings will not be evaluated",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2547,
+        "question_id": 679,
+        "answer_text": "C: Any portions of the EDR that exceed three pages of content and/or five pages of drawings will not be evaluated",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2548,
+        "question_id": 679,
+        "answer_text": "D: The portion of the drawings in the EDR is unlimited",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 680,
+    "text": "For All TS wiring that runs outside of TS enclosures, which of the following is not true?",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 2549,
+        "question_id": 680,
+        "answer_text": "A: Been closed in separate orange non-conductive conduit or use an orange shielded cable. The conduit must be securely anchored to the vehicle, but not to wire, at least at each end.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2550,
+        "question_id": 680,
+        "answer_text": "B: Be securely anchored at least at each end so that it can withstand a force of 200N without straining the cable end crimp.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2551,
+        "question_id": 680,
+        "answer_text": "C: Be securely anchored at one end so that it can withstand a force of 200N without straining the cable end crimp.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2552,
+        "question_id": 680,
+        "answer_text": "D: Body work is not sufficient to meet this enclosure requirement.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 136,
+        "question_id": 680,
+        "text": "FS Rule 2024: EV 4.5.8",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2549,
+        "question_id": 680,
+        "answer_text": "A: Been closed in separate orange non-conductive conduit or use an orange shielded cable. The conduit must be securely anchored to the vehicle, but not to wire, at least at each end.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2550,
+        "question_id": 680,
+        "answer_text": "B: Be securely anchored at least at each end so that it can withstand a force of 200N without straining the cable end crimp.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2551,
+        "question_id": 680,
+        "answer_text": "C: Be securely anchored at one end so that it can withstand a force of 200N without straining the cable end crimp.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2552,
+        "question_id": 680,
+        "answer_text": "D: Body work is not sufficient to meet this enclosure requirement.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 681,
+    "text": "Which of the following is incorrect for the firewall?",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 2553,
+        "question_id": 681,
+        "answer_text": "A: Multiple panels may be used to form the firewall but must overlap atleast 5mm and be sealed at the joints.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2554,
+        "question_id": 681,
+        "answer_text": "B: Sealing material may be considered vital to the structural integrity of the firewall.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2555,
+        "question_id": 681,
+        "answer_text": "C: Pass-throughs for wiring, cables, etc. are permitted if grommets are used to seal the passthrough.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2556,
+        "question_id": 681,
+        "answer_text": "D: Any firewall must seal completely against the passage of fluids, especially at the sides and the floor of the cockpit.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 137,
+        "question_id": 681,
+        "text": "FS Rule 2024: T 4.8.2-5",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2553,
+        "question_id": 681,
+        "answer_text": "A: Multiple panels may be used to form the firewall but must overlap atleast 5mm and be sealed at the joints.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2554,
+        "question_id": 681,
+        "answer_text": "B: Sealing material may be considered vital to the structural integrity of the firewall.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2555,
+        "question_id": 681,
+        "answer_text": "C: Pass-throughs for wiring, cables, etc. are permitted if grommets are used to seal the passthrough.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2556,
+        "question_id": 681,
+        "answer_text": "D: Any firewall must seal completely against the passage of fluids, especially at the sides and the floor of the cockpit.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 683,
+    "text": "At your university there is a district heating network which is operated by a gas turbine. As an extension to your workshop is imminent, you want to know whether the output of the gas turbine is sufficient. How it works: In the gas turbine, air is compressed adiabatically and reversibly (1 → 2), then heated isobarically (2 → 3) and expanded adiabatically and reversibly (3 → 4). In the subsequent heat exchanger, isobaric cooling of the air from T4 to T5 causes a water mass flow of boiling liquid (6) to evaporate isobarically just completely (7). The flow diagram is shown in the following figure as well as further details.\\n Assumptions:\\n - Air can be regarded as an ideal gas.\\n - Water is a real substance.- It is a stationary flow process.\\n - All components are adiabatic to the outside.\\n - Differences in kinetic and potential energies can be neglected.\\n What is the efficiency of the gas turbine in percent (total of the components compressor, heat supply and expander)?\\n Round to two decimal places. Example: 12.34",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2558,
+        "question_id": 683,
+        "answer_text": "50.33",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 140,
+        "question_id": 683,
+        "text": null,
+        "images": [
+          {
+            "img_id": 184,
+            "path": "solutions/683_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000683__img000181__683_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2558,
+        "question_id": 683,
+        "answer_text": "50.33",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 684,
+    "text": "Which statements are true?",
+    "type": "multi-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2559,
+        "question_id": 684,
+        "answer_text": "A: The maximumd driver egress time for a driver to exit the vehicle from a fully seated position is 10 seconds.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2560,
+        "question_id": 684,
+        "answer_text": "B: The minimum sleeve lenght for sleeved joints is 40mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2562,
+        "question_id": 684,
+        "answer_text": "C: The minimum tread depth for wet tires is 2.1 mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2563,
+        "question_id": 684,
+        "answer_text": "D: The requirements for a power device used to move or remove air from under the vehicle are as following: less than 50 mm x 50 mm x 100 mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2564,
+        "question_id": 684,
+        "answer_text": "E: The catch-cans can be mounted under the driver seat.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2565,
+        "question_id": 684,
+        "answer_text": "F: A single line LEDs brake light can have the length of 150 mm.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2566,
+        "question_id": 684,
+        "answer_text": "G: The Brake System Plausibility Device (BSPD) must open the shutdown circuit when hard braking occurs whilst for more than 500 ms.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2567,
+        "question_id": 684,
+        "answer_text": "H: Your team will receive 5 penalty points, which will be deducted from the teams cost score if the submitted CRD does not match the uploaded version.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2568,
+        "question_id": 684,
+        "answer_text": "I: In the case of not being able to run the presentation in the assigned time, the BBP is rated with zero points.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2569,
+        "question_id": 684,
+        "answer_text": "J: The precharging circuit must be charged to at least 90 % of the TS voltage, supplied by the isolating circuit and the entire precharging current must flow through this relay.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2559,
+        "question_id": 684,
+        "answer_text": "A: The maximumd driver egress time for a driver to exit the vehicle from a fully seated position is 10 seconds.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2560,
+        "question_id": 684,
+        "answer_text": "B: The minimum sleeve lenght for sleeved joints is 40mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2562,
+        "question_id": 684,
+        "answer_text": "C: The minimum tread depth for wet tires is 2.1 mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2563,
+        "question_id": 684,
+        "answer_text": "D: The requirements for a power device used to move or remove air from under the vehicle are as following: less than 50 mm x 50 mm x 100 mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2564,
+        "question_id": 684,
+        "answer_text": "E: The catch-cans can be mounted under the driver seat.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2565,
+        "question_id": 684,
+        "answer_text": "F: A single line LEDs brake light can have the length of 150 mm.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2566,
+        "question_id": 684,
+        "answer_text": "G: The Brake System Plausibility Device (BSPD) must open the shutdown circuit when hard braking occurs whilst for more than 500 ms.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2567,
+        "question_id": 684,
+        "answer_text": "H: Your team will receive 5 penalty points, which will be deducted from the teams cost score if the submitted CRD does not match the uploaded version.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2568,
+        "question_id": 684,
+        "answer_text": "I: In the case of not being able to run the presentation in the assigned time, the BBP is rated with zero points.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2569,
+        "question_id": 684,
+        "answer_text": "J: The precharging circuit must be charged to at least 90 % of the TS voltage, supplied by the isolating circuit and the entire precharging current must flow through this relay.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  }
+]

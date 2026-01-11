@@ -1,0 +1,216 @@
+[
+  {
+    "question_id": 178,
+    "text": "Before the endurance you pump nitrogen in your tires at a temperature of 20°C and 0,7 bar relative pressure. Knowing, that during the endurance the maximal tire temperature will be around 60°C, what will be the maximal relative pressure of the tire? (You can assume that the gas volume in the tire stays constant)(answer in bar)\nPlease use the following format: 12.3 or 1.23 (no ',' comma, no latters), round to 3 significant digits.",
+    "type": "input-range",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 698,
+        "question_id": 178,
+        "answer_text": "0.92-0.94",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 37,
+        "question_id": 178,
+        "text": null,
+        "images": [
+          {
+            "img_id": 109,
+            "path": "solutions/178_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 698,
+        "question_id": 178,
+        "answer_text": "0.92-0.94",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 180,
+    "text": "Calculate the Normal Force on the rear left tire during the first Skidpad lap. You can assume, that your vehicle is in a steady-state condition and that there is no longitudinal acceleration. Furher it can be assumed, that all 4 wheels have a lateral grip coefficient of 1,4. You can use the cenerline radius stated in the rules. Following information regarding the vehicle are given: (answer in N)\nm=220kg, cl= 3.8, A=1m², p=1.1kg/m³, Wheelbase: L=1.53m, trackwidth: t=1.2m, Height of CG: h=0.2m weight distribution/COP: 50% Hint: R=9.125m\nPlease use the following format: 12.3 or 1.23 (no ',' comma, no latters), round to 3 significant digits.",
+    "type": "input-range",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 704,
+        "question_id": 180,
+        "answer_text": "898-901",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 38,
+        "question_id": 180,
+        "text": null,
+        "images": [
+          {
+            "img_id": 110,
+            "path": "solutions/180_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 704,
+        "question_id": 180,
+        "answer_text": "898-901",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 185,
+    "text": "During last year acceleration a top speed of 100 km/h was reached. Due to big impreovement in the new drivetrain, the new vehicle reaches a top speed of 120 km/h. The aerodynamics chief has some worries about the stability of the rear wing bracing due of the highr aerodynamics load. Given the geometry below, by how much % does the bearing force in point A change in comparison to last year (The aerodynamic package did not change and therefore some values can be assumed for both vehicles). All the useful parameters are given below:\ncL=3.8, cD=1.2, A=1m², p=1.1kg/m³, L1=50mm, L2=100mm, H1=125mm, H2=165mm\nPlease use the following format: 12.3 or 1.23 (no ',' comma, no latters), round to 3 significant digits.",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 721,
+        "question_id": 185,
+        "answer_text": "44",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 40,
+        "question_id": 185,
+        "text": null,
+        "images": [
+          {
+            "img_id": 112,
+            "path": "solutions/185_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000185__img000063__185_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 721,
+        "question_id": 185,
+        "answer_text": "44",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18,
+      47,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 747,
+    "text": "Your racecar is equipped with four independent suspensions. The front and rear motion ratios are 0.8 and 0.75, respectively. The front and rear spring stiffnesses are 16 N/mm and 18 N/mm, respectively. The tire stiffness is 75 N/mm. Under an aerodynamic load applied at the vehicle centre of gravity, the wheel travel relative to a static position is the same for the 4 wheels. What is the static longitudinal weight distribution of the car? \\n (Assume that the vehicle is coasting, i.e., no longitudinal force is applied by the wheels on the ground).\\n Answer as % of mass on the front axle and provide the value with 1 decimal place, e.g. 12.3.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2791,
+        "question_id": 747,
+        "answer_text": "43.9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 156,
+        "question_id": 747,
+        "text": "Question 3 was later deleted because wording \\n\\n\r\n\r\nFront wheel rate = Front spring stiffness / front motion ratio = 16 / 0.8 ^ 2 = 25 N/mm\\n\r\nRear wheel rate = Rear spring stiffness / rear motion ratio = 18 / 0.75 ^ 2 = 32 N/mm\\n\\n\r\nNote that the drag force does not cause any longitudinal mass transfer since it is not balanced by an equal and opposite force applied in the tires, i.e., the drag force causes deceleration of the vehicle instead of mass transfer.",
+        "images": [
+          {
+            "img_id": 211,
+            "path": "solutions/747_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2791,
+        "question_id": 747,
+        "answer_text": "43.9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  }
+]

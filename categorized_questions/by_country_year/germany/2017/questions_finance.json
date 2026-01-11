@@ -1,0 +1,194 @@
+[
+  {
+    "question_id": 381,
+    "text": "A Formula Student vehicle with a constant power of 20 kW accelerates from standstill over 75m in 4.0 s with Driver A. With Driver B the same acceleration takes 4.1 s. Given that the acceleration resistance is the only resistance to overcome (no friction loss, no additional inertia, flat surface, no aerodynamic resistance, infinite grip): how much heavier is Driver B?\\nAnswer in kilogramms and round to 1 decimal place.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1522,
+        "question_id": 381,
+        "answer_text": "0.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1523,
+        "question_id": 381,
+        "answer_text": "0.2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1524,
+        "question_id": 381,
+        "answer_text": "15.6",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1525,
+        "question_id": 381,
+        "answer_text": "8.7",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1526,
+        "question_id": 381,
+        "answer_text": "13.8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1527,
+        "question_id": 381,
+        "answer_text": "4.4",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1522,
+        "question_id": 381,
+        "answer_text": "0.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1523,
+        "question_id": 381,
+        "answer_text": "0.2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1524,
+        "question_id": 381,
+        "answer_text": "15.6",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1525,
+        "question_id": 381,
+        "answer_text": "8.7",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1526,
+        "question_id": 381,
+        "answer_text": "13.8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1527,
+        "question_id": 381,
+        "answer_text": "4.4",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      22
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 385,
+    "text": "A Formula Student vehicle with a constant power of 25 kW accelerates from standstill over 75m in 5.0 s with Driver A. With Driver B the same acceleration takes 5.1 s. Given that the acceleration resistance is the only resistance to overcome (no friction loss, no additional inertia, flat surface, no aerodynamic resistance, infinite grip): how much heavier is Driver B? Answer in kilogramms and round to 1 decimal place.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1547,
+        "question_id": 385,
+        "answer_text": "0.3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1548,
+        "question_id": 385,
+        "answer_text": "0.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1549,
+        "question_id": 385,
+        "answer_text": "8.5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1550,
+        "question_id": 385,
+        "answer_text": "17.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1551,
+        "question_id": 385,
+        "answer_text": "30.2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1552,
+        "question_id": 385,
+        "answer_text": "26.9",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1547,
+        "question_id": 385,
+        "answer_text": "0.3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1548,
+        "question_id": 385,
+        "answer_text": "0.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1549,
+        "question_id": 385,
+        "answer_text": "8.5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1550,
+        "question_id": 385,
+        "answer_text": "17.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1551,
+        "question_id": 385,
+        "answer_text": "30.2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1552,
+        "question_id": 385,
+        "answer_text": "26.9",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      37
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

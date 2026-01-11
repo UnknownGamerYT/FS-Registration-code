@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": 79,
+    "text": "For a pneumatic actuated brake system a team is using a pressure bottle with an relative pressure of 50 bar with respect to the atmosphere and a total inner volume of 4 litre. Consider a portion if gas, which at 1 bar absolut atmospheric pressure world fill a volume of 0.02m³ is missing in the bottle. What would be the new relative pressure with respect to the atmosphere in the bottle?\nEnter the solution in bar and round solution to one decimal place.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 312,
+        "question_id": 79,
+        "answer_text": "45.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 312,
+        "question_id": 79,
+        "answer_text": "45.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

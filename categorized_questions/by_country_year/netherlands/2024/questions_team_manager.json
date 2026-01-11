@@ -1,0 +1,240 @@
+[
+  {
+    "question_id": 3,
+    "text": "Team SFN is considering two solutions for their driver restraining system:\r\nSolution A is from a well-known manufacturer based in Europe. Their 2020 system includes an antisubmarine strap, two shoulder straps and two lap belts, all belts have a width of 75mm. The system will be bought new from the manufacturer in 2020 and it meets the FIA specification 8853/2016.\r\nSolution B is a second hand system in mint condition, previously used by a rallycross team. This 6- point system has belts with a minimum width of 75mm and it meets SFI Specification 16.5. The manufacturing date on the label reads 01/01/2020.\r\nWhich solution(s) is/are compliant with the rules and eglible to use at FSN2020?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 11,
+        "question_id": 3,
+        "answer_text": "Solutions A and B ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 12,
+        "question_id": 3,
+        "answer_text": "Only Solution A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 13,
+        "question_id": 3,
+        "answer_text": "Only Solution B​",
+        "is_correct": true
+      },
+      {
+        "answer_id": 14,
+        "question_id": 3,
+        "answer_text": "Neither Solution​",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 11,
+        "question_id": 3,
+        "answer_text": "Solutions A and B ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 12,
+        "question_id": 3,
+        "answer_text": "Only Solution A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 13,
+        "question_id": 3,
+        "answer_text": "Only Solution B​",
+        "is_correct": true
+      },
+      {
+        "answer_id": 14,
+        "question_id": 3,
+        "answer_text": "Neither Solution​",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2,
+      71
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 814,
+    "text": "A team finds a new supplier to buy some new belts, which of the following is an appropriate solution?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3047,
+        "question_id": 814,
+        "answer_text": "A 6-point system with 2 lap belts of 55mm width, 2 anti-submarine belts of 50mm width and 2 shoulder straps of 70mm width, that passes FIA specification 8853/2016",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3048,
+        "question_id": 814,
+        "answer_text": "A 7-point system with 2 lap belts of 55mm width, 3 anti-submarine belts of 50mm width and 2 shoulder straps of 70mm width, that passes SFI Specification 16.1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3049,
+        "question_id": 814,
+        "answer_text": "A 7-point system with 2 lap belts of 55mm width, 3 anti-submarine belts of 50mm width and 2 shoulder straps of 50mm width, that passes FIA specification 8853/2016, with the use of a HANS device.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3050,
+        "question_id": 814,
+        "answer_text": "A 6-point system with 2 lap belts of 50mm width, 2 anti-submarine belts of 50mm width and a ‘Y’-type shoulder strap of 75mm width, that passes FIA specification 8853/2016",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 161,
+        "question_id": 814,
+        "text": "T 5.1 & T 5.2.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3047,
+        "question_id": 814,
+        "answer_text": "A 6-point system with 2 lap belts of 55mm width, 2 anti-submarine belts of 50mm width and 2 shoulder straps of 70mm width, that passes FIA specification 8853/2016",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3048,
+        "question_id": 814,
+        "answer_text": "A 7-point system with 2 lap belts of 55mm width, 3 anti-submarine belts of 50mm width and 2 shoulder straps of 70mm width, that passes SFI Specification 16.1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3049,
+        "question_id": 814,
+        "answer_text": "A 7-point system with 2 lap belts of 55mm width, 3 anti-submarine belts of 50mm width and 2 shoulder straps of 50mm width, that passes FIA specification 8853/2016, with the use of a HANS device.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3050,
+        "question_id": 814,
+        "answer_text": "A 6-point system with 2 lap belts of 50mm width, 2 anti-submarine belts of 50mm width and a ‘Y’-type shoulder strap of 75mm width, that passes FIA specification 8853/2016",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      88,
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 818,
+    "text": "You decided to implement a RTOS (real time operating system) in your VCU (vehicle control unit) in this season. The table on the right side shows the implemented tasks with their priorization (lower priority is executed preferrebly). ISRs (interrupt service routines) are not covered by the task manager of the RTOS and always overrule a task. \\nYou’re using the pump speed to calculate a coolant flow rate, which is shown in the cockpit display. As there is no dedicated sensor for evaluation of the pump speed, you connected the pumps PWM feedback signal to a capture/compare timer input that triggeres an ISR. To prevent implausible values, the monitoring is only active if the pump is turned on by the power management. \\nThe code was written by another team member and handed over to you for testing. During commissioning of the vehicle, watchdog timeouts occur whenever the pump is activated.\\nYou also notice, that the display is only partly redrawn when the watchdog is triggered. Without being asked, your team mates provide their analysis and solutions. \\nWhich idea you should investigate further? (still consider good practice and security)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3063,
+        "question_id": 818,
+        "answer_text": "Try to reduce the cycle time of the sensor evaluation task",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3064,
+        "question_id": 818,
+        "answer_text": "The display is updated in the ISR, which blocks other tasks and the watchdog reset",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3065,
+        "question_id": 818,
+        "answer_text": "Incoming CAN messages interrupt the sensor evaluation so the communication taskshould get lower priority (increase the number)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3066,
+        "question_id": 818,
+        "answer_text": "Pause the watchdog during the pump monitoring or increase the timer period",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 165,
+        "question_id": 818,
+        "text": "Answer b) is correct, only the proposal B) is a plausible explanation. The others are either bad practice or wrong measures even if the failure scenario is correct. \\n\nThe watchdog is a timer with a period equal to the fastest tasks cycle time plus its estimated maximum execution time. The timer is usually reset at the end of the fastest task execution.\\n\nIf the reset doesn’t happen, the ISR of the timer is triggered which results in a watchdog timeout.\\n\nAs the motor control task is the most critical one (shortest cycle time and highest priority, except for watchdog), the watchdog reset is done here. If the watchdog reset is implemented correctly, a timeout can only occur, if something interrupts the motor control task.\\n\nConsequently, only an ISR is capable of blocking the watchdog reset and cause a timeout. Another possible scenario would be, if the execution of the motor control task is taking too long. However none of the provided tips is pointing in this direction. The capture/compare timer input (for pump speed evaluation) is usually connected to an ISR. Common or good practice for such an application is to evaluate the PWM signal inside the ISR, save the value (e.g. duty cycle) to a global variable and process it outside of the ISR.\\n\nEven the calculation of a flow rate inside the ISR would not take too much computation time but maybe require additional data from other software modules (e.g. information about the cooling ciruit) which may result in less data encapsulation and therefore is considered bad practice.\\n\nA display update is usually done via sendig signals on a bus (like UART, I2C or SPI) to the display. Depending on the display, its resolution and other parameters, this can take quite a lot of messages to transfer all the information to the display. Furthermore, parameters like the bus speed or timing requirements may further increase the needed time.\\n\nIf all these actions are done in the ISR, this may block the motor control task from execution too long to reset the watchdog timer before the timeout happens.",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000818__img000219__818_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3063,
+        "question_id": 818,
+        "answer_text": "Try to reduce the cycle time of the sensor evaluation task",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3064,
+        "question_id": 818,
+        "answer_text": "The display is updated in the ISR, which blocks other tasks and the watchdog reset",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3065,
+        "question_id": 818,
+        "answer_text": "Incoming CAN messages interrupt the sensor evaluation so the communication taskshould get lower priority (increase the number)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3066,
+        "question_id": 818,
+        "answer_text": "Pause the watchdog during the pump monitoring or increase the timer period",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

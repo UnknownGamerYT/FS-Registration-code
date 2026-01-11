@@ -1,0 +1,202 @@
+[
+  {
+    "question_id": 612,
+    "text": "For the shown drive train, the input rotational speed is 3600 min-1, and the number of teeth of the sprocket is z1 = 20.\\n ease note: n2 = n3, n4 = n5, n6 = n7.\\n The number of teeth of the sprockets are:\\n z1 = 20, z2 = 45, z3 = 24, z4 = 55, z5 = 30, z6 = 43, z7 = 15, z8 = 53\\n Calculate the rotational speed in min^-1 for the final sprocket z8 where the driveshafts are mounted. Round to one decimal.",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2353,
+        "question_id": 612,
+        "answer_text": "137.9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000612__img000162__612_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2353,
+        "question_id": 612,
+        "answer_text": "137.9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 615,
+    "text": "Coco, the three-legged cat with a mass of 3.5 kg, is standing still on a horizontal frictionless surface. While playing with a ball of yarn, having a mass of 0.05 kg, Coco kicks it backwards with one of her three legs so hard that the ball of yarn reaches a speed of 2.3 m/s.\\n The resulting speed of Coco is:",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2359,
+        "question_id": 615,
+        "answer_text": "0.033 m/s forwards",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2360,
+        "question_id": 615,
+        "answer_text": "0.077 m/s forwards",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2361,
+        "question_id": 615,
+        "answer_text": "0.033 m/s backwards",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2362,
+        "question_id": 615,
+        "answer_text": "0.077 m/s backwards",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2363,
+        "question_id": 615,
+        "answer_text": "no answer is correct",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000615__img000165__615_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2359,
+        "question_id": 615,
+        "answer_text": "0.033 m/s forwards",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2360,
+        "question_id": 615,
+        "answer_text": "0.077 m/s forwards",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2361,
+        "question_id": 615,
+        "answer_text": "0.033 m/s backwards",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2362,
+        "question_id": 615,
+        "answer_text": "0.077 m/s backwards",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2363,
+        "question_id": 615,
+        "answer_text": "no answer is correct",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 616,
+    "text": "Your vehicle has its right-hand base coordinate frame defined with the x-axis pointing forward into the driving direction and the z-axis upwards.\\n A camera is positioned on the vehicle as follows, in the vehicle coordinate frame:\\n x = 500 mm, y = 160 mm, z = 1140 mm\\n and the Euler angles ZY′X′′\\n roll = 100°, pitch = 0°, yaw = 90°\\n Assume the camera has no distortion, a resolution of 1280 px × 1080 px, and the principal point (cx and cy) and the focal lengths (fx and fy) are given by:\\n cx = 636 px, cy = 548 px, fx = 241 px, fy = 238 px\\n The point (u, v)0 is defined to be (u, v)0 = (-cx, -cy) as commonly used.\\n Within the camera image plane, z-axis in viewing direction, an object center is detected at pixel:\\n u = 795 px, v = 467 px\\n Another sensor determines the euclidian distance of the object to the camera frame as:\\n d = 2.7 m\\n Calculate the 3D position of the object in the vehicle coordinate frame in meter. Round to three decimals. Give the solution in the following format: x, y, z, e.g. 1.234, 5.678, 9.012",
+    "type": "input",
+    "time": 1200,
+    "answer_options": [
+      {
+        "answer_id": 2364,
+        "question_id": 616,
+        "answer_text": "2.507, 1.590, 0.037",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000616__img000168__616_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2364,
+        "question_id": 616,
+        "answer_text": "2.507, 1.590, 0.037",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 621,
+    "text": "A single-cylinder four-stroke engine with a total displacement of 623.7 cm3 has the following theoretical design: piston stroke s = 52 mm, connecting rod length l = 66 mm, piston diameter d = 38 mm. The ignition timing point is given as Sk = 2.0 mm before TDC.\\n Calculate the ignition timing point in ° crankshaft before TDC. Round to one decimal.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2380,
+        "question_id": 621,
+        "answer_text": "19.2",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000621__img000167__621_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2380,
+        "question_id": 621,
+        "answer_text": "19.2",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

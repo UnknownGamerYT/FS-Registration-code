@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 261,
+    "text": "How many sets of tyres are allowed to be used during all dynamic events?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1027,
+        "question_id": 261,
+        "answer_text": "Not restricted and tyre set choice is based on track condition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1028,
+        "question_id": 261,
+        "answer_text": "Only one set of tires per type (dry/wet) may be used during all the dynamic events. The brake test, practice area and the static events are included from this regulation.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1029,
+        "question_id": 261,
+        "answer_text": "Only one set of tires per type (dry/wet) may be used during all the dynamic events. The brake test, practice area and the static events are excluded in this regulation.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1030,
+        "question_id": 261,
+        "answer_text": "Restricted by the event (specified in the Handbook).",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1027,
+        "question_id": 261,
+        "answer_text": "Not restricted and tyre set choice is based on track condition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1028,
+        "question_id": 261,
+        "answer_text": "Only one set of tires per type (dry/wet) may be used during all the dynamic events. The brake test, practice area and the static events are included from this regulation.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1029,
+        "question_id": 261,
+        "answer_text": "Only one set of tires per type (dry/wet) may be used during all the dynamic events. The brake test, practice area and the static events are excluded in this regulation.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1030,
+        "question_id": 261,
+        "answer_text": "Restricted by the event (specified in the Handbook).",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "question_id": 299,
+    "text": "Which measurement voltage will be used during the insulation measurement test for a car with a maximum tractive system voltage of 260V?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1179,
+        "question_id": 299,
+        "answer_text": "250V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1180,
+        "question_id": 299,
+        "answer_text": "500V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1181,
+        "question_id": 299,
+        "answer_text": "260V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1182,
+        "question_id": 299,
+        "answer_text": "125V",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1179,
+        "question_id": 299,
+        "answer_text": "250V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1180,
+        "question_id": 299,
+        "answer_text": "500V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1181,
+        "question_id": 299,
+        "answer_text": "260V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1182,
+        "question_id": 299,
+        "answer_text": "125V",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 310,
+    "text": "If tractive system parts are mounted in a position where damage is likely...",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1231,
+        "question_id": 310,
+        "answer_text": "...they have to be protected by a fully triangulated structure with tubes of a minimum outer diameter of 15mm and a\r\nminimum wall thickness of 0.5mm or equivalent. \r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1232,
+        "question_id": 310,
+        "answer_text": "they have to be protected by a fully triangulated structure with tubes of a minimum outer diameter of 20mm and a minimum wall thickness of 1mm or equivalent.\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1233,
+        "question_id": 310,
+        "answer_text": "...no special measures are required.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1234,
+        "question_id": 310,
+        "answer_text": "...they must not exceed a maximum operation voltage of 120VDC",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1231,
+        "question_id": 310,
+        "answer_text": "...they have to be protected by a fully triangulated structure with tubes of a minimum outer diameter of 15mm and a\r\nminimum wall thickness of 0.5mm or equivalent. \r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1232,
+        "question_id": 310,
+        "answer_text": "they have to be protected by a fully triangulated structure with tubes of a minimum outer diameter of 20mm and a minimum wall thickness of 1mm or equivalent.\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1233,
+        "question_id": 310,
+        "answer_text": "...no special measures are required.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1234,
+        "question_id": 310,
+        "answer_text": "...they must not exceed a maximum operation voltage of 120VDC",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 312,
+    "text": "A capacitor with a capacitance of 100microFarad is currently charged to a voltage of 199.8V. How much additional energy is needed to charge it to a voltage of 301.4V and how long does that charging take?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1239,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.546J. The time needed can not be calculated with the given parameters.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1240,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.564J. The time needed can not be calculated with the given parameters ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1241,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.564J. The time needed is 3.2ms ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1242,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.456J. The time needed is 2.9ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1243,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.546J. The time needed is 3.4ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1244,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.456J. The time needed can not be calculated with the given parameters.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1239,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.546J. The time needed can not be calculated with the given parameters.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1240,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.564J. The time needed can not be calculated with the given parameters ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1241,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.564J. The time needed is 3.2ms ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1242,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.456J. The time needed is 2.9ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1243,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.546J. The time needed is 3.4ms",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1244,
+        "question_id": 312,
+        "answer_text": "The additional energy needed is 2.456J. The time needed can not be calculated with the given parameters.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 313,
+    "text": "Assuming that a cell chemistry is used, which is NOT LiFePO4, the accumulator has to be divided into stacks and separated by firewalls and insulating barriers...",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1245,
+        "question_id": 313,
+        "answer_text": "...so that each stack carries a maximum voltage of 130VDC or a maximum energy of 6MJ, whichever occurs first.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1246,
+        "question_id": 313,
+        "answer_text": "...so that each stack carries a maximum voltage of 120VDC or a maximum energy of 5MJ, whichever occurs first.\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1247,
+        "question_id": 313,
+        "answer_text": "...so that each stack does not contain more than 30 cells. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1248,
+        "question_id": 313,
+        "answer_text": "...so that each stack carries a maximum voltage of 140VDC or a maximum energy of 7MJ, whichever occurs first.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1245,
+        "question_id": 313,
+        "answer_text": "...so that each stack carries a maximum voltage of 130VDC or a maximum energy of 6MJ, whichever occurs first.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1246,
+        "question_id": 313,
+        "answer_text": "...so that each stack carries a maximum voltage of 120VDC or a maximum energy of 5MJ, whichever occurs first.\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1247,
+        "question_id": 313,
+        "answer_text": "...so that each stack does not contain more than 30 cells. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1248,
+        "question_id": 313,
+        "answer_text": "...so that each stack carries a maximum voltage of 140VDC or a maximum energy of 7MJ, whichever occurs first.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

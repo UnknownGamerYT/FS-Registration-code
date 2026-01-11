@@ -1,0 +1,248 @@
+[
+  {
+    "question_id": 853,
+    "text": "You and your team just passed scrutineering and now you are cooking stew (corba) for you and 170 of your friends in Formula Student Alpe Adria 2024. Each person gets a portion measuring exactly 300 ml. You cook in a spherical pot with an inner diameter D = 0,5 m. The pot has one circular opening at the top measuring A = 30 cm in diameter. How much do you have to fill up the pot to have the exact amount of stew for everyone? You can only measure the height between the top of the opening and the liquid surface. Round the answer (x) to the nearest centimetre.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3206,
+        "question_id": 853,
+        "answer_text": "10",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 171,
+        "question_id": 853,
+        "text": null,
+        "images": [
+          {
+            "img_id": 242,
+            "path": "solutions/853_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000853__img000241__853_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3206,
+        "question_id": 853,
+        "answer_text": "10",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 861,
+    "text": "The figure below represents a simplified hydraulic system consisting of a pump, a pressure relief valve and two single acting or plunger cylinders that need to lift loads.\\nGiven: m1, A1, Q1\\nAnswer and calculate:\\n9.1. Do the piston rods of the cylinder move simultaneously or one behind the other? Explain the sequence of the piston rod motion.\\n9.2. Is the movement of both piston rods ensured by the adjusted pressure pv on system pressure relief valve? Why?\\n9.3. Calculate the speed of movement of both piston rods using the given values.\\nNote: Both cylinders are in a retracted position. Give all the answers in \"coefficient x variable\" form.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3216,
+        "question_id": 861,
+        "answer_text": "Required explanations cannot be evaluated automatically, therefore this answer is not supported (This answer is correct)",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 180,
+        "question_id": 861,
+        "text": "Part 1:",
+        "images": [
+          {
+            "img_id": 253,
+            "path": "solutions/861_1.jpg"
+          }
+        ]
+      },
+      {
+        "solution_id": 181,
+        "question_id": 861,
+        "text": "Part 2:",
+        "images": [
+          {
+            "img_id": 254,
+            "path": "solutions/861_2.jpg"
+          }
+        ]
+      },
+      {
+        "solution_id": 182,
+        "question_id": 861,
+        "text": "Part 3:",
+        "images": [
+          {
+            "img_id": 255,
+            "path": "solutions/861_3.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3216,
+        "question_id": 861,
+        "answer_text": "Required explanations cannot be evaluated automatically, therefore this answer is not supported (This answer is correct)",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 863,
+    "text": "Assume an electric formula student car, including driver, as a point mass of 220 kg with no aerodynamic and rolling resistance.\\nAssume you can regenerate down to a standstill after each acceleration run and the car is teleported back to the start, as it happens in simulation world.\\n\\nPart 1: After long and brutal months designing and building the car, the team is finally ready to hit the test track and the team’s Performance Engineer puts a Track Test Request on the run plan for the afternoon with 20 acceleration runs to tune the software to perfection.\\nTo execute all the other test items on the list, your Race Engineer asks you to budget the battery energy for the day to plan charging breaks, debriefs and setup changes to make the most out of your very limited test time.\\nBased on your experience you will finish the first run at 90 kph, and with each run, as the tyres heat up and your Colleague tunes the software, by sheer luck you expect for every run the car to cross the line with an extra 1 kph (e.g. the tenth run finishes at 99 kph).\\n How much battery energy in kWh is required to accelerate this car from standstill for these twenty runs when the overall powertrain efficiency is 93,6%? Round the answer to one decimal number.\\n\\nPart 2: This year’s car features electric motors at the rear axle only, and your brake bias is 6 % on the Front (friction brakes), while your rear motors regenerate the braking power back to your battery. How many runs can you complete with a total of 0,3 kWh, when again assuming the first run finishes at 90 kph and you manage to improve the car by 1 kph per run?\\n\\nPart 3: What is the least amount of energy your battery must hold at the start of the test program when you take the car’s regeneration into account? Make sure you do not run out of energy on the final run! Round the answer to three decimal numbers\\nAnswer format: {Part 1}; {Part 2}; {Part 3}",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3218,
+        "question_id": 863,
+        "answer_text": "0,5; 17; 0,356",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 184,
+        "question_id": 863,
+        "text": "Part 1:",
+        "images": [
+          {
+            "img_id": 258,
+            "path": "solutions/863_1.jpg"
+          }
+        ]
+      },
+      {
+        "solution_id": 185,
+        "question_id": 863,
+        "text": "Part 2:",
+        "images": [
+          {
+            "img_id": 259,
+            "path": "solutions/863_2.jpg"
+          }
+        ]
+      },
+      {
+        "solution_id": 186,
+        "question_id": 863,
+        "text": "Part 3: This is a slightly tricky one, because you take the sum of 19 runs and add only discharge of run #20, otherwise you would end up going negative in the final run (or stopping on track).",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3218,
+        "question_id": 863,
+        "answer_text": "0,5; 17; 0,356",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 867,
+    "text": "Have you ever paid attention during the tilt test? You will now!\\nIn the figure below, a tilt test by a random Formula Student competition is being presented. The motion of the collar at A is controlled by a motor at B such that when the collar is at = A 3 m, s it is moving upwards at 2 m/s.\\n\\nPart 1: Determine the velocity of a point on the cable as it is drawn into the motor B at this instant.\\n\\nPart 2: What is the angle β at the same moment if the horizontal component of the distance between points A and C is by 8000% larger than the minimum allowed ground clearance for a Formula Student car? \\n\\n Note: Round the answers to 1 decimal number.\\nAnswer format: {Part 1}; {Part 2}",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3227,
+        "question_id": 867,
+        "answer_text": "1,2; 13,4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 191,
+        "question_id": 867,
+        "text": "Part 1:",
+        "images": [
+          {
+            "img_id": 264,
+            "path": "solutions/867_1.jpg"
+          }
+        ]
+      },
+      {
+        "solution_id": 192,
+        "question_id": 867,
+        "text": "Part 2:",
+        "images": [
+          {
+            "img_id": 265,
+            "path": "solutions/867_2.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000867__img000263__867_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3227,
+        "question_id": 867,
+        "answer_text": "1,2; 13,4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  }
+]

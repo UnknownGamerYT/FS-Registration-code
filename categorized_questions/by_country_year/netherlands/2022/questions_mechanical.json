@@ -1,0 +1,508 @@
+[
+  {
+    "question_id": 418,
+    "text": "A cylindrical coil spring is loaded in axial pressure. In which way is the spring wire stressed?  ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1691,
+        "question_id": 418,
+        "answer_text": "Torsion",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1692,
+        "question_id": 418,
+        "answer_text": "Shear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1693,
+        "question_id": 418,
+        "answer_text": "Compression",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1694,
+        "question_id": 418,
+        "answer_text": "Tension",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1691,
+        "question_id": 418,
+        "answer_text": "Torsion",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1692,
+        "question_id": 418,
+        "answer_text": "Shear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1693,
+        "question_id": 418,
+        "answer_text": "Compression",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1694,
+        "question_id": 418,
+        "answer_text": "Tension",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 419,
+    "text": "An air as an ideal gas expands adiabatic from a volume of V1 = 1.00 I with its pressure of p1 = 10^5 Pa to 1/10 of its original pressure. What volume V2 does the gas reach after it's expansion? (Round to two decimal places)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1695,
+        "question_id": 419,
+        "answer_text": "5.18 l",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1696,
+        "question_id": 419,
+        "answer_text": "10.00 l",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1697,
+        "question_id": 419,
+        "answer_text": "0.10 l",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1698,
+        "question_id": 419,
+        "answer_text": "0.19 l",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1695,
+        "question_id": 419,
+        "answer_text": "5.18 l",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1696,
+        "question_id": 419,
+        "answer_text": "10.00 l",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1697,
+        "question_id": 419,
+        "answer_text": "0.10 l",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1698,
+        "question_id": 419,
+        "answer_text": "0.19 l",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 420,
+    "text": "What are requirements of using a standard Impact Attenuator?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1699,
+        "question_id": 420,
+        "answer_text": "Test data must be provided by teams that the vehicle will be decelerated at a rate not exceeding 20 g average and 40 g peak.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1700,
+        "question_id": 420,
+        "answer_text": "Test data must be provided that the energy absorbed meets or exceeds 7350 J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1701,
+        "question_id": 420,
+        "answer_text": "Vehicles with aerodynamic devices and/or sensors in front of the front bulkhead must not exceed the peak deceleration for the combination of the IA assembly and the non-crushable object and prove the design does not exceed 120 kN.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1702,
+        "question_id": 420,
+        "answer_text": "All of the above.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1699,
+        "question_id": 420,
+        "answer_text": "Test data must be provided by teams that the vehicle will be decelerated at a rate not exceeding 20 g average and 40 g peak.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1700,
+        "question_id": 420,
+        "answer_text": "Test data must be provided that the energy absorbed meets or exceeds 7350 J",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1701,
+        "question_id": 420,
+        "answer_text": "Vehicles with aerodynamic devices and/or sensors in front of the front bulkhead must not exceed the peak deceleration for the combination of the IA assembly and the non-crushable object and prove the design does not exceed 120 kN.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1702,
+        "question_id": 420,
+        "answer_text": "All of the above.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 423,
+    "text": "One of the most common errors found during the technical inspection process at Formula Student Netherlands is the use of positive locking mechanisms. Which of the following is not allowed?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1711,
+        "question_id": 423,
+        "answer_text": "DIN 6923 Jet Nuts",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1712,
+        "question_id": 423,
+        "answer_text": "DIN 463 Tab Washer",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1713,
+        "question_id": 423,
+        "answer_text": "DIN 934 Hex Nut",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1714,
+        "question_id": 423,
+        "answer_text": "DIN 11024 Cotter Pin",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1711,
+        "question_id": 423,
+        "answer_text": "DIN 6923 Jet Nuts",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1712,
+        "question_id": 423,
+        "answer_text": "DIN 463 Tab Washer",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1713,
+        "question_id": 423,
+        "answer_text": "DIN 934 Hex Nut",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1714,
+        "question_id": 423,
+        "answer_text": "DIN 11024 Cotter Pin",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 426,
+    "text": "The figure shows an epicyclic gear train with gears A and B having 40 and 50 teeth, respectively. If the arm C rotates at 200 rpm in anticlockwise direction about the center of gear A which is fixed, then speed of revolution of gear B in rpm would be:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1723,
+        "question_id": 426,
+        "answer_text": "160",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1724,
+        "question_id": 426,
+        "answer_text": "250",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1725,
+        "question_id": 426,
+        "answer_text": "360",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1726,
+        "question_id": 426,
+        "answer_text": "450",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000426__img000093__426_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1723,
+        "question_id": 426,
+        "answer_text": "160",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1724,
+        "question_id": 426,
+        "answer_text": "250",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1725,
+        "question_id": 426,
+        "answer_text": "360",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1726,
+        "question_id": 426,
+        "answer_text": "450",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 427,
+    "text": "Two similar laminates are used in a chassis. The only difference is the core material. What is allowed?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1727,
+        "question_id": 427,
+        "answer_text": "Two different core materials are used with the same ply stacking. Testing the laminate with the core that has the highest shear strength and using the results for both panels is allowed to prove equivalency for both panels.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1728,
+        "question_id": 427,
+        "answer_text": "Two laminates are used with the same core and the ply stacking is doubled. Testing the laminate with the single ply stacking and using the result for both panels (using twice the thickness in the SES for the thicker laminate) is allowed to prove equivalency.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1729,
+        "question_id": 427,
+        "answer_text": "Two laminates with the same ply stacking and the core is doubled. Testing the laminate with the thicker core and using the results for both panels (using half the core thickness for the thinner laminate) is allowed to prove equivalency",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1730,
+        "question_id": 427,
+        "answer_text": "None of the above.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1727,
+        "question_id": 427,
+        "answer_text": "Two different core materials are used with the same ply stacking. Testing the laminate with the core that has the highest shear strength and using the results for both panels is allowed to prove equivalency for both panels.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1728,
+        "question_id": 427,
+        "answer_text": "Two laminates are used with the same core and the ply stacking is doubled. Testing the laminate with the single ply stacking and using the result for both panels (using twice the thickness in the SES for the thicker laminate) is allowed to prove equivalency.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1729,
+        "question_id": 427,
+        "answer_text": "Two laminates with the same ply stacking and the core is doubled. Testing the laminate with the thicker core and using the results for both panels (using half the core thickness for the thinner laminate) is allowed to prove equivalency",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1730,
+        "question_id": 427,
+        "answer_text": "None of the above.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 428,
+    "text": "Which of the following statements regarding the Brake System is false?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1731,
+        "question_id": 428,
+        "answer_text": "The first 90 % of the brake pedal travel may be used to regenerate brake energy without actuating the hydraulic brake system. The remaining brake pedal travel must directly actuate the hydraulic brake system, but brake energy regeneration must not remain active",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1732,
+        "question_id": 428,
+        "answer_text": "The brake pedal and its mounting must be designed to withstand a force of 2KN without any failure of the brake system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1733,
+        "question_id": 428,
+        "answer_text": "Unarmored plastic brake lines are prohibited",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1734,
+        "question_id": 428,
+        "answer_text": "The brake over travel-switch must be of the type single pole, single throw switch",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1731,
+        "question_id": 428,
+        "answer_text": "The first 90 % of the brake pedal travel may be used to regenerate brake energy without actuating the hydraulic brake system. The remaining brake pedal travel must directly actuate the hydraulic brake system, but brake energy regeneration must not remain active",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1732,
+        "question_id": 428,
+        "answer_text": "The brake pedal and its mounting must be designed to withstand a force of 2KN without any failure of the brake system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1733,
+        "question_id": 428,
+        "answer_text": "Unarmored plastic brake lines are prohibited",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1734,
+        "question_id": 428,
+        "answer_text": "The brake over travel-switch must be of the type single pole, single throw switch",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

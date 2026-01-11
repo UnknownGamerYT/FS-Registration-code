@@ -1,0 +1,766 @@
+[
+  {
+    "question_id": 93,
+    "text": "How do you have to choose the damping constant in a suspension system, if you want to have a critical damped system? (answer in Ns/mm)\nm = 240 kg\nk = 100 N/mm",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 355,
+        "question_id": 93,
+        "answer_text": "9.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 22,
+        "question_id": 93,
+        "text": null,
+        "images": [
+          {
+            "img_id": 108,
+            "path": "solutions/93_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 355,
+        "question_id": 93,
+        "answer_text": "9.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      10,
+      47,
+      52
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 95,
+    "text": "You would like to attach your front hoop bracing to the rest your chassis primary structure using one metric bolt grade 8.8. Using standard hole clearance (ISO), what is the minimum diameter of the round backing plate according to the rules.",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 360,
+        "question_id": 95,
+        "answer_text": "16.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 361,
+        "question_id": 95,
+        "answer_text": "27 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 362,
+        "question_id": 95,
+        "answer_text": "33 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 363,
+        "question_id": 95,
+        "answer_text": "40.5 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 360,
+        "question_id": 95,
+        "answer_text": "16.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 361,
+        "question_id": 95,
+        "answer_text": "27 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 362,
+        "question_id": 95,
+        "answer_text": "33 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 363,
+        "question_id": 95,
+        "answer_text": "40.5 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10,
+      52
+    ],
+    "years": [
+      "2020",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 96,
+    "text": "Which of the following statements about steel tubes alloy 30CrMoV5-3 is true?    ",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 364,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure without additional testing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 365,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure except roll hoops if physical tasting is applied to show equivalency.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 366,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure if physical testing is applied to show equivalency.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 367,
+        "question_id": 96,
+        "answer_text": "May never be used in the primary structure.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 364,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure without additional testing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 365,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure except roll hoops if physical tasting is applied to show equivalency.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 366,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure if physical testing is applied to show equivalency.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 367,
+        "question_id": 96,
+        "answer_text": "May never be used in the primary structure.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10,
+      47,
+      52
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 179,
+    "text": "Which of the following statements is false regarding the difference between Lead-based batteries, Nickel-based batteries and Lithium-based batteries?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 699,
+        "question_id": 179,
+        "answer_text": "The Nickel based batteries typically have the lowest specific energy",
+        "is_correct": true
+      },
+      {
+        "answer_id": 700,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries can achieve specific energies of over 200 Wh/kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 701,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries typically have the highest specific energy",
+        "is_correct": false
+      },
+      {
+        "answer_id": 702,
+        "question_id": 179,
+        "answer_text": "The Lead-based batteries typically have a norminal voltage of 2V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 703,
+        "question_id": 179,
+        "answer_text": "The Nickel-based batteries have the lowest norminal voltage",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 699,
+        "question_id": 179,
+        "answer_text": "The Nickel based batteries typically have the lowest specific energy",
+        "is_correct": true
+      },
+      {
+        "answer_id": 700,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries can achieve specific energies of over 200 Wh/kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 701,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries typically have the highest specific energy",
+        "is_correct": false
+      },
+      {
+        "answer_id": 702,
+        "question_id": 179,
+        "answer_text": "The Lead-based batteries typically have a norminal voltage of 2V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 703,
+        "question_id": 179,
+        "answer_text": "The Nickel-based batteries have the lowest norminal voltage",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      18,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 181,
+    "text": "Is the shown brake light with red LEDs on a black background compliant to the rules? If no, why not?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 705,
+        "question_id": 181,
+        "answer_text": "No, because the illuminated surface is not big enough",
+        "is_correct": false
+      },
+      {
+        "answer_id": 706,
+        "question_id": 181,
+        "answer_text": "No, because the LEDs are too far apart from each other",
+        "is_correct": false
+      },
+      {
+        "answer_id": 707,
+        "question_id": 181,
+        "answer_text": "Yes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 708,
+        "question_id": 181,
+        "answer_text": "No, other reason",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000181__img000061__181_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 705,
+        "question_id": 181,
+        "answer_text": "No, because the illuminated surface is not big enough",
+        "is_correct": false
+      },
+      {
+        "answer_id": 706,
+        "question_id": 181,
+        "answer_text": "No, because the LEDs are too far apart from each other",
+        "is_correct": false
+      },
+      {
+        "answer_id": 707,
+        "question_id": 181,
+        "answer_text": "Yes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 708,
+        "question_id": 181,
+        "answer_text": "No, other reason",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      18
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 187,
+    "text": "Which of the following helmets are compliant to the rule?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 723,
+        "question_id": 187,
+        "answer_text": "only d",
+        "is_correct": false
+      },
+      {
+        "answer_id": 724,
+        "question_id": 187,
+        "answer_text": "only c",
+        "is_correct": false
+      },
+      {
+        "answer_id": 725,
+        "question_id": 187,
+        "answer_text": "only a",
+        "is_correct": false
+      },
+      {
+        "answer_id": 726,
+        "question_id": 187,
+        "answer_text": "a and b",
+        "is_correct": false
+      },
+      {
+        "answer_id": 727,
+        "question_id": 187,
+        "answer_text": "only b",
+        "is_correct": true
+      },
+      {
+        "answer_id": 728,
+        "question_id": 187,
+        "answer_text": "c and d",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000187__img000064__187_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 723,
+        "question_id": 187,
+        "answer_text": "only d",
+        "is_correct": false
+      },
+      {
+        "answer_id": 724,
+        "question_id": 187,
+        "answer_text": "only c",
+        "is_correct": false
+      },
+      {
+        "answer_id": 725,
+        "question_id": 187,
+        "answer_text": "only a",
+        "is_correct": false
+      },
+      {
+        "answer_id": 726,
+        "question_id": 187,
+        "answer_text": "a and b",
+        "is_correct": false
+      },
+      {
+        "answer_id": 727,
+        "question_id": 187,
+        "answer_text": "only b",
+        "is_correct": true
+      },
+      {
+        "answer_id": 728,
+        "question_id": 187,
+        "answer_text": "c and d",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      18,
+      47
+    ],
+    "years": [
+      "2021",
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 495,
+    "text": "The COP is 0.1m behind the COG and at the same height. Your car has a 50/50 weight distribution and the height of the COG from the ground is 30cm. The car is currently driving at 100km/h.\\n Calculate the normal force on the front left tire assuming no weight transfer. You can use the following values in your calculations:\\n Answer in N.\\n Use the following format: 12",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 1971,
+        "question_id": 495,
+        "answer_text": "838",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 73,
+        "question_id": 495,
+        "text": null,
+        "images": [
+          {
+            "img_id": 129,
+            "path": "solutions/495_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000495__img000128__495_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1971,
+        "question_id": 495,
+        "answer_text": "838",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 498,
+    "text": "Which measure/s have to be taken if the power to the motors is >10kW and braking hard is detected for more than 500ms at the same time? The pedal travel signals 0Nm torque.",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1974,
+        "question_id": 498,
+        "answer_text": "Open shutdown circuit.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1975,
+        "question_id": 498,
+        "answer_text": "0 Nm torque request to the motor controller",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1976,
+        "question_id": 498,
+        "answer_text": "Open shutdown circuit and 0Nm torque request to the motor controller.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1974,
+        "question_id": 498,
+        "answer_text": "Open shutdown circuit.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1975,
+        "question_id": 498,
+        "answer_text": "0 Nm torque request to the motor controller",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1976,
+        "question_id": 498,
+        "answer_text": "Open shutdown circuit and 0Nm torque request to the motor controller.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 535,
+    "text": "In the last Event, you were driving at the minimal allowed ground clearance. The COG of your car was 30cm above the ground. Your suspended mass is 190kg, while the unsuspended mass is 45kg. For the next Event you know, that there will be a lot of bumps, therefore you increase your ground clearance to 50mm. By how much will the COG of your car change?\\n Answer in mm.",
+    "type": "input-range",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2083,
+        "question_id": 535,
+        "answer_text": "16.0-16.4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 78,
+        "question_id": 535,
+        "text": null,
+        "images": [
+          {
+            "img_id": 141,
+            "path": "solutions/535_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2083,
+        "question_id": 535,
+        "answer_text": "16.0-16.4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      52
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 537,
+    "text": "In the picture below you can see a bracket mounted by a bolt to the chassis. The bottom of the bracket has the same thickness t as the chassis. The force F actiong on the bracket is parallel to the chassis and acts at a distance h over the bottom of the bracket. The bolt is made from aluminium with T(Al,max) = 150 MPa and p(Al,max) = 150 Mpa.\\n The diameters of the bolt should be an integer expressed in mm (e.g. 4mm, 5mm, 6mm and so on). Dermine the minimal allowable diameter of the boit assuming a SF of 1.4. You can assume, that there is no friction and the bracket, as well as the chassis are infinitely stiff(i.e. no Bending on the bolt will occur). Furthermore, you can use a simplified formula for the shear stresses. (answer in mm)",
+    "type": "input-range",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2085,
+        "question_id": 537,
+        "answer_text": "5.99-6.01",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 80,
+        "question_id": 537,
+        "text": null,
+        "images": [
+          {
+            "img_id": 144,
+            "path": "solutions/537_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000537__img000143__537_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2085,
+        "question_id": 537,
+        "answer_text": "5.99-6.01",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      52
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 554,
+    "text": "Which of the following equations is a basic principle of electrical engineering?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 97,
+        "question_id": 554,
+        "text": "Ohm’s law formula",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      55,
+      70
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "question_id": 131,
+    "text": "Business Plan Scoring: During the initial judging at FSA tour team was awarded 55 points. You are not eligible for the business plan finals since the finalists scored 62, 70 and 68 points respectively. The baest team not in the finals scored 61 points.\r\nWhat is your final score (rounded to 1 decimal place)?    ",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 524,
+        "question_id": 131,
+        "answer_text": "62.1 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 525,
+        "question_id": 131,
+        "answer_text": "Your score will depend on the rusult of the finals",
+        "is_correct": false
+      },
+      {
+        "answer_id": 526,
+        "question_id": 131,
+        "answer_text": "63.1 Points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 527,
+        "question_id": 131,
+        "answer_text": "55.0 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 528,
+        "question_id": 131,
+        "answer_text": "63.0 Points",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 524,
+        "question_id": 131,
+        "answer_text": "62.1 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 525,
+        "question_id": 131,
+        "answer_text": "Your score will depend on the rusult of the finals",
+        "is_correct": false
+      },
+      {
+        "answer_id": 526,
+        "question_id": 131,
+        "answer_text": "63.1 Points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 527,
+        "question_id": 131,
+        "answer_text": "55.0 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 528,
+        "question_id": 131,
+        "answer_text": "63.0 Points",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      15,
+      14
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 139,
+    "text": "Your Team has build a steering system using a CFRP steering column.\nIt is bonded to the steering rack pinion shaft. During scrutineering you get told that a bonded connection is not allowed (T 2.6.10). In order to create the necessary mechanical connection you decide to add a shoulder bolt going through the necessary diameter of the shoulder bolt?\nConsider only one bolt and a required safety factor of 1.5 or higher. Allowed average contact pressure for the CFRP column is p_max=60MPa. Your steering column comes with an outer diameter of 25mm and an inner diameter of 20mm. The steering system is designed for a torque of 20Nm. Use the simplification of projected area for average contact pressure calcualtion p=F/(d*t)\nF:Force\nd:diameter of shoulder Bolt\nt:material thickness",
+    "type": "single-choice",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 557,
+        "question_id": 139,
+        "answer_text": "8mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 558,
+        "question_id": 139,
+        "answer_text": "10mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 559,
+        "question_id": 139,
+        "answer_text": "5mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 560,
+        "question_id": 139,
+        "answer_text": "6mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 557,
+        "question_id": 139,
+        "answer_text": "8mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 558,
+        "question_id": 139,
+        "answer_text": "10mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 559,
+        "question_id": 139,
+        "answer_text": "5mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 560,
+        "question_id": 139,
+        "answer_text": "6mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      14,
+      15
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

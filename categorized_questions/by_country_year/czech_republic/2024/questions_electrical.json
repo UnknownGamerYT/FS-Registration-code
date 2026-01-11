@@ -1,0 +1,146 @@
+[
+  {
+    "question_id": 809,
+    "text": "What is the correct threshold to define hard braking for BSPD to open Shut Down Circuit?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3027,
+        "question_id": 809,
+        "answer_text": "Rear wheels are locked",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3028,
+        "question_id": 809,
+        "answer_text": "Brake pressure is >= 30 bar. No locked wheels ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3029,
+        "question_id": 809,
+        "answer_text": "All wheels are locked",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3030,
+        "question_id": 809,
+        "answer_text": "Brake pressure is <= 30 bar. No locked wheels",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3027,
+        "question_id": 809,
+        "answer_text": "Rear wheels are locked",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3028,
+        "question_id": 809,
+        "answer_text": "Brake pressure is >= 30 bar. No locked wheels ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3029,
+        "question_id": 809,
+        "answer_text": "All wheels are locked",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3030,
+        "question_id": 809,
+        "answer_text": "Brake pressure is <= 30 bar. No locked wheels",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      86
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 810,
+    "text": "TSAL is switching colors between green and yellow for several seconds now. What could cause such behavior? ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3031,
+        "question_id": 810,
+        "answer_text": "Such behavior is not allowed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3032,
+        "question_id": 810,
+        "answer_text": "Disconnected HVD while TS was active",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3033,
+        "question_id": 810,
+        "answer_text": "SDC has been opened while TS was active, but AIR is stuck in closed state ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3034,
+        "question_id": 810,
+        "answer_text": "SDC has been opened while TS was active, TS discharge is ongoing",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3031,
+        "question_id": 810,
+        "answer_text": "Such behavior is not allowed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3032,
+        "question_id": 810,
+        "answer_text": "Disconnected HVD while TS was active",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3033,
+        "question_id": 810,
+        "answer_text": "SDC has been opened while TS was active, but AIR is stuck in closed state ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3034,
+        "question_id": 810,
+        "answer_text": "SDC has been opened while TS was active, TS discharge is ongoing",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      86
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

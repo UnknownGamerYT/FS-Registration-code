@@ -1,0 +1,40 @@
+[
+  {
+    "question_id": 613,
+    "text": "A horizontal pipe increases from cross-section 1 with A1 = 2.55 cm2 to cross-section 2 with A2 = 7.1 cm2. In cross-section 1 there is a pressure of p1 = 1.2 bar and a flow rate of v1 = 5 m/s. The density of water is 997 kg/m3.\\n Calculate the pressure in bar in cross-section 2 for the flowing water. Round to two decimals.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2354,
+        "question_id": 613,
+        "answer_text": "1.31",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000613__img000163__613_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2354,
+        "question_id": 613,
+        "answer_text": "1.31",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "question_id": 858,
+    "text": "Consider vehicle with a track width of 1200 mm and suppose it is balanced left-right. Target set for vehicle design is to have 25% of total weight on inside wheels during cornering at 1,2g. Calculate the maximum Centre of Gravity (CoG) height to achieve the target. Round the answer to the nearest millimetre.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3213,
+        "question_id": 858,
+        "answer_text": "250",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 176,
+        "question_id": 858,
+        "text": null,
+        "images": [
+          {
+            "img_id": 246,
+            "path": "solutions/858_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3213,
+        "question_id": 858,
+        "answer_text": "250",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90,
+      104,
+      103
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Croatia",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Alpe Adria",
+      "Formula Student Türkiye"
+    ]
+  }
+]

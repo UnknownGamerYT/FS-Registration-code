@@ -1,0 +1,112 @@
+[
+  {
+    "question_id": 434,
+    "text": "Your vehicle has its right-hand base coordinate frame defined with the x-axis pointing forward into driving direction and z-axis upwards. A camera is positioned in the vehicle with respect to the vehicle coordinate system as follows:\nx = 500 mm\ny = 160 mm\nZ = 1140 mm\nand the Euler angles ZY′X′′\nroll = 100°\npitch = 0°\nyaw = 90°\nAssume the camera has no distortion, a resolution of 1280 px x 1080 px and the principal point (cx and cy) and the focal lengths (fx and fy) are given by:\ncx = 636 px\ncy = 548 px\nfx = 241 px\nfy = 238 px\nThe point (u, v)0 is defined to be (u, v)0 = (-cx, -cy) as commonly used. Within the camera image plane (z axis in viewing direction), an object (center) is detected at pixel:\nu = 872 px\nv = 423 px\nAnother sensor determines the distance (euclidian) of the object with respect to camera frame:\nd = 1.9 m\nCalculate the position (3D) of the object with respect to the vehicle frame in meter! Round the solution to three decimal places. Give the solution in the following format: x, y, z, e.g. 1.234, 5.678, 9.012",
+    "type": "input",
+    "time": 1200,
+    "answer_options": [
+      {
+        "answer_id": 1763,
+        "question_id": 434,
+        "answer_text": "1.636, 1.405, 0.262",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000434__img000099__434_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1763,
+        "question_id": 434,
+        "answer_text": "1.636, 1.405, 0.262",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 448,
+    "text": "A computer programm runs a loop in which for every iteration the variable x is increased by the value of the variable y. In C syntax this means inside the loop the line \"x=x y;\" is calculated. The inital value of x is 0, the value of y is 0.001. x and y are datatype single (32 bit IEEE 754 floating point).\\nWhich value will x be after the loop ran 10^49 interations! Round to the nearest one.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 1806,
+        "question_id": 448,
+        "answer_text": "32768",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1806,
+        "question_id": 448,
+        "answer_text": "32768",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 451,
+    "text": "Your vehicle's ASB uses a hydraulic disc brake system with on 4-piston caliper on each front wheel and one 2-piston caliper on each rear wheel. What is the minimum required pressure in the hydraulic system to pass the EBS test according to IN 11.2 in dry condition?\nThe deceleration is supposed to be constant over the entire braking period. Assume that the brake pressure in the front and rear circuits is always the same and builds up immediately when the RES is triggered.\nNeglect all driving resistances as well as the drive drag torque and rotational inertia.\npiston diameter front caliper: Dp,front = 28 mm\npiston diameter rear caliper: Dp,rear = 20 mm\nmean radius of brake pad force application, front: Rm,front = 105 mm\nmean radius of brake pad force application, rear: Rm,rear = 90 mm\ncoefficient of kinetic friction disc-pad: Μk = 0.9\ndynamic tire radius: rdyn = 225 mm\ntotal mass of the vehicle: m = 195 kg\ninitial speed when RES is triggered: v = 41 km/h\nEnter the result in bar! Round the solution to one decimal place.",
+    "type": "input",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 1809,
+        "question_id": 451,
+        "answer_text": "5.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1809,
+        "question_id": 451,
+        "answer_text": "5.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

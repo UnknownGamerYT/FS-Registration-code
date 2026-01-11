@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 584,
+    "text": "Your 'Build EC' task should start on 25 January 2023 and should end on 01 March 2023. Today is 27 January 2023 (end of the day), and you have completed 5% of the planned work. Your team allocated 325000 USD for this task. In your project plan, you planned to work every day. The amount of work on every weekday is the same, but you planned to work twice as much on the weekends. You have spent 30000 USD. What is the SPI of this task?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2236,
+        "question_id": 584,
+        "answer_text": "0.77",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2237,
+        "question_id": 584,
+        "answer_text": "13",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2238,
+        "question_id": 584,
+        "answer_text": "0.09",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2239,
+        "question_id": 584,
+        "answer_text": "1.41",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2236,
+        "question_id": 584,
+        "answer_text": "0.77",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2237,
+        "question_id": 584,
+        "answer_text": "13",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2238,
+        "question_id": 584,
+        "answer_text": "0.09",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2239,
+        "question_id": 584,
+        "answer_text": "1.41",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

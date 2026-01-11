@@ -1,0 +1,342 @@
+[
+  {
+    "question_id": 843,
+    "text": "The sequence x[n]=(-1)^n is obtained by sampling the continuouse-time sinusoidal signal x(t)= cos(w0t) at 1-ms intervals, i.e.,\\n\\nDetermine the three smallest distinct possible values of w0 as a multiple of nx10^3 in the following format: w0 1, w0 2, w0 3, e.g 1, 2, 3",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3165,
+        "question_id": 843,
+        "answer_text": "1, 3, 5",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000843__img000230__843_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3165,
+        "question_id": 843,
+        "answer_text": "1, 3, 5",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 848,
+    "text": "Which of the following statements regarding the rules are correct?\\nMark all correct answers.",
+    "type": "multi-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3185,
+        "question_id": 848,
+        "answer_text": "There will be up to 84 slots for autonomous vehicles.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3186,
+        "question_id": 848,
+        "answer_text": "Shutdown buttons must be red.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3187,
+        "question_id": 848,
+        "answer_text": "The diameter of the outer circle in skidpad is 18.25m.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3188,
+        "question_id": 848,
+        "answer_text": "The DOO penalty for acceleration is 0.2s.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3189,
+        "question_id": 848,
+        "answer_text": "The vehicle must have a wheelbase of at least 1.525 m.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3190,
+        "question_id": 848,
+        "answer_text": "Until the waiting list closes, execution of A 5.4.2 is suspended and teams will no longer be de-registered.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3191,
+        "question_id": 848,
+        "answer_text": "Data logger data must be made available at latest one hour after the closing of the respective event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3192,
+        "question_id": 848,
+        "answer_text": "The Node-ID of the RES has to be set to 0x011 at the competition.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3193,
+        "question_id": 848,
+        "answer_text": "Each ASSI must meet requirements according to T 10.11.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3194,
+        "question_id": 848,
+        "answer_text": "The load applicator used to test any panel or tube must be metallic and have a radius of 32 mm.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3185,
+        "question_id": 848,
+        "answer_text": "There will be up to 84 slots for autonomous vehicles.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3186,
+        "question_id": 848,
+        "answer_text": "Shutdown buttons must be red.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3187,
+        "question_id": 848,
+        "answer_text": "The diameter of the outer circle in skidpad is 18.25m.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3188,
+        "question_id": 848,
+        "answer_text": "The DOO penalty for acceleration is 0.2s.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3189,
+        "question_id": 848,
+        "answer_text": "The vehicle must have a wheelbase of at least 1.525 m.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3190,
+        "question_id": 848,
+        "answer_text": "Until the waiting list closes, execution of A 5.4.2 is suspended and teams will no longer be de-registered.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3191,
+        "question_id": 848,
+        "answer_text": "Data logger data must be made available at latest one hour after the closing of the respective event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3192,
+        "question_id": 848,
+        "answer_text": "The Node-ID of the RES has to be set to 0x011 at the competition.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3193,
+        "question_id": 848,
+        "answer_text": "Each ASSI must meet requirements according to T 10.11.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3194,
+        "question_id": 848,
+        "answer_text": "The load applicator used to test any panel or tube must be metallic and have a radius of 32 mm.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 851,
+    "text": "You want to use a photo from media.formulastudent.de.\\nMark the correct answer.",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 3197,
+        "question_id": 851,
+        "answer_text": "You can simply use the picture. No need for any reference to who created it",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3198,
+        "question_id": 851,
+        "answer_text": "You can use the picture for free, and it's enough to tag it with \"Formula Student Germany\" or \"©FSG\"",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3199,
+        "question_id": 851,
+        "answer_text": "You can use the picture for free, but need to tag it with \"©Formula Student Germany\" or \"©FSG\" and the name of the photographer",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3200,
+        "question_id": 851,
+        "answer_text": "You can use the picture for free, but need to tag it with \"Formula Student Germany - media team\" or \"©FSG - media team\"",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3201,
+        "question_id": 851,
+        "answer_text": "You need to pay a license fee to use the picture",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3197,
+        "question_id": 851,
+        "answer_text": "You can simply use the picture. No need for any reference to who created it",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3198,
+        "question_id": 851,
+        "answer_text": "You can use the picture for free, and it's enough to tag it with \"Formula Student Germany\" or \"©FSG\"",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3199,
+        "question_id": 851,
+        "answer_text": "You can use the picture for free, but need to tag it with \"©Formula Student Germany\" or \"©FSG\" and the name of the photographer",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3200,
+        "question_id": 851,
+        "answer_text": "You can use the picture for free, but need to tag it with \"Formula Student Germany - media team\" or \"©FSG - media team\"",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3201,
+        "question_id": 851,
+        "answer_text": "You need to pay a license fee to use the picture",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 852,
+    "text": "The figure shows internal single walls of the TSAC and their cutouts.\\nWhich of these walls are rules compliant? Mark all correct answers.",
+    "type": "multi-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3202,
+        "question_id": 852,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3203,
+        "question_id": 852,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3204,
+        "question_id": 852,
+        "answer_text": "C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3205,
+        "question_id": 852,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000852__img000240__852_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3202,
+        "question_id": 852,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3203,
+        "question_id": 852,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3204,
+        "question_id": 852,
+        "answer_text": "C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3205,
+        "question_id": 852,
+        "answer_text": "D",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "question_id": 623,
+    "text": "Make a technical drawing of a steel shaft of your design. The shaft must feature at least one parallel key slot, a gear, and secure placement for two bearings. The shaft must have at least 3 different diameters along its length.\\n The drawing must be drawn by hand. It must feature a cross-section view and show examples of surface roughness markings, dimensional tolerances, hole/shaft tolerances, and geometrical tolerances. Use ISO 7200 title block or equivalent.\\n The drawing must be scanned (can be done with a phone), titled Drawing_UniversityName.pdf (max 10 MB). Ensure that the quality of the scan is sufficient. The drawing will be judged by accuracy and aesthetics",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2382,
+        "question_id": 623,
+        "answer_text": "Upload is not supported (This answer is correct)",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2382,
+        "question_id": 623,
+        "answer_text": "Upload is not supported (This answer is correct)",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 627,
+    "text": "The following side sketch represents the side of a car equipped with outboard brakes that provides 65 % of braking on front brakes. In the side view, the swing arm is inclined for 6°.\\n Calculate the anti-dive percentage (round up to the first decimal place).",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2386,
+        "question_id": 627,
+        "answer_text": "35.5",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 123,
+        "question_id": 627,
+        "text": "AD = FB ∙ tan Ⴔ ∙l/h = 65% ∙ tan 6° ∙ 1300/250 = 35.5%\\n AD = antidive [%], FB – front braking [%], Ⴔ - inclination of the swingarm in side view [°], l- wheelbase, h – height of CoG\r\n",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000627__img000171__627_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2386,
+        "question_id": 627,
+        "answer_text": "35.5",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 628,
+    "text": "Calculate the force (F) from the picture if the pump gives a pressure of 5 MPa. Round it to the second decimal:\\n dp1 = dp2 = dp3 = 30 mm, dr1 = dr3 = 15 mm, Y = 1,6 X, dr2 = 10 mm, dp4 = 50 mm, dr4 = 20 mm, p4 = 3,5 MPa\\n Write the number in N.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2387,
+        "question_id": 628,
+        "answer_text": "314.16",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 124,
+        "question_id": 628,
+        "text": null,
+        "images": [
+          {
+            "img_id": 172,
+            "path": "solutions/628_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2387,
+        "question_id": 628,
+        "answer_text": "314.16",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 630,
+    "text": "Calculate the load in high-speed corners at 200 km/h of a car having a SCz of 3 at Mexico (air density 0,945 kg/m3). What is the loss compared to the sea level?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2392,
+        "question_id": 630,
+        "answer_text": "5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2393,
+        "question_id": 630,
+        "answer_text": "14%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2394,
+        "question_id": 630,
+        "answer_text": "23%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2395,
+        "question_id": 630,
+        "answer_text": "32%",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2392,
+        "question_id": 630,
+        "answer_text": "5%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2393,
+        "question_id": 630,
+        "answer_text": "14%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2394,
+        "question_id": 630,
+        "answer_text": "23%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2395,
+        "question_id": 630,
+        "answer_text": "32%",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 631,
+    "text": "Based on question 8, what is the new Aerodynamic Balance of a car, after opening the DRS, if the initial balance was 46% (front) and if we assume that the car always acts in the linear segment of its polar SCz/SCx, whose slope has a value of 4,5.\\n SCzF constant: assumption (no FRH - Front Ride Height variation)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2396,
+        "question_id": 631,
+        "answer_text": "Remains Invariable",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2397,
+        "question_id": 631,
+        "answer_text": "42%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2398,
+        "question_id": 631,
+        "answer_text": "56%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2399,
+        "question_id": 631,
+        "answer_text": "60%",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2396,
+        "question_id": 631,
+        "answer_text": "Remains Invariable",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2397,
+        "question_id": 631,
+        "answer_text": "42%",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2398,
+        "question_id": 631,
+        "answer_text": "56%",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2399,
+        "question_id": 631,
+        "answer_text": "60%",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 632,
+    "text": "You want to calculate the laminate of your front bulkhead when designing your monocoque.\\n What is the minimum shear strength required?\\n Re= 235 MPa; Rm= 350 MPa; τ= 280\\n Write the answer in N. Round to the nearest whole number.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2400,
+        "question_id": 632,
+        "answer_text": "32987",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2400,
+        "question_id": 632,
+        "answer_text": "32987",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61,
+      103,
+      104
+    ],
+    "years": [
+      "2023",
+      "2025"
+    ],
+    "countries": [
+      "Croatia",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Alpe Adria",
+      "Formula Student Türkiye"
+    ]
+  },
+  {
+    "question_id": 634,
+    "text": "A Formula Student car weighs 120 kg, has a wheelbase of 1475 mm, uses 10” tires with magnesium wheels, the front track is 1200 mm, the rear track is 850 mm, and it has a Honda CBR 650r engine. What is true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2404,
+        "question_id": 634,
+        "answer_text": "everything is according to the rules",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2405,
+        "question_id": 634,
+        "answer_text": "engine displacement is too big",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2406,
+        "question_id": 634,
+        "answer_text": "bigger track should be at least 75% of the wheelbase",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2407,
+        "question_id": 634,
+        "answer_text": "wheelbase and tracks are not according to the rulebook",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2408,
+        "question_id": 634,
+        "answer_text": "weight is under the lower limit",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 127,
+        "question_id": 634,
+        "text": "T 2.8 & T 2.9",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2404,
+        "question_id": 634,
+        "answer_text": "everything is according to the rules",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2405,
+        "question_id": 634,
+        "answer_text": "engine displacement is too big",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2406,
+        "question_id": 634,
+        "answer_text": "bigger track should be at least 75% of the wheelbase",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2407,
+        "question_id": 634,
+        "answer_text": "wheelbase and tracks are not according to the rulebook",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2408,
+        "question_id": 634,
+        "answer_text": "weight is under the lower limit",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 635,
+    "text": "By the Formula 1 2022 Rulebook, if the race from Novi Marof Karting to Spar Novi Marof (there and back would be one lap, round to one decimal place) would be a Grand Prix, how many laps would the race have to be (consider minimum race length)?\\n Karting track Novi Marof: Karting staza Novi Marof\\n Spar Novi Marof: SPAR Novi Marof - Google Maps",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2409,
+        "question_id": 635,
+        "answer_text": "118, 122",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 128,
+        "question_id": 635,
+        "text": "Distance from Novi Marof Karting to Spar Novi Marof is 1,3 km. We need to calculate the one lap distance, which would be: 1 lap = 1,3 km ∙ 2 = 2,6 km\\n Formula 1 rules dictate, that a full race distance must be a minimum of 305 km: Number of laps = 305 km/2,6 km = 117,3\\n Because of those pesky rules, we must have a full number of laps, so the correct answer is 118.\\n Because of a different distance acquisition, we also accepted 122 laps",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2409,
+        "question_id": 635,
+        "answer_text": "118, 122",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  }
+]

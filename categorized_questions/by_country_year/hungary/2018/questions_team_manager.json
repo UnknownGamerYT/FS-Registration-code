@@ -1,0 +1,81 @@
+[
+  {
+    "question_id": 214,
+    "text": "Suppose that 28 teams participate in the CV category on FS East 2018 and your team is one of them, there are 6 Business Finalist teams among them. The team with the highest points not reaching the finals has 67 points, your team received 59 points. What is your Business Plan Presentation Score?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 839,
+        "question_id": 214,
+        "answer_text": "59 points ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 840,
+        "question_id": 214,
+        "answer_text": "60,8 points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 841,
+        "question_id": 214,
+        "answer_text": "57,6 points ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 842,
+        "question_id": 214,
+        "answer_text": "67 points ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 43,
+        "question_id": 214,
+        "text": "NON-FINALIST ​\r\nBPP score = (Pyour/Pmax)x(75-n)",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 839,
+        "question_id": 214,
+        "answer_text": "59 points ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 840,
+        "question_id": 214,
+        "answer_text": "60,8 points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 841,
+        "question_id": 214,
+        "answer_text": "57,6 points ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 842,
+        "question_id": 214,
+        "answer_text": "67 points ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

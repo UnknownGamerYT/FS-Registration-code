@@ -1,0 +1,238 @@
+[
+  {
+    "question_id": 13,
+    "text": "One of your engineers has come up with a new design for your power-steering system. The system has less free play compared to your current solution, just 3° compared to your current 5°. Also, the new system is likely to increase performance at the endurance event as the cable-system makes that your drivers need less force to turn the round steering wheel.\r\nAre you allowed to use the new system?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 53,
+        "question_id": 13,
+        "answer_text": "Yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 54,
+        "question_id": 13,
+        "answer_text": "Yes, as long as the steering wheel is equipped with a quick-release system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 55,
+        "question_id": 13,
+        "answer_text": "Yes, as long as this system is only used for rear-wheel steering",
+        "is_correct": false
+      },
+      {
+        "answer_id": 56,
+        "question_id": 13,
+        "answer_text": "No",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 53,
+        "question_id": 13,
+        "answer_text": "Yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 54,
+        "question_id": 13,
+        "answer_text": "Yes, as long as the steering wheel is equipped with a quick-release system",
+        "is_correct": false
+      },
+      {
+        "answer_id": 55,
+        "question_id": 13,
+        "answer_text": "Yes, as long as this system is only used for rear-wheel steering",
+        "is_correct": false
+      },
+      {
+        "answer_id": 56,
+        "question_id": 13,
+        "answer_text": "No",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 16,
+    "text": "What is the minimum spacing between LV and HV connectors (237V) on the same pcb without a cut in the board between the connectors?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 65,
+        "question_id": 16,
+        "answer_text": "2mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 66,
+        "question_id": 16,
+        "answer_text": "3mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 67,
+        "question_id": 16,
+        "answer_text": "6,4mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 68,
+        "question_id": 16,
+        "answer_text": "9,5 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 69,
+        "question_id": 16,
+        "answer_text": "12,7mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 65,
+        "question_id": 16,
+        "answer_text": "2mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 66,
+        "question_id": 16,
+        "answer_text": "3mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 67,
+        "question_id": 16,
+        "answer_text": "6,4mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 68,
+        "question_id": 16,
+        "answer_text": "9,5 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 69,
+        "question_id": 16,
+        "answer_text": "12,7mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 18,
+    "text": "Where inside the accumulator does the IMD have to be attached?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 74,
+        "question_id": 18,
+        "answer_text": "The IMD has to be connected on the battery side of the AIRs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 75,
+        "question_id": 18,
+        "answer_text": "The IMD has to be connected on the vehicle side of the AIRs, inside the accumulator",
+        "is_correct": true
+      },
+      {
+        "answer_id": 76,
+        "question_id": 18,
+        "answer_text": "The IMD has to be connected on the vehicle side of the AIRs, outside the accumulator ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 77,
+        "question_id": 18,
+        "answer_text": "It is not specified in the rules where the IMD has to be connected.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 11,
+        "question_id": 18,
+        "text": "Two answers are correct after protest by FST Lisboa, results have been recalculated.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 74,
+        "question_id": 18,
+        "answer_text": "The IMD has to be connected on the battery side of the AIRs.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 75,
+        "question_id": 18,
+        "answer_text": "The IMD has to be connected on the vehicle side of the AIRs, inside the accumulator",
+        "is_correct": true
+      },
+      {
+        "answer_id": 76,
+        "question_id": 18,
+        "answer_text": "The IMD has to be connected on the vehicle side of the AIRs, outside the accumulator ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 77,
+        "question_id": 18,
+        "answer_text": "It is not specified in the rules where the IMD has to be connected.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

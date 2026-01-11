@@ -1,0 +1,813 @@
+[
+  {
+    "question_id": 179,
+    "text": "Which of the following statements is false regarding the difference between Lead-based batteries, Nickel-based batteries and Lithium-based batteries?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 699,
+        "question_id": 179,
+        "answer_text": "The Nickel based batteries typically have the lowest specific energy",
+        "is_correct": true
+      },
+      {
+        "answer_id": 700,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries can achieve specific energies of over 200 Wh/kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 701,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries typically have the highest specific energy",
+        "is_correct": false
+      },
+      {
+        "answer_id": 702,
+        "question_id": 179,
+        "answer_text": "The Lead-based batteries typically have a norminal voltage of 2V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 703,
+        "question_id": 179,
+        "answer_text": "The Nickel-based batteries have the lowest norminal voltage",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 699,
+        "question_id": 179,
+        "answer_text": "The Nickel based batteries typically have the lowest specific energy",
+        "is_correct": true
+      },
+      {
+        "answer_id": 700,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries can achieve specific energies of over 200 Wh/kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 701,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries typically have the highest specific energy",
+        "is_correct": false
+      },
+      {
+        "answer_id": 702,
+        "question_id": 179,
+        "answer_text": "The Lead-based batteries typically have a norminal voltage of 2V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 703,
+        "question_id": 179,
+        "answer_text": "The Nickel-based batteries have the lowest norminal voltage",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      18,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 554,
+    "text": "Which of the following equations is a basic principle of electrical engineering?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 97,
+        "question_id": 554,
+        "text": "Ohm’s law formula",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      55,
+      70
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 559,
+    "text": "You want to drive with your FS Car after the competition to Zermatt to visit the famous Matterhorn. The first 70% of the distance, you can drive with a constant speed of 80 km/h. Due to traffic jams, you have to drive 30 km/h for the remaining distance. The distance from the competition to Tasch is 74 km. How much energy is needed if your average consumption is 10 kJ/s. \\n Answer in kWh and provide the value with 1 digit behind decimal point, e.g. 12.3 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2171,
+        "question_id": 559,
+        "answer_text": "13.9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2171,
+        "question_id": 559,
+        "answer_text": "13.9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 560,
+    "text": "What is the minimal flexural stiffness required for Front Hoop Bracing Structure on your complete Formula Student racecar? \\n Answer in Nm? and provide the value with 0 digit behind decimal point, e.g. 12 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits. ",
+    "type": "input",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2352,
+        "question_id": 560,
+        "answer_text": "3404",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2352,
+        "question_id": 560,
+        "answer_text": "3404",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 673,
+    "text": "Which statement about the air intake system is wrong?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2523,
+        "question_id": 673,
+        "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. If fasteners are used they are considered as critical fasteners and must comply with T10.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2524,
+        "question_id": 673,
+        "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. Any portion of the air intake system that is more than 350 mm above the ground must be shielded from side and rear impact collisions by structure built according to the rule T3.15.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2525,
+        "question_id": 673,
+        "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. Using Rubber bushings or hoses is not considered as securely attached.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2526,
+        "question_id": 673,
+        "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. Any portion of the air intake system that is less than 350 mm above the ground must be shielded from side and rear impact collisions by structure built according to the rule T3.15.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2523,
+        "question_id": 673,
+        "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. If fasteners are used they are considered as critical fasteners and must comply with T10.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2524,
+        "question_id": 673,
+        "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. Any portion of the air intake system that is more than 350 mm above the ground must be shielded from side and rear impact collisions by structure built according to the rule T3.15.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2525,
+        "question_id": 673,
+        "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. Using Rubber bushings or hoses is not considered as securely attached.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2526,
+        "question_id": 673,
+        "answer_text": "The intake manifold must be securely attached to the engine block or cylinder head with brackets and mechanical fasteners. Any portion of the air intake system that is less than 350 mm above the ground must be shielded from side and rear impact collisions by structure built according to the rule T3.15.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      72
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 745,
+    "text": "A chocolate manufacturer is producing a new type of chocolate bar with a special formulation. The chocolate is initially melted and poured into a mould at a temperature of 50°C. The chocolate bar is then left to cool in a room with a constant temperature of 20°C. The manufacturer wants to determine the time it takes for the chocolate to cool down to a safe handling temperature of 30°C.\\n Given that the chocolate follows Newton's Law of Cooling, the manufacturer has conducted preliminary experiments and determined that the cooling rate constant (k) for this chocolate formulation is 0.02 per minute.\\n Determine the time it takes for the chocolate to cool down from 50°C to 30°C.\\n Answer in min and provide the value with 2 decimal places, e.g. 12.34.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2789,
+        "question_id": 745,
+        "answer_text": "54.93",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 155,
+        "question_id": 745,
+        "text": "Newton’s Law of Cooling: dTdt=k(T-T amb)\\n\r\nT amb=20°C\\n\r\nso T(t) = 20 + 30e-0.02t\\n\r\nsolving for t with T(t)=30°C gives t = - ln(13)0.02 = 54.93 min",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2789,
+        "question_id": 745,
+        "answer_text": "54.93",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 746,
+    "text": "Knowing that the member AC is under a force of -25 kN, what is the force in the element HG? Force R is an unknown horizontal force applied on point H.\\n Answer in kN and provide the value with 1 decimal place, e.g. 12.3.\\n Follow the sign convention “-” for a compressive force and “+” for tensile, e.g. -12.3 or 12.3.",
+    "type": "input",
+    "time": 420,
+    "answer_options": [
+      {
+        "answer_id": 2790,
+        "question_id": 746,
+        "answer_text": "-35.4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 154,
+        "question_id": 746,
+        "text": "Assuming positive x from left to right and positive y from down to up (coordinate system not relevant for solution)\\n\r\nR_A_x (x component of reactive force at A) = -f_AC = 25 kN\\n\r\nSum of forces along x:\\n\r\nR_A_x = sin(45)*100 kN - R => R = 45.71068 kN\\n\r\nSum of moments around A\\n\r\nR_G_y * 12 = 25 * 3 + R * 3 + 100 * sin(45) *9 - 100 * cos(45) *6 => R_G_y = 35.355 kN\\n\r\nR_G_y = - f_HG => f_HG = -35.355 kN",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000746__img000202__746_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2790,
+        "question_id": 746,
+        "answer_text": "-35.4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 749,
+    "text": "A structural engineer needs to design a thin simply supported rectangular beam that experiences a point load of 500N in the middle of its length. The beam is 200mm long and 50mm wide. The engineer considers two materials for the panel: aluminium and quasi-isotropic carbon fibre. The aluminium used has a Young’s Modulus of 70GPa and a density of 2.7 g/cm^3. The composite used has a Young’s Modulus of 220 GPa and a density of 1.26 g/cm^3. The environmental impact of the beam aluminium used is 8 kgCO2 per kilo of aluminium and the one of the carbon is 26 kgCO2 per kilo of composite. What is the lowest possible CO2 emission out of these two options while having a beam maximum deflection of 3 mm. a) Aluminium \\nb) Composite Answer in kgCO2 and provide the value with 3 decimal places, e.g. 12.345. ",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 2910,
+        "question_id": 749,
+        "answer_text": "0.986",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 152,
+        "question_id": 749,
+        "text": null,
+        "images": [
+          {
+            "img_id": 210,
+            "path": "solutions/749_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2910,
+        "question_id": 749,
+        "answer_text": "0.986",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 750,
+    "text": "Your racecar is performing a steady-state corner with 8 metres radius at a speed of 10.2 m/s. The vehicle has a longitudinal weight distribution of 50% front / 50% rear, parallel steering (0% ackermann), and 0.5 degrees rear wheel toe in. Knowing that the slip angle of the rear inside wheel is 4.6 degrees, how much toe is needed on the front wheels to ensure that these have equal slip angles (αfi = αfo)? \\n lf = 0.8 m, lr = 0.8m, t = 1.2 m, δ = 12 deg \\n Toe in is considered positive, toe out is considered negative. Answer in deg and provide the value with 1 decimal place, e.g. 12.3. ",
+    "type": "input",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 2792,
+        "question_id": 750,
+        "answer_text": "-0.5",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 151,
+        "question_id": 750,
+        "text": "Assuming x is positive from rear to front and y is positive from right to left (coordinate system not relevant for solution)\\n\r\nYaw_rate = velocity/radius = 10.2 / 8 = 1.275 rad/s\\n\r\nVx_RI = Vx - Yaw_rate*t/2 = 9.435 m/s\\n\r\nVy_RI = -tan(alfa_RI + toe_rear)*Vx_RI = -tan(5.1 deg)*9.435 = 0.84205 m/s\\n\r\nVx_FI = Vx_RI = 9.435 m/s\\n\r\nVy_FI = Vy_RI + Yaw_rate * (lr+lf) = -tan(5.1 deg)*9.435 + 1.275*1.6 = 1.19795 m/s\\n\r\nalfa_FI = 12 - atan(1.19795/9.435) - toe_front = 4.76 - toe_front\\n\r\nVx_FO = Vx + Yaw_rate*t/2 = 10.965 m/s\\n\r\nVy_FO = Vy_FI = 1.19795 m/s\\n\r\nalfa_FO = 12 - atan(1.19795/10.965) + toe_front = 5.76 + toe_front\\n\r\nalfa_FI = alfa_FO => toe_front = - 0.5 deg ",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000750__img000204__750_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2792,
+        "question_id": 750,
+        "answer_text": "-0.5",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 752,
+    "text": "From these options, what is the lightest possible section for the Main Hoop Bracing?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2794,
+        "question_id": 752,
+        "answer_text": "Squared tube side = 1’’, thickness = 3/64’’",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2795,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 32 mm, thickness = 1.2 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2796,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 20 mm, thickness = 1.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2797,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 28 mm, thickness = 1.6 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2798,
+        "question_id": 752,
+        "answer_text": "Squared tube side = 7/8 ‘’, thickness = 1/16’’",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2799,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 25 mm, thickness = 1.2 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 149,
+        "question_id": 752,
+        "text": "Option 1, 2, 3 & 4 → not enough inertia or too thin Squared tube 7/8” x 1/16” → (25,4 x 7/8)^2 mm2 - (25,4 x 7/8 - 2x(25.4 × 1/16))^2 mm2 = 131.0 mm2\\n\r\nRounded tube 28 x 1.6 → 25,4^2 mm2 - (25,4 - 2(25.4 × 3/64))^2 mm2 = 132.7 mm2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2794,
+        "question_id": 752,
+        "answer_text": "Squared tube side = 1’’, thickness = 3/64’’",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2795,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 32 mm, thickness = 1.2 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2796,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 20 mm, thickness = 1.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2797,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 28 mm, thickness = 1.6 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2798,
+        "question_id": 752,
+        "answer_text": "Squared tube side = 7/8 ‘’, thickness = 1/16’’",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2799,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 25 mm, thickness = 1.2 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 775,
+    "text": "Racing engines (for motorsports) often run at high mean piston speed and high comression ratio (i.e. high bmep), trading low engine displacement and weight for high wear and low Mean Time Between Failures. Consider a naturally aspirated 4-stroke engine to deliver 65kW at 8,400 rpm with a mean piston speed of 18 m/s, a bmep of 12 atm, and 3 cylinders. Find the appropriate cylinder bore diameter for such an engine, in mm.\\n\r\nConsider 1 atm=101325 Pa.\\n\r\nAnswer in mm and provide the value with 1 decimal place, e.g. 12.3\r\n",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2903,
+        "question_id": 775,
+        "answer_text": "71.0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 145,
+        "question_id": 775,
+        "text": null,
+        "images": [
+          {
+            "img_id": 209,
+            "path": "solutions/775_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2903,
+        "question_id": 775,
+        "answer_text": "71.0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      80
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 776,
+    "text": "Which statement is right?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2904,
+        "question_id": 776,
+        "answer_text": "Only fuel lines which are rated for temperatures of maximum of 120°C are allowed to use between fuel tank and fuel rail and return lines.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2905,
+        "question_id": 776,
+        "answer_text": "Only fuel lines which are rated for temperatures of at least 100°C are allowed to use between fuel tank and fuel rail and return lines.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2906,
+        "question_id": 776,
+        "answer_text": "Fuel lines designed for temperatures of at least 120°C may only be used between the fuel tank and the fuel distributor.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2907,
+        "question_id": 776,
+        "answer_text": "Fuel lines designed for temperatures of at least 200°C may only be used between the fuel tank and the fuel distributor.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2908,
+        "question_id": 776,
+        "answer_text": "Only fuel lines which are rated for temperatures of at least 120°C are allowed to use between fuel tank and fuel rail and return lines.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 146,
+        "question_id": 776,
+        "text": "CV 2.4.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2904,
+        "question_id": 776,
+        "answer_text": "Only fuel lines which are rated for temperatures of maximum of 120°C are allowed to use between fuel tank and fuel rail and return lines.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2905,
+        "question_id": 776,
+        "answer_text": "Only fuel lines which are rated for temperatures of at least 100°C are allowed to use between fuel tank and fuel rail and return lines.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2906,
+        "question_id": 776,
+        "answer_text": "Fuel lines designed for temperatures of at least 120°C may only be used between the fuel tank and the fuel distributor.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2907,
+        "question_id": 776,
+        "answer_text": "Fuel lines designed for temperatures of at least 200°C may only be used between the fuel tank and the fuel distributor.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2908,
+        "question_id": 776,
+        "answer_text": "Only fuel lines which are rated for temperatures of at least 120°C are allowed to use between fuel tank and fuel rail and return lines.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      80
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 777,
+    "text": "What is the vibration frequency of a four-cylinder in-line engine at 4500 rpm at the dominant engine order that causes the typical four-cylinder hum?\\n\r\nAnswer in Hz and provide the value with 0 decimal places, e.g. 12.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2909,
+        "question_id": 777,
+        "answer_text": "150",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 147,
+        "question_id": 777,
+        "text": "\"In the widely used four-cylinder in-line engines, the vibrations of the second engine order are dominant; this engine design owes the typical four-cylinder hum to them.\"\\n\r\n[Entkopplungselemente in der Fahrzeugtechnik] → nOrd=2 (It can also be found on the internet.)\\n\r\nf= nOrd*r*Hz/(60*1/min)\\n\r\nf= 2*4500*(1/min)*Hz/(60*(1/min))\\n\r\nf= 9000 Hz/60\\n\r\nf= 150 Hz",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2909,
+        "question_id": 777,
+        "answer_text": "150",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      80
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  }
+]

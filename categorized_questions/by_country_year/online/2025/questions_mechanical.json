@@ -1,0 +1,521 @@
+[
+  {
+    "question_id": 130,
+    "text": "Heating up an ideal block of aluminum:\nMass 2.4kg, specific heat capacity 900J/kgK, heating power 2000W.\nCalculate the time in secounds [s] necessary to heat up this ideal block to 80°C starting at 25°C.<br> Round to nearest integer. Please use the following format: 12.34",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 523,
+        "question_id": 130,
+        "answer_text": "59",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 32,
+        "question_id": 130,
+        "text": "Exact result: 59.4, rounded to 59",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 523,
+        "question_id": 130,
+        "answer_text": "59",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      15,
+      14,
+      92
+    ],
+    "years": [
+      "2021",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "online"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 869,
+    "text": "Last year we built an organ from old exhaust pipes here. Unfortunately, the organ did not survive the events unscathed. As your budget is still quite tight, you continue to use old exhaust pipes. However, you only have 3.15m left. \\nThe pipes with a frequency of 780 Hz, 820 Hz and 860 Hz at the first overtone are damaged. Note that the pipes are closed on one side.\\nIs the old material sufficient or is new material needed?\\n\\nc = 343 m/s\\n\\nEnter the remaining length or the missing material as the solution and ignore offcuts.\\nRound to four decimal places and use a minus sign for missing material. Answer in metres.\\nExample answer: -1.2345",
+    "type": "input",
+    "time": 420,
+    "answer_options": [
+      {
+        "answer_id": 3230,
+        "question_id": 869,
+        "answer_text": "2.2077",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3230,
+        "question_id": 869,
+        "answer_text": "2.2077",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 871,
+    "text": "Which of the following statements describes the requirements for pipe bends and roll hoops?",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 3232,
+        "question_id": 871,
+        "answer_text": "A) The minimum radius of any bend, measured at the tube centerline, must be at least three times the tube outside diameter, and roll hoops must maintain this minimum radius.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3233,
+        "question_id": 871,
+        "answer_text": "B) Bends are allowed if they have only partial smooth transitions and roll hoops are not required to meet any specific radius.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3234,
+        "question_id": 871,
+        "answer_text": "C) The minimum area moment of inertia must be maintained only in the straight sections of the pipe, and roll hoops do not need to adhere to this requirement.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3235,
+        "question_id": 871,
+        "answer_text": "D) Bends are only allowed if they reach at least twice the tube outside diameter, and roll hoops must follow this same radius restriction.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 195,
+        "question_id": 871,
+        "text": "FS-Rules 2025: T3.7.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3232,
+        "question_id": 871,
+        "answer_text": "A) The minimum radius of any bend, measured at the tube centerline, must be at least three times the tube outside diameter, and roll hoops must maintain this minimum radius.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3233,
+        "question_id": 871,
+        "answer_text": "B) Bends are allowed if they have only partial smooth transitions and roll hoops are not required to meet any specific radius.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3234,
+        "question_id": 871,
+        "answer_text": "C) The minimum area moment of inertia must be maintained only in the straight sections of the pipe, and roll hoops do not need to adhere to this requirement.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3235,
+        "question_id": 871,
+        "answer_text": "D) Bends are only allowed if they reach at least twice the tube outside diameter, and roll hoops must follow this same radius restriction.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 872,
+    "text": "Which of the following statements describes the requirements for ASSI placement on a vehicle?",
+    "type": "single-choice",
+    "time": 60,
+    "answer_options": [
+      {
+        "answer_id": 3236,
+        "question_id": 872,
+        "answer_text": "A) The ASSIs are allowed to be placed anywhere on the vehicle as long as they are visible from a distance of 3 meters.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3237,
+        "question_id": 872,
+        "answer_text": "B) Only one ASSI needs to be visible from any angle of the vehicle, positioned 1.60 meters above ground level and within a 5-meter horizontal radius.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3238,
+        "question_id": 872,
+        "answer_text": "C) One ASSI must be placed on each side behind the driver’s compartment, 160 mm below the top of the main hoop and 600 mm above the ground. A third ASSI must be at the rear, on the centerline, 160 mm below the top of the main hoop and 100 mm above the brake light.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3239,
+        "question_id": 872,
+        "answer_text": "D) The placement of ASSIs is not specified by height requirements but must be visible from at least one angle.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 196,
+        "question_id": 872,
+        "text": "FS-Rules 2025: T14.9.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3236,
+        "question_id": 872,
+        "answer_text": "A) The ASSIs are allowed to be placed anywhere on the vehicle as long as they are visible from a distance of 3 meters.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3237,
+        "question_id": 872,
+        "answer_text": "B) Only one ASSI needs to be visible from any angle of the vehicle, positioned 1.60 meters above ground level and within a 5-meter horizontal radius.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3238,
+        "question_id": 872,
+        "answer_text": "C) One ASSI must be placed on each side behind the driver’s compartment, 160 mm below the top of the main hoop and 600 mm above the ground. A third ASSI must be at the rear, on the centerline, 160 mm below the top of the main hoop and 100 mm above the brake light.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3239,
+        "question_id": 872,
+        "answer_text": "D) The placement of ASSIs is not specified by height requirements but must be visible from at least one angle.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 873,
+    "text": "You want to attach a beam made of linear elastic material to a wall in your workshop. To decide on the right material, you need to determine the bending angle at the outer free end.\\nWhat calculation is needed for this?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3240,
+        "question_id": 873,
+        "answer_text": "A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3241,
+        "question_id": 873,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3242,
+        "question_id": 873,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3243,
+        "question_id": 873,
+        "answer_text": "D",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000873__img000269__873_2.jpg",
+      "images\\q000873__img000270__873_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3240,
+        "question_id": 873,
+        "answer_text": "A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3241,
+        "question_id": 873,
+        "answer_text": "B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3242,
+        "question_id": 873,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3243,
+        "question_id": 873,
+        "answer_text": "D",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 874,
+    "text": "Due to an installation error in the position of the floating bearing B, the outlined linear elastic bending beam is prestressed.  What is the magnitude of the bearing force |B| at point B?",
+    "type": "single-choice",
+    "time": 500,
+    "answer_options": [
+      {
+        "answer_id": 3244,
+        "question_id": 874,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3245,
+        "question_id": 874,
+        "answer_text": "B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3246,
+        "question_id": 874,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3247,
+        "question_id": 874,
+        "answer_text": "D",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000874__img000271__874_1.jpg",
+      "images\\q000874__img000272__874_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3244,
+        "question_id": 874,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3245,
+        "question_id": 874,
+        "answer_text": "B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3246,
+        "question_id": 874,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3247,
+        "question_id": 874,
+        "answer_text": "D",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  },
+  {
+    "question_id": 875,
+    "text": "Which statements are true?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3248,
+        "question_id": 875,
+        "answer_text": "A: A part of the AIP can move up to 30 mm IA Test.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3249,
+        "question_id": 875,
+        "answer_text": "B: Fireproof shoes with the FIA standard 8856-2000 are permitted.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3250,
+        "question_id": 875,
+        "answer_text": "C: TS wiring, connections and insulation must be designed for at least 65 degrees.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3251,
+        "question_id": 875,
+        "answer_text": "D: Tables of contents do not count towards the page limit for EDR.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3252,
+        "question_id": 875,
+        "answer_text": "E: Your team can achieve 130 points in engineering design event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3253,
+        "question_id": 875,
+        "answer_text": "F: Your team can consist of three regular drivers and 2 reserve drivers.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3254,
+        "question_id": 875,
+        "answer_text": "G: In the event of a yellow flag in the autocross, there is a rerun option.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3255,
+        "question_id": 875,
+        "answer_text": "H: There are 60 cones on the skidpad track.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 197,
+        "question_id": 875,
+        "text": "FS-Rules 2025:\\n\nA: T3.18.2 -> max 25mm;\\n\nB: T13.3.8 -> yes;\\n\nC: EV4.5.3 -> min 85;\\n\nD: S4.2.6 -> count as text pages;\\n\nE: S4.6.2 -> yes, max is 150 points;\\n\nF: D1.2.1 -> no, max 4 drivers;\\n\nG: D2.9.1 -> yes;\\n\nH: D4.1.3 -> yes: 2x17 cones inside, 2x13 cones outside\n",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3248,
+        "question_id": 875,
+        "answer_text": "A: A part of the AIP can move up to 30 mm IA Test.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3249,
+        "question_id": 875,
+        "answer_text": "B: Fireproof shoes with the FIA standard 8856-2000 are permitted.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3250,
+        "question_id": 875,
+        "answer_text": "C: TS wiring, connections and insulation must be designed for at least 65 degrees.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3251,
+        "question_id": 875,
+        "answer_text": "D: Tables of contents do not count towards the page limit for EDR.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3252,
+        "question_id": 875,
+        "answer_text": "E: Your team can achieve 130 points in engineering design event.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3253,
+        "question_id": 875,
+        "answer_text": "F: Your team can consist of three regular drivers and 2 reserve drivers.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3254,
+        "question_id": 875,
+        "answer_text": "G: In the event of a yellow flag in the autocross, there is a rerun option.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3255,
+        "question_id": 875,
+        "answer_text": "H: There are 60 cones on the skidpad track.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  }
+]

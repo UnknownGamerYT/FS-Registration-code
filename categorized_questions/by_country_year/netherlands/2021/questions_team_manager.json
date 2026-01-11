@@ -1,0 +1,240 @@
+[
+  {
+    "question_id": 546,
+    "text": "What is the penalty for a fluid leak (without advantages for the team) in Autocross?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2118,
+        "question_id": 546,
+        "answer_text": "No penalty, but a voluntary re-run.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2119,
+        "question_id": 546,
+        "answer_text": "2 s penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2120,
+        "question_id": 546,
+        "answer_text": "5 s penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2121,
+        "question_id": 546,
+        "answer_text": "DQ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 89,
+        "question_id": 546,
+        "text": "IN12.1.5",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2118,
+        "question_id": 546,
+        "answer_text": "No penalty, but a voluntary re-run.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2119,
+        "question_id": 546,
+        "answer_text": "2 s penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2120,
+        "question_id": 546,
+        "answer_text": "5 s penalty.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2121,
+        "question_id": 546,
+        "answer_text": "DQ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      53,
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 551,
+    "text": "During a run in the practice area, your vehicle stalls. Your driver is unable to start the vehicle. Can team members help to push-start your vehicle?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2139,
+        "question_id": 551,
+        "answer_text": "Yes, but only in the practice area",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2140,
+        "question_id": 551,
+        "answer_text": "Yes, but only if the team members use the push bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2141,
+        "question_id": 551,
+        "answer_text": "No, vehicles may only be started by using the on-board starter",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2142,
+        "question_id": 551,
+        "answer_text": "No, team members are not allowed to enter the practice area",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 94,
+        "question_id": 551,
+        "text": "CV.1.2.1 / answer D is incorrect as officials may allow team members into the practice area to retrieve a stalled/broken vehicle.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2139,
+        "question_id": 551,
+        "answer_text": "Yes, but only in the practice area",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2140,
+        "question_id": 551,
+        "answer_text": "Yes, but only if the team members use the push bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2141,
+        "question_id": 551,
+        "answer_text": "No, vehicles may only be started by using the on-board starter",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2142,
+        "question_id": 551,
+        "answer_text": "No, team members are not allowed to enter the practice area",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 552,
+    "text": "Team NSF is experiencing issues with their engine. What is never allowed?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2143,
+        "question_id": 552,
+        "answer_text": "Cranking the engine before the vehicle has passed mechanical inspection",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2144,
+        "question_id": 552,
+        "answer_text": "Cranking the engine in the pits",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2145,
+        "question_id": 552,
+        "answer_text": "Leaving the driven wheels on while running the engine",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2146,
+        "question_id": 552,
+        "answer_text": "Using a quick jack to lift the driven wheels when running the engine",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 95,
+        "question_id": 552,
+        "text": "A.6.8.2/3",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2143,
+        "question_id": 552,
+        "answer_text": "Cranking the engine before the vehicle has passed mechanical inspection",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2144,
+        "question_id": 552,
+        "answer_text": "Cranking the engine in the pits",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2145,
+        "question_id": 552,
+        "answer_text": "Leaving the driven wheels on while running the engine",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2146,
+        "question_id": 552,
+        "answer_text": "Using a quick jack to lift the driven wheels when running the engine",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      54
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

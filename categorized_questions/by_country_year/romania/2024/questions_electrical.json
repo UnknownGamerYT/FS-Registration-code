@@ -1,0 +1,185 @@
+[
+  {
+    "question_id": 732,
+    "text": "A copper coil has a resistance of 100 ohms at 20°C. What is its resistance at 50°C if the temperature coefficient of resistivity for copper is 0.0038^Ohm / Ohm°C?\\n (answer format round to nearest decimal eg:12.34)",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2742,
+        "question_id": 732,
+        "answer_text": "111.40",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2742,
+        "question_id": 732,
+        "answer_text": "111.40",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 734,
+    "text": "What is true about the BSPD?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2747,
+        "question_id": 734,
+        "answer_text": "It opens the SDC when hard braking is detected and TPS position is 25% over idle",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2748,
+        "question_id": 734,
+        "answer_text": "It opens the SDC if an implausibility persists for 250ms or more",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2749,
+        "question_id": 734,
+        "answer_text": "It can be supplied directly from a DC/DC converter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2750,
+        "question_id": 734,
+        "answer_text": "The BSPD can close the SDC through either a relay or a MOSFET",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2747,
+        "question_id": 734,
+        "answer_text": "It opens the SDC when hard braking is detected and TPS position is 25% over idle",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2748,
+        "question_id": 734,
+        "answer_text": "It opens the SDC if an implausibility persists for 250ms or more",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2749,
+        "question_id": 734,
+        "answer_text": "It can be supplied directly from a DC/DC converter",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2750,
+        "question_id": 734,
+        "answer_text": "The BSPD can close the SDC through either a relay or a MOSFET",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 735,
+    "text": "What is the maximum voltage permitted for low voltage?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2751,
+        "question_id": 735,
+        "answer_text": "60V ACRMS and 50V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2752,
+        "question_id": 735,
+        "answer_text": "55V DC and 60V ACRMS",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2753,
+        "question_id": 735,
+        "answer_text": "60V DC and 50V ACRMS",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2754,
+        "question_id": 735,
+        "answer_text": "55V ACRMS and 60V DC",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2751,
+        "question_id": 735,
+        "answer_text": "60V ACRMS and 50V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2752,
+        "question_id": 735,
+        "answer_text": "55V DC and 60V ACRMS",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2753,
+        "question_id": 735,
+        "answer_text": "60V DC and 50V ACRMS",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2754,
+        "question_id": 735,
+        "answer_text": "55V ACRMS and 60V DC",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  }
+]

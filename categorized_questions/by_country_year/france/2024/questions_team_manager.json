@@ -1,0 +1,330 @@
+[
+  {
+    "question_id": 824,
+    "text": "Your team just finished endurance. Well done. Your total time is 1760 seconds, excluding the driverchange. \\nYou had no cones counted \"down or out\" nor any off-courses. \\nHowever, you had several issues before, during and after endurance.\\nYou missed your time slot and had to start out of order.\\nAfter three laps, a small part of your front wing endplate fell of.\\nAs a result, you were given a mechanical black flag.\\nDuring the inspection, no mechanical integrity problems were found, and you continued endurance.\\nAfter endurance the height of your rear winf is measured, and it is significantly higher then the allowed height.\\n\\nWhat is the corrected elapsed time for your run?",
+    "type": "single-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 3087,
+        "question_id": 824,
+        "answer_text": "1940 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3088,
+        "question_id": 824,
+        "answer_text": "1760 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3089,
+        "question_id": 824,
+        "answer_text": "2000 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3090,
+        "question_id": 824,
+        "answer_text": "1880 s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3087,
+        "question_id": 824,
+        "answer_text": "1940 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3088,
+        "question_id": 824,
+        "answer_text": "1760 s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3089,
+        "question_id": 824,
+        "answer_text": "2000 s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3090,
+        "question_id": 824,
+        "answer_text": "1880 s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 825,
+    "text": "During post inspection your vehicle is found to be 7.3 kg below the offical technical inspection weight. \\nWhat are the consquences for your team?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3091,
+        "question_id": 825,
+        "answer_text": "You receive 60 penalty points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3092,
+        "question_id": 825,
+        "answer_text": "You receive 46 penalty points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3093,
+        "question_id": 825,
+        "answer_text": "You receive a Group B penalty",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3094,
+        "question_id": 825,
+        "answer_text": "You will be disqualified from all runs since entering the dynamic area",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3091,
+        "question_id": 825,
+        "answer_text": "You receive 60 penalty points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3092,
+        "question_id": 825,
+        "answer_text": "You receive 46 penalty points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3093,
+        "question_id": 825,
+        "answer_text": "You receive a Group B penalty",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3094,
+        "question_id": 825,
+        "answer_text": "You will be disqualified from all runs since entering the dynamic area",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 834,
+    "text": "One of your team members has been officially registered for a competition in 2019, but was not able to attend.\\nThey actually attended their first competiton at FSA 2021. What are they allowed to do at the FSA 2024 competition?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3126,
+        "question_id": 834,
+        "answer_text": "Act as a stand-in if one of your regular drivers falls ill",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3127,
+        "question_id": 834,
+        "answer_text": "Participate in the award ceremony at the campsite",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3128,
+        "question_id": 834,
+        "answer_text": "Be connected virtually during the Business Plan Presentation in order to answer the judge's questions, given that this person has been introduced to the judges",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3129,
+        "question_id": 834,
+        "answer_text": "Answer the Scrutineer's questions during the time slot for Tech Inspection",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3130,
+        "question_id": 834,
+        "answer_text": "Help out with repairs in the team's pit and help with final adjustments in the Practice Area",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3126,
+        "question_id": 834,
+        "answer_text": "Act as a stand-in if one of your regular drivers falls ill",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3127,
+        "question_id": 834,
+        "answer_text": "Participate in the award ceremony at the campsite",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3128,
+        "question_id": 834,
+        "answer_text": "Be connected virtually during the Business Plan Presentation in order to answer the judge's questions, given that this person has been introduced to the judges",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3129,
+        "question_id": 834,
+        "answer_text": "Answer the Scrutineer's questions during the time slot for Tech Inspection",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3130,
+        "question_id": 834,
+        "answer_text": "Help out with repairs in the team's pit and help with final adjustments in the Practice Area",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 835,
+    "text": "The moon cat Formula Student Team was able to qualify for FSA for the first time.\\nTo get the best out of their car they decide to test an alternative IA design.\\nTheir only useful weight to be used to accelerate the IA assembly is a moon rock (total mass: 249.88 kg). What is the minimum height the test sample has to be dropped from and will the cats be allowed to use their alternative IA if the speed at impact ist 7.8 m/s?\\ng(moon)=1.622 m/s^2",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3131,
+        "question_id": 835,
+        "answer_text": "No, dropped at h=7.90 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3132,
+        "question_id": 835,
+        "answer_text": "No, dropped at h=15.10 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3133,
+        "question_id": 835,
+        "answer_text": "Yes, dropped at h=7.90 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3134,
+        "question_id": 835,
+        "answer_text": "No, dropped at h=18.13 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3135,
+        "question_id": 835,
+        "answer_text": "Yes, dropped at h=15.10 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3136,
+        "question_id": 835,
+        "answer_text": "Yes, dropped at h=18.13 m",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3131,
+        "question_id": 835,
+        "answer_text": "No, dropped at h=7.90 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3132,
+        "question_id": 835,
+        "answer_text": "No, dropped at h=15.10 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3133,
+        "question_id": 835,
+        "answer_text": "Yes, dropped at h=7.90 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3134,
+        "question_id": 835,
+        "answer_text": "No, dropped at h=18.13 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3135,
+        "question_id": 835,
+        "answer_text": "Yes, dropped at h=15.10 m",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3136,
+        "question_id": 835,
+        "answer_text": "Yes, dropped at h=18.13 m",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  }
+]

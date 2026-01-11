@@ -1,0 +1,196 @@
+[
+  {
+    "question_id": 435,
+    "text": "In which cases will team members be denied their on-site member pass?\\nMark all correct answers!    ",
+    "type": "multi-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 1764,
+        "question_id": 435,
+        "answer_text": "Incorrect or missing upload of Health Insurance Certificate (HIC)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1765,
+        "question_id": 435,
+        "answer_text": "Not signed or missing standard terms",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1766,
+        "question_id": 435,
+        "answer_text": "Studying for more than five years at the university",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1767,
+        "question_id": 435,
+        "answer_text": "Not assigned as a team member by the team captain",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1768,
+        "question_id": 435,
+        "answer_text": "Studying at a different university than the team they want to participate in",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1769,
+        "question_id": 435,
+        "answer_text": "Not having a valid driver's license",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1770,
+        "question_id": 435,
+        "answer_text": "Arriving only after the competition has already been started",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1771,
+        "question_id": 435,
+        "answer_text": "Not in the age of 18 or older",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1764,
+        "question_id": 435,
+        "answer_text": "Incorrect or missing upload of Health Insurance Certificate (HIC)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1765,
+        "question_id": 435,
+        "answer_text": "Not signed or missing standard terms",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1766,
+        "question_id": 435,
+        "answer_text": "Studying for more than five years at the university",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1767,
+        "question_id": 435,
+        "answer_text": "Not assigned as a team member by the team captain",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1768,
+        "question_id": 435,
+        "answer_text": "Studying at a different university than the team they want to participate in",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1769,
+        "question_id": 435,
+        "answer_text": "Not having a valid driver's license",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1770,
+        "question_id": 435,
+        "answer_text": "Arriving only after the competition has already been started",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1771,
+        "question_id": 435,
+        "answer_text": "Not in the age of 18 or older",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 450,
+    "text": "Driverless skidpad results:\nThe given table showns the results of the driverless FSE skidpad event. Only the shown six teams are part of the competition.\nCalculate the points for the team from the „Alpaca Technical University“ for normal driverless mode FSE skidpad scoring and for the Driverless Cup skidpad scoring! Round the solution to one decimal place. Give the solution in the following format: Driverless FSE Scoring, Driverless Cup Scoring, e.g. 1.2, 3.4  \nAll times are in seconds:",
+    "type": "input",
+    "time": 720,
+    "answer_options": [
+      {
+        "answer_id": 1808,
+        "question_id": 450,
+        "answer_text": "50.0, 56.3",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000450__img000100__450_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1808,
+        "question_id": 450,
+        "answer_text": "50.0, 56.3",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 452,
+    "text": "Assume your team has to submit an ASF.\\n State the time to de-registration in days for missing the initial deadline and state the time to de-registration in days for missing to upload the correctedversion after the correction request! Round to the nearest one. Give the solution in the following format: missing the initial deadline, missing the correction request, e.g. 1, 2",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 1810,
+        "question_id": 452,
+        "answer_text": "1, 7",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1810,
+        "question_id": 452,
+        "answer_text": "1, 7",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

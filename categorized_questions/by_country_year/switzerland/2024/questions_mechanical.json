@@ -1,0 +1,260 @@
+[
+  {
+    "question_id": 179,
+    "text": "Which of the following statements is false regarding the difference between Lead-based batteries, Nickel-based batteries and Lithium-based batteries?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 699,
+        "question_id": 179,
+        "answer_text": "The Nickel based batteries typically have the lowest specific energy",
+        "is_correct": true
+      },
+      {
+        "answer_id": 700,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries can achieve specific energies of over 200 Wh/kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 701,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries typically have the highest specific energy",
+        "is_correct": false
+      },
+      {
+        "answer_id": 702,
+        "question_id": 179,
+        "answer_text": "The Lead-based batteries typically have a norminal voltage of 2V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 703,
+        "question_id": 179,
+        "answer_text": "The Nickel-based batteries have the lowest norminal voltage",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 699,
+        "question_id": 179,
+        "answer_text": "The Nickel based batteries typically have the lowest specific energy",
+        "is_correct": true
+      },
+      {
+        "answer_id": 700,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries can achieve specific energies of over 200 Wh/kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 701,
+        "question_id": 179,
+        "answer_text": "The Lithium-based batteries typically have the highest specific energy",
+        "is_correct": false
+      },
+      {
+        "answer_id": 702,
+        "question_id": 179,
+        "answer_text": "The Lead-based batteries typically have a norminal voltage of 2V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 703,
+        "question_id": 179,
+        "answer_text": "The Nickel-based batteries have the lowest norminal voltage",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      18,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 554,
+    "text": "Which of the following equations is a basic principle of electrical engineering?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 97,
+        "question_id": 554,
+        "text": "Ohm’s law formula",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      55,
+      70
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 559,
+    "text": "You want to drive with your FS Car after the competition to Zermatt to visit the famous Matterhorn. The first 70% of the distance, you can drive with a constant speed of 80 km/h. Due to traffic jams, you have to drive 30 km/h for the remaining distance. The distance from the competition to Tasch is 74 km. How much energy is needed if your average consumption is 10 kJ/s. \\n Answer in kWh and provide the value with 1 digit behind decimal point, e.g. 12.3 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2171,
+        "question_id": 559,
+        "answer_text": "13.9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2171,
+        "question_id": 559,
+        "answer_text": "13.9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 560,
+    "text": "What is the minimal flexural stiffness required for Front Hoop Bracing Structure on your complete Formula Student racecar? \\n Answer in Nm? and provide the value with 0 digit behind decimal point, e.g. 12 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits. ",
+    "type": "input",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2352,
+        "question_id": 560,
+        "answer_text": "3404",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2352,
+        "question_id": 560,
+        "answer_text": "3404",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]

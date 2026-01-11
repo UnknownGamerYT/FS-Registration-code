@@ -1,0 +1,739 @@
+[
+  {
+    "question_id": 928,
+    "text": "Your car recuperates 100 kW for 0.5 s under braking at your motor(s). Then accelerates with 75 kW for 2 s, measured again at your motor(s). What is the total energy recuperated into the battery as a result of the braking and what is the amount of energy drawn from the battery for the subsequent acceleration? Your powertrain efficiency from motor(s) to battery is 95% in charge ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3471,
+        "question_id": 928,
+        "answer_text": "50 kJ; 150 kJ ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3472,
+        "question_id": 928,
+        "answer_text": "45.6 kJ; 139.7 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3473,
+        "question_id": 928,
+        "answer_text": "54.8 kJ; 161.1 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3474,
+        "question_id": 928,
+        "answer_text": "45.6 kJ; 161.1 kJ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 205,
+        "question_id": 928,
+        "text": null,
+        "images": [
+          {
+            "img_id": 300,
+            "path": "solutions/928_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3471,
+        "question_id": 928,
+        "answer_text": "50 kJ; 150 kJ ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3472,
+        "question_id": 928,
+        "answer_text": "45.6 kJ; 139.7 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3473,
+        "question_id": 928,
+        "answer_text": "54.8 kJ; 161.1 kJ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3474,
+        "question_id": 928,
+        "answer_text": "45.6 kJ; 161.1 kJ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 929,
+    "text": "A Syncron buck converter has 100 V on its input. The desired output voltage is 24 V. The coils inductance is 470 µH. The output capacitance is 200 µF. The switching frequency is 20 kHz. We want to measure the coil current with the circuit below if the converters maximum output current is ±20 A (current in both directions). Our processor's ADC input can handle 0 to 3.29V and the maximum shunt power is 1 W (peak), it's inductance is 100 nH. Choose the highest resistance shunt from the E96 series and calculate the optimal value of R2 resistor if R1a = R1b = 1 kΩ, rounding to three significant digits. The value of C is chosen so the anti-aliasing filter (formed by R1a and C) doesn’t effect the amplitude of the signal connected to the amplifier.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3475,
+        "question_id": 929,
+        "answer_text": "126 kΩ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3476,
+        "question_id": 929,
+        "answer_text": "63 kΩ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3477,
+        "question_id": 929,
+        "answer_text": "69.4 kΩ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3478,
+        "question_id": 929,
+        "answer_text": "138 kΩ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 206,
+        "question_id": 929,
+        "text": null,
+        "images": [
+          {
+            "img_id": 302,
+            "path": "solutions/929_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000929__img000301__929_5.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3475,
+        "question_id": 929,
+        "answer_text": "126 kΩ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3476,
+        "question_id": 929,
+        "answer_text": "63 kΩ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3477,
+        "question_id": 929,
+        "answer_text": "69.4 kΩ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3478,
+        "question_id": 929,
+        "answer_text": "138 kΩ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 930,
+    "text": "Given a 100 uF capacitor with a maximum voltage of 100 V. The impedance of the capacitor measured at 10 kHz is 0.18 Ω, ESL and leakage resistance are negligible. What will be the voltage on 2 capacitors in series if they are supplied by a symmetrical square wave current with the following parameters?\\n\n- Frequency: 10 kHz\\n\n- Amplitude: 1 A\\n\n- Duty cycle: 50%\\n\n- (round to 4 decimal places) \n",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3479,
+        "question_id": 930,
+        "answer_text": "±0.5000 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3480,
+        "question_id": 930,
+        "answer_text": " ±0.5840 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3481,
+        "question_id": 930,
+        "answer_text": "±1.0000 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3482,
+        "question_id": 930,
+        "answer_text": "±1.0840 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3483,
+        "question_id": 930,
+        "answer_text": "±1.1680 V",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 207,
+        "question_id": 930,
+        "text": null,
+        "images": [
+          {
+            "img_id": 303,
+            "path": "solutions/930_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3479,
+        "question_id": 930,
+        "answer_text": "±0.5000 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3480,
+        "question_id": 930,
+        "answer_text": " ±0.5840 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3481,
+        "question_id": 930,
+        "answer_text": "±1.0000 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3482,
+        "question_id": 930,
+        "answer_text": "±1.0840 V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3483,
+        "question_id": 930,
+        "answer_text": "±1.1680 V",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 931,
+    "text": "You are using an NTC in a voltage divider to measure temperature. The nominal resistance of the NTC is 10 000 Ω at 25 °C and 680 Ω at 100 °C. Supply voltage for the divider and the ADC is 5 V.\\n The temperature tolerance of the NTC is ± 0.2 K.\\n You use ERJ-PB3B1002V (temperature coefficient of Resistance is neglected) as R1, and your ADC resolution is 12 bits.\\n What is the highest and lowest ADC value at 100 °C?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3484,
+        "question_id": 931,
+        "answer_text": "254; 268",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3485,
+        "question_id": 931,
+        "answer_text": "260; 262 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3486,
+        "question_id": 931,
+        "answer_text": "256; 266",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3487,
+        "question_id": 931,
+        "answer_text": "265; 256",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 208,
+        "question_id": 931,
+        "text": "Question was removed",
+        "images": [
+          {
+            "img_id": 304,
+            "path": "solutions/931_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3484,
+        "question_id": 931,
+        "answer_text": "254; 268",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3485,
+        "question_id": 931,
+        "answer_text": "260; 262 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3486,
+        "question_id": 931,
+        "answer_text": "256; 266",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3487,
+        "question_id": 931,
+        "answer_text": "265; 256",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 932,
+    "text": " To validate your aerodynamic package you perform straight runs with constant velocity on horizontal surface (no inclination) and log the measured values of your linear potentiometers mounted on your suspension in parallel with the springs and dampers. Both the sensors and the springs have linear characteristics in the measurement domain (F [N] spring force ~ Δs [m] spring ~ U [V] measured voltage).\\n First, you measure the mass of the car without the driver. On the front axle you measure the total mass of 81.8 [kg] (sum of left and right sides) and on the rear axle 88.3 [kg] (left and right side together). Meanwhile the average of the measured voltages of the two linear potentiometers on the front axle is 2.36 [V] and on the rear axle is 2.45 [V].\\n Then you also measure the mass of the car with the driver inside. The results are the following: 120.7 [kg] and 3.33 [V] on the front axle and 121.2 [kg] and 3.25 [V] on the rear axle. \\n Then your driver performs the constant velocity runs with the car. Based on the logs with the appropriate data filtering you calculate that the velocity was 60.48 [km/h] and on the front axle the average measured voltage was 4.26 [V], while on the rear it was 4.23 [V].\\n During the test you also operated a mobile mini weather station. From this you know that the ambient pressure was 103 [kPa] and the air temperature was 26.3 [°C]. The humidity was low; thus you can use 0.02896 [kg/mol] as the molecular mass of the air. Wind speed was 0.\\n The frontal surface of your vehicle is A = 1.14 [m^2]. Use g = 9.81 [m/s^2] as the constant for gravity.\\n Calculate your vehicle’s lift (downforce) coefficient from the results of the tesƟng! Calculate the position of the CoG and the CoP (relative to the wheelbase) at the velocity measured during the run!\\n Where is the CoP relative to the CoG?\\n From the options below select one cl [-] value and one CoG-CoP relationship option!",
+    "type": "multi-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3488,
+        "question_id": 932,
+        "answer_text": "cl = -3.949 [-] ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3489,
+        "question_id": 932,
+        "answer_text": "cl = -3.575 [-]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3490,
+        "question_id": 932,
+        "answer_text": "cl = -3.438 [-] ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3491,
+        "question_id": 932,
+        "answer_text": "cl = -3.232 [-]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3492,
+        "question_id": 932,
+        "answer_text": " CoP is 1.8% behind CoG ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3493,
+        "question_id": 932,
+        "answer_text": "CoP is 1.9% in front of CoG ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3494,
+        "question_id": 932,
+        "answer_text": "CoP is aligned with CoG ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 209,
+        "question_id": 932,
+        "text": null,
+        "images": [
+          {
+            "img_id": 305,
+            "path": "solutions/932_1.jpg"
+          },
+          {
+            "img_id": 306,
+            "path": "solutions/932_2.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3488,
+        "question_id": 932,
+        "answer_text": "cl = -3.949 [-] ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3489,
+        "question_id": 932,
+        "answer_text": "cl = -3.575 [-]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3490,
+        "question_id": 932,
+        "answer_text": "cl = -3.438 [-] ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3491,
+        "question_id": 932,
+        "answer_text": "cl = -3.232 [-]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3492,
+        "question_id": 932,
+        "answer_text": " CoP is 1.8% behind CoG ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3493,
+        "question_id": 932,
+        "answer_text": "CoP is 1.9% in front of CoG ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3494,
+        "question_id": 932,
+        "answer_text": "CoP is aligned with CoG ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 933,
+    "text": "What is the flux linkage in the following magnetic circuit, where N=200 turns on the winding, i=30 mA current is flowing through the winding, the magnet has a remanence of Br=1.3 T, cross section of A=500 cm^2 the magnet leakage permeance is Pm= 10 mH, and the core reluctance is R=50 [1/H].",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3495,
+        "question_id": 933,
+        "answer_text": "0.04 Wb",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3496,
+        "question_id": 933,
+        "answer_text": "16.67 Vs",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3497,
+        "question_id": 933,
+        "answer_text": "8 Wb",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3498,
+        "question_id": 933,
+        "answer_text": "0.083 Vs",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 210,
+        "question_id": 933,
+        "text": null,
+        "images": [
+          {
+            "img_id": 308,
+            "path": "solutions/933_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000933__img000307__933_6.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3495,
+        "question_id": 933,
+        "answer_text": "0.04 Wb",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3496,
+        "question_id": 933,
+        "answer_text": "16.67 Vs",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3497,
+        "question_id": 933,
+        "answer_text": "8 Wb",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3498,
+        "question_id": 933,
+        "answer_text": "0.083 Vs",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 934,
+    "text": "Your team uses a 6 [Ah] cell with the following SoC-OCV (Open Circuit Voltage) curve in 120s2p configuration. The SoH (State of Health) of your cells is 90%. Calculate the number of full endurance laps left in your TS Accu if the average energy consumption is 303 [Wh] per lap and the current OCV of your most discharged cell pair is 3.88 [V]. The following simplifications can be used:\\n- SoC-OCV curve is linear between the known points.\\n - There is no recuperation.\\n - The energy stored in one cell at 100% SoC and 100% SoH is calculated according to EV 5.1.2.\\n - The actual discharge current has no impact on the remaining energy. ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3499,
+        "question_id": 934,
+        "answer_text": "11",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3500,
+        "question_id": 934,
+        "answer_text": "12",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3501,
+        "question_id": 934,
+        "answer_text": "13",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3502,
+        "question_id": 934,
+        "answer_text": "14",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 211,
+        "question_id": 934,
+        "text": null,
+        "images": [
+          {
+            "img_id": 310,
+            "path": "solutions/934_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000934__img000309__934_7.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3499,
+        "question_id": 934,
+        "answer_text": "11",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3500,
+        "question_id": 934,
+        "answer_text": "12",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3501,
+        "question_id": 934,
+        "answer_text": "13",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3502,
+        "question_id": 934,
+        "answer_text": "14",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 935,
+    "text": "You plan to use this circuit to generate the blinking pattern for the Red LEDs of your TSAL. Assume that U1 is a perfect operational amplifier. Which combination of R1 and C1 leads to a rules-compliant TSAL?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3503,
+        "question_id": 935,
+        "answer_text": "R1 = 22 MΩ, C1 = 10 nF ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3504,
+        "question_id": 935,
+        "answer_text": "R1 = 47 MΩ, C1 = 10 nF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3505,
+        "question_id": 935,
+        "answer_text": "R1 = 10 MΩ, C1 = 10 nF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3506,
+        "question_id": 935,
+        "answer_text": "R1 = 33 MΩ, C1 = 2.2 nF",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 212,
+        "question_id": 935,
+        "text": null,
+        "images": [
+          {
+            "img_id": 312,
+            "path": "solutions/935_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000935__img000311__935_8.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3503,
+        "question_id": 935,
+        "answer_text": "R1 = 22 MΩ, C1 = 10 nF ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3504,
+        "question_id": 935,
+        "answer_text": "R1 = 47 MΩ, C1 = 10 nF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3505,
+        "question_id": 935,
+        "answer_text": "R1 = 10 MΩ, C1 = 10 nF",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3506,
+        "question_id": 935,
+        "answer_text": "R1 = 33 MΩ, C1 = 2.2 nF",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

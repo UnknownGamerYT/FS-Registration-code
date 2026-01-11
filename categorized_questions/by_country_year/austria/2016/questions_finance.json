@@ -1,0 +1,408 @@
+[
+  {
+    "question_id": 63,
+    "text": "What kind post-processing is not allowed to remove acceleration spikes from the IAD data?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 265,
+        "question_id": 63,
+        "answer_text": "Class 60 filter (SAE-J211)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 266,
+        "question_id": 63,
+        "answer_text": "3rd Order 100Hz lowpass",
+        "is_correct": false
+      },
+      {
+        "answer_id": 267,
+        "question_id": 63,
+        "answer_text": "10ms FIR Filter (ISO-19575)",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 265,
+        "question_id": 63,
+        "answer_text": "Class 60 filter (SAE-J211)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 266,
+        "question_id": 63,
+        "answer_text": "3rd Order 100Hz lowpass",
+        "is_correct": false
+      },
+      {
+        "answer_id": 267,
+        "question_id": 63,
+        "answer_text": "10ms FIR Filter (ISO-19575)",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 64,
+    "text": "To which angle would you have to tilt a car so that the direction of gravity is colinear with the forces experienced during a lateral acceleration of 1,41g on track?     ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 268,
+        "question_id": 64,
+        "answer_text": "35,3°",
+        "is_correct": true
+      },
+      {
+        "answer_id": 269,
+        "question_id": 64,
+        "answer_text": "51,3°",
+        "is_correct": false
+      },
+      {
+        "answer_id": 270,
+        "question_id": 64,
+        "answer_text": "30,0°",
+        "is_correct": false
+      },
+      {
+        "answer_id": 271,
+        "question_id": 64,
+        "answer_text": "27,3°",
+        "is_correct": false
+      },
+      {
+        "answer_id": 272,
+        "question_id": 64,
+        "answer_text": "54,7°",
+        "is_correct": true
+      },
+      {
+        "answer_id": 273,
+        "question_id": 64,
+        "answer_text": "60,0°",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 268,
+        "question_id": 64,
+        "answer_text": "35,3°",
+        "is_correct": true
+      },
+      {
+        "answer_id": 269,
+        "question_id": 64,
+        "answer_text": "51,3°",
+        "is_correct": false
+      },
+      {
+        "answer_id": 270,
+        "question_id": 64,
+        "answer_text": "30,0°",
+        "is_correct": false
+      },
+      {
+        "answer_id": 271,
+        "question_id": 64,
+        "answer_text": "27,3°",
+        "is_correct": false
+      },
+      {
+        "answer_id": 272,
+        "question_id": 64,
+        "answer_text": "54,7°",
+        "is_correct": true
+      },
+      {
+        "answer_id": 273,
+        "question_id": 64,
+        "answer_text": "60,0°",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 65,
+    "text": "How much does the vertical load on each rear tire increase at 72kph when the wing shown in the sketch is used vs. running without wing?\ndensity = 1.2 kg/m^3\nWheelbase = 1.6m\nWing: cl*A = 0.6 m²\ncd*A = 0.3m²\nyW = 0.8m\nzW = 0.4m\nzs = 0.3m\nStatic weight distribution = 51% rear\nignore wing weight\ncar is completely stiff",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 274,
+        "question_id": 65,
+        "answer_text": "7.0 kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 275,
+        "question_id": 65,
+        "answer_text": "8.0 kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 276,
+        "question_id": 65,
+        "answer_text": "10.0 kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 277,
+        "question_id": 65,
+        "answer_text": "9.0 kg",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 8,
+        "question_id": 65,
+        "text": null,
+        "images": [
+          {
+            "img_id": 102,
+            "path": "solutions/65_1.jpg"
+          },
+          {
+            "img_id": 105,
+            "path": "solutions/65_2.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000065__img000010__65_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 274,
+        "question_id": 65,
+        "answer_text": "7.0 kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 275,
+        "question_id": 65,
+        "answer_text": "8.0 kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 276,
+        "question_id": 65,
+        "answer_text": "10.0 kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 277,
+        "question_id": 65,
+        "answer_text": "9.0 kg",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 97,
+    "text": "Which is the correct Efficiency Formula for your class at FSA ?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 368,
+        "question_id": 97,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 369,
+        "question_id": 97,
+        "answer_text": "B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 370,
+        "question_id": 97,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 371,
+        "question_id": 97,
+        "answer_text": "D",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 23,
+        "question_id": 97,
+        "text": "D7.9.7 & D7.10",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000097__img000026__97_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 368,
+        "question_id": 97,
+        "answer_text": "A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 369,
+        "question_id": 97,
+        "answer_text": "B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 370,
+        "question_id": 97,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 371,
+        "question_id": 97,
+        "answer_text": "D",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 98,
+    "text": "Having no tire defects and dry track conditions, how many dry tires are you allowed to use during all of the dynamic events at FSA?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 372,
+        "question_id": 98,
+        "answer_text": "4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 373,
+        "question_id": 98,
+        "answer_text": "as many as i want, as long as they are presented at scrutineering and of the same type/compound",
+        "is_correct": false
+      },
+      {
+        "answer_id": 374,
+        "question_id": 98,
+        "answer_text": "8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 375,
+        "question_id": 98,
+        "answer_text": "any multiple of 4",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 24,
+        "question_id": 98,
+        "text": "IN 2.1.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 372,
+        "question_id": 98,
+        "answer_text": "4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 373,
+        "question_id": 98,
+        "answer_text": "as many as i want, as long as they are presented at scrutineering and of the same type/compound",
+        "is_correct": false
+      },
+      {
+        "answer_id": 374,
+        "question_id": 98,
+        "answer_text": "8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 375,
+        "question_id": 98,
+        "answer_text": "any multiple of 4",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

@@ -1,0 +1,624 @@
+[
+  {
+    "question_id": 823,
+    "text": "Which of the following things can you change on your car after the technical inspection?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3083,
+        "question_id": 823,
+        "answer_text": "Adjustment of the head restraint ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3084,
+        "question_id": 823,
+        "answer_text": "Swap the damper of the front suspension",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3085,
+        "question_id": 823,
+        "answer_text": "Add a gurney flap to your rear wing",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3086,
+        "question_id": 823,
+        "answer_text": "Replace organic brake pads by ceramic brake pads",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3083,
+        "question_id": 823,
+        "answer_text": "Adjustment of the head restraint ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3084,
+        "question_id": 823,
+        "answer_text": "Swap the damper of the front suspension",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3085,
+        "question_id": 823,
+        "answer_text": "Add a gurney flap to your rear wing",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3086,
+        "question_id": 823,
+        "answer_text": "Replace organic brake pads by ceramic brake pads",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 827,
+    "text": "What must be considered when selecting the adhesive for bonding the \"standard\" honeycomb IA to the AIP under the assumption that you do not want to do physical testing yourself?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3099,
+        "question_id": 827,
+        "answer_text": "The adhesive must exceed the required tensile strength when bonded to steel or aluminium",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3100,
+        "question_id": 827,
+        "answer_text": "You choose an adhesive which has the required strangth only when bonded to a laminated structure",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3101,
+        "question_id": 827,
+        "answer_text": "No special considerations must be taken as long as the adhesive is marketed as \"high-strength\"",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3102,
+        "question_id": 827,
+        "answer_text": "You choose an adhesive which has worked in combination with a different IA in the past, proof is in the 2023 IAD",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3103,
+        "question_id": 827,
+        "answer_text": "The adhesive must exceed the required shear strenght when bonded to steel or aluminium",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3099,
+        "question_id": 827,
+        "answer_text": "The adhesive must exceed the required tensile strength when bonded to steel or aluminium",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3100,
+        "question_id": 827,
+        "answer_text": "You choose an adhesive which has the required strangth only when bonded to a laminated structure",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3101,
+        "question_id": 827,
+        "answer_text": "No special considerations must be taken as long as the adhesive is marketed as \"high-strength\"",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3102,
+        "question_id": 827,
+        "answer_text": "You choose an adhesive which has worked in combination with a different IA in the past, proof is in the 2023 IAD",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3103,
+        "question_id": 827,
+        "answer_text": "The adhesive must exceed the required shear strenght when bonded to steel or aluminium",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 829,
+    "text": "What is incorrect with regards to fasteners?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3108,
+        "question_id": 829,
+        "answer_text": "Bolts of type UNC 5#-40 may be used as critical fasteners in OEM parts",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3109,
+        "question_id": 829,
+        "answer_text": "The brake balance adjustment mechanism can be secured by a jam nut",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3110,
+        "question_id": 829,
+        "answer_text": "Retaining rings can be used in the brake disc attachment as supplied by the original equipment manufacturer",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3111,
+        "question_id": 829,
+        "answer_text": "Titanium bolts can be used for the steering rack, if equivalency is shown",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3108,
+        "question_id": 829,
+        "answer_text": "Bolts of type UNC 5#-40 may be used as critical fasteners in OEM parts",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3109,
+        "question_id": 829,
+        "answer_text": "The brake balance adjustment mechanism can be secured by a jam nut",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3110,
+        "question_id": 829,
+        "answer_text": "Retaining rings can be used in the brake disc attachment as supplied by the original equipment manufacturer",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3111,
+        "question_id": 829,
+        "answer_text": "Titanium bolts can be used for the steering rack, if equivalency is shown",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 831,
+    "text": "Which of the following driver's equipment can be used during the competition?",
+    "type": "single-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 3113,
+        "question_id": 831,
+        "answer_text": "A helmet with the certification FIA 8860-2010 with insignificant scratches and multiple stickers of competitions going back to 2015",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3114,
+        "question_id": 831,
+        "answer_text": "A suit with the standard SFI 3.2A/5 which has a manufacturing defect which has been covered with a sponsor's logo made from regular cotton",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3115,
+        "question_id": 831,
+        "answer_text": "Shoes with the standard FIA Standard 8856-2000 without a FIA hologram label on it.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3116,
+        "question_id": 831,
+        "answer_text": "A frontal head restraint system which has no label, that has probably been supplied together with a helmet certified according to FIA 8860-2004",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3117,
+        "question_id": 831,
+        "answer_text": "A helmet with the certification SFI 31.1/2010 which is in pristine condition and has been properly stored",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3113,
+        "question_id": 831,
+        "answer_text": "A helmet with the certification FIA 8860-2010 with insignificant scratches and multiple stickers of competitions going back to 2015",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3114,
+        "question_id": 831,
+        "answer_text": "A suit with the standard SFI 3.2A/5 which has a manufacturing defect which has been covered with a sponsor's logo made from regular cotton",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3115,
+        "question_id": 831,
+        "answer_text": "Shoes with the standard FIA Standard 8856-2000 without a FIA hologram label on it.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3116,
+        "question_id": 831,
+        "answer_text": "A frontal head restraint system which has no label, that has probably been supplied together with a helmet certified according to FIA 8860-2004",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3117,
+        "question_id": 831,
+        "answer_text": "A helmet with the certification SFI 31.1/2010 which is in pristine condition and has been properly stored",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 832,
+    "text": "Which parameters do you need to measure to determine the air density?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3118,
+        "question_id": 832,
+        "answer_text": "Wind speed, air temperature and sea level",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3119,
+        "question_id": 832,
+        "answer_text": "Air pressure, air temperature and air humidity",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3120,
+        "question_id": 832,
+        "answer_text": "Altitude and temperature",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3121,
+        "question_id": 832,
+        "answer_text": "Nothing, because the density is constant",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3118,
+        "question_id": 832,
+        "answer_text": "Wind speed, air temperature and sea level",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3119,
+        "question_id": 832,
+        "answer_text": "Air pressure, air temperature and air humidity",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3120,
+        "question_id": 832,
+        "answer_text": "Altitude and temperature",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3121,
+        "question_id": 832,
+        "answer_text": "Nothing, because the density is constant",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 833,
+    "text": "What is the length of the standard FSAE aluminum honeycomb inpact attenuator?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3122,
+        "question_id": 833,
+        "answer_text": "200 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3123,
+        "question_id": 833,
+        "answer_text": "205 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3124,
+        "question_id": 833,
+        "answer_text": "203 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3125,
+        "question_id": 833,
+        "answer_text": "201 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3122,
+        "question_id": 833,
+        "answer_text": "200 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3123,
+        "question_id": 833,
+        "answer_text": "205 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3124,
+        "question_id": 833,
+        "answer_text": "203 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3125,
+        "question_id": 833,
+        "answer_text": "201 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 837,
+    "text": "Which of the following front bodywork designs is rules compliant? The drawings show a cross-section in side view at the vehicle center-line",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3141,
+        "question_id": 837,
+        "answer_text": "Drawing 2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3142,
+        "question_id": 837,
+        "answer_text": "Drawing 4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3143,
+        "question_id": 837,
+        "answer_text": "Drawing 1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3144,
+        "question_id": 837,
+        "answer_text": "Drawing 3",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000837__img000223__837_4.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3141,
+        "question_id": 837,
+        "answer_text": "Drawing 2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3142,
+        "question_id": 837,
+        "answer_text": "Drawing 4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3143,
+        "question_id": 837,
+        "answer_text": "Drawing 1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3144,
+        "question_id": 837,
+        "answer_text": "Drawing 3",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      89,
+      69
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  },
+  {
+    "question_id": 838,
+    "text": "What is incorrect regarding the brake system?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3145,
+        "question_id": 838,
+        "answer_text": "The brake pedal must be able to hold up even when the strongest officials are pressing the brake pedal by foot as intended",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3146,
+        "question_id": 838,
+        "answer_text": "The brake system can be split diagonally into two independent hydraulic circuits - one for the front-left and rear-right wheel and one for the front-right and rear-left wheel",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3147,
+        "question_id": 838,
+        "answer_text": "Regenerative braking is not possible in a vehicle with combustion engine",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3148,
+        "question_id": 838,
+        "answer_text": "The brake disk may be attached by clamping between the hub and the wheel, using the wheel lug bolts as the fasteners",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3149,
+        "question_id": 838,
+        "answer_text": "The function of the BOTS may be tested after the endurance by opening a bleed valve at one of the brake calipers. If the BOTS is not triggered during this test, this will result in a DQ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3145,
+        "question_id": 838,
+        "answer_text": "The brake pedal must be able to hold up even when the strongest officials are pressing the brake pedal by foot as intended",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3146,
+        "question_id": 838,
+        "answer_text": "The brake system can be split diagonally into two independent hydraulic circuits - one for the front-left and rear-right wheel and one for the front-right and rear-left wheel",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3147,
+        "question_id": 838,
+        "answer_text": "Regenerative braking is not possible in a vehicle with combustion engine",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3148,
+        "question_id": 838,
+        "answer_text": "The brake disk may be attached by clamping between the hub and the wheel, using the wheel lug bolts as the fasteners",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3149,
+        "question_id": 838,
+        "answer_text": "The function of the BOTS may be tested after the endurance by opening a bleed valve at one of the brake calipers. If the BOTS is not triggered during this test, this will result in a DQ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      69,
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  }
+]

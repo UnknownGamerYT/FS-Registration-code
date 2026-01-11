@@ -1,0 +1,223 @@
+[
+  {
+    "question_id": 726,
+    "text": "It is 2 days before submitting the cost report, because of an accident in testing 10 pcs. of class 8.8 M8x16 screws broke, you did the calculation, and it costs half the price to make 10 pcs. class 12.9 M8x16 screws, how will you add these in the BOM part of the cost report if they are made?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2724,
+        "question_id": 726,
+        "answer_text": "Fastener",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2725,
+        "question_id": 726,
+        "answer_text": "Part",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2726,
+        "question_id": 726,
+        "answer_text": "Assembly",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2727,
+        "question_id": 726,
+        "answer_text": "Sub-assembly",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2724,
+        "question_id": 726,
+        "answer_text": "Fastener",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2725,
+        "question_id": 726,
+        "answer_text": "Part",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2726,
+        "question_id": 726,
+        "answer_text": "Assembly",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2727,
+        "question_id": 726,
+        "answer_text": "Sub-assembly",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 741,
+    "text": "Cargo Drop. Because of time constraints, you decide to parachute your car and tools. All of them will be placed in a box 2 x 1.7 x 1.2 m from 1000 m height weighing 500 kg. Knowing that the parachute must open at 50m above the ground. At what time the parachute must open from the time it is being dropped, what is the total time of descent, knowing the descent velocity with the parachute open of 3.5 m/s, and what is the parachute diameter?\\n (the parachute has no delay on opening, earth gravity acceleration= 9.81 m/s2, drag coeficient of the box= 1.05, drag coefficient of the assembly = 1.35, air density= 1.204 kg/m3)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2773,
+        "question_id": 741,
+        "answer_text": "time to open the parachute 23.75 s; time of total decent 38.03 s; radius 12.52 m.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2774,
+        "question_id": 741,
+        "answer_text": "time to open the parachute 38.03 s; time of total decent 58.75 s; radius 18.52 m.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2775,
+        "question_id": 741,
+        "answer_text": "time to open the parachute 13.75 s; time of total decent 28.03 s; radius 8.52 m.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2776,
+        "question_id": 741,
+        "answer_text": "time to open the parachute 43.03 s; time of total decent 48.75 s; radius 2.52 m.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000741__img000200__741_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2773,
+        "question_id": 741,
+        "answer_text": "time to open the parachute 23.75 s; time of total decent 38.03 s; radius 12.52 m.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2774,
+        "question_id": 741,
+        "answer_text": "time to open the parachute 38.03 s; time of total decent 58.75 s; radius 18.52 m.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2775,
+        "question_id": 741,
+        "answer_text": "time to open the parachute 13.75 s; time of total decent 28.03 s; radius 8.52 m.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2776,
+        "question_id": 741,
+        "answer_text": "time to open the parachute 43.03 s; time of total decent 48.75 s; radius 2.52 m.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 743,
+    "text": "What is true about the driver change:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2781,
+        "question_id": 743,
+        "answer_text": "The driver change time will start once the vehicle is stopped in the driver change area and the first driver has climbed out of the vehicle.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2782,
+        "question_id": 743,
+        "answer_text": "If the driver change takes longer than 3 minutes, extra time will be penalized with -40 points to the overall score.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2783,
+        "question_id": 743,
+        "answer_text": "You will get a penalty of 2 minutes if you make suspension adjustments to the vehicle.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2784,
+        "question_id": 743,
+        "answer_text": "The driver change time is stopped when the second driver is inside the vehicle. Team members are not allowed to secure him from this moment, he will have to secure himself.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2781,
+        "question_id": 743,
+        "answer_text": "The driver change time will start once the vehicle is stopped in the driver change area and the first driver has climbed out of the vehicle.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2782,
+        "question_id": 743,
+        "answer_text": "If the driver change takes longer than 3 minutes, extra time will be penalized with -40 points to the overall score.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2783,
+        "question_id": 743,
+        "answer_text": "You will get a penalty of 2 minutes if you make suspension adjustments to the vehicle.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2784,
+        "question_id": 743,
+        "answer_text": "The driver change time is stopped when the second driver is inside the vehicle. Team members are not allowed to secure him from this moment, he will have to secure himself.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  }
+]

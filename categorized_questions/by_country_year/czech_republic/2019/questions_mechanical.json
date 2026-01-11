@@ -1,0 +1,671 @@
+[
+  {
+    "question_id": 2,
+    "text": "What is the maximum vertical distance allowed between the lowest part of the front hoop and the lowest part of the diagonal bracing in the front bulkhead support when the diagonal bracing is attached at the top at the FBH?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 6,
+        "question_id": 2,
+        "answer_text": "0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 7,
+        "question_id": 2,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 8,
+        "question_id": 2,
+        "answer_text": "50 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 9,
+        "question_id": 2,
+        "answer_text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 10,
+        "question_id": 2,
+        "answer_text": "100 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 6,
+        "question_id": 2,
+        "answer_text": "0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 7,
+        "question_id": 2,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 8,
+        "question_id": 2,
+        "answer_text": "50 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 9,
+        "question_id": 2,
+        "answer_text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 10,
+        "question_id": 2,
+        "answer_text": "100 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2,
+      71
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 264,
+    "text": "Select correct statement.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1039,
+        "question_id": 264,
+        "answer_text": "Any aerodynamic device must be able to withstand a vertical force of 220N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1040,
+        "question_id": 264,
+        "answer_text": "Any aerodynamic device must be able to withstand a force of 120N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1041,
+        "question_id": 264,
+        "answer_text": "Any aerodynamic device must be able to withstand a horizontal force of 200N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1042,
+        "question_id": 264,
+        "answer_text": "Any aerodynamic device must be able to withstand a force of 200N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1039,
+        "question_id": 264,
+        "answer_text": "Any aerodynamic device must be able to withstand a vertical force of 220N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1040,
+        "question_id": 264,
+        "answer_text": "Any aerodynamic device must be able to withstand a force of 120N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1041,
+        "question_id": 264,
+        "answer_text": "Any aerodynamic device must be able to withstand a horizontal force of 200N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1042,
+        "question_id": 264,
+        "answer_text": "Any aerodynamic device must be able to withstand a force of 200N distributed over a minimum surface of 225 cm2 and not deflect more than 10mm in the load carrying direction ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 265,
+    "text": "What suspension type is displayed on the following picture?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1043,
+        "question_id": 265,
+        "answer_text": "Double Wishbone - Front ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1044,
+        "question_id": 265,
+        "answer_text": "Five-link - Rear ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1045,
+        "question_id": 265,
+        "answer_text": "Five-link - Front ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1046,
+        "question_id": 265,
+        "answer_text": "Double Wishbone - Rear ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000265__img000072__265_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1043,
+        "question_id": 265,
+        "answer_text": "Double Wishbone - Front ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1044,
+        "question_id": 265,
+        "answer_text": "Five-link - Rear ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1045,
+        "question_id": 265,
+        "answer_text": "Five-link - Front ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1046,
+        "question_id": 265,
+        "answer_text": "Double Wishbone - Rear ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 266,
+    "text": "What is displayed on the picture?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1047,
+        "question_id": 266,
+        "answer_text": "7-speed double clutch transmission for transverse engine. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1048,
+        "question_id": 266,
+        "answer_text": "7-speed double clutch transmission for longitudinal engine. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1049,
+        "question_id": 266,
+        "answer_text": "6-speed double clutch transmission for transverse engine. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1050,
+        "question_id": 266,
+        "answer_text": "6-speed double clutch transmission for longitudinal engine. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000266__img000073__266_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1047,
+        "question_id": 266,
+        "answer_text": "7-speed double clutch transmission for transverse engine. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1048,
+        "question_id": 266,
+        "answer_text": "7-speed double clutch transmission for longitudinal engine. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1049,
+        "question_id": 266,
+        "answer_text": "6-speed double clutch transmission for transverse engine. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1050,
+        "question_id": 266,
+        "answer_text": "6-speed double clutch transmission for longitudinal engine. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 267,
+    "text": "Which of the following is true?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1051,
+        "question_id": 267,
+        "answer_text": "Principal stresses are always positive. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1052,
+        "question_id": 267,
+        "answer_text": "Principal stresses and von Mises stress are same. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1053,
+        "question_id": 267,
+        "answer_text": "The shear stress on principal plane is zero. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1054,
+        "question_id": 267,
+        "answer_text": "Principal stress is dependent on choice of coordinate system. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1051,
+        "question_id": 267,
+        "answer_text": "Principal stresses are always positive. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1052,
+        "question_id": 267,
+        "answer_text": "Principal stresses and von Mises stress are same. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1053,
+        "question_id": 267,
+        "answer_text": "The shear stress on principal plane is zero. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1054,
+        "question_id": 267,
+        "answer_text": "Principal stress is dependent on choice of coordinate system. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 270,
+    "text": "Nyquist-Shannon sampling theorem in signal processing states that",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1063,
+        "question_id": 270,
+        "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as 2ω. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1064,
+        "question_id": 270,
+        "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as less than 2ω. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1065,
+        "question_id": 270,
+        "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as πω. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1066,
+        "question_id": 270,
+        "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as ω. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1063,
+        "question_id": 270,
+        "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as 2ω. ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1064,
+        "question_id": 270,
+        "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as less than 2ω. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1065,
+        "question_id": 270,
+        "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as πω. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1066,
+        "question_id": 270,
+        "answer_text": "if a function f(t) consists of several harmonic frequencies, where the highest is ω, it is completely determined by giving its ordinates at a sample period defined as ω. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 271,
+    "text": "Lowering flaps on an airplane wing increase",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1067,
+        "question_id": 271,
+        "answer_text": "camber",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1068,
+        "question_id": 271,
+        "answer_text": "drag",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1069,
+        "question_id": 271,
+        "answer_text": "lift",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1070,
+        "question_id": 271,
+        "answer_text": "all of the above",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1067,
+        "question_id": 271,
+        "answer_text": "camber",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1068,
+        "question_id": 271,
+        "answer_text": "drag",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1069,
+        "question_id": 271,
+        "answer_text": "lift",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1070,
+        "question_id": 271,
+        "answer_text": "all of the above",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 272,
+    "text": "What criterion is most suitable for evaluation of the rear axle behavior?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1071,
+        "question_id": 272,
+        "answer_text": "Steering wheel angle over lateral acceleration and gradient of steering wheel angle over lateral acceleration. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1072,
+        "question_id": 272,
+        "answer_text": "Car side slip angle over lateral acceleration and gradient of side slip angle over lateral acceleration. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1073,
+        "question_id": 272,
+        "answer_text": "Car roll angle over lateral acceleration and gradient of roll angle over lateral acceleration. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1074,
+        "question_id": 272,
+        "answer_text": "Car pitch angle over lateral acceleration and gradient of pitch angle over lateral acceleration. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1071,
+        "question_id": 272,
+        "answer_text": "Steering wheel angle over lateral acceleration and gradient of steering wheel angle over lateral acceleration. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1072,
+        "question_id": 272,
+        "answer_text": "Car side slip angle over lateral acceleration and gradient of side slip angle over lateral acceleration. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1073,
+        "question_id": 272,
+        "answer_text": "Car roll angle over lateral acceleration and gradient of roll angle over lateral acceleration. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1074,
+        "question_id": 272,
+        "answer_text": "Car pitch angle over lateral acceleration and gradient of pitch angle over lateral acceleration. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 273,
+    "text": "What adjustment would you use if you want to reduce oversteer car tendency?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1075,
+        "question_id": 273,
+        "answer_text": "Softening rear anti-roll bar, increase rear toe-in.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1076,
+        "question_id": 273,
+        "answer_text": "Softening front anti-roll bar, reduce rear toe-in. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1077,
+        "question_id": 273,
+        "answer_text": "Softening rear anti-roll bar, increase front negative camber. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1078,
+        "question_id": 273,
+        "answer_text": "Softening front anti-roll bar, raise front end. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1075,
+        "question_id": 273,
+        "answer_text": "Softening rear anti-roll bar, increase rear toe-in.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1076,
+        "question_id": 273,
+        "answer_text": "Softening front anti-roll bar, reduce rear toe-in. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1077,
+        "question_id": 273,
+        "answer_text": "Softening rear anti-roll bar, increase front negative camber. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1078,
+        "question_id": 273,
+        "answer_text": "Softening front anti-roll bar, raise front end. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

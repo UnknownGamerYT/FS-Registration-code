@@ -1,0 +1,376 @@
+[
+  {
+    "question_id": 651,
+    "text": "What is the scoring of the BPP based on?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2456,
+        "question_id": 651,
+        "answer_text": "On the score given by the head judge",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2457,
+        "question_id": 651,
+        "answer_text": "On the sum of the scores given by each of the judges",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2458,
+        "question_id": 651,
+        "answer_text": "On the score given by the responsible BPP room judge",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2459,
+        "question_id": 651,
+        "answer_text": "On the average of the scores given by each of the judges",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2456,
+        "question_id": 651,
+        "answer_text": "On the score given by the head judge",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2457,
+        "question_id": 651,
+        "answer_text": "On the sum of the scores given by each of the judges",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2458,
+        "question_id": 651,
+        "answer_text": "On the score given by the responsible BPP room judge",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2459,
+        "question_id": 651,
+        "answer_text": "On the average of the scores given by each of the judges",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 652,
+    "text": "How long does the BPPV (Business Plan Pitch Video) have to be?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2460,
+        "question_id": 652,
+        "answer_text": "at least 20 seconds, maximum 40 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2461,
+        "question_id": 652,
+        "answer_text": "a maximum of 35 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2462,
+        "question_id": 652,
+        "answer_text": "must not be longer then 30 seconds",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2463,
+        "question_id": 652,
+        "answer_text": "the length doesn't matter",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2460,
+        "question_id": 652,
+        "answer_text": "at least 20 seconds, maximum 40 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2461,
+        "question_id": 652,
+        "answer_text": "a maximum of 35 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2462,
+        "question_id": 652,
+        "answer_text": "must not be longer then 30 seconds",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2463,
+        "question_id": 652,
+        "answer_text": "the length doesn't matter",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 656,
+    "text": "Skid Pad Scoring: As every year, all teams arrived late to the FSA skid pad event, and only you and two other cars managed to put down a time. Your time was 4.926s, the other two cars did 5.103s and 4.756s.What is your skid pad score?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2476,
+        "question_id": 656,
+        "answer_text": "61.5",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2477,
+        "question_id": 656,
+        "answer_text": "58.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2478,
+        "question_id": 656,
+        "answer_text": "12.8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2479,
+        "question_id": 656,
+        "answer_text": "48.9",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2476,
+        "question_id": 656,
+        "answer_text": "61.5",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2477,
+        "question_id": 656,
+        "answer_text": "58.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2478,
+        "question_id": 656,
+        "answer_text": "12.8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2479,
+        "question_id": 656,
+        "answer_text": "48.9",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 657,
+    "text": "Bending Beam: For the beam in the sketch below, find the optimum distance d in millimeters between the two supports so that the maximum of the bending stress anywhere in the beam is minimal. The beam is loaded by a constant line load acting in a downwards direction. Consider that the system is symmetric and that the beam has a constant cross-section and is made from homogenous linear-elastic material.Round your result to one decimal place. (Hint: consider only the points in each section where you expect the highest bending stress)",
+    "type": "single-choice",
+    "time": 420,
+    "answer_options": [
+      {
+        "answer_id": 2480,
+        "question_id": 657,
+        "answer_text": "616.1mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2481,
+        "question_id": 657,
+        "answer_text": "585.8mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2482,
+        "question_id": 657,
+        "answer_text": "535.3mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2483,
+        "question_id": 657,
+        "answer_text": "858.5mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000657__img000174__657_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2480,
+        "question_id": 657,
+        "answer_text": "616.1mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2481,
+        "question_id": 657,
+        "answer_text": "585.8mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2482,
+        "question_id": 657,
+        "answer_text": "535.3mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2483,
+        "question_id": 657,
+        "answer_text": "858.5mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 658,
+    "text": "Business Finalists Score: What is the lowest possible score for BPP finalists at FSA?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2484,
+        "question_id": 658,
+        "answer_text": "71 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2485,
+        "question_id": 658,
+        "answer_text": "70 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2486,
+        "question_id": 658,
+        "answer_text": "highest non-finalist score",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2487,
+        "question_id": 658,
+        "answer_text": "75 points",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 133,
+        "question_id": 658,
+        "text": "AT 6.10.5 in Handbook",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2484,
+        "question_id": 658,
+        "answer_text": "71 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2485,
+        "question_id": 658,
+        "answer_text": "70 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2486,
+        "question_id": 658,
+        "answer_text": "highest non-finalist score",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2487,
+        "question_id": 658,
+        "answer_text": "75 points",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63,
+      64
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

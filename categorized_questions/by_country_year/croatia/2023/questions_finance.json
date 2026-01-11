@@ -1,0 +1,105 @@
+[
+  {
+    "question_id": 626,
+    "text": "Dimension a bolt-like part named “DESIGN PART” (required dimensions are D1, D2 and L) which is a part of the assembly provided in drawing “tolerance_stackup_analysis_drawing.pdf”. \\n Requirements for the part are:\\n must protrude a minimum of 7 mm from an assembly \\n must have minimum clearance possible to the holes through which it passes (it must not be interference fit) \\n contact area of the head to surface D needs to be minimum of 130 mm2\\n all of the requirements above need to be satisfied in worst case scenario of 1D tolerance stackup for each axis\\n NOTE: for dimensioning use worst-case scenario criteria of 1D tolerance stackup analysis. Do a 1D tolerance stackup analysis for each axis separately and then consider the worst case of those for each dimension.\\n Round all dimensions to 3 decimal points (e.g.,0,123). Write the dimensions and separate them by a semicolon (X,XXX; Y,YYY; Z,ZZZ)",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2385,
+        "question_id": 626,
+        "answer_text": "5.800; 14.768; 30.750",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2385,
+        "question_id": 626,
+        "answer_text": "5.800; 14.768; 30.750",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 633,
+    "text": "An F1 car and a bus have nearly the same track (assume it's the same). At the same longitudinal acceleration, which one will have more longitudinal load transfer?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2401,
+        "question_id": 633,
+        "answer_text": "F1 car since it has lower CoG",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2402,
+        "question_id": 633,
+        "answer_text": "It depends on the wheelbase",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2403,
+        "question_id": 633,
+        "answer_text": "It depends on the wheelbase and CoG position",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 126,
+        "question_id": 633,
+        "text": "Since the both vehicles have the same track, lateral transfer is the same. Longitudinal transfer in this case is the function of CoG height and the wheelbase as it is shown in the following equation: 𝐿𝑜𝑛𝑔.𝑡𝑟𝑎𝑛𝑠𝑓𝑒𝑟 = (𝐶𝑜𝐺 ℎ𝑒𝑖𝑔ℎ𝑡)/(𝑤ℎ𝑒𝑒𝑙𝑏𝑎𝑠𝑒) ∙ 𝑣𝑒ℎ. 𝑤𝑒𝑖𝑔ℎ𝑡 ∙ 𝑎𝑐𝑐",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2401,
+        "question_id": 633,
+        "answer_text": "F1 car since it has lower CoG",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2402,
+        "question_id": 633,
+        "answer_text": "It depends on the wheelbase",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2403,
+        "question_id": 633,
+        "answer_text": "It depends on the wheelbase and CoG position",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  }
+]

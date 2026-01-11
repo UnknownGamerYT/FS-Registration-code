@@ -1,0 +1,218 @@
+[
+  {
+    "question_id": 200,
+    "text": "According to the FS Rules 2019, how many points will a team score eventually on the Cost and Manufacturing Event, if the team is not in the final, the score awarded to a team during the initial judging is 79 points, while the highest score awarded to any team not participating in the finals is 91 points?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 783,
+        "question_id": 200,
+        "answer_text": "79",
+        "is_correct": false
+      },
+      {
+        "answer_id": 784,
+        "question_id": 200,
+        "answer_text": "82,5",
+        "is_correct": true
+      },
+      {
+        "answer_id": 785,
+        "question_id": 200,
+        "answer_text": "86,8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 786,
+        "question_id": 200,
+        "answer_text": "95",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 783,
+        "question_id": 200,
+        "answer_text": "79",
+        "is_correct": false
+      },
+      {
+        "answer_id": 784,
+        "question_id": 200,
+        "answer_text": "82,5",
+        "is_correct": true
+      },
+      {
+        "answer_id": 785,
+        "question_id": 200,
+        "answer_text": "86,8",
+        "is_correct": false
+      },
+      {
+        "answer_id": 786,
+        "question_id": 200,
+        "answer_text": "95",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 203,
+    "text": "In which Cost Report Document does the team need to list the research and developement costs?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 795,
+        "question_id": 203,
+        "answer_text": "In neither of the Cost Report Documents",
+        "is_correct": true
+      },
+      {
+        "answer_id": 796,
+        "question_id": 203,
+        "answer_text": "In the Cost Explanation File ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 797,
+        "question_id": 203,
+        "answer_text": "In the CBOM",
+        "is_correct": false
+      },
+      {
+        "answer_id": 798,
+        "question_id": 203,
+        "answer_text": "In the DBOM",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 795,
+        "question_id": 203,
+        "answer_text": "In neither of the Cost Report Documents",
+        "is_correct": true
+      },
+      {
+        "answer_id": 796,
+        "question_id": 203,
+        "answer_text": "In the Cost Explanation File ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 797,
+        "question_id": 203,
+        "answer_text": "In the CBOM",
+        "is_correct": false
+      },
+      {
+        "answer_id": 798,
+        "question_id": 203,
+        "answer_text": "In the DBOM",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 204,
+    "text": "Can a team be eliminated from the Engineering Design Event by the judges, if every document of theirs was accepted and they are present at the Engineering Design Event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 799,
+        "question_id": 204,
+        "answer_text": "Yes, if the team did not pass any scrutineering prior.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 800,
+        "question_id": 204,
+        "answer_text": "Yes, if the judges consider the vehicle to be in unfinished state.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 801,
+        "question_id": 204,
+        "answer_text": "No, if a team is present at the event, the judges are obligated to evaluate their performance. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 802,
+        "question_id": 204,
+        "answer_text": "Yes, if the judges consider the number of the team members present at the discussion insufficient.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 799,
+        "question_id": 204,
+        "answer_text": "Yes, if the team did not pass any scrutineering prior.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 800,
+        "question_id": 204,
+        "answer_text": "Yes, if the judges consider the vehicle to be in unfinished state.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 801,
+        "question_id": 204,
+        "answer_text": "No, if a team is present at the event, the judges are obligated to evaluate their performance. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 802,
+        "question_id": 204,
+        "answer_text": "Yes, if the judges consider the number of the team members present at the discussion insufficient.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

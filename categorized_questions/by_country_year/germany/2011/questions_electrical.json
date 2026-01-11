@@ -1,0 +1,455 @@
+[
+  {
+    "question_id": 336,
+    "text": "The IMD indicator light has to be clearly marked...",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1339,
+        "question_id": 336,
+        "answer_text": "with the lettering „IMD“ only.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1340,
+        "question_id": 336,
+        "answer_text": "with the lettering „GFD“ only.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1341,
+        "question_id": 336,
+        "answer_text": "with the lettering „IMD“ or „GFD“.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1342,
+        "question_id": 336,
+        "answer_text": "with the lettering „MID“ or „GDF“.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 61,
+        "question_id": 336,
+        "text": "EV 6.3.7",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1339,
+        "question_id": 336,
+        "answer_text": "with the lettering „IMD“ only.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1340,
+        "question_id": 336,
+        "answer_text": "with the lettering „GFD“ only.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1341,
+        "question_id": 336,
+        "answer_text": "with the lettering „IMD“ or „GFD“.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1342,
+        "question_id": 336,
+        "answer_text": "with the lettering „MID“ or „GDF“.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 338,
+    "text": "Where are the tractive system voltage measurement points to be installed?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1347,
+        "question_id": 338,
+        "answer_text": "Directly next to the master switches.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1348,
+        "question_id": 338,
+        "answer_text": "Anywhere on the car, as long as they are easily accessible and clearly marked.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1349,
+        "question_id": 338,
+        "answer_text": "In the driver's cockpit on the right side of the steering wheel.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1350,
+        "question_id": 338,
+        "answer_text": "Two measurement points have to be installed on each accumulator container.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 129,
+        "question_id": 338,
+        "text": "EV 4.7.1",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1347,
+        "question_id": 338,
+        "answer_text": "Directly next to the master switches.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1348,
+        "question_id": 338,
+        "answer_text": "Anywhere on the car, as long as they are easily accessible and clearly marked.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1349,
+        "question_id": 338,
+        "answer_text": "In the driver's cockpit on the right side of the steering wheel.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1350,
+        "question_id": 338,
+        "answer_text": "Two measurement points have to be installed on each accumulator container.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 339,
+    "text": "Which measurement voltage will be used during the insulation measurement test for a car with a maximum tractive system voltage of 110V?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1351,
+        "question_id": 339,
+        "answer_text": "250V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1352,
+        "question_id": 339,
+        "answer_text": "500V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1353,
+        "question_id": 339,
+        "answer_text": "110V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1354,
+        "question_id": 339,
+        "answer_text": "125V",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1351,
+        "question_id": 339,
+        "answer_text": "250V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1352,
+        "question_id": 339,
+        "answer_text": "500V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1353,
+        "question_id": 339,
+        "answer_text": "110V",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1354,
+        "question_id": 339,
+        "answer_text": "125V",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 341,
+    "text": "What is the impedance of a capacitor with a capacity of 50 microFarad, if a sinusoidal voltage signal of 150Hz is applied to it?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1359,
+        "question_id": 341,
+        "answer_text": "2.374 Ohm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1360,
+        "question_id": 341,
+        "answer_text": "2.122 Ohm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1361,
+        "question_id": 341,
+        "answer_text": "23.738 Ohm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1362,
+        "question_id": 341,
+        "answer_text": "21.221 Ohm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1359,
+        "question_id": 341,
+        "answer_text": "2.374 Ohm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1360,
+        "question_id": 341,
+        "answer_text": "2.122 Ohm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1361,
+        "question_id": 341,
+        "answer_text": "23.738 Ohm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1362,
+        "question_id": 341,
+        "answer_text": "21.221 Ohm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 342,
+    "text": "The tractive system active light must …",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1363,
+        "question_id": 342,
+        "answer_text": "be red and flash continuously with a frequency between 5Hz and 10Hz.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1364,
+        "question_id": 342,
+        "answer_text": "be red and flash continuously with a frequency between 2Hz and 5Hz.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1365,
+        "question_id": 342,
+        "answer_text": "be yellow and flash continuously with a frequency between 2Hz and 5Hz.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1366,
+        "question_id": 342,
+        "answer_text": "be red and always illuminated.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 130,
+        "question_id": 342,
+        "text": "EV 4.10.2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1363,
+        "question_id": 342,
+        "answer_text": "be red and flash continuously with a frequency between 5Hz and 10Hz.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1364,
+        "question_id": 342,
+        "answer_text": "be red and flash continuously with a frequency between 2Hz and 5Hz.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1365,
+        "question_id": 342,
+        "answer_text": "be yellow and flash continuously with a frequency between 2Hz and 5Hz.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1366,
+        "question_id": 342,
+        "answer_text": "be red and always illuminated.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 343,
+    "text": "To which minimum voltage does the intermediate circuit need to be pre-charged, if the current accumulator voltage is 216V DC?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1367,
+        "question_id": 343,
+        "answer_text": "The rules do not specify any pre-charging of the intermediate circuit.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1368,
+        "question_id": 343,
+        "answer_text": "216V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1369,
+        "question_id": 343,
+        "answer_text": "194.4V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1370,
+        "question_id": 343,
+        "answer_text": "196.6V DC",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1367,
+        "question_id": 343,
+        "answer_text": "The rules do not specify any pre-charging of the intermediate circuit.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1368,
+        "question_id": 343,
+        "answer_text": "216V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1369,
+        "question_id": 343,
+        "answer_text": "194.4V DC",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1370,
+        "question_id": 343,
+        "answer_text": "196.6V DC",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

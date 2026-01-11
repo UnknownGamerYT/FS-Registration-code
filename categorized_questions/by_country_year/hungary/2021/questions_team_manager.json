@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": 321,
+    "text": "Your team started the endurance run with wet tires on a damp track. The track surface is drying fast and the tires are overheating. The officials do not announce any change in the operating conditions. What are you allowed to do to overcome this issue?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1277,
+        "question_id": 321,
+        "answer_text": "You must not change your tires. You can try driving off the ideal line within the track boundaries to cool down the tires.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1278,
+        "question_id": 321,
+        "answer_text": "Make a separate pit stop in the driver change area and change to a new set of wet tires for the remaining laps. The pit stop time is added to the overall time. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1279,
+        "question_id": 321,
+        "answer_text": "Make a separate pit stop in the driver change area and change to dry tires. The pit stop time is added to the overall time. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1280,
+        "question_id": 321,
+        "answer_text": "You may change to dry tires during the driver change. The tire change time is not added if you can manage it under thirteen minutes. ",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1277,
+        "question_id": 321,
+        "answer_text": "You must not change your tires. You can try driving off the ideal line within the track boundaries to cool down the tires.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1278,
+        "question_id": 321,
+        "answer_text": "Make a separate pit stop in the driver change area and change to a new set of wet tires for the remaining laps. The pit stop time is added to the overall time. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1279,
+        "question_id": 321,
+        "answer_text": "Make a separate pit stop in the driver change area and change to dry tires. The pit stop time is added to the overall time. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1280,
+        "question_id": 321,
+        "answer_text": "You may change to dry tires during the driver change. The tire change time is not added if you can manage it under thirteen minutes. ",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 330,
+    "text": "Your team use a LiFePO4 TS battery with 120S1P layout. The minimal, nominal and maximal cell voltage is 2.8, 3.3 and 3.65V, the cell capacity is 7.2Ah. Only the rear wheels are driven by independent motors and inverters. The custom-designed inverters have 900uF capacitance each. For the discharge circuitry, only a relay and a resistor are used. What is the minimum possible average power of the resistor during the discharge process?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1313,
+        "question_id": 330,
+        "answer_text": "27.6 W ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1314,
+        "question_id": 330,
+        "answer_text": "34.5 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1315,
+        "question_id": 330,
+        "answer_text": "19.6 W ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1316,
+        "question_id": 330,
+        "answer_text": "33.9 W ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1317,
+        "question_id": 330,
+        "answer_text": "25.7 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1318,
+        "question_id": 330,
+        "answer_text": "34.2 W",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1313,
+        "question_id": 330,
+        "answer_text": "27.6 W ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1314,
+        "question_id": 330,
+        "answer_text": "34.5 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1315,
+        "question_id": 330,
+        "answer_text": "19.6 W ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1316,
+        "question_id": 330,
+        "answer_text": "33.9 W ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1317,
+        "question_id": 330,
+        "answer_text": "25.7 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1318,
+        "question_id": 330,
+        "answer_text": "34.2 W",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 331,
+    "text": "The team wants to measure the current with the help of a shunt resistor and an operational amplifier, the signal is processed with an A/D channel of a microcontroller. The range of the measured current is expected to be between -25 and  25 Amperes. Which one of the following parameter combinations is NOT able to cover the whole range?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1319,
+        "question_id": 331,
+        "answer_text": "A/D channel voltage: 0-5V; Shunt resistance: 3 mOhm; Gain of OPA: 30 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1320,
+        "question_id": 331,
+        "answer_text": "A/D channel voltage: 0-3.3V; Shunt resistance: 5 mOhm; Gain of OPA: 12  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1321,
+        "question_id": 331,
+        "answer_text": "A/D channel voltage: 0-3.3V; Shunt resistance: 1 mOhm; Gain of OPA: 75 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1322,
+        "question_id": 331,
+        "answer_text": "A/D channel voltage: 0-5V; Shunt resistance: 50 mOhm; Gain of OPA: 2 ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1319,
+        "question_id": 331,
+        "answer_text": "A/D channel voltage: 0-5V; Shunt resistance: 3 mOhm; Gain of OPA: 30 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1320,
+        "question_id": 331,
+        "answer_text": "A/D channel voltage: 0-3.3V; Shunt resistance: 5 mOhm; Gain of OPA: 12  ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1321,
+        "question_id": 331,
+        "answer_text": "A/D channel voltage: 0-3.3V; Shunt resistance: 1 mOhm; Gain of OPA: 75 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1322,
+        "question_id": 331,
+        "answer_text": "A/D channel voltage: 0-5V; Shunt resistance: 50 mOhm; Gain of OPA: 2 ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

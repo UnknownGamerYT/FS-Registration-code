@@ -1,0 +1,301 @@
+[
+  {
+    "question_id": 745,
+    "text": "A chocolate manufacturer is producing a new type of chocolate bar with a special formulation. The chocolate is initially melted and poured into a mould at a temperature of 50°C. The chocolate bar is then left to cool in a room with a constant temperature of 20°C. The manufacturer wants to determine the time it takes for the chocolate to cool down to a safe handling temperature of 30°C.\\n Given that the chocolate follows Newton's Law of Cooling, the manufacturer has conducted preliminary experiments and determined that the cooling rate constant (k) for this chocolate formulation is 0.02 per minute.\\n Determine the time it takes for the chocolate to cool down from 50°C to 30°C.\\n Answer in min and provide the value with 2 decimal places, e.g. 12.34.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2789,
+        "question_id": 745,
+        "answer_text": "54.93",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 155,
+        "question_id": 745,
+        "text": "Newton’s Law of Cooling: dTdt=k(T-T amb)\\n\r\nT amb=20°C\\n\r\nso T(t) = 20 + 30e-0.02t\\n\r\nsolving for t with T(t)=30°C gives t = - ln(13)0.02 = 54.93 min",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2789,
+        "question_id": 745,
+        "answer_text": "54.93",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 746,
+    "text": "Knowing that the member AC is under a force of -25 kN, what is the force in the element HG? Force R is an unknown horizontal force applied on point H.\\n Answer in kN and provide the value with 1 decimal place, e.g. 12.3.\\n Follow the sign convention “-” for a compressive force and “+” for tensile, e.g. -12.3 or 12.3.",
+    "type": "input",
+    "time": 420,
+    "answer_options": [
+      {
+        "answer_id": 2790,
+        "question_id": 746,
+        "answer_text": "-35.4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 154,
+        "question_id": 746,
+        "text": "Assuming positive x from left to right and positive y from down to up (coordinate system not relevant for solution)\\n\r\nR_A_x (x component of reactive force at A) = -f_AC = 25 kN\\n\r\nSum of forces along x:\\n\r\nR_A_x = sin(45)*100 kN - R => R = 45.71068 kN\\n\r\nSum of moments around A\\n\r\nR_G_y * 12 = 25 * 3 + R * 3 + 100 * sin(45) *9 - 100 * cos(45) *6 => R_G_y = 35.355 kN\\n\r\nR_G_y = - f_HG => f_HG = -35.355 kN",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000746__img000202__746_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2790,
+        "question_id": 746,
+        "answer_text": "-35.4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 749,
+    "text": "A structural engineer needs to design a thin simply supported rectangular beam that experiences a point load of 500N in the middle of its length. The beam is 200mm long and 50mm wide. The engineer considers two materials for the panel: aluminium and quasi-isotropic carbon fibre. The aluminium used has a Young’s Modulus of 70GPa and a density of 2.7 g/cm^3. The composite used has a Young’s Modulus of 220 GPa and a density of 1.26 g/cm^3. The environmental impact of the beam aluminium used is 8 kgCO2 per kilo of aluminium and the one of the carbon is 26 kgCO2 per kilo of composite. What is the lowest possible CO2 emission out of these two options while having a beam maximum deflection of 3 mm. a) Aluminium \\nb) Composite Answer in kgCO2 and provide the value with 3 decimal places, e.g. 12.345. ",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 2910,
+        "question_id": 749,
+        "answer_text": "0.986",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 152,
+        "question_id": 749,
+        "text": null,
+        "images": [
+          {
+            "img_id": 210,
+            "path": "solutions/749_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2910,
+        "question_id": 749,
+        "answer_text": "0.986",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 750,
+    "text": "Your racecar is performing a steady-state corner with 8 metres radius at a speed of 10.2 m/s. The vehicle has a longitudinal weight distribution of 50% front / 50% rear, parallel steering (0% ackermann), and 0.5 degrees rear wheel toe in. Knowing that the slip angle of the rear inside wheel is 4.6 degrees, how much toe is needed on the front wheels to ensure that these have equal slip angles (αfi = αfo)? \\n lf = 0.8 m, lr = 0.8m, t = 1.2 m, δ = 12 deg \\n Toe in is considered positive, toe out is considered negative. Answer in deg and provide the value with 1 decimal place, e.g. 12.3. ",
+    "type": "input",
+    "time": 480,
+    "answer_options": [
+      {
+        "answer_id": 2792,
+        "question_id": 750,
+        "answer_text": "-0.5",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 151,
+        "question_id": 750,
+        "text": "Assuming x is positive from rear to front and y is positive from right to left (coordinate system not relevant for solution)\\n\r\nYaw_rate = velocity/radius = 10.2 / 8 = 1.275 rad/s\\n\r\nVx_RI = Vx - Yaw_rate*t/2 = 9.435 m/s\\n\r\nVy_RI = -tan(alfa_RI + toe_rear)*Vx_RI = -tan(5.1 deg)*9.435 = 0.84205 m/s\\n\r\nVx_FI = Vx_RI = 9.435 m/s\\n\r\nVy_FI = Vy_RI + Yaw_rate * (lr+lf) = -tan(5.1 deg)*9.435 + 1.275*1.6 = 1.19795 m/s\\n\r\nalfa_FI = 12 - atan(1.19795/9.435) - toe_front = 4.76 - toe_front\\n\r\nVx_FO = Vx + Yaw_rate*t/2 = 10.965 m/s\\n\r\nVy_FO = Vy_FI = 1.19795 m/s\\n\r\nalfa_FO = 12 - atan(1.19795/10.965) + toe_front = 5.76 + toe_front\\n\r\nalfa_FI = alfa_FO => toe_front = - 0.5 deg ",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000750__img000204__750_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2792,
+        "question_id": 750,
+        "answer_text": "-0.5",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 752,
+    "text": "From these options, what is the lightest possible section for the Main Hoop Bracing?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2794,
+        "question_id": 752,
+        "answer_text": "Squared tube side = 1’’, thickness = 3/64’’",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2795,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 32 mm, thickness = 1.2 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2796,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 20 mm, thickness = 1.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2797,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 28 mm, thickness = 1.6 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2798,
+        "question_id": 752,
+        "answer_text": "Squared tube side = 7/8 ‘’, thickness = 1/16’’",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2799,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 25 mm, thickness = 1.2 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 149,
+        "question_id": 752,
+        "text": "Option 1, 2, 3 & 4 → not enough inertia or too thin Squared tube 7/8” x 1/16” → (25,4 x 7/8)^2 mm2 - (25,4 x 7/8 - 2x(25.4 × 1/16))^2 mm2 = 131.0 mm2\\n\r\nRounded tube 28 x 1.6 → 25,4^2 mm2 - (25,4 - 2(25.4 × 3/64))^2 mm2 = 132.7 mm2",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2794,
+        "question_id": 752,
+        "answer_text": "Squared tube side = 1’’, thickness = 3/64’’",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2795,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 32 mm, thickness = 1.2 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2796,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 20 mm, thickness = 1.5 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2797,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 28 mm, thickness = 1.6 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2798,
+        "question_id": 752,
+        "answer_text": "Squared tube side = 7/8 ‘’, thickness = 1/16’’",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2799,
+        "question_id": 752,
+        "answer_text": "Round tube Outer diameter = 25 mm, thickness = 1.2 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  }
+]

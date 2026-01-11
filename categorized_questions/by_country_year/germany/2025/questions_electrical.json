@@ -1,0 +1,222 @@
+[
+  {
+    "question_id": 942,
+    "text": "Calculate the total resistance of the shown resistor network in Ohm, round to the nearest one.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 3540,
+        "question_id": 942,
+        "answer_text": "335",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000942__img000314__942_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3540,
+        "question_id": 942,
+        "answer_text": "335",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 946,
+    "text": "The schematic shows an analog input frontend.All components, including operational amplifiers and diodes, are to be considered ideal. The ideal diode has a forward voltage of 0.6 V at any current and no leakage current in reverse direction at any voltage. The ideal operational amplifier has no input bias current, no input offset voltage Vout in mV for Vin=18mV, R=1kOhm, 3R= 3*R and C=197nF in steady state, round to the nearest one.",
+    "type": "input",
+    "time": 900,
+    "answer_options": [
+      {
+        "answer_id": 3551,
+        "question_id": 946,
+        "answer_text": "-10368",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000946__img000316__946_4.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3551,
+        "question_id": 946,
+        "answer_text": "-10368",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 948,
+    "text": "According to the rules EV 5.4.2 and EV 5.4.3, which of the following statements is currect regarding the integration of the Low Voltage System (LVS) into the TSAV?",
+    "type": "multi-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3557,
+        "question_id": 948,
+        "answer_text": "The LVS may only be integrated into the TSAC if this is absolutely necessary for the operation of the AIRs, TS DC/DC converters and other specific components",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3558,
+        "question_id": 948,
+        "answer_text": "The LVS may be integrated into the TSAC without restrictions as long as all components comply with the safety standards",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3559,
+        "question_id": 948,
+        "answer_text": "The LVS must be fully integrated into he TSAC to simplify assembly",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3560,
+        "question_id": 948,
+        "answer_text": "The LVS must be completely disconnected from the TSAC to minimise the risk of short circuits",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3557,
+        "question_id": 948,
+        "answer_text": "The LVS may only be integrated into the TSAC if this is absolutely necessary for the operation of the AIRs, TS DC/DC converters and other specific components",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3558,
+        "question_id": 948,
+        "answer_text": "The LVS may be integrated into the TSAC without restrictions as long as all components comply with the safety standards",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3559,
+        "question_id": 948,
+        "answer_text": "The LVS must be fully integrated into he TSAC to simplify assembly",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3560,
+        "question_id": 948,
+        "answer_text": "The LVS must be completely disconnected from the TSAC to minimise the risk of short circuits",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 954,
+    "text": "You own a live telemetry system having a battery powered ground station. The ground station draws a constant current of 4.2 A at a supply voltage of 24 V. Each battery pack has 10 Ah, is fully charged and can be discharged to 14 %. Assume the battery voltage to be constantly 24 V regardless of the state of charge.\n\nWhat is the minimum number of whole battery packs required for a test day of 8 hours?",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3583,
+        "question_id": 954,
+        "answer_text": "4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3583,
+        "question_id": 954,
+        "answer_text": "4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 956,
+    "text": "Assume a shunt resistor having the following parameters:\n- resistance of 1 Omega at 20°C\n- max. continuous power dissipation of 250W\n- thermal resistance to ambient of 1 K/W\n- resistance thermal coefficient of  10  ppm/K\n- ambient temperature constantly 25°C\n\nWhat is the measured voltage across the resistor when a current of 13A is continuously applied? Assume steady state.\nEnter your answer in mV, round to the nearest one.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 3588,
+        "question_id": 956,
+        "answer_text": "13023",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3588,
+        "question_id": 956,
+        "answer_text": "13023",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

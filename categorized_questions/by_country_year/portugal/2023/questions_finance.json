@@ -1,0 +1,59 @@
+[
+  {
+    "question_id": 185,
+    "text": "During last year acceleration a top speed of 100 km/h was reached. Due to big impreovement in the new drivetrain, the new vehicle reaches a top speed of 120 km/h. The aerodynamics chief has some worries about the stability of the rear wing bracing due of the highr aerodynamics load. Given the geometry below, by how much % does the bearing force in point A change in comparison to last year (The aerodynamic package did not change and therefore some values can be assumed for both vehicles). All the useful parameters are given below:\ncL=3.8, cD=1.2, A=1m², p=1.1kg/m³, L1=50mm, L2=100mm, H1=125mm, H2=165mm\nPlease use the following format: 12.3 or 1.23 (no ',' comma, no latters), round to 3 significant digits.",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 721,
+        "question_id": 185,
+        "answer_text": "44",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 40,
+        "question_id": 185,
+        "text": null,
+        "images": [
+          {
+            "img_id": 112,
+            "path": "solutions/185_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000185__img000063__185_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 721,
+        "question_id": 185,
+        "answer_text": "44",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18,
+      47,
+      70,
+      72
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]

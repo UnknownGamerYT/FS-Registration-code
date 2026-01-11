@@ -1,0 +1,148 @@
+[
+  {
+    "question_id": 469,
+    "text": "In the parc ferme your car weight is 7.3kg higher then the weight determined during the technical inspection. What consequences does your team have to expect?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1864,
+        "question_id": 469,
+        "answer_text": "you will receive 44 points penalty",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1865,
+        "question_id": 469,
+        "answer_text": "no penalty because it is a violation without advantage for the team (only lower weight will result in a penalty)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1866,
+        "question_id": 469,
+        "answer_text": "a 30 sec penalty on your endurance time because it is a violation without advantage for the team",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1867,
+        "question_id": 469,
+        "answer_text": "you will receive 60 points penalty",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1864,
+        "question_id": 469,
+        "answer_text": "you will receive 44 points penalty",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1865,
+        "question_id": 469,
+        "answer_text": "no penalty because it is a violation without advantage for the team (only lower weight will result in a penalty)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1866,
+        "question_id": 469,
+        "answer_text": "a 30 sec penalty on your endurance time because it is a violation without advantage for the team",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1867,
+        "question_id": 469,
+        "answer_text": "you will receive 60 points penalty",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 476,
+    "text": "Some of your drivers have gone missing on the way to FSA, only 3 drivers each are on site for your EV and IC team.\\n Which statements are rules compliant?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1896,
+        "question_id": 476,
+        "answer_text": "You can share drivers, but they will have to run different events for the two teams",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1897,
+        "question_id": 476,
+        "answer_text": "You will need to register five drivers per team, as Endurance/Efficiency count as two towards the two-event limit",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1898,
+        "question_id": 476,
+        "answer_text": "You can just skip the secound driver runs on two dynamic events to make do with three registered drivers",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1899,
+        "question_id": 476,
+        "answer_text": "You could register on marketing guy/girl per team as additional driver",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1896,
+        "question_id": 476,
+        "answer_text": "You can share drivers, but they will have to run different events for the two teams",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1897,
+        "question_id": 476,
+        "answer_text": "You will need to register five drivers per team, as Endurance/Efficiency count as two towards the two-event limit",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1898,
+        "question_id": 476,
+        "answer_text": "You can just skip the secound driver runs on two dynamic events to make do with three registered drivers",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1899,
+        "question_id": 476,
+        "answer_text": "You could register on marketing guy/girl per team as additional driver",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

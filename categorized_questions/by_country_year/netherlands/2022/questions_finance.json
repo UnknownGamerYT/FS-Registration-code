@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 424,
+    "text": "What is true about the Cost ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1715,
+        "question_id": 424,
+        "answer_text": "A negative score can occur in the BOM Discussion if more than 7 assemblies miss from the BOM.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1716,
+        "question_id": 424,
+        "answer_text": "Costs for CFD analysis must be included in the CBOM for the Aerodynamic System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1717,
+        "question_id": 424,
+        "answer_text": "To obtain at least 1 point in the C&M event in 2022, the maximum cost of a vehicle can not exceed EUR 68.972",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1718,
+        "question_id": 424,
+        "answer_text": "An assembly may be broken down into parts or sub-assemblies",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1715,
+        "question_id": 424,
+        "answer_text": "A negative score can occur in the BOM Discussion if more than 7 assemblies miss from the BOM.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1716,
+        "question_id": 424,
+        "answer_text": "Costs for CFD analysis must be included in the CBOM for the Aerodynamic System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1717,
+        "question_id": 424,
+        "answer_text": "To obtain at least 1 point in the C&M event in 2022, the maximum cost of a vehicle can not exceed EUR 68.972",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1718,
+        "question_id": 424,
+        "answer_text": "An assembly may be broken down into parts or sub-assemblies",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

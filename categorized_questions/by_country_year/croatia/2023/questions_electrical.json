@@ -1,0 +1,81 @@
+[
+  {
+    "question_id": 629,
+    "text": "Suppose a current F1 with a power of 800 CV and a Coefficient of Resistance Aerodynamic SCx (multiplied by its frontal section) of 1,3 and a mechanical efficiency of 0,95. In an overtaking maneuver, it opens its DRS, which provides the top speed gain of 22 km/h. What is your new SCx? (Assume a Standard Atmosphere with ρ = 1,225 kg/m^3)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2388,
+        "question_id": 629,
+        "answer_text": "Remains Invariable",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2389,
+        "question_id": 629,
+        "answer_text": "1,365",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2390,
+        "question_id": 629,
+        "answer_text": "1,065",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2391,
+        "question_id": 629,
+        "answer_text": "None of the above",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 125,
+        "question_id": 629,
+        "text": "Speed without the DRS: Vwo DRS = 88,8755 m⁄s, New car speed (considering the speed delta): Vw DRS = 94,9866 m⁄s, New SCx: SCx = (2 ∙ K ∙ P)/ (p ∙ Vw DRS) = (2 ∙ 0,95 ∙ 800 ∙ 735,5)/ (1.225 ∙ 94,98663) = 1,065N",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2388,
+        "question_id": 629,
+        "answer_text": "Remains Invariable",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2389,
+        "question_id": 629,
+        "answer_text": "1,365",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2390,
+        "question_id": 629,
+        "answer_text": "1,065",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2391,
+        "question_id": 629,
+        "answer_text": "None of the above",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  }
+]

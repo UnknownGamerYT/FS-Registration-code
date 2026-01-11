@@ -35,18 +35,28 @@ python3 download_fsquiz_everything.py
 ```
 This writes `fsquiz_everything_full.json` and downloads images to `images/`.
 
-### 2) Categorize questions
+### 2) Enrich questions with country/year metadata
+```bash
+python3 enrich_questions_with_metadata.py
+```
+Adds `countries`, `years`, and `quiz_ids` to `fsquiz_questions_with_answers.json` by joining against `fsquiz_everything_full.json` (uses quiz/event info).
+
+### 3) Categorize questions
 ```bash
 python3 categorize_questions.py
+# optionally filter
+python3 categorize_questions.py --country Germany --year 2024
 ```
-Creates/updates JSON files in `categorized_questions/` grouped by Mechanical, Electrical, Finance, and Team Manager.
+Creates/updates JSON files in `categorized_questions/` grouped by Mechanical, Electrical, Finance, and Team Manager, honoring optional country/year filters.
 
-### 3) Run the CLI quiz
+### 4) Run the CLI quiz
 ```bash
 python3 quiz_cli.py
 ```
 If you omit flags, the quiz will prompt for:
 - Category (choose mechanical/electrical/finance/team-manager or leave empty for all)
+- Country filter (comma-separated, or blank for all)
+- Year filter (comma-separated, or blank for all)
 - Question count (default 20)
 - Timer on/off (default off)
 
@@ -55,10 +65,11 @@ Features:
 - Timer mode (counts down using question time or median time if missing).
 - Auto-opens question images and lets you reopen them with input `i`.
 - Accepts numeric ranges when provided in answers (e.g., `8.9-9.3`).
+- Shows country/year metadata (if present) and can filter by it.
 
 Optional flags to skip prompts:
 ```bash
-python3 quiz_cli.py --category mechanical --count 10 --timed
+python3 quiz_cli.py --category mechanical --count 10 --timed --country Germany --year 2024 2025
 ```
 
 ## Notes

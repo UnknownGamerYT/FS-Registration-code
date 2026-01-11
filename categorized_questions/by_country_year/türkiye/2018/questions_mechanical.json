@@ -1,0 +1,125 @@
+[
+  {
+    "question_id": 467,
+    "text": "One corner of your car's suspension can be simplified as a two-mass system with two springs, a damper and an excitation function u(t).\\n Which set of differential equations represents the system shown below?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1855,
+        "question_id": 467,
+        "answer_text": "Set A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1856,
+        "question_id": 467,
+        "answer_text": "Set B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1857,
+        "question_id": 467,
+        "answer_text": "Set C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1858,
+        "question_id": 467,
+        "answer_text": "Set D",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000467__img000118__467_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1855,
+        "question_id": 467,
+        "answer_text": "Set A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1856,
+        "question_id": 467,
+        "answer_text": "Set B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1857,
+        "question_id": 467,
+        "answer_text": "Set C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1858,
+        "question_id": 467,
+        "answer_text": "Set D",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      45,
+      46,
+      103,
+      104
+    ],
+    "years": [
+      "2018",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "Formula Student Türkiye"
+    ]
+  },
+  {
+    "question_id": 473,
+    "text": "Calculate the force at the yield strangth for a single tube in the given 3-point bending test setup\\n Tube: square steel tube 25x25x2.2 (no rounded edges)\\n Use the approximation of 1D-beam elements and the yield strangth from the rules.\\n L=400\\n Use full precision for intermediate calculation and PI\\n Answer in kilonewtons rounded to 0.01",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1878,
+        "question_id": 473,
+        "answer_text": "4.28",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000473__img000120__473_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1878,
+        "question_id": 473,
+        "answer_text": "4.28",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      45,
+      103,
+      104
+    ],
+    "years": [
+      "2018",
+      "2025"
+    ],
+    "countries": [
+      "Austria",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Austria",
+      "Formula Student Türkiye"
+    ]
+  }
+]

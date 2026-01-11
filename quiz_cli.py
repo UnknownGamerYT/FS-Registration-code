@@ -21,6 +21,14 @@ from typing import Dict, List, Sequence, Tuple
 from statistics import median
 import platform
 import subprocess
+import json
+try:
+    from PIL import Image, ImageTk
+    import tkinter as tk
+    INTERNAL_VIEWER_AVAILABLE = True
+except Exception:
+    INTERNAL_VIEWER_AVAILABLE = False
+    Image = ImageTk = tk = None
 
 
 DEFAULT_SOURCE = Path("fsquiz_questions_with_answers.json")
@@ -57,6 +65,145 @@ def load_questions(path: Path) -> List[Dict]:
     if isinstance(data, dict) and "questions_full" in data:
         return data["questions_full"]
     sys.exit(f"Unrecognized JSON structure in {path}")
+
+
+def load_full_meta(full_path: Path = Path("fsquiz_everything_full.json")) -> Dict[int, Dict[str, List]]:
+    """Load question -> meta (countries, years, quiz_ids) from the full dataset."""
+    if not full_path.exists():
+        return {}
+    full = json.loads(full_path.read_text(encoding="utf-8"))
+    events = {e.get("id"): e for e in full.get("events", [])}
+    quizzes = {q.get("quiz_id"): q for q in full.get("quizzes_short", [])}
+
+    qmeta: Dict[int, Dict[str, List]] = {}
+    for q in full.get("questions_full", []):
+        qid = q.get("question_id")
+        if qid is None:
+            continue
+        entry = {"countries": [], "years": [], "quiz_ids": []}
+        for qref in q.get("quizzes", []) or []:
+            qzid = qref.get("quiz_id")
+            if qzid is None:
+                continue
+            entry["quiz_ids"].append(int(qzid))
+            qz = quizzes.get(qzid, {})
+            yr = qz.get("year")
+            if yr is not None:
+                entry["years"].append(yr)
+            ev = events.get(qz.get("event_id"))
+            if ev:
+                ct = ev.get("country")
+                if ct is not None:
+                    entry["countries"].append(ct)
+        qmeta[int(qid)] = entry
+    return qmeta
+
+
+COUNTRY_CODES = {
+    "austria": "A",
+    "croatia": "CRO",
+    "germany": "DE",
+    "netherlands": "NL",
+    "hungary": "HU",
+    "switzerland": "CH",
+    "united kingdom": "UK",
+    "great britain": "UK",
+    "france": "FR",
+    "spain": "ES",
+    "italy": "IT",
+    "portugal": "PT",
+    "poland": "PL",
+    "czech republic": "CZ",
+    "usa": "US",
+    "united states": "US",
+    "canada": "CA",
+    "india": "IN",
+    "china": "CN",
+    "japan": "JP",
+    "turkey": "TUR",
+    "turkiye": "TUR",
+    "türkiye": "TUR",
+}
+
+
+def country_code(name: str) -> str:
+    key = (
+        name.lower()
+        .replace("ü", "u")
+        .replace("ö", "o")
+        .replace("ä", "a")
+        .replace("ß", "ss")
+    )
+    if key in COUNTRY_CODES:
+        return COUNTRY_CODES[key]
+    return "".join(ch for ch in name[:3] if ch.isalnum()).upper()
+
+
+def year_code(y: any) -> str:
+    s = str(y)
+    return s[-2:] if len(s) >= 2 else s
+
+
+def open_images(img_paths: List[str]):
+    internal_windows: List = []
+    internal_photos: List = []
+    external_procs: List = []
+    for p in img_paths:
+        try:
+            img_path = Path(p)
+            if not img_path.is_absolute():
+                img_path = Path.cwd() / img_path
+            if INTERNAL_VIEWER_AVAILABLE:
+                img = Image.open(img_path)
+                win = tk.Tk()
+                win.title(str(img_path))
+                photo = ImageTk.PhotoImage(img)
+                lbl = tk.Label(win, image=photo)
+                lbl.image = photo
+                lbl.pack()
+                win.update_idletasks()
+                win.update()
+                internal_windows.append(win)
+                internal_photos.append(photo)
+            else:
+                if platform.system() == "Windows":
+                    proc = subprocess.Popen(["start", "", str(img_path)], shell=True)
+                elif platform.system() == "Darwin":
+                    proc = subprocess.Popen(["open", str(img_path)])
+                else:
+                    proc = subprocess.Popen(["xdg-open", str(img_path)])
+                external_procs.append(proc)
+        except Exception as e:
+            print(f"   (could not open image {p}: {e})")
+    return internal_windows, internal_photos, external_procs
+
+
+def close_images(internal_windows: List, external_procs: List):
+    for w in internal_windows:
+        try:
+            w.destroy()
+        except Exception:
+            pass
+    for proc in external_procs:
+        try:
+            proc.terminate()
+        except Exception:
+            pass
+
+
+def confirm_list(kind: str, selections: List[str], available_hint: str = "") -> List[str]:
+    while True:
+        if selections:
+            print(f"Selected {kind}: {', '.join(selections)}")
+            resp = input(f"Continue with these {kind}? [y=continue / n=edit]: ").strip().lower()
+            if resp.startswith("y"):
+                return selections
+        if available_hint:
+            print(available_hint)
+        new_in = input(f"Enter {kind} (comma-separated, blank for all): ").strip()
+        if not new_in:
+            return []
+        selections = [s.strip() for s in new_in.split(",") if s.strip()]
 
 
 def extract_options(q: Dict) -> Tuple[List[str], List[int]]:
@@ -167,6 +314,8 @@ def main() -> None:
         help="Pick a predefined category file instead of --source.",
     )
     parser.add_argument("--count", type=int, help="Number of questions to ask (default: prompt)")
+    parser.add_argument("--country", nargs="*", help="Filter by country (one or more).")
+    parser.add_argument("--year", nargs="*", help="Filter by year (one or more, e.g., 2024 2025).")
     parser.add_argument(
         "--timed",
         action="store_true",
@@ -194,8 +343,133 @@ def main() -> None:
 
     src_path = CATEGORY_FILES.get(category) if category else args.source
     questions = load_questions(src_path)
+
+    # If no country/year metadata present, attempt in-memory enrichment from full dataset.
+    if not any(q.get("countries") or q.get("years") for q in questions):
+        meta = load_full_meta()
+        if meta:
+            enriched = []
+            for q in questions:
+                qid = q.get("question_id")
+                m = meta.get(int(qid)) if qid is not None else None
+                if m:
+                    q = dict(q)
+                    q["countries"] = m.get("countries", [])
+                    q["years"] = m.get("years", [])
+                    q["quiz_ids"] = m.get("quiz_ids", [])
+                enriched.append(q)
+            questions = enriched
+        else:
+            print("⚠️  No country/year metadata found. Run enrich_questions_with_metadata.py for best results.")
+
+    # Build available metadata options
+    def uniq(vals):
+        return sorted({v for v in vals if v is not None})
+
+    all_countries = uniq([c for q in questions for c in q.get("countries", [])])
+    country_display = [f"{country_code(c).lower()} ({c})" for c in all_countries]
+
+    countries = args.country
+    if countries is None:
+        available_hint = f"Available countries: {', '.join(country_display)}" if country_display else "Available countries: (none detected)"
+        norm_map = {country_code(c).lower(): c for c in all_countries}
+        norm_full = {c.lower(): c for c in all_countries}
+        selections: List[str] = []
+        while True:
+            if selections:
+                print(f"Selected countries: {', '.join(selections)}")
+                resp = input("Continue? [y=continue / n=reset / a=add]: ").strip().lower()
+                if resp.startswith("y"):
+                    break
+                if resp.startswith("n"):
+                    selections = []
+            hint = available_hint
+            if selections and all_countries:
+                remaining = [c for c in all_countries if c not in selections]
+                if remaining:
+                    hint = f"Available (remaining) countries: {', '.join(f'{country_code(c).lower()} ({c})' for c in remaining)}"
+            print(hint)
+            c_in = input("Enter countries (comma-separated, blank for all): ").strip()
+            if not c_in:
+                if selections:
+                    # keep existing if user just presses enter after add/reset prompt
+                    continue
+                selections = []
+                break
+            tokens = [t.strip() for t in c_in.split(",") if t.strip()]
+            chosen = []
+            for t in tokens:
+                tl = t.lower()
+                if tl in norm_map:
+                    chosen.append(norm_map[tl])
+                elif tl in norm_full:
+                    chosen.append(norm_full[tl])
+                else:
+                    chosen.append(t)  # fallback
+            # merge and de-dup
+            selections = list(dict.fromkeys(selections + chosen))
+        countries = selections
+
+    # Restrict available years based on country selection, if any
+    def country_match(q):
+        if not countries:
+            return True
+        qcs = {str(c).lower() for c in q.get("countries", [])}
+        return bool(qcs & {c.lower() for c in countries})
+
+    available_years = uniq([y for q in questions if country_match(q) for y in q.get("years", [])])
+    year_display = [f"{year_code(y)} ({y})" for y in available_years]
+
+    years = args.year
+    if years is None:
+        norm_map_year = {year_code(y): str(y) for y in available_years}
+        norm_full_year = {str(y): str(y) for y in available_years}
+        selections: List[str] = []
+        while True:
+            if selections:
+                print(f"Selected years: {', '.join(selections)}")
+                resp = input("Continue? [y=continue / n=reset / a=add]: ").strip().lower()
+                if resp.startswith("y"):
+                    break
+                if resp.startswith("n"):
+                    selections = []
+            if year_display:
+                print(f"Available years: {', '.join(year_display)}")
+            else:
+                print("Available years: (none detected)")
+            y_in = input("Enter years (comma-separated, blank for all): ").strip()
+            if not y_in:
+                if selections:
+                    continue
+                selections = []
+                break
+            tokens = [t.strip() for t in y_in.split(",") if t.strip()]
+            chosen = []
+            for t in tokens:
+                if t in norm_map_year:
+                    chosen.append(norm_map_year[t])
+                elif t in norm_full_year:
+                    chosen.append(norm_full_year[t])
+                else:
+                    chosen.append(t)
+            selections = list(dict.fromkeys(selections + chosen))
+        years = selections
+
     time_stats = compute_time_stats(questions)
-    quiz = pick_questions(questions, count, min_options=1)
+    # apply metadata filters
+    def match_meta(q):
+        if countries:
+            qcs = {str(c).lower() for c in q.get("countries", [])}
+            if not qcs & {c.lower() for c in countries}:
+                return False
+        if years:
+            qys = {str(y) for y in q.get("years", [])}
+            if not qys & set(years):
+                return False
+        return True
+
+    filtered = [q for q in questions if match_meta(q)]
+    quiz = pick_questions(filtered if filtered else questions, count, min_options=1)
 
     print(f"\nFS Quiz — {len(quiz)} questions (source: {src_path})")
     print("Answer with letter(s), e.g., 'a' or 'a,c'. Type 'q' to quit, 's' to skip.\n")
@@ -210,31 +484,31 @@ def main() -> None:
         asked += 1
 
         letters = list(string.ascii_lowercase)
-        print(f"Q{i:02d} [{qtype}]:\n{wrap(text)}")
-        free_response = len(opts) <= 1
+        meta_bits = []
+        if q.get("countries"):
+            meta_bits.append("countries: " + ", ".join(map(str, q.get("countries", []))))
+        if q.get("years"):
+            meta_bits.append("years: " + ", ".join(map(str, q.get("years", []))))
+        if q.get("quiz_ids"):
+            meta_bits.append("quizzes: " + ", ".join(map(str, q.get("quiz_ids", []))))
+        meta_line = f" ({'; '.join(meta_bits)})" if meta_bits else ""
+
+        print(f"Q{i:02d} [{qtype}]{meta_line}:\n{wrap(text)}")
+        free_response = (qtype and str(qtype).lower() == "input") or len(opts) <= 1
 
         # Images
         img_paths = q.get("question_images") or []
         opened_imgs: List[str] = []
+        internal_windows: List = []
+        internal_photos: List = []
+        external_procs: List = []
         if img_paths:
             print("Images:")
             for p in img_paths:
                 print(f"  - {p}")
 
-            for p in img_paths:
-                try:
-                    img_path = Path(p)
-                    if not img_path.is_absolute():
-                        img_path = Path.cwd() / img_path
-                    if platform.system() == "Windows":
-                        subprocess.Popen(["start", "", str(img_path)], shell=True)
-                    elif platform.system() == "Darwin":
-                        subprocess.Popen(["open", str(img_path)])
-                    else:
-                        subprocess.Popen(["xdg-open", str(img_path)])
-                    opened_imgs.append(str(img_path))
-                except Exception as e:
-                    print(f"   (could not open image {p}: {e})")
+            internal_windows, internal_photos, external_procs = open_images(img_paths)
+            opened_imgs = [str(Path(p)) for p in img_paths]
 
         stop_event = threading.Event()
         timed_out = [False]
@@ -250,6 +524,7 @@ def main() -> None:
             if opts:
                 print("(Free response; enter your answer)")
             # Loop until valid control input
+            finished = False
             while True:
                 prompt = "Your answer (q=quit, s=skip"
                 if opened_imgs:
@@ -261,21 +536,16 @@ def main() -> None:
                     stop_event.set()
                     if timer_thread:
                         timer_thread.join(timeout=0.2)
+                    close_images(internal_windows, external_procs)
                     return
                 if low == "s":
                     print("Skipped.\n")
                     break
                 if low == "i" and opened_imgs:
-                    for p in opened_imgs:
-                        try:
-                            if platform.system() == "Windows":
-                                subprocess.Popen(["start", "", str(p)], shell=True)
-                            elif platform.system() == "Darwin":
-                                subprocess.Popen(["open", str(p)])
-                            else:
-                                subprocess.Popen(["xdg-open", str(p)])
-                        except Exception as e:
-                            print(f"   (could not open image {p}: {e})")
+                    iw, ip, ep = open_images(opened_imgs)
+                    internal_windows.extend(iw)
+                    internal_photos.extend(ip)
+                    external_procs.extend(ep)
                     continue
                 if user_in == "":
                     print("Please enter an answer or 's' to skip.")
@@ -323,7 +593,10 @@ def main() -> None:
                         scored += 1
                         if ok:
                             correct_count += 1
-                        print(f"{format_result(ok)} Correct answer: {expected[0] if expected else '(not provided)'}\n")
+                            print(f"{format_result(ok)} Correct answer: {expected[0] if expected else '(not provided)'}\n")
+                        else:
+                            correct_text = "; ".join(expected) if expected else "(not provided)"
+                            print(f"{format_result(ok)} Correct answer: {correct_text}\n")
                     else:
                         # No correctness data; just echo expected if we have it
                         if expected:
@@ -332,7 +605,17 @@ def main() -> None:
                             print("ℹ️  No reference answer available.\n")
                 else:
                     print("Recorded.\n")
+                finished = True
                 break
+            # finalize this question
+            stop_event.set()
+            if timer_thread:
+                timer_thread.join(timeout=0.2)
+            if args.timed:
+                print()
+            close_images(internal_windows, external_procs)
+            if finished:
+                continue
         else:
             for idx, opt in enumerate(opts):
                 print(f"  {letters[idx]}) {wrap(opt)}")
@@ -349,21 +632,16 @@ def main() -> None:
                 stop_event.set()
                 if timer_thread:
                     timer_thread.join(timeout=0.2)
+                close_images(internal_windows, external_procs)
                 return
             if low == "s":
                 print("Skipped.\n")
                 break
             if low == "i" and opened_imgs:
-                for p in opened_imgs:
-                    try:
-                        if platform.system() == "Windows":
-                            subprocess.Popen(["start", "", str(p)], shell=True)
-                        elif platform.system() == "Darwin":
-                            subprocess.Popen(["open", str(p)])
-                        else:
-                            subprocess.Popen(["xdg-open", str(p)])
-                    except Exception as e:
-                        print(f"   (could not open image {p}: {e})")
+                iw, ip, ep = open_images(opened_imgs)
+                internal_windows.extend(iw)
+                internal_photos.extend(ip)
+                external_procs.extend(ep)
                 continue
 
             picks = {
@@ -375,21 +653,23 @@ def main() -> None:
                 print("Invalid input, try again.")
                 continue
 
-                if correct:
-                    scored += 1
-                    ok = picks == set(correct)
-                    correct_count += 1 if ok else 0
-                    correct_labels = ",".join(letters[i] for i in correct)
-                    print(f"{format_result(ok)} Correct answer(s): {correct_labels}\n")
-                else:
-                    print("ℹ️  No correct answer marked in dataset; response not scored.\n")
-                break
+            if correct:
+                scored += 1
+                ok = picks == set(correct)
+                correct_count += 1 if ok else 0
+                correct_text = "; ".join(opts[i] for i in correct if i < len(opts))
+                print(f"{format_result(ok)} Correct: {correct_text}")
+                print()
+            else:
+                print("ℹ️  No correct answer marked in dataset; response not scored.\n")
+            break
 
         stop_event.set()
         if timer_thread:
             timer_thread.join(timeout=0.2)
         if args.timed:
             print()  # move to next line after countdown line
+        close_images(internal_windows, external_procs)
 
     if scored:
         print(f"Final score: {correct_count}/{scored} (scored questions). Presented: {asked}")

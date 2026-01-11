@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 192,
+    "text": "Alex and Pete are preparing their Business Plan for the Business Plan Presentation Event. Both men argue over the categories that they should focus on. Which categories should they focus on to score the most points?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 747,
+        "question_id": 192,
+        "answer_text": "Content of the business plan, the executive summary and their response to questions",
+        "is_correct": false
+      },
+      {
+        "answer_id": 748,
+        "question_id": 192,
+        "answer_text": "Content of the business plan, demonstration and structure, and finances",
+        "is_correct": false
+      },
+      {
+        "answer_id": 749,
+        "question_id": 192,
+        "answer_text": "Finances, novelty and the executive summary",
+        "is_correct": false
+      },
+      {
+        "answer_id": 750,
+        "question_id": 192,
+        "answer_text": "The clothes they wear, the deep dive topic and their response to questions from the judges",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 747,
+        "question_id": 192,
+        "answer_text": "Content of the business plan, the executive summary and their response to questions",
+        "is_correct": false
+      },
+      {
+        "answer_id": 748,
+        "question_id": 192,
+        "answer_text": "Content of the business plan, demonstration and structure, and finances",
+        "is_correct": false
+      },
+      {
+        "answer_id": 749,
+        "question_id": 192,
+        "answer_text": "Finances, novelty and the executive summary",
+        "is_correct": false
+      },
+      {
+        "answer_id": 750,
+        "question_id": 192,
+        "answer_text": "The clothes they wear, the deep dive topic and their response to questions from the judges",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      19
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

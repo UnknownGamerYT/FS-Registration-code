@@ -1,0 +1,186 @@
+[
+  {
+    "question_id": 504,
+    "text": "How many degrees of freedom does the displayed suspension have? Consider displayed bodies and that free ends are attached to the frame.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1992,
+        "question_id": 504,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1993,
+        "question_id": 504,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1994,
+        "question_id": 504,
+        "answer_text": "3",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000504__img000135__504_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1992,
+        "question_id": 504,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1993,
+        "question_id": 504,
+        "answer_text": "2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1994,
+        "question_id": 504,
+        "answer_text": "3",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      48
+    ],
+    "years": [
+      "2015"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 505,
+    "text": "A racing car isn't able to reach a maximal speed. On the basis of recorded data, identify the problem.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1995,
+        "question_id": 505,
+        "answer_text": "Driver's mistake - not shifting the highest gear.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1996,
+        "question_id": 505,
+        "answer_text": "Mechanical problem - a throttle valve does not fully open at fully opened throttle pedal.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1997,
+        "question_id": 505,
+        "answer_text": "Mechanical problem - engine has a problem with ignition at high RPM.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000505__img000136__505_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1995,
+        "question_id": 505,
+        "answer_text": "Driver's mistake - not shifting the highest gear.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1996,
+        "question_id": 505,
+        "answer_text": "Mechanical problem - a throttle valve does not fully open at fully opened throttle pedal.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1997,
+        "question_id": 505,
+        "answer_text": "Mechanical problem - engine has a problem with ignition at high RPM.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      48
+    ],
+    "years": [
+      "2015"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 506,
+    "text": "Test samples representing the joining method to be used on the Primary Structure must be designed as:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1998,
+        "question_id": 506,
+        "answer_text": "“H” pattern with two parallel 203mm (8 inches) long tubes separated by 38mm (1.5 inches) measured from the tube centerline. The connecting tube must be perpendicular to the parallel tubes and be 75mm (3 inches) from the top end of one tube and 75mm (3 inches) from the bottom end of the other tube.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1999,
+        "question_id": 506,
+        "answer_text": "“H” pattern with two parallel 203mm (8 inches) long tubes separated by 63mm (2.5 inches) measured from the tube centerline. The connecting tube must be perpendicular to the parallel tubes and be 50mm (2 inches) from the top end of one tube and 50mm (2 inches) from the bottom end of the other tube.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2000,
+        "question_id": 506,
+        "answer_text": "“H” pattern with two parallel 203mm (8 inches) long tubes separated by 38mm (1.5 inches) measured from the tube centerline. The connecting tube must be perpendicular to the parallel tubes and be 50mm (2 inches) from the top end of one tube and 50mm (2 inches) from the bottom end of the other tube.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1998,
+        "question_id": 506,
+        "answer_text": "“H” pattern with two parallel 203mm (8 inches) long tubes separated by 38mm (1.5 inches) measured from the tube centerline. The connecting tube must be perpendicular to the parallel tubes and be 75mm (3 inches) from the top end of one tube and 75mm (3 inches) from the bottom end of the other tube.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1999,
+        "question_id": 506,
+        "answer_text": "“H” pattern with two parallel 203mm (8 inches) long tubes separated by 63mm (2.5 inches) measured from the tube centerline. The connecting tube must be perpendicular to the parallel tubes and be 50mm (2 inches) from the top end of one tube and 50mm (2 inches) from the bottom end of the other tube.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2000,
+        "question_id": 506,
+        "answer_text": "“H” pattern with two parallel 203mm (8 inches) long tubes separated by 38mm (1.5 inches) measured from the tube centerline. The connecting tube must be perpendicular to the parallel tubes and be 50mm (2 inches) from the top end of one tube and 50mm (2 inches) from the bottom end of the other tube.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      48
+    ],
+    "years": [
+      "2015"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
+    ]
+  }
+]

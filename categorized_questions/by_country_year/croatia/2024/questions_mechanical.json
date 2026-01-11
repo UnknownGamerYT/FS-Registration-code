@@ -1,0 +1,481 @@
+[
+  {
+    "question_id": 854,
+    "text": "You are preparing for going on a competition and packing spare car parts in a single box. The maximum weight the box can carry is 25 kg. Each spare part is different, has a value and you must pack the box with most valuable parts, taking maximum one part of a same kind. The table below shows details for each part. Decide on which parts you will carry in a way that is the optimal regarding box capacity and part value. Mass is in kg and Value is in monetary units.\\nNote: Write the result in the following format: X, X,… starting from the lowest to the highest number.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3207,
+        "question_id": 854,
+        "answer_text": "2, 3, 4, 6",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3228,
+        "question_id": 854,
+        "answer_text": "1, 2, 4, 5, 6",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 172,
+        "question_id": 854,
+        "text": null,
+        "images": [
+          {
+            "img_id": 244,
+            "path": "solutions/854_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000854__img000243__854_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3207,
+        "question_id": 854,
+        "answer_text": "2, 3, 4, 6",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3228,
+        "question_id": 854,
+        "answer_text": "1, 2, 4, 5, 6",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 856,
+    "text": "Part 1: Let’s suppose a car with a mass of 760 kg and that in 2 seconds is capable of going from 300 km/h to 265 km/h (standard atmospheric conditions: p = 3 1,225 kg/m perfect tire tread and no additional mechanical losses) in 2 seconds. What is its coefficient of resistance SC(x)?\\n\\nPart 2: In order to establish a visual reference so that the driver knows when to start his manoeuvre, how many meters does the car travel in Coast Down?\\n\\nAnswer format: {Part 1}; {Part 2}",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3209,
+        "question_id": 856,
+        "answer_text": "0,98; 156,9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 174,
+        "question_id": 856,
+        "text": "Part 2: The medium speed of the car during the coast down is 282,5 km/h (78,47 m/s). So, during the 2s of coast down, the car travels a distance of 78,47*2=156,9m.",
+        "images": [
+          {
+            "img_id": 245,
+            "path": "solutions/856_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3209,
+        "question_id": 856,
+        "answer_text": "0,98; 156,9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 858,
+    "text": "Consider vehicle with a track width of 1200 mm and suppose it is balanced left-right. Target set for vehicle design is to have 25% of total weight on inside wheels during cornering at 1,2g. Calculate the maximum Centre of Gravity (CoG) height to achieve the target. Round the answer to the nearest millimetre.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3213,
+        "question_id": 858,
+        "answer_text": "250",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 176,
+        "question_id": 858,
+        "text": null,
+        "images": [
+          {
+            "img_id": 246,
+            "path": "solutions/858_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3213,
+        "question_id": 858,
+        "answer_text": "250",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90,
+      104,
+      103
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Croatia",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Alpe Adria",
+      "Formula Student Türkiye"
+    ]
+  },
+  {
+    "question_id": 860,
+    "text": "Suppose you have air as a working substance in the left Joules process. The heat is supplied to the working substance from the cold store where the constant temperature is -10°C, and it is removed from the working substance to the environment with a constant temperature of 22°C. Manometers on heat exchangers show values of 0,5 bar and 2,5 bar. The lowest temperature of the working substance during isobaric cooling is 3 °C higher than the ambient temperature, and the highest temperature of the working substance during isobaric heating is equal to the temperature in the cold store.\\n\\nPart 1: How much heat flow does the working substance give to the environment, if 10 kW of heat flow is removed from the cold store (and given to the working substance)?\\nNote: answer with or – from the cold store’s point of view.\\n\\nPart 2: How much power is required to carry out such a process? Ambient pressure is 750 mm Hg.\\n\\n Note: Round answers from Part 1 and Part 2 to two decimal numbers.\\nAnswer format: {Part 1}; {Part 2}",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3215,
+        "question_id": 860,
+        "answer_text": "-12,74; -2,74",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 178,
+        "question_id": 860,
+        "text": "Part 1:",
+        "images": [
+          {
+            "img_id": 251,
+            "path": "solutions/860_1.jpg"
+          }
+        ]
+      },
+      {
+        "solution_id": 179,
+        "question_id": 860,
+        "text": "Part 2",
+        "images": [
+          {
+            "img_id": 252,
+            "path": "solutions/860_2.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3215,
+        "question_id": 860,
+        "answer_text": "-12,74; -2,74",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 862,
+    "text": "While testing your CV car, the driver notices the rear of the car behaves differently in left and right corners when he starts driving. After a couple of laps, the problem almost disappears. You suspect the reason of this behaviour might be the exhaust, which heats up the aluminium upper rear right A-arm and cools down while driving.\\nIt turns out, the exhaust can increase the temperature of the upper A-arm by 200 °C! Calculate by how much would the raised temperature change the camber on the rear right wheel. Dimensions of components at the nominal temperature are presented on the figure below. Bottom A-arm is perpendicular to the vertical chassis member. Write the answer in degrees rounded to the nearest one decimal place number.\\nNote: Linear expansion coefficient for aluminium is 0,000023 m/m °C.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3217,
+        "question_id": 862,
+        "answer_text": "1",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 183,
+        "question_id": 862,
+        "text": null,
+        "images": [
+          {
+            "img_id": 257,
+            "path": "solutions/862_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000862__img000256__862_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3217,
+        "question_id": 862,
+        "answer_text": "1",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 864,
+    "text": "While having controller P perfectly tuned on some simple 1st order system, you decide to filter the input signal with first order low pass filter with cut-off frequency of 50 Hz. If the control loop had 30 ms of delay before, to maintain the same stability, to what value do you have to set P gain now if it was set to 100 before? Round the answer to three decimal numbers.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3219,
+        "question_id": 864,
+        "answer_text": "59,988",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 187,
+        "question_id": 864,
+        "text": "Question has been removed from the quiz\\n\\n\n50 Hz filter has a time constant of 20 milliseconds (tf: num=[1], den=[0,02, 1] which is considered as its delay, increasing the total loop delay to 30 + 20 = 50 ms or x 1,667.\\n\nSo, to get same overshoot you need to dial down proportional gain x 1,667 which is 100/1,667 = 59,988.\\n\nOther stability evaluation methods can be used but should give similar result, thus tolerance in the answer.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3219,
+        "question_id": 864,
+        "answer_text": "59,988",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 865,
+    "text": "The table below defines activities of a certain process, their dependence and duration.\\nThis task requires you to:\\n\\nPart 1: Draw a precedence diagram of the whole process, method is finish to start, final version of the diagram should not contain fictional nodes if they were used during creation, use of Fulkerson’s rule is advised.\\n\\nPart 2: Define which is the critical path. Write the answer in this format: X-X-X… alphabetically.\\n\\nPart 3: Draw a linear time plan of the process:\\n- Spare/idle/reserve times should be marked with one type of line.\\n- Activity times should be marked with another type of line.\\n- Critical path should be marked with another type of line.\\n\\nPart 1 & 3 are not available because an upload is not supported",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3220,
+        "question_id": 865,
+        "answer_text": "A-B-H-J-M-N",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 188,
+        "question_id": 865,
+        "text": "Part 1: Anything that depicts the same data/numbers/content as shown below, students are free to draw by hand or use computer tools and a lot of freedom is allowed.\r\n\r\n\r\n\r\n\r\n\r\n",
+        "images": [
+          {
+            "img_id": 261,
+            "path": "solutions/865_1.jpg"
+          }
+        ]
+      },
+      {
+        "solution_id": 189,
+        "question_id": 865,
+        "text": "Part 3:",
+        "images": [
+          {
+            "img_id": 262,
+            "path": "solutions/865_2.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000865__img000260__865_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3220,
+        "question_id": 865,
+        "answer_text": "A-B-H-J-M-N",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  },
+  {
+    "question_id": 866,
+    "text": "A rear-wheel driven Formula Student car weighs 125 kg, the front wing is 240 mm from the ground at the highest point, the rear wing is 1250 mm above the ground, and it has a single brake acting on a limited-slip differential, with one hydraulic circuit. Which of the offered statements are true?\\nNote: Multiple correct answers are possible and all of them need to be marked.",
+    "type": "multi-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3221,
+        "question_id": 866,
+        "answer_text": "a) everything is according to the rules",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3222,
+        "question_id": 866,
+        "answer_text": "b) front wing height is illegal",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3223,
+        "question_id": 866,
+        "answer_text": "c) rear wing height is illegal",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3224,
+        "question_id": 866,
+        "answer_text": "d) the car can have one brake",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3225,
+        "question_id": 866,
+        "answer_text": "e) the brake system must have more than one hydraulic circuit",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3226,
+        "question_id": 866,
+        "answer_text": "f) weight is under the lower limit",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 190,
+        "question_id": 866,
+        "text": "c) – mandates that all aerodynamic devices rearward of a vertical plane through the rearmost portion of the front face of the driver head restraint support, excluding any padding, set to its most rearward position must be lower than 1,2 m from the ground.\\n\r\ne) – T 6.1.2 (FSG Rules 2024 V1.1) mandates that the brake system must have two independent hydraulic circuits.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3221,
+        "question_id": 866,
+        "answer_text": "a) everything is according to the rules",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3222,
+        "question_id": 866,
+        "answer_text": "b) front wing height is illegal",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3223,
+        "question_id": 866,
+        "answer_text": "c) rear wing height is illegal",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3224,
+        "question_id": 866,
+        "answer_text": "d) the car can have one brake",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3225,
+        "question_id": 866,
+        "answer_text": "e) the brake system must have more than one hydraulic circuit",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3226,
+        "question_id": 866,
+        "answer_text": "f) weight is under the lower limit",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
+    ]
+  }
+]

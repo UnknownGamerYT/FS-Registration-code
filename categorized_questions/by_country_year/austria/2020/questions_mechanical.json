@@ -1,0 +1,456 @@
+[
+  {
+    "question_id": 360,
+    "text": "Your car loses a wheel while you are going 72Km/h and the wheel continues rolling straight ahead for 40m with a rolling resistance of 10N before it reaches the press area. How fast is the tire going at that point?\n(in m/s, rounded to full number) Wheel data: 16.2\" outer diameter, mass=5kg, rotational inertia lyy=0.093Kgm²\nPlease use the following format: 12.34",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 1440,
+        "question_id": 360,
+        "answer_text": "17",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1440,
+        "question_id": 360,
+        "answer_text": "17",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 361,
+    "text": "Which Rule is violated in the following picture?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1441,
+        "question_id": 361,
+        "answer_text": "T10.4.2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1442,
+        "question_id": 361,
+        "answer_text": "T3.4.4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1443,
+        "question_id": 361,
+        "answer_text": "T5.5.4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1444,
+        "question_id": 361,
+        "answer_text": "EV4.5.9",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000361__img000080__361_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1441,
+        "question_id": 361,
+        "answer_text": "T10.4.2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1442,
+        "question_id": 361,
+        "answer_text": "T3.4.4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1443,
+        "question_id": 361,
+        "answer_text": "T5.5.4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1444,
+        "question_id": 361,
+        "answer_text": "EV4.5.9",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 362,
+    "text": "A thin-walled brake line made out of steel with the modulus of elasticity 210000MPa, an inner diameter of 4.75mm, and a wall thickness of 1mm is under an internal gauge pressure of 120bar. What are the circumferential stress (sigma) and the expansion (delta da) of the outer diameter?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1445,
+        "question_id": 362,
+        "answer_text": "sigma=285MPa, delta da=0.00645mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1446,
+        "question_id": 362,
+        "answer_text": "sigma=28.5MPa, delta da=0.00064mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1447,
+        "question_id": 362,
+        "answer_text": "sigma=285MPa, delta da=0.00780mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1448,
+        "question_id": 362,
+        "answer_text": "sigma=28.5MPa, delta da=0.00078mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1445,
+        "question_id": 362,
+        "answer_text": "sigma=285MPa, delta da=0.00645mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1446,
+        "question_id": 362,
+        "answer_text": "sigma=28.5MPa, delta da=0.00064mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1447,
+        "question_id": 362,
+        "answer_text": "sigma=285MPa, delta da=0.00780mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1448,
+        "question_id": 362,
+        "answer_text": "sigma=28.5MPa, delta da=0.00078mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 363,
+    "text": "Calculate the maximum possible cornering speed for the following FSAE car when going thru a 20m radius corner (in kph) Overall mass = 260kg, Product of coefficient of lift, frontal area and air density (cl A. ROH) = -6kg/m, Tire coefficient of friction = 1.5 Gravity acc. g=9.81m/s^2\n(Hint: the vehicle can be treated as a point mass, driving resistances neglected)\nRound to 1 decimal<br>Please use the following format: 12.34",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 1449,
+        "question_id": 363,
+        "answer_text": "76.4",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1449,
+        "question_id": 363,
+        "answer_text": "76.4",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 364,
+    "text": "The front track width of your FSAE car is 1240mm. In which range must the rear track width be in order to be compliant with the rules?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1450,
+        "question_id": 364,
+        "answer_text": "930mm-1550mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1451,
+        "question_id": 364,
+        "answer_text": "992mm-1653mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1452,
+        "question_id": 364,
+        "answer_text": "992mm-1550mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1453,
+        "question_id": 364,
+        "answer_text": "930mm-1653mm",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1450,
+        "question_id": 364,
+        "answer_text": "930mm-1550mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1451,
+        "question_id": 364,
+        "answer_text": "992mm-1653mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1452,
+        "question_id": 364,
+        "answer_text": "992mm-1550mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1453,
+        "question_id": 364,
+        "answer_text": "930mm-1653mm",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 369,
+    "text": "You capture this CAN FRAME with your scope. What happend in the market section?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 1466,
+        "question_id": 369,
+        "answer_text": "It's a CAN FD Transmission",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1467,
+        "question_id": 369,
+        "answer_text": "During transmission, a collision with another transmitting node occurred",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1468,
+        "question_id": 369,
+        "answer_text": "There is EMI/Noise coupled outo your CAN bus lines",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1469,
+        "question_id": 369,
+        "answer_text": "Nothing special, this is a standard CAN 2.0 frame with a bit rate of 1 Mbit/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1470,
+        "question_id": 369,
+        "answer_text": "Probably a broken Transceiver on the sending node",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000369__img000082__369_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1466,
+        "question_id": 369,
+        "answer_text": "It's a CAN FD Transmission",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1467,
+        "question_id": 369,
+        "answer_text": "During transmission, a collision with another transmitting node occurred",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1468,
+        "question_id": 369,
+        "answer_text": "There is EMI/Noise coupled outo your CAN bus lines",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1469,
+        "question_id": 369,
+        "answer_text": "Nothing special, this is a standard CAN 2.0 frame with a bit rate of 1 Mbit/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1470,
+        "question_id": 369,
+        "answer_text": "Probably a broken Transceiver on the sending node",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 373,
+    "text": "How high is the compression ratio if your engine total volume (displacement plus combustion chamber) is 649 ccm and it has a stroke of 15 cm?\nThe gauge pressure inside the cylinder is 80 bar at the highest point a force of 3.1728*10^4 N action on the piston",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1480,
+        "question_id": 373,
+        "answer_text": "11",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1481,
+        "question_id": 373,
+        "answer_text": "12",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1482,
+        "question_id": 373,
+        "answer_text": "1/12",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1483,
+        "question_id": 373,
+        "answer_text": "1/11",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1480,
+        "question_id": 373,
+        "answer_text": "11",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1481,
+        "question_id": 373,
+        "answer_text": "12",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1482,
+        "question_id": 373,
+        "answer_text": "1/12",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1483,
+        "question_id": 373,
+        "answer_text": "1/11",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

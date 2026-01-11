@@ -1,0 +1,338 @@
+[
+  {
+    "question_id": 196,
+    "text": "Which parameters are not required to calculate the operating temperature of a conductor in open air? ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 763,
+        "question_id": 196,
+        "answer_text": "Material",
+        "is_correct": false
+      },
+      {
+        "answer_id": 764,
+        "question_id": 196,
+        "answer_text": "Insulator (coating) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 765,
+        "question_id": 196,
+        "answer_text": "Conductor length",
+        "is_correct": false
+      },
+      {
+        "answer_id": 766,
+        "question_id": 196,
+        "answer_text": "Operating current",
+        "is_correct": false
+      },
+      {
+        "answer_id": 767,
+        "question_id": 196,
+        "answer_text": "Ambient temperature",
+        "is_correct": false
+      },
+      {
+        "answer_id": 768,
+        "question_id": 196,
+        "answer_text": "Cross section area",
+        "is_correct": false
+      },
+      {
+        "answer_id": 769,
+        "question_id": 196,
+        "answer_text": "Operating voltage ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 770,
+        "question_id": 196,
+        "answer_text": "Cross section shape",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 763,
+        "question_id": 196,
+        "answer_text": "Material",
+        "is_correct": false
+      },
+      {
+        "answer_id": 764,
+        "question_id": 196,
+        "answer_text": "Insulator (coating) ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 765,
+        "question_id": 196,
+        "answer_text": "Conductor length",
+        "is_correct": false
+      },
+      {
+        "answer_id": 766,
+        "question_id": 196,
+        "answer_text": "Operating current",
+        "is_correct": false
+      },
+      {
+        "answer_id": 767,
+        "question_id": 196,
+        "answer_text": "Ambient temperature",
+        "is_correct": false
+      },
+      {
+        "answer_id": 768,
+        "question_id": 196,
+        "answer_text": "Cross section area",
+        "is_correct": false
+      },
+      {
+        "answer_id": 769,
+        "question_id": 196,
+        "answer_text": "Operating voltage ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 770,
+        "question_id": 196,
+        "answer_text": "Cross section shape",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 198,
+    "text": "If a thin and infinitely long fibre's diameter is reduced, which of its properties from the following will increase?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 775,
+        "question_id": 198,
+        "answer_text": "Strength",
+        "is_correct": true
+      },
+      {
+        "answer_id": 776,
+        "question_id": 198,
+        "answer_text": "Young modulus",
+        "is_correct": false
+      },
+      {
+        "answer_id": 777,
+        "question_id": 198,
+        "answer_text": "Peak force at failure",
+        "is_correct": false
+      },
+      {
+        "answer_id": 778,
+        "question_id": 198,
+        "answer_text": "Stiffness",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 775,
+        "question_id": 198,
+        "answer_text": "Strength",
+        "is_correct": true
+      },
+      {
+        "answer_id": 776,
+        "question_id": 198,
+        "answer_text": "Young modulus",
+        "is_correct": false
+      },
+      {
+        "answer_id": 777,
+        "question_id": 198,
+        "answer_text": "Peak force at failure",
+        "is_correct": false
+      },
+      {
+        "answer_id": 778,
+        "question_id": 198,
+        "answer_text": "Stiffness",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 206,
+    "text": "Which of the listed material can be described with the following fictional mechanical properties?\nSpecific strength (σ[MPa]/ρ[g/cm³]) = 1656\nSpecific modulus (σ[GPa]/ρ[g/cm³]) = 57\nFailure Strain (%) = 1,8",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 807,
+        "question_id": 206,
+        "answer_text": "Steel",
+        "is_correct": false
+      },
+      {
+        "answer_id": 808,
+        "question_id": 206,
+        "answer_text": "Aramid Fiber Reinforced Polymer",
+        "is_correct": false
+      },
+      {
+        "answer_id": 809,
+        "question_id": 206,
+        "answer_text": "Titanium",
+        "is_correct": false
+      },
+      {
+        "answer_id": 810,
+        "question_id": 206,
+        "answer_text": "Carbon Fiber Reinforced Polymer",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 807,
+        "question_id": 206,
+        "answer_text": "Steel",
+        "is_correct": false
+      },
+      {
+        "answer_id": 808,
+        "question_id": 206,
+        "answer_text": "Aramid Fiber Reinforced Polymer",
+        "is_correct": false
+      },
+      {
+        "answer_id": 809,
+        "question_id": 206,
+        "answer_text": "Titanium",
+        "is_correct": false
+      },
+      {
+        "answer_id": 810,
+        "question_id": 206,
+        "answer_text": "Carbon Fiber Reinforced Polymer",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 210,
+    "text": "Which of the following requirements is a must for all types of vehicles, when moving the vehicle on the competition site other than on the practice or competition tracks?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 823,
+        "question_id": 210,
+        "answer_text": "Vehicles must be pushed at a normal walking pace by means of a red pushbar, equipped with a fire extingusher.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 824,
+        "question_id": 210,
+        "answer_text": "Detached master switch.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 825,
+        "question_id": 210,
+        "answer_text": "Two team members walking on either side of the vehicle.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 826,
+        "question_id": 210,
+        "answer_text": "A registered driver wearing the required driver equipment as defined in T 13.3 except for helmet, arm restraints and balaclava having full control of steering and braking.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 823,
+        "question_id": 210,
+        "answer_text": "Vehicles must be pushed at a normal walking pace by means of a red pushbar, equipped with a fire extingusher.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 824,
+        "question_id": 210,
+        "answer_text": "Detached master switch.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 825,
+        "question_id": 210,
+        "answer_text": "Two team members walking on either side of the vehicle.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 826,
+        "question_id": 210,
+        "answer_text": "A registered driver wearing the required driver equipment as defined in T 13.3 except for helmet, arm restraints and balaclava having full control of steering and braking.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

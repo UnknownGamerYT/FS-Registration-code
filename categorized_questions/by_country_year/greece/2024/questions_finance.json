@@ -1,0 +1,234 @@
+[
+  {
+    "question_id": 690,
+    "text": "In the following rear view of a double wishbone suspension, which of the five points represents the vehicle’s Roll Centre?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2590,
+        "question_id": 690,
+        "answer_text": "A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2591,
+        "question_id": 690,
+        "answer_text": "B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2592,
+        "question_id": 690,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2593,
+        "question_id": 690,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2594,
+        "question_id": 690,
+        "answer_text": "E",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000690__img000185__690_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2590,
+        "question_id": 690,
+        "answer_text": "A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2591,
+        "question_id": 690,
+        "answer_text": "B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2592,
+        "question_id": 690,
+        "answer_text": "C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2593,
+        "question_id": 690,
+        "answer_text": "D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2594,
+        "question_id": 690,
+        "answer_text": "E",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 692,
+    "text": "The following shape on the left is a section view of the cone in the right. Calculate the area that is shown in the left.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2598,
+        "question_id": 692,
+        "answer_text": "5.1549 in^2 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2599,
+        "question_id": 692,
+        "answer_text": "3325.76 cm^2 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2600,
+        "question_id": 692,
+        "answer_text": "235.2633 mm^2 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2601,
+        "question_id": 692,
+        "answer_text": "Not enough information ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000692__img000187__692_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2598,
+        "question_id": 692,
+        "answer_text": "5.1549 in^2 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2599,
+        "question_id": 692,
+        "answer_text": "3325.76 cm^2 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2600,
+        "question_id": 692,
+        "answer_text": "235.2633 mm^2 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2601,
+        "question_id": 692,
+        "answer_text": "Not enough information ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  },
+  {
+    "question_id": 693,
+    "text": "An automotive company makes the manufacturing planning for a part. The company can outsource the part, for the first 50 parts the cost per part is 500€, for the next 50 parts the price is 450€ per part and for the rest 425€ per part. In order to produce the part in house an investment of 350000€ is needed, the material costs 100€ per part. Each part needs 2 hours to be produced and the salary per hour is 15€. How many parts need to produce in order to break even.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2602,
+        "question_id": 693,
+        "answer_text": "1135 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2603,
+        "question_id": 693,
+        "answer_text": "1169 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2604,
+        "question_id": 693,
+        "answer_text": "1170 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2605,
+        "question_id": 693,
+        "answer_text": "1136 ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2602,
+        "question_id": 693,
+        "answer_text": "1135 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2603,
+        "question_id": 693,
+        "answer_text": "1169 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2604,
+        "question_id": 693,
+        "answer_text": "1170 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2605,
+        "question_id": 693,
+        "answer_text": "1136 ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
+    ]
+  }
+]

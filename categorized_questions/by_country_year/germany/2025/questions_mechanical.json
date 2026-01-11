@@ -1,0 +1,525 @@
+[
+  {
+    "question_id": 945,
+    "text": "You are attemping the rules quiz for which an image file with the size of 700kB needs to be downloaded. Your connection speed is: 250 MBit/sThe round-trip delay for your connection has been measured to be 60ms. Calculate the time needed for the one way transfer (Server to Client) based on the data given above. Assume the connection to be stateless and disregard any other potential delays (e.g. handshakes, encryption overhead etc.). Further assume that the transmission delay is equal for download and upload.\nAnswer in ms and round to the closest integer.",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3550,
+        "question_id": 945,
+        "answer_text": "52",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3550,
+        "question_id": 945,
+        "answer_text": "52",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 947,
+    "text": "What measures can minimize EMC interference in an electrically powered Formula Student vehicle? Select all answers that apply.",
+    "type": "multi-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3552,
+        "question_id": 947,
+        "answer_text": "Avoiding aluminum as a housing material, as it can increase EMC problems",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3553,
+        "question_id": 947,
+        "answer_text": "Minimizing cable lengths to reduce antenna effects",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3554,
+        "question_id": 947,
+        "answer_text": "Use of shielded cables to reduce electromagnetic interference",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3555,
+        "question_id": 947,
+        "answer_text": "Use of ferrite cores at critical points in the cabling",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3556,
+        "question_id": 947,
+        "answer_text": "Installation of high-frequency filters in the control units",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3552,
+        "question_id": 947,
+        "answer_text": "Avoiding aluminum as a housing material, as it can increase EMC problems",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3553,
+        "question_id": 947,
+        "answer_text": "Minimizing cable lengths to reduce antenna effects",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3554,
+        "question_id": 947,
+        "answer_text": "Use of shielded cables to reduce electromagnetic interference",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3555,
+        "question_id": 947,
+        "answer_text": "Use of ferrite cores at critical points in the cabling",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3556,
+        "question_id": 947,
+        "answer_text": "Installation of high-frequency filters in the control units",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 950,
+    "text": "Which of the following statements about the rules for FSG 2025 is correct?",
+    "type": "multi-choice",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 3562,
+        "question_id": 950,
+        "answer_text": "The presented CRD must be identical to the submitted versions, otherwise 0 points will be scored for the “BOM Discussion” part.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3563,
+        "question_id": 950,
+        "answer_text": "All documents must comply with a maximum size of 40 MB.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3564,
+        "question_id": 950,
+        "answer_text": "Two unused and in date fire extinguishers must be presented at mechanical inspection.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3565,
+        "question_id": 950,
+        "answer_text": "The deadline for the magazine uploads is 2025-06-06 13:00 CEST.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3566,
+        "question_id": 950,
+        "answer_text": "The forklift at Hockenheim cannot lift more than 5 metric tons",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3567,
+        "question_id": 950,
+        "answer_text": "All team captains and drivers on a particular day must attend the team briefing for that day.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3568,
+        "question_id": 950,
+        "answer_text": "The RES relay, which is integrated into the SDC, must be bypassed by a normally closed relay, when driving manually.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3569,
+        "question_id": 950,
+        "answer_text": "When using bolted joints within the primary structure, crushing of the laminate core material is allowed.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3570,
+        "question_id": 950,
+        "answer_text": "In manual skidpad, each team has two runs, driven by one driver.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3571,
+        "question_id": 950,
+        "answer_text": "TS accumulator segments must be separated by internal vertical walls which extend upwards until the lid.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 215,
+        "question_id": 950,
+        "text": "The statement “In manual skidpad, each team has two runs, driven by one driver.” used to be part of the FS Rules until last season. For 2025, it has been removed (refer to the respective changelog entry). While each team still has two runs, the limitation that those must be driven by the same driver has been removed, thus the statement is false.",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3562,
+        "question_id": 950,
+        "answer_text": "The presented CRD must be identical to the submitted versions, otherwise 0 points will be scored for the “BOM Discussion” part.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3563,
+        "question_id": 950,
+        "answer_text": "All documents must comply with a maximum size of 40 MB.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3564,
+        "question_id": 950,
+        "answer_text": "Two unused and in date fire extinguishers must be presented at mechanical inspection.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3565,
+        "question_id": 950,
+        "answer_text": "The deadline for the magazine uploads is 2025-06-06 13:00 CEST.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3566,
+        "question_id": 950,
+        "answer_text": "The forklift at Hockenheim cannot lift more than 5 metric tons",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3567,
+        "question_id": 950,
+        "answer_text": "All team captains and drivers on a particular day must attend the team briefing for that day.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3568,
+        "question_id": 950,
+        "answer_text": "The RES relay, which is integrated into the SDC, must be bypassed by a normally closed relay, when driving manually.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3569,
+        "question_id": 950,
+        "answer_text": "When using bolted joints within the primary structure, crushing of the laminate core material is allowed.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3570,
+        "question_id": 950,
+        "answer_text": "In manual skidpad, each team has two runs, driven by one driver.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3571,
+        "question_id": 950,
+        "answer_text": "TS accumulator segments must be separated by internal vertical walls which extend upwards until the lid.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 951,
+    "text": "Which of the following statements about the rules for FSG 2025 is correct?",
+    "type": "multi-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3572,
+        "question_id": 951,
+        "answer_text": "The supporting material file may contain 15 pages of content.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3573,
+        "question_id": 951,
+        "answer_text": "Any capacitor may be used to bridge galvanic isolation.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3574,
+        "question_id": 951,
+        "answer_text": "The maximum thickness of the cockpit internal cross section template is 7 mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3575,
+        "question_id": 951,
+        "answer_text": "4 mm shrouded banana jacks rated for 1000 V CAT III or better must be used for the TSMP.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3576,
+        "question_id": 951,
+        "answer_text": "The Bender ISOMETER® iso185 is allowed as an IMD.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3577,
+        "question_id": 951,
+        "answer_text": "The Race E–Key will be available at the EBS Test before Thursday 12:00 CEST.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3578,
+        "question_id": 951,
+        "answer_text": "The radial clearance between any non-rotating part and the inside of the rim must be at least 5 mm with the wheels straight in static condition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3579,
+        "question_id": 951,
+        "answer_text": "Corrections requested before the initial deadline are treated as if they were requested at the initial deadline.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3580,
+        "question_id": 951,
+        "answer_text": "The BPPV must have a minimum length of 60 s.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3581,
+        "question_id": 951,
+        "answer_text": "In Skidpad, exactly 16 cones are placed around the inside of each inner circle.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3572,
+        "question_id": 951,
+        "answer_text": "The supporting material file may contain 15 pages of content.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3573,
+        "question_id": 951,
+        "answer_text": "Any capacitor may be used to bridge galvanic isolation.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3574,
+        "question_id": 951,
+        "answer_text": "The maximum thickness of the cockpit internal cross section template is 7 mm.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3575,
+        "question_id": 951,
+        "answer_text": "4 mm shrouded banana jacks rated for 1000 V CAT III or better must be used for the TSMP.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3576,
+        "question_id": 951,
+        "answer_text": "The Bender ISOMETER® iso185 is allowed as an IMD.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3577,
+        "question_id": 951,
+        "answer_text": "The Race E–Key will be available at the EBS Test before Thursday 12:00 CEST.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3578,
+        "question_id": 951,
+        "answer_text": "The radial clearance between any non-rotating part and the inside of the rim must be at least 5 mm with the wheels straight in static condition.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3579,
+        "question_id": 951,
+        "answer_text": "Corrections requested before the initial deadline are treated as if they were requested at the initial deadline.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3580,
+        "question_id": 951,
+        "answer_text": "The BPPV must have a minimum length of 60 s.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3581,
+        "question_id": 951,
+        "answer_text": "In Skidpad, exactly 16 cones are placed around the inside of each inner circle.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 955,
+    "text": "What are the correct values for the GWP of the following chemicals CO2, CH4 (non-fossil) and CH3Br over 100 years according to the IPCC ARS?\n\nThe order of the answer should be CO2, CH4, CH3Br",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 3584,
+        "question_id": 955,
+        "answer_text": "0.9, 2, 28",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3585,
+        "question_id": 955,
+        "answer_text": "1, 30, 2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3586,
+        "question_id": 955,
+        "answer_text": "1, 28, 2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3587,
+        "question_id": 955,
+        "answer_text": "1, 4.5, 30",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3584,
+        "question_id": 955,
+        "answer_text": "0.9, 2, 28",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3585,
+        "question_id": 955,
+        "answer_text": "1, 30, 2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3586,
+        "question_id": 955,
+        "answer_text": "1, 28, 2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3587,
+        "question_id": 955,
+        "answer_text": "1, 4.5, 30",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  },
+  {
+    "question_id": 959,
+    "text": "You are using a processor equipped with an arithmetic logic unit (ALU) that is solely capable of performing integer calculations using a 15-bit binary representation. Negative numbers are represented using the two’s complement.Calculate the result of the following mathematical expression: a = 5 - 25 (numbers in decimal representation)\nProvide the result as represented by the ALU without using any spaces.",
+    "type": "input",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 3597,
+        "question_id": 959,
+        "answer_text": "111111111101100",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3597,
+        "question_id": 959,
+        "answer_text": "111111111101100",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
+    ]
+  }
+]

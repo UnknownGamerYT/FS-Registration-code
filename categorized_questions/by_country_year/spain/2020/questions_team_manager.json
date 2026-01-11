@@ -1,0 +1,297 @@
+[
+  {
+    "question_id": 167,
+    "text": "Time keeping has registered an uncorrected elapsed driving time of t=24,30 min for the fastest endurance vehicle and it knocked 7 cones (DOO). The lowest corrected used energy of all teams who are able to score points in efficiency is E=5,32 kWh. Our team has an endurance uncorrected elapsed driving time of t=28,20 min and we made 1 off-course (OC). Our corrected used energy is E=6,08 kWh. The best efficiency team has an efficiency factor of E=0,85 and the worst efficiency team has an efficiency factor of E=0,48. Which is our Efficiency Score?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 654,
+        "question_id": 167,
+        "answer_text": "72,14",
+        "is_correct": false
+      },
+      {
+        "answer_id": 655,
+        "question_id": 167,
+        "answer_text": "83,07",
+        "is_correct": false
+      },
+      {
+        "answer_id": 656,
+        "question_id": 167,
+        "answer_text": "96,15",
+        "is_correct": true
+      },
+      {
+        "answer_id": 657,
+        "question_id": 167,
+        "answer_text": "All the answers are wrong",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 654,
+        "question_id": 167,
+        "answer_text": "72,14",
+        "is_correct": false
+      },
+      {
+        "answer_id": 655,
+        "question_id": 167,
+        "answer_text": "83,07",
+        "is_correct": false
+      },
+      {
+        "answer_id": 656,
+        "question_id": 167,
+        "answer_text": "96,15",
+        "is_correct": true
+      },
+      {
+        "answer_id": 657,
+        "question_id": 167,
+        "answer_text": "All the answers are wrong",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 169,
+    "text": "On the Cost and Manufacturing Event there are only two finalists, the highest Score Awarded to the best team participating in the finals is 98 points. The Score Awarded to the third place is 92 points and your Cost Score team is 75 points. What is the Score Awarded of your team?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 662,
+        "question_id": 169,
+        "answer_text": "72,63",
+        "is_correct": true
+      },
+      {
+        "answer_id": 663,
+        "question_id": 169,
+        "answer_text": "75",
+        "is_correct": false
+      },
+      {
+        "answer_id": 664,
+        "question_id": 169,
+        "answer_text": "69,73",
+        "is_correct": false
+      },
+      {
+        "answer_id": 665,
+        "question_id": 169,
+        "answer_text": "74,35",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 35,
+        "question_id": 169,
+        "text": "Rule: S2.10.4 --> (Cost score x 92)/95=Total score",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 662,
+        "question_id": 169,
+        "answer_text": "72,63",
+        "is_correct": true
+      },
+      {
+        "answer_id": 663,
+        "question_id": 169,
+        "answer_text": "75",
+        "is_correct": false
+      },
+      {
+        "answer_id": 664,
+        "question_id": 169,
+        "answer_text": "69,73",
+        "is_correct": false
+      },
+      {
+        "answer_id": 665,
+        "question_id": 169,
+        "answer_text": "74,35",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 171,
+    "text": "Time keeping has registered a total time of t=22,25min for the fastest endurance vehicle, but it knocked 5 cones (DOO). Our team has a total time of t=27,50 min but we knocked 6 cones (DOO) and we did 1 off-course (OC). Which is our Endurance score?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 670,
+        "question_id": 171,
+        "answer_text": "70,74",
+        "is_correct": false
+      },
+      {
+        "answer_id": 671,
+        "question_id": 171,
+        "answer_text": "65,13",
+        "is_correct": true
+      },
+      {
+        "answer_id": 672,
+        "question_id": 171,
+        "answer_text": "76,49",
+        "is_correct": false
+      },
+      {
+        "answer_id": 673,
+        "question_id": 171,
+        "answer_text": "69,50",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 670,
+        "question_id": 171,
+        "answer_text": "70,74",
+        "is_correct": false
+      },
+      {
+        "answer_id": 671,
+        "question_id": 171,
+        "answer_text": "65,13",
+        "is_correct": true
+      },
+      {
+        "answer_id": 672,
+        "question_id": 171,
+        "answer_text": "76,49",
+        "is_correct": false
+      },
+      {
+        "answer_id": 673,
+        "question_id": 171,
+        "answer_text": "69,50",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 175,
+    "text": "The quality department of our team is measuring four shafts, from four different suppliers with the following requirements Diam=42h10 mm (ISO286-1988). Which of these shafts is not valid according to our specifications?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 686,
+        "question_id": 175,
+        "answer_text": "41,95mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 687,
+        "question_id": 175,
+        "answer_text": "42,10mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 688,
+        "question_id": 175,
+        "answer_text": "41,99mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 689,
+        "question_id": 175,
+        "answer_text": "42,00mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 686,
+        "question_id": 175,
+        "answer_text": "41,95mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 687,
+        "question_id": 175,
+        "answer_text": "42,10mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 688,
+        "question_id": 175,
+        "answer_text": "41,99mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 689,
+        "question_id": 175,
+        "answer_text": "42,00mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  }
+]

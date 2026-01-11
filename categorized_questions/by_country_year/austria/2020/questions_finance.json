@@ -1,0 +1,185 @@
+[
+  {
+    "question_id": 359,
+    "text": "At the \"no help zone\" line on the acceleration is a ditch that is 15mm deep and wide enough for your 13\" outer diameter tire to completely reach the bottom. The surrounding surface is flat and level. Your wheelbase is as short as possible and the front wing is built to the maximum dimensions as allowed in the Rules. You are rolling slowly so you can assume your suspension to be stiff. What's the minimum ground clearance in mm) that remains while driving across that ditch?\nPlease use the following format 12.34",
+    "type": "input-range",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 1439,
+        "question_id": 359,
+        "answer_text": "6.4-6.6",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1439,
+        "question_id": 359,
+        "answer_text": "6.4-6.6",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 367,
+    "text": "What is not a 'system' in the Cost Reports Bill of Material?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1458,
+        "question_id": 367,
+        "answer_text": "Electrical",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1459,
+        "question_id": 367,
+        "answer_text": "Battery",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1460,
+        "question_id": 367,
+        "answer_text": "Brake System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1461,
+        "question_id": 367,
+        "answer_text": "Steering System",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1458,
+        "question_id": 367,
+        "answer_text": "Electrical",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1459,
+        "question_id": 367,
+        "answer_text": "Battery",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1460,
+        "question_id": 367,
+        "answer_text": "Brake System",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1461,
+        "question_id": 367,
+        "answer_text": "Steering System",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 368,
+    "text": "What is the maximum presentation time during the Business Plan Presentation?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1462,
+        "question_id": 368,
+        "answer_text": "5 Minutes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1463,
+        "question_id": 368,
+        "answer_text": "12 Minutes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1464,
+        "question_id": 368,
+        "answer_text": "10 Minutes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1465,
+        "question_id": 368,
+        "answer_text": "There is none",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1462,
+        "question_id": 368,
+        "answer_text": "5 Minutes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1463,
+        "question_id": 368,
+        "answer_text": "12 Minutes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1464,
+        "question_id": 368,
+        "answer_text": "10 Minutes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1465,
+        "question_id": 368,
+        "answer_text": "There is none",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "question_id": 876,
+    "text": "Your team is designing a PCB for the Master AMS. The voltage measurement circuit for the precharge state determination uses TI AMC1311 Reinforced Isolated Amplifiers to ensure proper separation of Traction System and Low Voltage System.\\nThe mounting pads and traces are routed in such way that the manufacturer specified shortest pin-to-pin distances are not reduced in accordance with layout guidelines (figure 11-1 and LAND PATTERN EXAMPLE).\\n\\nReferences: AMC1311 datasheet (https://www.ti.com/lit/ds/symlink/amc1311.pdf)\\n\\nWhich of the listed below designs ensure compliance with the latest FS rules?\\n\\nMaximal TS Voltage: 564 [VDC]\\nAssumed geometrical position of the PCB cut-out: geometrical center located at the geometrical center of the PCB pads and with bigger dimension positioned as in the reference drawing below.\\nChoose all the correct answers.\\n(Please note: diagram uses a dot as a decimal separator)",
+    "type": "multi-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3256,
+        "question_id": 876,
+        "answer_text": "A. No cut-out and no conformal coating",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3257,
+        "question_id": 876,
+        "answer_text": "B. No cut-out and conformal coating",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3258,
+        "question_id": 876,
+        "answer_text": "C. Cut-out with dimensions a=20 [mm] b=1 [mm] and no conformal coating",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3259,
+        "question_id": 876,
+        "answer_text": "D. Cut-out with dimensions a=20 [mm] b=2 [mm] and conformal coating",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3260,
+        "question_id": 876,
+        "answer_text": "E. Cut-out with dimensions a=30 [mm] b=1 [mm] and no conformal coating",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3261,
+        "question_id": 876,
+        "answer_text": "F. Cut-out with dimensions a=30 [mm] b=2 [mm] and no conformal coating",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3262,
+        "question_id": 876,
+        "answer_text": "G. Cut-out with dimensions a=30 [mm] b=2 [mm] and conformal coating",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000876__img000274__876_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3256,
+        "question_id": 876,
+        "answer_text": "A. No cut-out and no conformal coating",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3257,
+        "question_id": 876,
+        "answer_text": "B. No cut-out and conformal coating",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3258,
+        "question_id": 876,
+        "answer_text": "C. Cut-out with dimensions a=20 [mm] b=1 [mm] and no conformal coating",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3259,
+        "question_id": 876,
+        "answer_text": "D. Cut-out with dimensions a=20 [mm] b=2 [mm] and conformal coating",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3260,
+        "question_id": 876,
+        "answer_text": "E. Cut-out with dimensions a=30 [mm] b=1 [mm] and no conformal coating",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3261,
+        "question_id": 876,
+        "answer_text": "F. Cut-out with dimensions a=30 [mm] b=2 [mm] and no conformal coating",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3262,
+        "question_id": 876,
+        "answer_text": "G. Cut-out with dimensions a=30 [mm] b=2 [mm] and conformal coating",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      93
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 877,
+    "text": "Your team is trying to optimize the cross section of the wires used for the High Voltage DC traction system. Every team member is pushing to minimize the total mass of the race car therefore the initial assumption is to check the possibility of using a wire with the following critical parameters (please see the table below).\\n\\nBased on the information above and the load profile calculate the temperature of the wire insulation material at the end of the profile (t = 42 [s])\\n\\nAssumptions:\\n- Wire to free air heat transfer defined for the purpose of simplification by one Heat Transfer Coefficient which is given in the question input data.\\n- Assume uniform heating in the copper wire.\\n- Do not take into account transient effects of conductive heat transfer within the insulation material and between the copper and insulation material.\\n- Omit from the calculations the influence of thermal contact resistance between copper and insulation material.\\n- Omit from the calculations the increase in copper resistivity with temperature rise.\\n- Omit from the calculations the influence of temperature on physical properties of the materials.\\n\\nAnswer format:\\nGive the answer in [°C]\\nUse comma separator\\nRound the result to 1 decimal place (n,n)\\n",
+    "type": "input-range",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3263,
+        "question_id": 877,
+        "answer_text": "36.3-36.7",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 199,
+        "question_id": 877,
+        "text": "Correct answer: 36.5 [°C] +/- 0.2 [°C]",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000877__img000275__877_1.jpg",
+      "images\\q000877__img000276__877_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3263,
+        "question_id": 877,
+        "answer_text": "36.3-36.7",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      93
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 883,
+    "text": "Your team need to conduct stress analysis of undertray. For that pressure distribution needs to be obtained, at vehicle maximum speed, which is: 108 [km/h].\\nTo obtain it your team needs to run CFD simulation at that maximum velocity. To save some time, you must estimate height of first boundary layer - so that the y  value is not higher than 1 for this element. From previous simulation, run at 15 [m/s], you know that this value (first boundary layer height) was equal to YA.\\nFor the estimation purposes some simplifications were taken:\\n- Undertray has a shape of infinitely wide Venturi like tunnel, with dimensions (at 15 [m/s]) given in the drawing.\\n- The flow is undisturbed and no detachments occur.\\n- Velocity at the beginning of the undertray has the same velocity as simulation velocity.\\n- Dynamic viscosity, Density, Skin friction coefficient are the same for both simulations\\n\\nThe vehicle lowering under the aerodynamic load will be taken into account. Calculate this lowering and round it to integer, knowing that:\\n- Air density is equal to 1,225 [kg/m^3]\\n- Vehicle lift coefficient is equal to -1,95 [-]\\n- Reference surface is equal to 2,8 [m^2]\\n- Aerodynamic balance is 40:60\\n- Car and driver weight is 275 [kg], and mass distribution is 60% rear\\n- Stiffness of two front springs is 30 [N/mm], and two rear springs is 45 [N/mm]\\n- Motion ratio is equal to 1 [-]\\n- Ignore tire deflection\\n- Do not re-compute new downforce value after vehicle has been lowered\\n\\nEstimate maximum first layer height, return value as a constant [-] of known value YA (YB = x * YA). So that new simulation’s (at 108 [km/h]) y  value was kept below or equal 1\\nAnswer format:\\nUse comma separator\\nRound x value to 4 decimal places (n,nnnn)\\n",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3285,
+        "question_id": 883,
+        "answer_text": "0,4000",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000883__img000280__883_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3285,
+        "question_id": 883,
+        "answer_text": "0,4000",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  },
+  {
+    "question_id": 884,
+    "text": "If the objective of your Business Plan Presentation is not your specific prototype vehicle or a specific component of it, your team will always receive 0 points from the BPP event.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3286,
+        "question_id": 884,
+        "answer_text": "True",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3287,
+        "question_id": 884,
+        "answer_text": "False",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3286,
+        "question_id": 884,
+        "answer_text": "True",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3287,
+        "question_id": 884,
+        "answer_text": "False",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      93,
+      94
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "events": [
+      "Formula Student Poland"
+    ]
+  }
+]

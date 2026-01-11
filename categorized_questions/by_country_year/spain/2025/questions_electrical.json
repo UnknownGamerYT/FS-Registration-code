@@ -1,0 +1,220 @@
+[
+  {
+    "question_id": 896,
+    "text": "Each of the circuits in the figure has been excited with a unit voltage step, V_in(t)=u(t), resulting in different temporal responses represented in the other figure. Match each circuit with a response:",
+    "type": "multi-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3523,
+        "question_id": 896,
+        "answer_text": "Circuit 1: Response A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3524,
+        "question_id": 896,
+        "answer_text": "Circuit 1: Response B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3525,
+        "question_id": 896,
+        "answer_text": "Circuit 1: Response C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3526,
+        "question_id": 896,
+        "answer_text": "Circuit 1: Response D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3527,
+        "question_id": 896,
+        "answer_text": "Circuit 2: Response A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3528,
+        "question_id": 896,
+        "answer_text": "Circuit 2: Response B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3529,
+        "question_id": 896,
+        "answer_text": "Circuit 2: Response C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3530,
+        "question_id": 896,
+        "answer_text": "Circuit 2: Response D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3531,
+        "question_id": 896,
+        "answer_text": "Circuit 3: Response A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3532,
+        "question_id": 896,
+        "answer_text": "Circuit 3: Response B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3533,
+        "question_id": 896,
+        "answer_text": "Circuit 3: Response C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3534,
+        "question_id": 896,
+        "answer_text": "Circuit 3: Response D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3535,
+        "question_id": 896,
+        "answer_text": "Circuit 4: Response A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3536,
+        "question_id": 896,
+        "answer_text": "Circuit 4: Response B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3537,
+        "question_id": 896,
+        "answer_text": "Circuit 4: Response C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3538,
+        "question_id": 896,
+        "answer_text": "Circuit 4: Response D",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000896__img000283__896_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3523,
+        "question_id": 896,
+        "answer_text": "Circuit 1: Response A",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3524,
+        "question_id": 896,
+        "answer_text": "Circuit 1: Response B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3525,
+        "question_id": 896,
+        "answer_text": "Circuit 1: Response C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3526,
+        "question_id": 896,
+        "answer_text": "Circuit 1: Response D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3527,
+        "question_id": 896,
+        "answer_text": "Circuit 2: Response A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3528,
+        "question_id": 896,
+        "answer_text": "Circuit 2: Response B",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3529,
+        "question_id": 896,
+        "answer_text": "Circuit 2: Response C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3530,
+        "question_id": 896,
+        "answer_text": "Circuit 2: Response D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3531,
+        "question_id": 896,
+        "answer_text": "Circuit 3: Response A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3532,
+        "question_id": 896,
+        "answer_text": "Circuit 3: Response B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3533,
+        "question_id": 896,
+        "answer_text": "Circuit 3: Response C",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3534,
+        "question_id": 896,
+        "answer_text": "Circuit 3: Response D",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3535,
+        "question_id": 896,
+        "answer_text": "Circuit 4: Response A",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3536,
+        "question_id": 896,
+        "answer_text": "Circuit 4: Response B",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3537,
+        "question_id": 896,
+        "answer_text": "Circuit 4: Response C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3538,
+        "question_id": 896,
+        "answer_text": "Circuit 4: Response D",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  }
+]

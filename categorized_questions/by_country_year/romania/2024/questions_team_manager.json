@@ -1,0 +1,566 @@
+[
+  {
+    "question_id": 725,
+    "text": "You are at the FSBk after-party, and you want to win the mechanical advantage competition.Mechanical advantage.\\n Use as many team members as you consider bringing the lever to equilibrium.\\n CW (car weight) = 275.5 kg\\n X = 1.1216 m\\n L = 2 m\\n You've decided to use two team members, TM1 = 71.3 kg ; TM2 = 78.6kg.\\n Rules of the game:\\n- the lever needs to be in equilibrium (level with the ground)\\n- you can lose weight (murder, and dismemberment are prohibited)\\n - you can gain weight only by drinking beer 1l=1kg\\n - you can have a beer 0.7kg in hand while on the lever\\n Knowing the above-mentioned, TM1 can drink 1.9 l/h; TM2 can drink 2.4 l/h, being a competition, they need to drink fast.\\n How much weight do they need to gain/lose in the shortest time possible to bring the lever in equilibrium?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2720,
+        "question_id": 725,
+        "answer_text": "Gain 3.2kg – 44min39sec",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2721,
+        "question_id": 725,
+        "answer_text": "Gain 2.3kg – 41min41sec",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2722,
+        "question_id": 725,
+        "answer_text": "Loose 2.3kg – 45min47sec",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2723,
+        "question_id": 725,
+        "answer_text": "Gain 3.2kg – 32min32sec",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000725__img000198__725_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2720,
+        "question_id": 725,
+        "answer_text": "Gain 3.2kg – 44min39sec",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2721,
+        "question_id": 725,
+        "answer_text": "Gain 2.3kg – 41min41sec",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2722,
+        "question_id": 725,
+        "answer_text": "Loose 2.3kg – 45min47sec",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2723,
+        "question_id": 725,
+        "answer_text": "Gain 3.2kg – 32min32sec",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 727,
+    "text": "For whatever reason you did not write down your tire pressure when you run endurance at your previous formula student event, and now at FSBk you have the same meteorological conditions, clouds, 17˚C and an atmospheric pressure of 735mmHg. Luckily you have the data logger from last year, but you only have the last values saved, absolute tire pressure 2.2bar and a temperature in your tire of 42˚C. Calculate the pressure that your team must inflate in your tires before endurance. (neglect the expansion of the air volume in the tire and the total volume of the air inside the tire is 0.01 m3).",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2728,
+        "question_id": 727,
+        "answer_text": "0.45 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2729,
+        "question_id": 727,
+        "answer_text": "0.50 bar",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2730,
+        "question_id": 727,
+        "answer_text": "0.55 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2731,
+        "question_id": 727,
+        "answer_text": "0.60 bar",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2728,
+        "question_id": 727,
+        "answer_text": "0.45 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2729,
+        "question_id": 727,
+        "answer_text": "0.50 bar",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2730,
+        "question_id": 727,
+        "answer_text": "0.55 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2731,
+        "question_id": 727,
+        "answer_text": "0.60 bar",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 728,
+    "text": "Due to a huge thunderstorm the business presentation finals were rescheduled by 1 day overlapping the engineering design event finals, your team is qualified for both engineering design and business presentation finals, what is minimum number of points that you can get in the business presentation finals if only 1 person presents the business presentation instead of 2?\\n (answer format round to nearest decimal eg:12.34)",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2732,
+        "question_id": 728,
+        "answer_text": "71.00",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2732,
+        "question_id": 728,
+        "answer_text": "71.00",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 733,
+    "text": "Your team is running in FSBk CV class with a pneumatic shifter, and today it’s a hot summer day in Romania, with temperatures of 40°C and 750 mmHg, thus you must determine how many shifts you may have during endurance. Knowing that the gas bottle has a pressure inside of 115 bar with a total volume of 0.6 L and for one gear shift you measured the volume of air expelled into the atmosphere and you got 500 mL.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2743,
+        "question_id": 733,
+        "answer_text": "181",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2744,
+        "question_id": 733,
+        "answer_text": "138",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2745,
+        "question_id": 733,
+        "answer_text": "338",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2746,
+        "question_id": 733,
+        "answer_text": "227",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2743,
+        "question_id": 733,
+        "answer_text": "181",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2744,
+        "question_id": 733,
+        "answer_text": "138",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2745,
+        "question_id": 733,
+        "answer_text": "338",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2746,
+        "question_id": 733,
+        "answer_text": "227",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 739,
+    "text": "Team A, B, C and D finished autocross. Team A has a clean run with 59.4 seconds, team B has 3 cones down with a best time of 55.1 seconds and team C has 1 cone down with a best time of 58.5 seconds and team D has a clean run with 1min15.2 seconds.\\n How many points should team B and D get for the autocross event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2764,
+        "question_id": 739,
+        "answer_text": "Team B = 86.7 and Team D = 5",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2765,
+        "question_id": 739,
+        "answer_text": "Team B = 88.7 and Team D = 31.3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2766,
+        "question_id": 739,
+        "answer_text": "Team B = 86.7 and Team D = 6.3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2767,
+        "question_id": 739,
+        "answer_text": "Team B = 88.7 and Team D = 1.3",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2764,
+        "question_id": 739,
+        "answer_text": "Team B = 86.7 and Team D = 5",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2765,
+        "question_id": 739,
+        "answer_text": "Team B = 88.7 and Team D = 31.3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2766,
+        "question_id": 739,
+        "answer_text": "Team B = 86.7 and Team D = 6.3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2767,
+        "question_id": 739,
+        "answer_text": "Team B = 88.7 and Team D = 1.3",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 740,
+    "text": "The following cars finished the endurance with the given times and amount of fuel/energy units:\\n Car 225 time 19:20.53 and used 4.68 liters of E85 fuel.\\n Car 311 time 20.21.52 and used 3.28 liters of RON 98 fuel.\\n Car E11 time of 18:20.45 and used 4200 units of energy.\\n Car E27 time of 18:47.53 and used 4525 units of energy.\\n Chose the number of points for efficiency that each team gets:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2768,
+        "question_id": 740,
+        "answer_text": "Car 225 - 75 points, Car 311- 57.22 points, Car E11 - 75 points, Car E27 -56.22 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2769,
+        "question_id": 740,
+        "answer_text": "Car 225 - 75 points, Car 311 - 56.11 points, Car E11 - 75 points, Car E27 - 55.36 points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2770,
+        "question_id": 740,
+        "answer_text": "Car 225 -75 points, Car 311- 55.75 points, Car E11 - 75 points, Car E27 - 54.85 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2771,
+        "question_id": 740,
+        "answer_text": "Car 225 - 56.22 points, Car 311 - 75 points, Car E11 - 65.72 points, Car E27 - 75 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2772,
+        "question_id": 740,
+        "answer_text": "Car 225 - 54.25 points, Car 311 -75 points, Car E11 -56.11 points, Car E 27- 75 points",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2768,
+        "question_id": 740,
+        "answer_text": "Car 225 - 75 points, Car 311- 57.22 points, Car E11 - 75 points, Car E27 -56.22 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2769,
+        "question_id": 740,
+        "answer_text": "Car 225 - 75 points, Car 311 - 56.11 points, Car E11 - 75 points, Car E27 - 55.36 points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2770,
+        "question_id": 740,
+        "answer_text": "Car 225 -75 points, Car 311- 55.75 points, Car E11 - 75 points, Car E27 - 54.85 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2771,
+        "question_id": 740,
+        "answer_text": "Car 225 - 56.22 points, Car 311 - 75 points, Car E11 - 65.72 points, Car E27 - 75 points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2772,
+        "question_id": 740,
+        "answer_text": "Car 225 - 54.25 points, Car 311 -75 points, Car E11 -56.11 points, Car E 27- 75 points",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 742,
+    "text": "Before the endurance it rained quite badly, the track conditions were set to wet, after the endurance started and the cars started to spread the water, later the track conditions changed to damp. Later it started to rain again, and the conditions of the track changed to wet, and after a while the rain stopped and the track started to dry slowly. So, your team started the endurance event with wet tires on a damp track. The track surface is drying fast, and your telemetry shows that the tires are overheating. The officials did not announce any changes in the track condition.What can you do?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2777,
+        "question_id": 742,
+        "answer_text": "Make a separate pit stop in the driver change area and change to a new set of wet tires for the remaining laps. The pit stop time is added to the overall time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2778,
+        "question_id": 742,
+        "answer_text": "You may change to dry tires during the driver change. The pit stop time is not added to overall time if you manage to get it under 13 minutes.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2779,
+        "question_id": 742,
+        "answer_text": "You must not change the tires. You can try driving off the ideal race line within the track boundaries to cool down the tires.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2780,
+        "question_id": 742,
+        "answer_text": "Make a separate pit stop in the driver change area and change to dry tires. The pit stop time is added to the overall time.",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2777,
+        "question_id": 742,
+        "answer_text": "Make a separate pit stop in the driver change area and change to a new set of wet tires for the remaining laps. The pit stop time is added to the overall time.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2778,
+        "question_id": 742,
+        "answer_text": "You may change to dry tires during the driver change. The pit stop time is not added to overall time if you manage to get it under 13 minutes.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2779,
+        "question_id": 742,
+        "answer_text": "You must not change the tires. You can try driving off the ideal race line within the track boundaries to cool down the tires.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2780,
+        "question_id": 742,
+        "answer_text": "Make a separate pit stop in the driver change area and change to dry tires. The pit stop time is added to the overall time.",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 744,
+    "text": "You are a provider of E85 for the formula student Balkans competition. You must provide E85 fuel for 20 teams for the 2024 event. Knowing that one team uses 16 liters of E85 for the whole event (practice included). You decide to make it in the Balkan way, so how many kg of fruits you must collect in order to obtain the required amount of E85 fuel, knowing that from 25kg of fruits (plums, bananas, apricots, etc.) you get around of 8 liters of pure ethanol. You will also have to find how many barrels of 50kg do you need to deposit the fruits.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2785,
+        "question_id": 744,
+        "answer_text": "850kg of fruits; 17 barrels",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2786,
+        "question_id": 744,
+        "answer_text": "800kg of fruits; 17 barrels",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2787,
+        "question_id": 744,
+        "answer_text": "900kg of fruits; 18 barrels",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2788,
+        "question_id": 744,
+        "answer_text": "950kg of fruits; 18 barrels",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000744__img000201__744_4.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2785,
+        "question_id": 744,
+        "answer_text": "850kg of fruits; 17 barrels",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2786,
+        "question_id": 744,
+        "answer_text": "800kg of fruits; 17 barrels",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2787,
+        "question_id": 744,
+        "answer_text": "900kg of fruits; 18 barrels",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2788,
+        "question_id": 744,
+        "answer_text": "950kg of fruits; 18 barrels",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  }
+]

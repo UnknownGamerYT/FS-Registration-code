@@ -1,0 +1,146 @@
+[
+  {
+    "question_id": 319,
+    "text": "You need to set up a Timer to make sure that the bus voltage is stabilized after turning on a DC/DC converter. It is required to wait 900 ms. Your Timer peripheral is running on 80 MHz clock and you are using a prescaler value of 2 for your specific counter module. What is the value you need to write to the auto-reload register (ARR)? The Timer is counting up from 0 to the value written to the ARR.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1269,
+        "question_id": 319,
+        "answer_text": "71 000 000 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1270,
+        "question_id": 319,
+        "answer_text": "12 600 000 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1271,
+        "question_id": 319,
+        "answer_text": "36 000 000  ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1272,
+        "question_id": 319,
+        "answer_text": "87 500 000 ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1269,
+        "question_id": 319,
+        "answer_text": "71 000 000 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1270,
+        "question_id": 319,
+        "answer_text": "12 600 000 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1271,
+        "question_id": 319,
+        "answer_text": "36 000 000  ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1272,
+        "question_id": 319,
+        "answer_text": "87 500 000 ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 322,
+    "text": "You are evaluating a new electric FS car concept. You are expecting an acceleration result of 3.75 seconds. How many points would you have received at the FSeast 2016 event, using the current point system?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 1281,
+        "question_id": 322,
+        "answer_text": "70,1 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1282,
+        "question_id": 322,
+        "answer_text": "75",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1283,
+        "question_id": 322,
+        "answer_text": "3,5 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1284,
+        "question_id": 322,
+        "answer_text": "71,8",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1281,
+        "question_id": 322,
+        "answer_text": "70,1 ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1282,
+        "question_id": 322,
+        "answer_text": "75",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1283,
+        "question_id": 322,
+        "answer_text": "3,5 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1284,
+        "question_id": 322,
+        "answer_text": "71,8",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

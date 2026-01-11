@@ -1,0 +1,158 @@
+[
+  {
+    "question_id": 58,
+    "text": "Why do fuses usually have lower voltage ratings for DC than for AC?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 244,
+        "question_id": 58,
+        "answer_text": "Because with AC, arcs in the fuse are extinguished at the first zero-crossing of the AC waveform",
+        "is_correct": false
+      },
+      {
+        "answer_id": 245,
+        "question_id": 58,
+        "answer_text": "Because DC voltage is more dangerous and requires more insulation",
+        "is_correct": false
+      },
+      {
+        "answer_id": 246,
+        "question_id": 58,
+        "answer_text": "Because of the non-alternating current, DC current exerts one-sided strain on the fuse",
+        "is_correct": false
+      },
+      {
+        "answer_id": 247,
+        "question_id": 58,
+        "answer_text": "Because the root mean square of the voltage counts and that is lower for DC",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 244,
+        "question_id": 58,
+        "answer_text": "Because with AC, arcs in the fuse are extinguished at the first zero-crossing of the AC waveform",
+        "is_correct": false
+      },
+      {
+        "answer_id": 245,
+        "question_id": 58,
+        "answer_text": "Because DC voltage is more dangerous and requires more insulation",
+        "is_correct": false
+      },
+      {
+        "answer_id": 246,
+        "question_id": 58,
+        "answer_text": "Because of the non-alternating current, DC current exerts one-sided strain on the fuse",
+        "is_correct": false
+      },
+      {
+        "answer_id": 247,
+        "question_id": 58,
+        "answer_text": "Because the root mean square of the voltage counts and that is lower for DC",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 60,
+    "text": "Which charging strategy should be used for a Li-Ion accumulator?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 252,
+        "question_id": 60,
+        "answer_text": "Constant Voltage",
+        "is_correct": false
+      },
+      {
+        "answer_id": 253,
+        "question_id": 60,
+        "answer_text": "Delta-T",
+        "is_correct": false
+      },
+      {
+        "answer_id": 254,
+        "question_id": 60,
+        "answer_text": "Delta-Peak",
+        "is_correct": false
+      },
+      {
+        "answer_id": 255,
+        "question_id": 60,
+        "answer_text": "Pulse Charge",
+        "is_correct": false
+      },
+      {
+        "answer_id": 256,
+        "question_id": 60,
+        "answer_text": "CC-CV",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 252,
+        "question_id": 60,
+        "answer_text": "Constant Voltage",
+        "is_correct": false
+      },
+      {
+        "answer_id": 253,
+        "question_id": 60,
+        "answer_text": "Delta-T",
+        "is_correct": false
+      },
+      {
+        "answer_id": 254,
+        "question_id": 60,
+        "answer_text": "Delta-Peak",
+        "is_correct": false
+      },
+      {
+        "answer_id": 255,
+        "question_id": 60,
+        "answer_text": "Pulse Charge",
+        "is_correct": false
+      },
+      {
+        "answer_id": 256,
+        "question_id": 60,
+        "answer_text": "CC-CV",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

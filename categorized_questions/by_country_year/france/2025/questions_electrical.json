@@ -1,0 +1,87 @@
+[
+  {
+    "question_id": 912,
+    "text": "Calculate the maximum power you can draw from your low-volatage battery. Your battery has an open-circuit-voltage of 12 V and an internal resistance of 20 mOhm. (Assume a constant ohmic load)",
+    "type": "single-choice",
+    "time": 150,
+    "answer_options": [
+      {
+        "answer_id": 3403,
+        "question_id": 912,
+        "answer_text": "600 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3404,
+        "question_id": 912,
+        "answer_text": "7200 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3405,
+        "question_id": 912,
+        "answer_text": "1800 W",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3406,
+        "question_id": 912,
+        "answer_text": "3600 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3407,
+        "question_id": 912,
+        "answer_text": "240 W",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3403,
+        "question_id": 912,
+        "answer_text": "600 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3404,
+        "question_id": 912,
+        "answer_text": "7200 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3405,
+        "question_id": 912,
+        "answer_text": "1800 W",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3406,
+        "question_id": 912,
+        "answer_text": "3600 W",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3407,
+        "question_id": 912,
+        "answer_text": "240 W",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
+    ]
+  }
+]

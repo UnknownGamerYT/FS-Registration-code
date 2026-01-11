@@ -1,0 +1,174 @@
+[
+  {
+    "question_id": 100,
+    "text": "What is true about the AIRs (Accumulator Isolation Relays)?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 381,
+        "question_id": 100,
+        "answer_text": "What is true about the AIRs (Accumulator Isolation Relays)?",
+        "is_correct": false
+      },
+      {
+        "answer_id": 382,
+        "question_id": 100,
+        "answer_text": "only normally closed (N/C) types are allowed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 383,
+        "question_id": 100,
+        "answer_text": "when multiple accumulator containers in series configuration are used, only the last one in the chain has to have AIRs\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 384,
+        "question_id": 100,
+        "answer_text": "you may either use one DPST or two SPST type relais",
+        "is_correct": true
+      },
+      {
+        "answer_id": 385,
+        "question_id": 100,
+        "answer_text": "you may use a capacitor to delay the closing of the AIRs if the coil circuit is opened",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 26,
+        "question_id": 100,
+        "text": "EV 5.6.3",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 381,
+        "question_id": 100,
+        "answer_text": "What is true about the AIRs (Accumulator Isolation Relays)?",
+        "is_correct": false
+      },
+      {
+        "answer_id": 382,
+        "question_id": 100,
+        "answer_text": "only normally closed (N/C) types are allowed",
+        "is_correct": false
+      },
+      {
+        "answer_id": 383,
+        "question_id": 100,
+        "answer_text": "when multiple accumulator containers in series configuration are used, only the last one in the chain has to have AIRs\r\n",
+        "is_correct": false
+      },
+      {
+        "answer_id": 384,
+        "question_id": 100,
+        "answer_text": "you may either use one DPST or two SPST type relais",
+        "is_correct": true
+      },
+      {
+        "answer_id": 385,
+        "question_id": 100,
+        "answer_text": "you may use a capacitor to delay the closing of the AIRs if the coil circuit is opened",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  },
+  {
+    "question_id": 102,
+    "text": "You decide to use a geartrain to connect your motor to your rear axle.Using the constraints below, calculate the minimum number of gear stages (n) needed to accomplish this. Top speed should be reached in final gear at max. RPM.\nimax (per stage) = 6\nvmax = 160 kph\nnmax = 20000 rpm\nwheel diameter = 15 inch",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 390,
+        "question_id": 102,
+        "answer_text": "n=4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 391,
+        "question_id": 102,
+        "answer_text": "n=3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 392,
+        "question_id": 102,
+        "answer_text": "n=2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 393,
+        "question_id": 102,
+        "answer_text": "n=1",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 27,
+        "question_id": 102,
+        "text": "Vmax= 160/3.6=44.4m/s\r\nNmax=20000*2π/60=2094.4 rad/s\r\nDiawheel=0.381\r\nNwheel=44.4/0.381=116.6\r\nI=Nout/Nin=6\r\n2094.4/6=349.1\r\n349.1/6=58.18<116.6 √",
+        "images": []
+      }
+    ],
+    "question_images": [
+      "images\\q000102__img000028__102_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 390,
+        "question_id": 102,
+        "answer_text": "n=4",
+        "is_correct": false
+      },
+      {
+        "answer_id": 391,
+        "question_id": 102,
+        "answer_text": "n=3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 392,
+        "question_id": 102,
+        "answer_text": "n=2",
+        "is_correct": true
+      },
+      {
+        "answer_id": 393,
+        "question_id": 102,
+        "answer_text": "n=1",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "question_id": 215,
+    "text": "What is the steady-state output value of a PI controller for a non-zero DC input signal?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 843,
+        "question_id": 215,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 844,
+        "question_id": 215,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 845,
+        "question_id": 215,
+        "answer_text": "Infinite  ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 846,
+        "question_id": 215,
+        "answer_text": "e​",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 843,
+        "question_id": 215,
+        "answer_text": "0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 844,
+        "question_id": 215,
+        "answer_text": "1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 845,
+        "question_id": 215,
+        "answer_text": "Infinite  ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 846,
+        "question_id": 215,
+        "answer_text": "e​",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 217,
+    "text": "When the velocity of the vehicle is 126[km/h], the normal load on the tyre contact surface is double compared to load when it stands (v=0). Calculate the drag force acting on the vehicle at this velocity if its lift-to-drag ratio is 2,35[-] and its mass is 250[kg] (g=9,81[m/s^2])",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 851,
+        "question_id": 217,
+        "answer_text": "2087,3 [N]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 852,
+        "question_id": 217,
+        "answer_text": "503,8 [N]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 853,
+        "question_id": 217,
+        "answer_text": "​1043,6 [N]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 854,
+        "question_id": 217,
+        "answer_text": "763,6 [N]",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 851,
+        "question_id": 217,
+        "answer_text": "2087,3 [N]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 852,
+        "question_id": 217,
+        "answer_text": "503,8 [N]",
+        "is_correct": false
+      },
+      {
+        "answer_id": 853,
+        "question_id": 217,
+        "answer_text": "​1043,6 [N]",
+        "is_correct": true
+      },
+      {
+        "answer_id": 854,
+        "question_id": 217,
+        "answer_text": "763,6 [N]",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 218,
+    "text": "Which of the following CAN 2.0A messages have the highest priority (there are no stuffed bits or leading zeros and the frame ends after the data part, their data length may varies)?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 855,
+        "question_id": 218,
+        "answer_text": "0x301825B5A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 856,
+        "question_id": 218,
+        "answer_text": "0x303442569 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 857,
+        "question_id": 218,
+        "answer_text": "0x2B0185",
+        "is_correct": false
+      },
+      {
+        "answer_id": 858,
+        "question_id": 218,
+        "answer_text": "​0x1C103E9F5FC",
+        "is_correct": true
+      },
+      {
+        "answer_id": 859,
+        "question_id": 218,
+        "answer_text": "0xD102E5ED",
+        "is_correct": false
+      },
+      {
+        "answer_id": 860,
+        "question_id": 218,
+        "answer_text": "0x3083698C2F ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 855,
+        "question_id": 218,
+        "answer_text": "0x301825B5A ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 856,
+        "question_id": 218,
+        "answer_text": "0x303442569 ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 857,
+        "question_id": 218,
+        "answer_text": "0x2B0185",
+        "is_correct": false
+      },
+      {
+        "answer_id": 858,
+        "question_id": 218,
+        "answer_text": "​0x1C103E9F5FC",
+        "is_correct": true
+      },
+      {
+        "answer_id": 859,
+        "question_id": 218,
+        "answer_text": "0xD102E5ED",
+        "is_correct": false
+      },
+      {
+        "answer_id": 860,
+        "question_id": 218,
+        "answer_text": "0x3083698C2F ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 219,
+    "text": "In which currency must the costs be displayed in the CBOM?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 861,
+        "question_id": 219,
+        "answer_text": "EUR (Euro)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 862,
+        "question_id": 219,
+        "answer_text": "​​USD (US Dollar)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 863,
+        "question_id": 219,
+        "answer_text": "​HUF (Hungarian Forint)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 864,
+        "question_id": 219,
+        "answer_text": "In the team’s national currency",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 861,
+        "question_id": 219,
+        "answer_text": "EUR (Euro)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 862,
+        "question_id": 219,
+        "answer_text": "​​USD (US Dollar)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 863,
+        "question_id": 219,
+        "answer_text": "​HUF (Hungarian Forint)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 864,
+        "question_id": 219,
+        "answer_text": "In the team’s national currency",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 224,
+    "text": "There is a wire with R resistance. After the wire is evenly streched to double length, what is the new resistance?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 881,
+        "question_id": 224,
+        "answer_text": "R/2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 882,
+        "question_id": 224,
+        "answer_text": "​2R",
+        "is_correct": false
+      },
+      {
+        "answer_id": 883,
+        "question_id": 224,
+        "answer_text": "4R",
+        "is_correct": true
+      },
+      {
+        "answer_id": 884,
+        "question_id": 224,
+        "answer_text": "R",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 44,
+        "question_id": 224,
+        "text": "​R=rho*(l/A)",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 881,
+        "question_id": 224,
+        "answer_text": "R/2",
+        "is_correct": false
+      },
+      {
+        "answer_id": 882,
+        "question_id": 224,
+        "answer_text": "​2R",
+        "is_correct": false
+      },
+      {
+        "answer_id": 883,
+        "question_id": 224,
+        "answer_text": "4R",
+        "is_correct": true
+      },
+      {
+        "answer_id": 884,
+        "question_id": 224,
+        "answer_text": "R",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

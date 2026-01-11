@@ -1,0 +1,43 @@
+[
+  {
+    "question_id": 632,
+    "text": "You want to calculate the laminate of your front bulkhead when designing your monocoque.\\n What is the minimum shear strength required?\\n Re= 235 MPa; Rm= 350 MPa; τ= 280\\n Write the answer in N. Round to the nearest whole number.",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2400,
+        "question_id": 632,
+        "answer_text": "32987",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2400,
+        "question_id": 632,
+        "answer_text": "32987",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      61,
+      103,
+      104
+    ],
+    "years": [
+      "2023",
+      "2025"
+    ],
+    "countries": [
+      "Croatia",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Alpe Adria",
+      "Formula Student Türkiye"
+    ]
+  }
+]

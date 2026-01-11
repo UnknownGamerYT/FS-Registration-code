@@ -1,0 +1,90 @@
+[
+  {
+    "question_id": 459,
+    "text": "The campground operator has developed a new business model and offers firewood for sale to the teams. Some teams accept the offer and have firewood delivered for their pools and sauna. To deliver the firewood, he has mounted a platform on the rear of his tractor and a counter weight on the front (see sketch).\\n While the campsite operator is delivering the firewood with his rear wheel driven tractor, he is challenged by some team members to do a wheelie.\\n What is the highest gear in which a wheelie is still possible?\\n Neglect rolling and air resistance as well as roational inertia for your calculations.",
+    "type": "single-choice",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 1828,
+        "question_id": 459,
+        "answer_text": "1st gear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1829,
+        "question_id": 459,
+        "answer_text": "2nd gear",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1830,
+        "question_id": 459,
+        "answer_text": "3rd gear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1831,
+        "question_id": 459,
+        "answer_text": "4th gear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1832,
+        "question_id": 459,
+        "answer_text": "it is not possible to do a wheelie in this configuration",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000459__img000116__459_1.jpg",
+      "images\\q000459__img000117__459_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1828,
+        "question_id": 459,
+        "answer_text": "1st gear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1829,
+        "question_id": 459,
+        "answer_text": "2nd gear",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1830,
+        "question_id": 459,
+        "answer_text": "3rd gear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1831,
+        "question_id": 459,
+        "answer_text": "4th gear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1832,
+        "question_id": 459,
+        "answer_text": "it is not possible to do a wheelie in this configuration",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      44,
+      43
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

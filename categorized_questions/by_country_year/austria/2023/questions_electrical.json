@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": 662,
+    "text": "Tractive System Accumulator Container: What is true regarding the requirements of the Tractive System Accumulator Container (TSAC)?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 2500,
+        "question_id": 662,
+        "answer_text": "If the TSAC lid is used to hold the cell stacks in place, it is not sufficient to show equivalency to the requirements in EV 5.5.4, but further calculations have to be made in order to show compliance",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2501,
+        "question_id": 662,
+        "answer_text": "For any TSAC made using sandwich materials, a seperate grounded aluminium layer must be included",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2502,
+        "question_id": 662,
+        "answer_text": "If located in front of the front roll hoop, it may alternatively be shielded from collisions by the front bulkhead support structure according to T 3.14.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2503,
+        "question_id": 662,
+        "answer_text": "It must be made of fire-resistand materials, which when tested according to the UL 94 V test procedure are allowed to drip flaming particles that ignite the cotton below the test sample",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2500,
+        "question_id": 662,
+        "answer_text": "If the TSAC lid is used to hold the cell stacks in place, it is not sufficient to show equivalency to the requirements in EV 5.5.4, but further calculations have to be made in order to show compliance",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2501,
+        "question_id": 662,
+        "answer_text": "For any TSAC made using sandwich materials, a seperate grounded aluminium layer must be included",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2502,
+        "question_id": 662,
+        "answer_text": "If located in front of the front roll hoop, it may alternatively be shielded from collisions by the front bulkhead support structure according to T 3.14.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2503,
+        "question_id": 662,
+        "answer_text": "It must be made of fire-resistand materials, which when tested according to the UL 94 V test procedure are allowed to drip flaming particles that ignite the cotton below the test sample",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      63
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
+    ]
+  }
+]

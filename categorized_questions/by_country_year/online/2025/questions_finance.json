@@ -1,0 +1,50 @@
+[
+  {
+    "question_id": 868,
+    "text": "Simple question to get started:\nFrad the FSG Racing Alpaca tries his hand at the acceleration event. As hopefully everyone knows, alpacas have a maximum speed of 56km/h and an acceleration of 4 m/s². Ignore grip, air resistance and downforce.\nWhat time does Frad set?\n\nRound to two decimal places.\nAnswer in seconds.\nExample answer: 1.23",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 3229,
+        "question_id": 868,
+        "answer_text": "6.77",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 193,
+        "question_id": 868,
+        "text": null,
+        "images": [
+          {
+            "img_id": 266,
+            "path": "solutions/868_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3229,
+        "question_id": 868,
+        "answer_text": "6.77",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
+    ]
+  }
+]

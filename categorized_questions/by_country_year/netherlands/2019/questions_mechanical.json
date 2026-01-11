@@ -1,0 +1,784 @@
+[
+  {
+    "question_id": 1,
+    "text": "What will Young's Modulus be for a 20 mm square bar and with a length of 600mm when it lengthens by 0.5 mm under a load of 45 kN?    ",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 1,
+        "question_id": 1,
+        "answer_text": "135 GPa",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2,
+        "question_id": 1,
+        "answer_text": "180 GPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3,
+        "question_id": 1,
+        "answer_text": "220 GPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 4,
+        "question_id": 1,
+        "answer_text": "280 GPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 5,
+        "question_id": 1,
+        "answer_text": "315 GPa",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1,
+        "question_id": 1,
+        "answer_text": "135 GPa",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2,
+        "question_id": 1,
+        "answer_text": "180 GPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3,
+        "question_id": 1,
+        "answer_text": "220 GPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 4,
+        "question_id": 1,
+        "answer_text": "280 GPa",
+        "is_correct": false
+      },
+      {
+        "answer_id": 5,
+        "question_id": 1,
+        "answer_text": "315 GPa",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 2,
+    "text": "What is the maximum vertical distance allowed between the lowest part of the front hoop and the lowest part of the diagonal bracing in the front bulkhead support when the diagonal bracing is attached at the top at the FBH?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 6,
+        "question_id": 2,
+        "answer_text": "0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 7,
+        "question_id": 2,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 8,
+        "question_id": 2,
+        "answer_text": "50 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 9,
+        "question_id": 2,
+        "answer_text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 10,
+        "question_id": 2,
+        "answer_text": "100 mm",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 6,
+        "question_id": 2,
+        "answer_text": "0 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 7,
+        "question_id": 2,
+        "answer_text": "25 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 8,
+        "question_id": 2,
+        "answer_text": "50 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 9,
+        "question_id": 2,
+        "answer_text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 10,
+        "question_id": 2,
+        "answer_text": "100 mm",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2,
+      71
+    ],
+    "years": [
+      "2019",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Czech Republic"
+    ]
+  },
+  {
+    "question_id": 6,
+    "text": "Is the use of nylon lock nuts allowed in the in-wheel assembly of your vehicle at FSN2020?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 24,
+        "question_id": 6,
+        "answer_text": "Yes, if a minimum of three full threads project from the lock nut",
+        "is_correct": false
+      },
+      {
+        "answer_id": 25,
+        "question_id": 6,
+        "answer_text": "Yes, if the distance between brake components and the lock nuts is at least 50 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 26,
+        "question_id": 6,
+        "answer_text": "Yes, but only to fasten the brake components",
+        "is_correct": false
+      },
+      {
+        "answer_id": 27,
+        "question_id": 6,
+        "answer_text": "No",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 24,
+        "question_id": 6,
+        "answer_text": "Yes, if a minimum of three full threads project from the lock nut",
+        "is_correct": false
+      },
+      {
+        "answer_id": 25,
+        "question_id": 6,
+        "answer_text": "Yes, if the distance between brake components and the lock nuts is at least 50 mm",
+        "is_correct": true
+      },
+      {
+        "answer_id": 26,
+        "question_id": 6,
+        "answer_text": "Yes, but only to fasten the brake components",
+        "is_correct": false
+      },
+      {
+        "answer_id": 27,
+        "question_id": 6,
+        "answer_text": "No",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 7,
+    "text": "During the brake test, your driver fails to lock the wheels, but the vehicle comes to a complete stop.\r\nAfter analyzing the results you have the following data: Vehicle speed before braking point: 54 km/h Distance between braking point and complete stop: 15 m, Time between braking point and complete stop: 2s\r\nResultant force during braking: 1350 N What is the mass of your vehicle?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 28,
+        "question_id": 7,
+        "answer_text": "160 kg ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 29,
+        "question_id": 7,
+        "answer_text": "180 kg ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 30,
+        "question_id": 7,
+        "answer_text": "200 kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 31,
+        "question_id": 7,
+        "answer_text": "220 kg",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 28,
+        "question_id": 7,
+        "answer_text": "160 kg ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 29,
+        "question_id": 7,
+        "answer_text": "180 kg ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 30,
+        "question_id": 7,
+        "answer_text": "200 kg",
+        "is_correct": false
+      },
+      {
+        "answer_id": 31,
+        "question_id": 7,
+        "answer_text": "220 kg",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 9,
+    "text": "To save weight, you have decided to replace the steel brackets for the brake pedal mounting for new aluminum ones. Is this allowed by the rules?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 36,
+        "question_id": 9,
+        "answer_text": "Yes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 37,
+        "question_id": 9,
+        "answer_text": "Yes, but only if the new brackets are machined ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 38,
+        "question_id": 9,
+        "answer_text": "No, only steel is allowed for these brackets ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 39,
+        "question_id": 9,
+        "answer_text": "No, only titanium is allowed for these brackets",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 36,
+        "question_id": 9,
+        "answer_text": "Yes",
+        "is_correct": true
+      },
+      {
+        "answer_id": 37,
+        "question_id": 9,
+        "answer_text": "Yes, but only if the new brackets are machined ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 38,
+        "question_id": 9,
+        "answer_text": "No, only steel is allowed for these brackets ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 39,
+        "question_id": 9,
+        "answer_text": "No, only titanium is allowed for these brackets",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 10,
+    "text": "A heat pump works with a pump of 150W and is adding heat to a hot reservoir with a rate of 1000J/s. If that heat pump was used for cooling what would its coeffiency of cooling be? \r\nAssume everything works ideally under perfect conditions.",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 40,
+        "question_id": 10,
+        "answer_text": "0.176",
+        "is_correct": false
+      },
+      {
+        "answer_id": 41,
+        "question_id": 10,
+        "answer_text": "0.15",
+        "is_correct": false
+      },
+      {
+        "answer_id": 42,
+        "question_id": 10,
+        "answer_text": "5.6667",
+        "is_correct": true
+      },
+      {
+        "answer_id": 43,
+        "question_id": 10,
+        "answer_text": "6.6667",
+        "is_correct": false
+      },
+      {
+        "answer_id": 44,
+        "question_id": 10,
+        "answer_text": "0.45",
+        "is_correct": false
+      },
+      {
+        "answer_id": 45,
+        "question_id": 10,
+        "answer_text": "0.85",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 40,
+        "question_id": 10,
+        "answer_text": "0.176",
+        "is_correct": false
+      },
+      {
+        "answer_id": 41,
+        "question_id": 10,
+        "answer_text": "0.15",
+        "is_correct": false
+      },
+      {
+        "answer_id": 42,
+        "question_id": 10,
+        "answer_text": "5.6667",
+        "is_correct": true
+      },
+      {
+        "answer_id": 43,
+        "question_id": 10,
+        "answer_text": "6.6667",
+        "is_correct": false
+      },
+      {
+        "answer_id": 44,
+        "question_id": 10,
+        "answer_text": "0.45",
+        "is_correct": false
+      },
+      {
+        "answer_id": 45,
+        "question_id": 10,
+        "answer_text": "0.85",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 11,
+    "text": "When seated normally in your car, the driver has a field is vision of 210°. Your lead engineer decided to place the air intake on the left side of your vehicle, therefore the field is vision is different per side: 90° on the left side and 120° on the right side. These field of vision angles are achieved when the driver fully turns their head. \r\nWhat can you say about the field of vision?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 46,
+        "question_id": 11,
+        "answer_text": "The team must install a mirror on both sides of the car ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 47,
+        "question_id": 11,
+        "answer_text": "The team must install at least one mirror on the left side of the car ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 48,
+        "question_id": 11,
+        "answer_text": "The team must install at least one mirror on the right side of the car ​",
+        "is_correct": false
+      },
+      {
+        "answer_id": 49,
+        "question_id": 11,
+        "answer_text": "The field is vision is compliant with the rules, no mirrors need to be installed",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 46,
+        "question_id": 11,
+        "answer_text": "The team must install a mirror on both sides of the car ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 47,
+        "question_id": 11,
+        "answer_text": "The team must install at least one mirror on the left side of the car ",
+        "is_correct": true
+      },
+      {
+        "answer_id": 48,
+        "question_id": 11,
+        "answer_text": "The team must install at least one mirror on the right side of the car ​",
+        "is_correct": false
+      },
+      {
+        "answer_id": 49,
+        "question_id": 11,
+        "answer_text": "The field is vision is compliant with the rules, no mirrors need to be installed",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 14,
+    "text": "Assume your car has an enclosed chassis structure. What is true about holes?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 57,
+        "question_id": 14,
+        "answer_text": "You are not allowed to have holes in the chassis structure",
+        "is_correct": false
+      },
+      {
+        "answer_id": 58,
+        "question_id": 14,
+        "answer_text": "You are not allowed to have holes in the chassis structure, other than a maintenance hole to adjust the brake pedals",
+        "is_correct": false
+      },
+      {
+        "answer_id": 59,
+        "question_id": 14,
+        "answer_text": "You must have at least one hole of 10mm in diameter to vent the chassis structure, in case of any accumulation of gasses ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 60,
+        "question_id": 14,
+        "answer_text": "You must have at least two holes of 25mm to vent the chassis structure, in case of any accumulation of liquids",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 57,
+        "question_id": 14,
+        "answer_text": "You are not allowed to have holes in the chassis structure",
+        "is_correct": false
+      },
+      {
+        "answer_id": 58,
+        "question_id": 14,
+        "answer_text": "You are not allowed to have holes in the chassis structure, other than a maintenance hole to adjust the brake pedals",
+        "is_correct": false
+      },
+      {
+        "answer_id": 59,
+        "question_id": 14,
+        "answer_text": "You must have at least one hole of 10mm in diameter to vent the chassis structure, in case of any accumulation of gasses ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 60,
+        "question_id": 14,
+        "answer_text": "You must have at least two holes of 25mm to vent the chassis structure, in case of any accumulation of liquids",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 17,
+    "text": "Which statement is right?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 70,
+        "question_id": 17,
+        "answer_text": "A wire does not need to be marked with the temperature and voltage rating if a serial number is printed on the wire that is clearly bound to the wire characteristics for example by a datasheet",
+        "is_correct": true
+      },
+      {
+        "answer_id": 71,
+        "question_id": 17,
+        "answer_text": "The temperature ratings for TS wiring must be at least 90°C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 72,
+        "question_id": 17,
+        "answer_text": "The maximum low power voltage that can occur within any component of the car is less than 600V. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 73,
+        "question_id": 17,
+        "answer_text": "The seat mounting points do not need to be grounded since no TS component is within 100mm present.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 70,
+        "question_id": 17,
+        "answer_text": "A wire does not need to be marked with the temperature and voltage rating if a serial number is printed on the wire that is clearly bound to the wire characteristics for example by a datasheet",
+        "is_correct": true
+      },
+      {
+        "answer_id": 71,
+        "question_id": 17,
+        "answer_text": "The temperature ratings for TS wiring must be at least 90°C",
+        "is_correct": false
+      },
+      {
+        "answer_id": 72,
+        "question_id": 17,
+        "answer_text": "The maximum low power voltage that can occur within any component of the car is less than 600V. ",
+        "is_correct": false
+      },
+      {
+        "answer_id": 73,
+        "question_id": 17,
+        "answer_text": "The seat mounting points do not need to be grounded since no TS component is within 100mm present.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 19,
+    "text": "What is the result of the following equation?",
+    "type": "single-choice",
+    "time": null,
+    "answer_options": [
+      {
+        "answer_id": 78,
+        "question_id": 19,
+        "answer_text": "Electrical Resistivity",
+        "is_correct": true
+      },
+      {
+        "answer_id": 79,
+        "question_id": 19,
+        "answer_text": "Electrical Conductivity",
+        "is_correct": false
+      },
+      {
+        "answer_id": 80,
+        "question_id": 19,
+        "answer_text": "Capacitance",
+        "is_correct": false
+      },
+      {
+        "answer_id": 81,
+        "question_id": 19,
+        "answer_text": "Inductance",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000019__img000003__19_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 78,
+        "question_id": 19,
+        "answer_text": "Electrical Resistivity",
+        "is_correct": true
+      },
+      {
+        "answer_id": 79,
+        "question_id": 19,
+        "answer_text": "Electrical Conductivity",
+        "is_correct": false
+      },
+      {
+        "answer_id": 80,
+        "question_id": 19,
+        "answer_text": "Capacitance",
+        "is_correct": false
+      },
+      {
+        "answer_id": 81,
+        "question_id": 19,
+        "answer_text": "Inductance",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

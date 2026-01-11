@@ -1,0 +1,255 @@
+[
+  {
+    "question_id": 596,
+    "text": "Your team is running in FSN Endurance event and at the finish, your telemetry shows that you have an increase of temperature in your tires by 30˚C. Calculate the new pressure in your tire knowing that you measured with a manometer in the morning (at 15˚C and 735mmHg) the initial pressure of 1.2 bar, and the total volume of the air inside the tire is 0.01 m3. (neglect the expansion of the air volume in the tire)",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2285,
+        "question_id": 596,
+        "answer_text": "1.89 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2286,
+        "question_id": 596,
+        "answer_text": "2.09 bar",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2287,
+        "question_id": 596,
+        "answer_text": "2.19 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2288,
+        "question_id": 596,
+        "answer_text": "2.79 bar",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 104,
+        "question_id": 596,
+        "text": null,
+        "images": [
+          {
+            "img_id": 154,
+            "path": "solutions/596_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2285,
+        "question_id": 596,
+        "answer_text": "1.89 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2286,
+        "question_id": 596,
+        "answer_text": "2.09 bar",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2287,
+        "question_id": 596,
+        "answer_text": "2.19 bar",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2288,
+        "question_id": 596,
+        "answer_text": "2.79 bar",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 607,
+    "text": "Your team is running endurance in FSN CV class with a pneumatic shifter and on that day it is quite cold for the time of year, 15°C and 760 mmHg.\\n Assume that the gas bottle has a pressure inside of 165 bar with a total volume of 0.8 L and for one gear shift the volume of air expelled into the atmosphere is 1000 mL.\\n Calculate the maximum amount of shifts you may have during endurance.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2329,
+        "question_id": 607,
+        "answer_text": "130",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2330,
+        "question_id": 607,
+        "answer_text": "340",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2331,
+        "question_id": 607,
+        "answer_text": "1302",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2332,
+        "question_id": 607,
+        "answer_text": "3402",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 115,
+        "question_id": 607,
+        "text": null,
+        "images": [
+          {
+            "img_id": 159,
+            "path": "solutions/607_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2329,
+        "question_id": 607,
+        "answer_text": "130",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2330,
+        "question_id": 607,
+        "answer_text": "340",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2331,
+        "question_id": 607,
+        "answer_text": "1302",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2332,
+        "question_id": 607,
+        "answer_text": "3402",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  },
+  {
+    "question_id": 608,
+    "text": "Your team is at design event during FS Netherlands and it’s quite cold for this time of the year, 15°C, so you decide to make some hot tea for the judges and the design event crew members. What is the fastest time to prepare the tea to the judges, knowing that you have to boil 4 tea cups (220ml/tea cup) and you have an electrical heater with a power of 0.96kW. (round your answer) ",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2333,
+        "question_id": 608,
+        "answer_text": "1 minute and 22 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2334,
+        "question_id": 608,
+        "answer_text": "4 minutes and 58 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2335,
+        "question_id": 608,
+        "answer_text": "5 minutes and 26 seconds",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2336,
+        "question_id": 608,
+        "answer_text": "5 minutes and 58 seconds",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 116,
+        "question_id": 608,
+        "text": null,
+        "images": [
+          {
+            "img_id": 160,
+            "path": "solutions/608_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2333,
+        "question_id": 608,
+        "answer_text": "1 minute and 22 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2334,
+        "question_id": 608,
+        "answer_text": "4 minutes and 58 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2335,
+        "question_id": 608,
+        "answer_text": "5 minutes and 26 seconds",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2336,
+        "question_id": 608,
+        "answer_text": "5 minutes and 58 seconds",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
+    ]
+  }
+]

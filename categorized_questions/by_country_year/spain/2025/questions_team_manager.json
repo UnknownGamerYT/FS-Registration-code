@@ -1,0 +1,400 @@
+[
+  {
+    "question_id": 892,
+    "text": "How many points will be deducted from the team's overall score for each submission later than the respective deadline?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3310,
+        "question_id": 892,
+        "answer_text": "10 Points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3311,
+        "question_id": 892,
+        "answer_text": "15 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3312,
+        "question_id": 892,
+        "answer_text": "25 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3313,
+        "question_id": 892,
+        "answer_text": "0 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3314,
+        "question_id": 892,
+        "answer_text": "De-registration",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3310,
+        "question_id": 892,
+        "answer_text": "10 Points",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3311,
+        "question_id": 892,
+        "answer_text": "15 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3312,
+        "question_id": 892,
+        "answer_text": "25 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3313,
+        "question_id": 892,
+        "answer_text": "0 Points",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3314,
+        "question_id": 892,
+        "answer_text": "De-registration",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 893,
+    "text": "Your team is considering developing a driverless car for the upcoming seasons. The driverless department wants to use cones to locate the car during the SkidPad event, instead of relying on GPS. What is the maximum number of cones (yellow and blue) the team can use in their algorithm?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3315,
+        "question_id": 893,
+        "answer_text": "56",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3316,
+        "question_id": 893,
+        "answer_text": "58",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3317,
+        "question_id": 893,
+        "answer_text": "60",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3318,
+        "question_id": 893,
+        "answer_text": "62",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3319,
+        "question_id": 893,
+        "answer_text": "n 30",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3315,
+        "question_id": 893,
+        "answer_text": "56",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3316,
+        "question_id": 893,
+        "answer_text": "58",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3317,
+        "question_id": 893,
+        "answer_text": "60",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3318,
+        "question_id": 893,
+        "answer_text": "62",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3319,
+        "question_id": 893,
+        "answer_text": "n 30",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 894,
+    "text": "The Dalton brothers are all registered as pilots. According to the FS-Rules_2025_v1.0, which brother must attend the Mechanical Inspection as the driver?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3320,
+        "question_id": 894,
+        "answer_text": "Joe",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3321,
+        "question_id": 894,
+        "answer_text": "Jack",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3322,
+        "question_id": 894,
+        "answer_text": "Pol",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3323,
+        "question_id": 894,
+        "answer_text": "William",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3324,
+        "question_id": 894,
+        "answer_text": "Averell",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3325,
+        "question_id": 894,
+        "answer_text": "All",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 3320,
+        "question_id": 894,
+        "answer_text": "Joe",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3321,
+        "question_id": 894,
+        "answer_text": "Jack",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3322,
+        "question_id": 894,
+        "answer_text": "Pol",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3323,
+        "question_id": 894,
+        "answer_text": "William",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3324,
+        "question_id": 894,
+        "answer_text": "Averell",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3325,
+        "question_id": 894,
+        "answer_text": "All",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  },
+  {
+    "question_id": 900,
+    "text": "Assume your team needs to perform a quick calculation to estimate the acceleration event time. Use the model and the parameters below to estimate this time. Your vehicle is rear-wheel drive and the tire has the Friction Coefficient and the Rolling Resistance Coefficient specified below. Assume accelerated uniform rectilinear motion for this calculation and that initial speed is 0 m/s. Assume there are no aerodynamic forces during this event (no drag or downforce should be considered). Which is the predicted time?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 3348,
+        "question_id": 900,
+        "answer_text": "4,24 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3349,
+        "question_id": 900,
+        "answer_text": "4,35 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3350,
+        "question_id": 900,
+        "answer_text": "4,66 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3351,
+        "question_id": 900,
+        "answer_text": "4,46 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3352,
+        "question_id": 900,
+        "answer_text": "4,54 seconds",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3353,
+        "question_id": 900,
+        "answer_text": "4,13 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3354,
+        "question_id": 900,
+        "answer_text": "4,76 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3355,
+        "question_id": 900,
+        "answer_text": "4,85 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3356,
+        "question_id": 900,
+        "answer_text": "2,35 hours",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000900__img000286__900_5.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 3348,
+        "question_id": 900,
+        "answer_text": "4,24 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3349,
+        "question_id": 900,
+        "answer_text": "4,35 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3350,
+        "question_id": 900,
+        "answer_text": "4,66 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3351,
+        "question_id": 900,
+        "answer_text": "4,46 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3352,
+        "question_id": 900,
+        "answer_text": "4,54 seconds",
+        "is_correct": true
+      },
+      {
+        "answer_id": 3353,
+        "question_id": 900,
+        "answer_text": "4,13 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3354,
+        "question_id": 900,
+        "answer_text": "4,76 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3355,
+        "question_id": 900,
+        "answer_text": "4,85 seconds",
+        "is_correct": false
+      },
+      {
+        "answer_id": 3356,
+        "question_id": 900,
+        "answer_text": "2,35 hours",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
+    ]
+  }
+]

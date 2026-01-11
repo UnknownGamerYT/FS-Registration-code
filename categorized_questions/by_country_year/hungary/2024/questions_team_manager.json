@@ -1,0 +1,550 @@
+[
+  {
+    "question_id": 760,
+    "text": "Find X where\\n\na = Maximum points awarded for Cost & Manufacturing Event at FS East 2024 for all classes.\\n\nb = Maximum points awarded for DV Skidpad at FS East 2024.\\n\nc = Maximum points awarded for EV & CV Skidpad at FS East 2024.\\n\nd = Maximum points awarded for DV Efficiency at FS East 2024.\\n\ne = Penalty points for a 1 day late submission of DSS at FS East 2024 for all classes.\\n\nf = Maximum points awarded for Vehicle Dynamics & Suspension at Engineering Design Event at FS East 2024 for all classes.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2837,
+        "question_id": 760,
+        "answer_text": "A) 45",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2838,
+        "question_id": 760,
+        "answer_text": "B) 100",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2839,
+        "question_id": 760,
+        "answer_text": "C) 160",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2840,
+        "question_id": 760,
+        "answer_text": "D) 50",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000760__img000206__760_5.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2837,
+        "question_id": 760,
+        "answer_text": "A) 45",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2838,
+        "question_id": 760,
+        "answer_text": "B) 100",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2839,
+        "question_id": 760,
+        "answer_text": "C) 160",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2840,
+        "question_id": 760,
+        "answer_text": "D) 50",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 762,
+    "text": " George, the bunny of FS East wants to drive on the ceiling. To obtain his greatest wish he dreamed of last week, he wants to use one of his team’s previous FS cars with some modifications. This vehicle has a mass of 180 kg, 2.35 m2 frontal area, a downforce coefficient of 3.5 and a drag coefficient of 0.8. He fits tires with a friction coefficient of 1.8 (assume cylindrical friction ellipses) and a rolling resistance coefficient of 0.1. For the gravitational acceleration, assume the value that can be measured at the Hungaroring (ca. Budapest) rounded to 2 decimals. On the day of driving, George sees that the temperatures reach room temperature values according to ISO 13443 natural gas reference conditions. As he steps on the scale to measure his own weight, he also sees, that the poppy seed rolls from Christmas are still measurable in his belly and he still weighs 15 kg. At least how much speed does he need to maintain while driving on the ceiling when the stated circumstances occur? Assume just the main forces acting on George and his vehicle (a point mass may be equivalent) in an equilibrium state to determine the minimum needed speed in a moment of bottom-up driving. Mark the answer rounded to the integer value of the minimal speed needed.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2845,
+        "question_id": 762,
+        "answer_text": "44 mph",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2846,
+        "question_id": 762,
+        "answer_text": "75 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2847,
+        "question_id": 762,
+        "answer_text": "1 km/min",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2848,
+        "question_id": 762,
+        "answer_text": "20 m/s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2845,
+        "question_id": 762,
+        "answer_text": "44 mph",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2846,
+        "question_id": 762,
+        "answer_text": "75 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2847,
+        "question_id": 762,
+        "answer_text": "1 km/min",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2848,
+        "question_id": 762,
+        "answer_text": "20 m/s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 763,
+    "text": "Your team uses a 200 gsm UD carbon composite material called “East”. You have the opportunity to switch to another 200 gsm UD material called “Easter” with the same matrix. Knowing only the following material properties, is it worth it to use Easter instead of East if you want to achieve higher stiffness?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2849,
+        "question_id": 763,
+        "answer_text": "Yes, Easter has higher stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2850,
+        "question_id": 763,
+        "answer_text": "They have the same stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2851,
+        "question_id": 763,
+        "answer_text": "No, East has higher stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2852,
+        "question_id": 763,
+        "answer_text": "There is not enough data to answer the question.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000763__img000207__763_6.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2849,
+        "question_id": 763,
+        "answer_text": "Yes, Easter has higher stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2850,
+        "question_id": 763,
+        "answer_text": "They have the same stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2851,
+        "question_id": 763,
+        "answer_text": "No, East has higher stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2852,
+        "question_id": 763,
+        "answer_text": "There is not enough data to answer the question.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 770,
+    "text": " Your team designs its current Tractive System Accumulator using LiPo cells with the following characteristics:\\n- Max cell voltage: 4.25 V\\n- Nominal cell capacity: 14.7 Ah\\n- Nominal cell voltage: 3.7 V\\n- Cell weight: 410 g\\n\\nTo achieve the desired capacity of the Tractive System Accumulator, your team decides to use 148 cells in series and to limit the charging of the cells to 4.05 V per cell. You are tasked with finding a good segment layout for the cells for the mechanical configuration of the TSAC.\\n\\nMaximum how many cells can you fit into one segment of the Tractive System Accumulator?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2880,
+        "question_id": 770,
+        "answer_text": "29",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2881,
+        "question_id": 770,
+        "answer_text": "28",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2882,
+        "question_id": 770,
+        "answer_text": "27",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2883,
+        "question_id": 770,
+        "answer_text": "26",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2884,
+        "question_id": 770,
+        "answer_text": "25",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2880,
+        "question_id": 770,
+        "answer_text": "29",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2881,
+        "question_id": 770,
+        "answer_text": "28",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2882,
+        "question_id": 770,
+        "answer_text": "27",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2883,
+        "question_id": 770,
+        "answer_text": "26",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2884,
+        "question_id": 770,
+        "answer_text": "25",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 792,
+    "text": "George, the bunny of FS East wants to drive on the ceiling. To obtain his greatest wish he dreamed of last week, he wants to use one of his team’s previous FS car s with some modifications. This vehicle has a mass of 180 kg, 2 35 m 2 frontal area, a downforce coefficient of 3.5 and a drag coefficient of 0.8. He fits tires with a friction coefficient of 1.8 (assume cylindrical friction ellipses) and a rolling resistance coefficient of 0.1. For the gravitational acceleration, assume the value that can be measured at the Hungaroring (ca. Budapest) rounded to 2 decimals . On the day of driving, George sees that the temperatures reach room temperature values according to ISO 13443 natural gas reference conditions. As he steps on the scale to measure his own weight, he also sees, that the poppy seed rolls from Christmas are still measurable in his belly and he still weighs 15 kg. At least how much speed does he need to maintain wh ile driving on the ceiling when the stated circumstances occur? Assume just he main forces acting on George and his vehicle (a point mass may be equivalent) in an equilibrium state to determine the minimum needed speed in a moment of bottom up driving. Mark the answer rounded to the integer value of the minimal speed needed.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2965,
+        "question_id": 792,
+        "answer_text": "44 mph",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2966,
+        "question_id": 792,
+        "answer_text": "20 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2967,
+        "question_id": 792,
+        "answer_text": "75 km/h",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2968,
+        "question_id": 792,
+        "answer_text": "1 km/min",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2965,
+        "question_id": 792,
+        "answer_text": "44 mph",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2966,
+        "question_id": 792,
+        "answer_text": "20 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2967,
+        "question_id": 792,
+        "answer_text": "75 km/h",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2968,
+        "question_id": 792,
+        "answer_text": "1 km/min",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 794,
+    "text": "Your team uses a 200 gsm UD carbon composite material called “East”. You have the opportunity to switch to another 200 gsm UD material called “Easter” with the same matrix. Knowing only the following material properties, is it worth it to use Easter ins tead of East if you want to achieve higher stiffness?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2973,
+        "question_id": 794,
+        "answer_text": "Yes, Easter has higher stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2974,
+        "question_id": 794,
+        "answer_text": "No, East has higher stiffness.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2975,
+        "question_id": 794,
+        "answer_text": "They have the same stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2976,
+        "question_id": 794,
+        "answer_text": "There is not enough data to answer the question.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000794__img000214__794_3.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2973,
+        "question_id": 794,
+        "answer_text": "Yes, Easter has higher stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2974,
+        "question_id": 794,
+        "answer_text": "No, East has higher stiffness.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2975,
+        "question_id": 794,
+        "answer_text": "They have the same stiffness.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2976,
+        "question_id": 794,
+        "answer_text": "There is not enough data to answer the question.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 798,
+    "text": "Your car just crossed the acceleration event’s finish line in autonomous mode at FS East 2024 and set a time of 3.987 seconds with no cones hit. It stopped with the activation of the EBS and just over half a minute later the ASSIs turned into continuous blue. There are 4 other teams with the following corrected times set: 3.876, 4.045, 4.134, 3.912 seconds. How many points would your team score if the event ended wight after your run?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2985,
+        "question_id": 798,
+        "answer_text": "90.824",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2986,
+        "question_id": 798,
+        "answer_text": "70.824",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2987,
+        "question_id": 798,
+        "answer_text": "65.528",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2988,
+        "question_id": 798,
+        "answer_text": "65.3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2989,
+        "question_id": 798,
+        "answer_text": "60",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2990,
+        "question_id": 798,
+        "answer_text": "0",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2985,
+        "question_id": 798,
+        "answer_text": "90.824",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2986,
+        "question_id": 798,
+        "answer_text": "70.824",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2987,
+        "question_id": 798,
+        "answer_text": "65.528",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2988,
+        "question_id": 798,
+        "answer_text": "65.3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2989,
+        "question_id": 798,
+        "answer_text": "60",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2990,
+        "question_id": 798,
+        "answer_text": "0",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      84
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

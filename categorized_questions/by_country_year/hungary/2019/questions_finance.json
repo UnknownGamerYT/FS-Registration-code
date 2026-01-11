@@ -1,0 +1,506 @@
+[
+  {
+    "question_id": 197,
+    "text": "A car finishes the skidpad event with an average laptime of 5,0 seconds. The static friction coefficient of the ground and the tire is 0,9. What was the aerodynamic downforce to weight ratio during the run? Assume, that the car is travelling on the centerline of the track.\nG=9,81 m/s²",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 771,
+        "question_id": 197,
+        "answer_text": "0.45",
+        "is_correct": false
+      },
+      {
+        "answer_id": 772,
+        "question_id": 197,
+        "answer_text": "0.9",
+        "is_correct": false
+      },
+      {
+        "answer_id": 773,
+        "question_id": 197,
+        "answer_text": "0.5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 774,
+        "question_id": 197,
+        "answer_text": "1.37",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 771,
+        "question_id": 197,
+        "answer_text": "0.45",
+        "is_correct": false
+      },
+      {
+        "answer_id": 772,
+        "question_id": 197,
+        "answer_text": "0.9",
+        "is_correct": false
+      },
+      {
+        "answer_id": 773,
+        "question_id": 197,
+        "answer_text": "0.5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 774,
+        "question_id": 197,
+        "answer_text": "1.37",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 201,
+    "text": "Our vehicle completes the Acceleration Event. Its velocity is 126km/h, when it crosses the finish line. How much time did it need to complete the run, if we assume, that its acceleration is constant during the run?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 787,
+        "question_id": 201,
+        "answer_text": "4,28s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 788,
+        "question_id": 201,
+        "answer_text": "4s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 789,
+        "question_id": 201,
+        "answer_text": "4,56s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 790,
+        "question_id": 201,
+        "answer_text": "3,86s",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 787,
+        "question_id": 201,
+        "answer_text": "4,28s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 788,
+        "question_id": 201,
+        "answer_text": "4s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 789,
+        "question_id": 201,
+        "answer_text": "4,56s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 790,
+        "question_id": 201,
+        "answer_text": "3,86s",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 202,
+    "text": "The circular Dynamic Platform at ZalaZone has 1% of slope from North to South. The diameter of the Platform is 300 m. If a ball is released on the highest point of the Platform (North), from standstill state, what will be the speed of the ball at the lowest point of the Platform (South)?\nConsider that the ball rolls directly from the highest point to the lowest point.\nRolling resistance is 0\nMass of the ball is 200g\nG = 10 m/s²",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 791,
+        "question_id": 202,
+        "answer_text": "5,897 m/s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 792,
+        "question_id": 202,
+        "answer_text": "5,897 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 793,
+        "question_id": 202,
+        "answer_text": "7,7459 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 794,
+        "question_id": 202,
+        "answer_text": "7,7459 km/h",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 791,
+        "question_id": 202,
+        "answer_text": "5,897 m/s",
+        "is_correct": true
+      },
+      {
+        "answer_id": 792,
+        "question_id": 202,
+        "answer_text": "5,897 km/h",
+        "is_correct": false
+      },
+      {
+        "answer_id": 793,
+        "question_id": 202,
+        "answer_text": "7,7459 m/s",
+        "is_correct": false
+      },
+      {
+        "answer_id": 794,
+        "question_id": 202,
+        "answer_text": "7,7459 km/h",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 205,
+    "text": "You are competing on the Endurance event. Unfortunately one of the throttle pedal return springs is already broken, but the car operates well. In the long straigth the other return spring breaks too but the driver doesn't recognize it, and the throttle pedal get stuck at 100%. At the end of the straight, the driver reaches a slalom and pushes the break with medium force. What happens after that?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 803,
+        "question_id": 205,
+        "answer_text": "The breaks are ineffective to slow down the car while the motors are producing full power, driver looses control over the car, hits all cones at high speed and tries to deactivate TS by pushing the cockpit killswitch.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 804,
+        "question_id": 205,
+        "answer_text": "TS may remain active, the vehicle can go trough the slalom but won't be able to gain speed anymore.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 805,
+        "question_id": 205,
+        "answer_text": "BSPD immediately shut down the TS as the driver touches the break pedal.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 806,
+        "question_id": 205,
+        "answer_text": "The motors, and therefore the racecar, immediately stop at the end of the straight.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 803,
+        "question_id": 205,
+        "answer_text": "The breaks are ineffective to slow down the car while the motors are producing full power, driver looses control over the car, hits all cones at high speed and tries to deactivate TS by pushing the cockpit killswitch.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 804,
+        "question_id": 205,
+        "answer_text": "TS may remain active, the vehicle can go trough the slalom but won't be able to gain speed anymore.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 805,
+        "question_id": 205,
+        "answer_text": "BSPD immediately shut down the TS as the driver touches the break pedal.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 806,
+        "question_id": 205,
+        "answer_text": "The motors, and therefore the racecar, immediately stop at the end of the straight.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 207,
+    "text": "The Zalazone Proving Ground would contain several track elements (such as Dynamic Platform, Slopes, Handling Course etc.) In which phase of the construction it is planned to contruct the High - Speed Oval Track element?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 811,
+        "question_id": 207,
+        "answer_text": "Phase 4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 812,
+        "question_id": 207,
+        "answer_text": "Phase 1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 813,
+        "question_id": 207,
+        "answer_text": "Phase 3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 814,
+        "question_id": 207,
+        "answer_text": "Phase 2",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 811,
+        "question_id": 207,
+        "answer_text": "Phase 4",
+        "is_correct": true
+      },
+      {
+        "answer_id": 812,
+        "question_id": 207,
+        "answer_text": "Phase 1",
+        "is_correct": false
+      },
+      {
+        "answer_id": 813,
+        "question_id": 207,
+        "answer_text": "Phase 3",
+        "is_correct": false
+      },
+      {
+        "answer_id": 814,
+        "question_id": 207,
+        "answer_text": "Phase 2",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 208,
+    "text": "What does the yellow and red striped flag mean during Endurance and Autocross Event?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 815,
+        "question_id": 208,
+        "answer_text": "The track is slippery or something is on the racing surface that should not be there. The driver must be prepared for evasive maneuvers to avoid the situation",
+        "is_correct": true
+      },
+      {
+        "answer_id": 816,
+        "question_id": 208,
+        "answer_text": "Mechanical black flag. The driver must pull into the driver change area for a mechanical inspection of the vehicle, something has been observed that requires a closer inspection.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 817,
+        "question_id": 208,
+        "answer_text": "The driver must pull into the driver change area for discussion with the officials concerning an incident. A time penalty may be assessed.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 818,
+        "question_id": 208,
+        "answer_text": "The driver must be prepared to overtake a slower car on the racing line. ",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 815,
+        "question_id": 208,
+        "answer_text": "The track is slippery or something is on the racing surface that should not be there. The driver must be prepared for evasive maneuvers to avoid the situation",
+        "is_correct": true
+      },
+      {
+        "answer_id": 816,
+        "question_id": 208,
+        "answer_text": "Mechanical black flag. The driver must pull into the driver change area for a mechanical inspection of the vehicle, something has been observed that requires a closer inspection.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 817,
+        "question_id": 208,
+        "answer_text": "The driver must pull into the driver change area for discussion with the officials concerning an incident. A time penalty may be assessed.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 818,
+        "question_id": 208,
+        "answer_text": "The driver must be prepared to overtake a slower car on the racing line. ",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  },
+  {
+    "question_id": 209,
+    "text": "Which of the following dynamic disciplines will be organized first time in 2019 at FS East?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 819,
+        "question_id": 209,
+        "answer_text": "AutoX Event",
+        "is_correct": false
+      },
+      {
+        "answer_id": 820,
+        "question_id": 209,
+        "answer_text": "Trackdrive Event",
+        "is_correct": false
+      },
+      {
+        "answer_id": 821,
+        "question_id": 209,
+        "answer_text": "Driverless AutoX Event",
+        "is_correct": true
+      },
+      {
+        "answer_id": 822,
+        "question_id": 209,
+        "answer_text": "Driverless Skidpad Event",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 819,
+        "question_id": 209,
+        "answer_text": "AutoX Event",
+        "is_correct": false
+      },
+      {
+        "answer_id": 820,
+        "question_id": 209,
+        "answer_text": "Trackdrive Event",
+        "is_correct": false
+      },
+      {
+        "answer_id": 821,
+        "question_id": 209,
+        "answer_text": "Driverless AutoX Event",
+        "is_correct": true
+      },
+      {
+        "answer_id": 822,
+        "question_id": 209,
+        "answer_text": "Driverless Skidpad Event",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
+    ]
+  }
+]

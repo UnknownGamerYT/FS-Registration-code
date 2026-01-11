@@ -57,6 +57,19 @@
         "answer_text": "No",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      1,
+      2
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -129,6 +142,18 @@
         "answer_text": "12,7mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -196,6 +221,18 @@
         "answer_text": "It is not specified in the rules where the IMD has to be connected.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      1
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -256,6 +293,18 @@
         "answer_text": "Fasteners to attach pouch cells to the container must comply with rule T10",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      3
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -287,6 +336,18 @@
         "answer_text": "77.9",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      3
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -371,6 +432,18 @@
         "answer_text": "The additional energy needed is 2.456 J. The time needed is 2.9 ms.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -431,6 +504,18 @@
         "answer_text": "When the brake system plausibility device has shutdown the tractive system",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      6
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -491,6 +576,18 @@
         "answer_text": "Because the root mean square of the voltage counts and that is lower for DC",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -563,6 +660,18 @@
         "answer_text": "CC-CV",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      5
+    ],
+    "years": [
+      "2014"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -589,6 +698,18 @@
         "answer_text": "6/7",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -615,6 +736,18 @@
         "answer_text": "63.4, 110.8",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      8
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -693,6 +826,18 @@
         "answer_text": "F",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -717,6 +862,18 @@
         "answer_text": "64107",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      9
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -777,6 +934,18 @@
         "answer_text": "either passive or active",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      10
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -825,6 +994,18 @@
         "answer_text": "Yes, after 500ms",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      10
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -897,6 +1078,20 @@
         "answer_text": "Depends on Motor parameters",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      10,
+      47
+    ],
+    "years": [
+      "2020",
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -1005,6 +1200,18 @@
         "answer_text": "A and D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      10
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -1084,6 +1291,18 @@
         "answer_text": "you may use a capacitor to delay the closing of the AIRs if the coil circuit is opened",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1153,6 +1372,18 @@
         "answer_text": "n=1",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      7
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1237,6 +1468,18 @@
         "answer_text": "1.2 F",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      11
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1311,6 +1554,18 @@
         "answer_text": "This is actually the cell voltage",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      11
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1383,6 +1638,18 @@
         "answer_text": "3906 A",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      11
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1467,6 +1734,18 @@
         "answer_text": "75 %",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      12
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1534,6 +1813,18 @@
         "answer_text": "Spacing over surface between traces/board areas for voltage 300V DC to 600V DC at least 12.7mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -1594,6 +1885,18 @@
         "answer_text": "0,35 A^2 Ω",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      13
+    ],
+    "years": [
+      "2017"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -1654,6 +1957,18 @@
         "answer_text": "At a minimum, two shutdown buttons must be installed",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      4
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1687,6 +2002,18 @@
         "answer_text": "7.30",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      15
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -1761,6 +2088,18 @@
         "answer_text": "When increasing the output voltage (v_out) at constant output current (i_out), the power losses due to the Rdson of the MOSFET increase.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1787,6 +2126,18 @@
         "answer_text": "399.4, 13.8",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1811,6 +2162,18 @@
         "answer_text": "1.8",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      16
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -1873,6 +2236,18 @@
         "answer_text": "Battery Cell Supplier B. 8 segments connected in series. Each segment contains 10 cells connected in series and 6 cells connected in parallel (10s6p).",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -1935,6 +2310,18 @@
         "answer_text": "Airgap Flux Density (Bg) = 0,8T, Torque = 200 Nm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      17
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -1995,6 +2382,22 @@
         "answer_text": "5 compartments in series with 4p22s configurations",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      18,
+      70
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
     ]
   },
   {
@@ -2033,6 +2436,18 @@
         "answer_text": "153-156",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      18
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -2069,6 +2484,18 @@
         "answer_text": "44-48",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      18
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -2129,6 +2556,18 @@
         "answer_text": "They must include overcurrent protection that rips at or below the maximum specified discharge current of the cells",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      18
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -2189,6 +2628,18 @@
         "answer_text": "3",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      20
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -2249,6 +2700,18 @@
         "answer_text": "3,494094049404e+24 [eV]",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -2309,6 +2772,18 @@
         "answer_text": "50 Ohm ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      21
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -2371,6 +2846,18 @@
         "answer_text": "1145...1527",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      24
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -2431,6 +2918,18 @@
         "answer_text": "3600",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      25
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -2493,6 +2992,20 @@
         "answer_text": "3 second.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      25,
+      57
+    ],
+    "years": [
+      "2020",
+      "2023"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -2555,6 +3068,18 @@
         "answer_text": "200 miliseconds. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      26
+    ],
+    "years": [
+      "2019"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -2622,6 +3147,18 @@
         "answer_text": "Accumulators more than 30 kg and less than 40 kg must use a minimum of 10 fasteners ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      29
+    ],
+    "years": [
+      "2016"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -2682,6 +3219,18 @@
         "answer_text": "125V",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2742,6 +3291,18 @@
         "answer_text": "...they must not exceed a maximum operation voltage of 120VDC",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2826,6 +3387,18 @@
         "answer_text": "The additional energy needed is 2.456J. The time needed can not be calculated with the given parameters.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2886,6 +3459,18 @@
         "answer_text": "...so that each stack carries a maximum voltage of 140VDC or a maximum energy of 7MJ, whichever occurs first.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      30
+    ],
+    "years": [
+      "2012"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -2946,6 +3531,18 @@
         "answer_text": "3600",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      31
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -3008,6 +3605,18 @@
         "answer_text": "100 miliseconds. ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      31
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -3068,6 +3677,18 @@
         "answer_text": "87 500 000 ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -3128,6 +3749,18 @@
         "answer_text": "71,8",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      32
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -3195,6 +3828,18 @@
         "answer_text": "with the lettering „MID“ or „GDF“.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3262,6 +3907,18 @@
         "answer_text": "Two measurement points have to be installed on each accumulator container.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3322,6 +3979,18 @@
         "answer_text": "125V",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3382,6 +4051,18 @@
         "answer_text": "21.221 Ohm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3449,6 +4130,18 @@
         "answer_text": "be red and always illuminated.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3509,6 +4202,18 @@
         "answer_text": "196.6V DC",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      33
+    ],
+    "years": [
+      "2011"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3557,6 +4262,18 @@
         "answer_text": "30 mm (1.2 inch)",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3617,6 +4334,18 @@
         "answer_text": "5kR",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3689,6 +4418,18 @@
         "answer_text": "The HVD must disconnect both poles of the tractive system accumulator.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3809,6 +4550,18 @@
         "answer_text": "18994J",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3881,6 +4634,18 @@
         "answer_text": "10.9mF",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      34
+    ],
+    "years": [
+      "2013"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -3905,6 +4670,19 @@
         "answer_text": "82.9",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -3931,6 +4709,19 @@
         "answer_text": "8.125",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      35,
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4029,6 +4820,18 @@
         "answer_text": "You need bigger ignition coils",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      36
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4089,6 +4892,18 @@
         "answer_text": "When using composite materials in the container structure, only the inside skin has to be fire retardant according to UL94 or FAR 25.853(a)(1)(i)",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      35
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4151,6 +4966,18 @@
         "answer_text": "Clp=5882pF, Chp=5263pf",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      35
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4211,6 +5038,18 @@
         "answer_text": "4.32 Ah",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -4271,6 +5110,18 @@
         "answer_text": "2.0 mm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      38
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -4333,6 +5184,18 @@
         "answer_text": "2s",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      39
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -4395,6 +5258,18 @@
         "answer_text": "2.49 V",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -4457,6 +5332,18 @@
         "answer_text": "4.71 s",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      40
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -4483,6 +5370,18 @@
         "answer_text": "2.44",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      41
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -4543,6 +5442,18 @@
         "answer_text": "A TS accumulator container made from composite materials must be fastened tothe primary structure using steel or aluminium brackets and 2mm steel bracking plates.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      43
+    ],
+    "years": [
+      "2022"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4603,6 +5514,18 @@
         "answer_text": "It is not allowed to automatically resume charging ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      45
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -4629,6 +5552,18 @@
         "answer_text": "24.20",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -4713,6 +5648,20 @@
         "answer_text": "none",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -4749,6 +5698,18 @@
         "answer_text": "6",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -4785,6 +5746,18 @@
         "answer_text": "8.0",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -4833,6 +5806,18 @@
         "answer_text": "No",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -4859,6 +5844,19 @@
         "answer_text": "2.2",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -4919,6 +5917,18 @@
         "answer_text": "1000 C",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      50
+    ],
+    "years": [
+      "2020"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -4979,6 +5989,23 @@
         "answer_text": "76.66 Ohm",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      50,
+      103,
+      104
+    ],
+    "years": [
+      "2020",
+      "2025"
+    ],
+    "countries": [
+      "Netherlands",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -5039,6 +6066,23 @@
         "answer_text": " 0.3 Joule",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      50,
+      103,
+      104
+    ],
+    "years": [
+      "2020",
+      "2025"
+    ],
+    "countries": [
+      "Netherlands",
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -5075,6 +6119,18 @@
         "answer_text": "6.7-6.8",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      52
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
     ]
   },
   {
@@ -5142,7 +6198,11 @@
         "answer_text": "D) Tabs of pouch cells may carry mechanical loads up to 200Nm",
         "is_correct": false
       }
-    ]
+    ],
+    "quiz_ids": [],
+    "years": [],
+    "countries": [],
+    "events": []
   },
   {
     "question_id": 556,
@@ -5202,6 +6262,18 @@
         "answer_text": " None of the answers above are correct",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      53
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -5269,6 +6341,18 @@
         "answer_text": "30 mm",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      53
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -5336,6 +6420,18 @@
         "answer_text": "70V",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      53
+    ],
+    "years": [
+      "2021"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -5372,6 +6468,22 @@
         "answer_text": "no",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      55,
+      70
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
     ]
   },
   {
@@ -5432,6 +6544,18 @@
         "answer_text": "114 [A/mm2]",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -5492,6 +6616,18 @@
         "answer_text": "22",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -5552,6 +6688,18 @@
         "answer_text": "The TSAL has to flash in green and orange with 50% duty cycle.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      56
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -5624,6 +6772,19 @@
         "answer_text": "d) The peak AC voltage can be greater than the maximum DC voltage",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      58,
+      59
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -5691,6 +6852,18 @@
         "answer_text": "53 minutes",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      58
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -5758,6 +6931,18 @@
         "answer_text": "110V DC",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      58
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -5820,6 +7005,18 @@
         "answer_text": "3εAV12/(2d1)",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5844,6 +7041,18 @@
         "answer_text": "560, 30",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      60
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -5911,6 +7120,18 @@
         "answer_text": "None of the above",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      61
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -5971,6 +7192,18 @@
         "answer_text": "It must be made of fire-resistand materials, which when tested according to the UL 94 V test procedure are allowed to drip flaming particles that ignite the cotton below the test sample",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      63
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Austria"
+    ],
+    "events": [
+      "Formula Student Austria"
     ]
   },
   {
@@ -5995,6 +7228,19 @@
         "answer_text": "2.2",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      49,
+      68
+    ],
+    "years": [
+      "2018"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -6079,6 +7325,18 @@
         "answer_text": "The maximum total weight of all elements of the hybrid system that store the electrical energy including all casings and tabs that are integral to them is 3 kg, which results in the maximum installation space.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      72
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -6117,6 +7375,18 @@
         "answer_text": "-0.5",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      73
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -6179,6 +7449,18 @@
         "answer_text": "Mantrop Park ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -6241,6 +7523,18 @@
         "answer_text": "ZR = 0.1 ohms, I(t)= 500 A ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      74
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Greece"
+    ],
+    "events": [
+      "Formula Student IHU (Greece)"
     ]
   },
   {
@@ -6265,6 +7559,19 @@
         "answer_text": "111.40",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -6325,6 +7632,19 @@
         "answer_text": "The BSPD can close the SDC through either a relay or a MOSFET",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -6385,6 +7705,19 @@
         "answer_text": "55V ACRMS and 60V DC",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
     ]
   },
   {
@@ -6418,6 +7751,21 @@
         "answer_text": "50.0",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -6509,6 +7857,21 @@
         "answer_text": "3.75 kJ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      80,
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -6540,6 +7903,20 @@
         "answer_text": "1.5",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -6619,6 +7996,20 @@
         "answer_text": "four times",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -6772,6 +8163,20 @@
         "answer_text": "C, D",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      79,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -6803,6 +8208,18 @@
         "answer_text": "390",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      79
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
     ]
   },
   {
@@ -6863,6 +8280,18 @@
         "answer_text": "Repair the broken part. EMV = 700 EUR",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6935,6 +8364,18 @@
         "answer_text": "9.25 Ah",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -6995,6 +8436,19 @@
         "answer_text": "26s3p",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82,
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7055,6 +8509,18 @@
         "answer_text": "2.5 µJ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      82
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7127,7 +8593,11 @@
         "answer_text": "9.25 Ah",
         "is_correct": false
       }
-    ]
+    ],
+    "quiz_ids": [],
+    "years": [],
+    "countries": [],
+    "events": []
   },
   {
     "question_id": 783,
@@ -7187,6 +8657,19 @@
         "answer_text": "6.25 µJ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7247,6 +8730,19 @@
         "answer_text": "Repair the broken part. EMV = 700 EUR.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      84,
+      85
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -7307,7 +8803,11 @@
         "answer_text": "29s3p",
         "is_correct": false
       }
-    ]
+    ],
+    "quiz_ids": [],
+    "years": [],
+    "countries": [],
+    "events": []
   },
   {
     "question_id": 809,
@@ -7367,6 +8867,18 @@
         "answer_text": "Brake pressure is <= 30 bar. No locked wheels",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      86
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -7427,6 +8939,18 @@
         "answer_text": "SDC has been opened while TS was active, TS discharge is ongoing",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      86
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Czech Republic"
+    ],
+    "events": [
+      "Formula Student Czech Republic"
     ]
   },
   {
@@ -7499,6 +9023,19 @@
         "answer_text": "101.49 km/h",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      87,
+      88
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -7573,6 +9110,18 @@
         "answer_text": "3.33 Volt",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      87
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "events": [
+      "Formula Student Netherlands"
     ]
   },
   {
@@ -7681,6 +9230,18 @@
         "answer_text": "s14p2",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      89
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -7765,6 +9326,18 @@
         "answer_text": "I_slow = 50A, t_slow = 3000s, I_fast = 80A",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -7791,6 +9364,18 @@
         "answer_text": "1.93",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -7818,6 +9403,18 @@
         "answer_text": "1",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -7869,6 +9466,18 @@
         "answer_text": "No, because the V(OH) is not met for all valid inputs.",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -7895,6 +9504,18 @@
         "answer_text": "46",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      83
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -7926,6 +9547,18 @@
         "answer_text": "388,8",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -7981,6 +9614,18 @@
         "answer_text": "Fully utilizing winding space with less turns off thicker wire as it will be able to pass more current so more power will be produced, plus motor will spin faster for the same voltage.",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      90
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Croatia"
+    ],
+    "events": [
+      "Formula Student Alpe Adria"
     ]
   },
   {
@@ -8019,6 +9664,18 @@
         "answer_text": "50, -6.25",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      92
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "online"
+    ],
+    "events": [
+      "FS-Quiz Website"
     ]
   },
   {
@@ -8225,6 +9882,18 @@
         "answer_text": "Circuit 4: Response D",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      95
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "events": [
+      "Formula Student Spain"
     ]
   },
   {
@@ -8297,6 +9966,19 @@
         "answer_text": "240 W",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      100,
+      99
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "France"
+    ],
+    "events": [
+      "Formula Student France"
     ]
   },
   {
@@ -8369,6 +10051,19 @@
         "answer_text": "45.6 kJ; 161.1 kJ",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8443,6 +10138,19 @@
         "answer_text": "138 kΩ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8527,6 +10235,19 @@
         "answer_text": "±1.1680 V",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8599,6 +10320,19 @@
         "answer_text": "265; 256",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      101,
+      102
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8711,6 +10445,19 @@
         "answer_text": "CoP is aligned with CoG ",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      102,
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8785,6 +10532,18 @@
         "answer_text": "0.083 Vs",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8859,6 +10618,18 @@
         "answer_text": "14",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8933,6 +10704,18 @@
         "answer_text": "R1 = 33 MΩ, C1 = 2.2 nF",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      101
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Hungary"
+    ],
+    "events": [
+      "Formula Student East"
     ]
   },
   {
@@ -8993,6 +10776,19 @@
         "answer_text": "24.2 kWh",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      103,
+      104
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Türkiye"
+    ],
+    "events": [
+      "Formula Student Türkiye"
     ]
   },
   {
@@ -9019,6 +10815,18 @@
         "answer_text": "335",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -9045,6 +10853,18 @@
         "answer_text": "-10368",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -9105,6 +10925,18 @@
         "answer_text": "The LVS must be completely disconnected from the TSAC to minimise the risk of short circuits",
         "is_correct": false
       }
+    ],
+    "quiz_ids": [
+      105
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -9129,6 +10961,18 @@
         "answer_text": "4",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   },
   {
@@ -9153,6 +10997,18 @@
         "answer_text": "13023",
         "is_correct": true
       }
+    ],
+    "quiz_ids": [
+      106
+    ],
+    "years": [
+      "2025"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "events": [
+      "Formula Student Germany"
     ]
   }
 ]

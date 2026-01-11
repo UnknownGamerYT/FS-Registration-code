@@ -1,0 +1,370 @@
+[
+  {
+    "question_id": 729,
+    "text": "According to ISO 2768 - mK, what is the tolerance class for length dimension with exception of those for broken edges for a nominal dimension of 12mm under the fine class.",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2733,
+        "question_id": 729,
+        "answer_text": "±0.05",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2734,
+        "question_id": 729,
+        "answer_text": "±0.1",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2735,
+        "question_id": 729,
+        "answer_text": "±0.15",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2736,
+        "question_id": 729,
+        "answer_text": "±0.2",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2733,
+        "question_id": 729,
+        "answer_text": "±0.05",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2734,
+        "question_id": 729,
+        "answer_text": "±0.1",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2735,
+        "question_id": 729,
+        "answer_text": "±0.15",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2736,
+        "question_id": 729,
+        "answer_text": "±0.2",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 730,
+    "text": "What is the resistance of a piece of nichrome wire 2024 centimeters long with a cross-sectional area of 0.015 square centimeter?\\n(answer format round to nearest decimal eg:12.34)",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2737,
+        "question_id": 730,
+        "answer_text": "13.49",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2737,
+        "question_id": 730,
+        "answer_text": "13.49",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 731,
+    "text": "Which of the following are not characteristics of the phenomenon of combustion with detonation:",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2738,
+        "question_id": 731,
+        "answer_text": "appearance of a characteristic metallic noise",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2739,
+        "question_id": 731,
+        "answer_text": "increased indicated power of the engine",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2740,
+        "question_id": 731,
+        "answer_text": "reduced engine durability",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2741,
+        "question_id": 731,
+        "answer_text": "reduced engine durability",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2738,
+        "question_id": 731,
+        "answer_text": "appearance of a characteristic metallic noise",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2739,
+        "question_id": 731,
+        "answer_text": "increased indicated power of the engine",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2740,
+        "question_id": 731,
+        "answer_text": "reduced engine durability",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2741,
+        "question_id": 731,
+        "answer_text": "reduced engine durability",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 736,
+    "text": "For the shown gear train, the input RPM is 3600, and the number of teeth of the input gear is z1=30.\\n The number of teeth of the rest of gears are: z2=23, z3=18, z4=32, z5=47, z6=10, z7=30.\\n Calculate the RPM of the final gear z7.\\n (answer format round to nearest decimal eg:12.34)",
+    "type": "input",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2755,
+        "question_id": 736,
+        "answer_text": "3600.00",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000736__img000199__736_2.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2755,
+        "question_id": 736,
+        "answer_text": "3600.00",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 737,
+    "text": "Under what conditions does the relative humidity decrease while the absolute humidity increases?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2756,
+        "question_id": 737,
+        "answer_text": "only if the temperature rises fast enough",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2757,
+        "question_id": 737,
+        "answer_text": "only it the pressure rises fast enough",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2758,
+        "question_id": 737,
+        "answer_text": "only if the temperature drops fast enough",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2759,
+        "question_id": 737,
+        "answer_text": "only if the pressure drops fast enough",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2756,
+        "question_id": 737,
+        "answer_text": "only if the temperature rises fast enough",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2757,
+        "question_id": 737,
+        "answer_text": "only it the pressure rises fast enough",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2758,
+        "question_id": 737,
+        "answer_text": "only if the temperature drops fast enough",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2759,
+        "question_id": 737,
+        "answer_text": "only if the pressure drops fast enough",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      77,
+      78
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  },
+  {
+    "question_id": 738,
+    "text": "What is the coefficient of friction of brake pads lining generally?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2760,
+        "question_id": 738,
+        "answer_text": "0.1-0.5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2761,
+        "question_id": 738,
+        "answer_text": "0.7-0.9",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2762,
+        "question_id": 738,
+        "answer_text": "0.5-1.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2763,
+        "question_id": 738,
+        "answer_text": "0.35-0.65",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2760,
+        "question_id": 738,
+        "answer_text": "0.1-0.5",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2761,
+        "question_id": 738,
+        "answer_text": "0.7-0.9",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2762,
+        "question_id": 738,
+        "answer_text": "0.5-1.0",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2763,
+        "question_id": 738,
+        "answer_text": "0.35-0.65",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      78,
+      77
+    ],
+    "years": [
+      "2024"
+    ],
+    "countries": [
+      "Romania"
+    ],
+    "events": [
+      "Formula Student Balkans"
+    ]
+  }
+]

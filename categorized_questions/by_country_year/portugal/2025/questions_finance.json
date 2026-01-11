@@ -1,0 +1,53 @@
+[
+  {
+    "question_id": 747,
+    "text": "Your racecar is equipped with four independent suspensions. The front and rear motion ratios are 0.8 and 0.75, respectively. The front and rear spring stiffnesses are 16 N/mm and 18 N/mm, respectively. The tire stiffness is 75 N/mm. Under an aerodynamic load applied at the vehicle centre of gravity, the wheel travel relative to a static position is the same for the 4 wheels. What is the static longitudinal weight distribution of the car? \\n (Assume that the vehicle is coasting, i.e., no longitudinal force is applied by the wheels on the ground).\\n Answer as % of mass on the front axle and provide the value with 1 decimal place, e.g. 12.3.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2791,
+        "question_id": 747,
+        "answer_text": "43.9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 156,
+        "question_id": 747,
+        "text": "Question 3 was later deleted because wording \\n\\n\r\n\r\nFront wheel rate = Front spring stiffness / front motion ratio = 16 / 0.8 ^ 2 = 25 N/mm\\n\r\nRear wheel rate = Rear spring stiffness / rear motion ratio = 18 / 0.75 ^ 2 = 32 N/mm\\n\\n\r\nNote that the drag force does not cause any longitudinal mass transfer since it is not balanced by an equal and opposite force applied in the tires, i.e., the drag force causes deceleration of the vehicle instead of mass transfer.",
+        "images": [
+          {
+            "img_id": 211,
+            "path": "solutions/747_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2791,
+        "question_id": 747,
+        "answer_text": "43.9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      79,
+      80,
+      91
+    ],
+    "years": [
+      "2024",
+      "2025"
+    ],
+    "countries": [
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Portugal"
+    ]
+  }
+]

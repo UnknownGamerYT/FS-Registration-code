@@ -1,0 +1,1359 @@
+[
+  {
+    "question_id": 93,
+    "text": "How do you have to choose the damping constant in a suspension system, if you want to have a critical damped system? (answer in Ns/mm)\nm = 240 kg\nk = 100 N/mm",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 355,
+        "question_id": 93,
+        "answer_text": "9.8",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 22,
+        "question_id": 93,
+        "text": null,
+        "images": [
+          {
+            "img_id": 108,
+            "path": "solutions/93_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 355,
+        "question_id": 93,
+        "answer_text": "9.8",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      10,
+      47,
+      52
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 96,
+    "text": "Which of the following statements about steel tubes alloy 30CrMoV5-3 is true?    ",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 364,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure without additional testing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 365,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure except roll hoops if physical tasting is applied to show equivalency.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 366,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure if physical testing is applied to show equivalency.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 367,
+        "question_id": 96,
+        "answer_text": "May never be used in the primary structure.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 364,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure without additional testing.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 365,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure except roll hoops if physical tasting is applied to show equivalency.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 366,
+        "question_id": 96,
+        "answer_text": "May be used in the primary structure if physical testing is applied to show equivalency.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 367,
+        "question_id": 96,
+        "answer_text": "May never be used in the primary structure.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      10,
+      47,
+      52
+    ],
+    "years": [
+      "2020",
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 187,
+    "text": "Which of the following helmets are compliant to the rule?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 723,
+        "question_id": 187,
+        "answer_text": "only d",
+        "is_correct": false
+      },
+      {
+        "answer_id": 724,
+        "question_id": 187,
+        "answer_text": "only c",
+        "is_correct": false
+      },
+      {
+        "answer_id": 725,
+        "question_id": 187,
+        "answer_text": "only a",
+        "is_correct": false
+      },
+      {
+        "answer_id": 726,
+        "question_id": 187,
+        "answer_text": "a and b",
+        "is_correct": false
+      },
+      {
+        "answer_id": 727,
+        "question_id": 187,
+        "answer_text": "only b",
+        "is_correct": true
+      },
+      {
+        "answer_id": 728,
+        "question_id": 187,
+        "answer_text": "c and d",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000187__img000064__187_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 723,
+        "question_id": 187,
+        "answer_text": "only d",
+        "is_correct": false
+      },
+      {
+        "answer_id": 724,
+        "question_id": 187,
+        "answer_text": "only c",
+        "is_correct": false
+      },
+      {
+        "answer_id": 725,
+        "question_id": 187,
+        "answer_text": "only a",
+        "is_correct": false
+      },
+      {
+        "answer_id": 726,
+        "question_id": 187,
+        "answer_text": "a and b",
+        "is_correct": false
+      },
+      {
+        "answer_id": 727,
+        "question_id": 187,
+        "answer_text": "only b",
+        "is_correct": true
+      },
+      {
+        "answer_id": 728,
+        "question_id": 187,
+        "answer_text": "c and d",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      18,
+      47
+    ],
+    "years": [
+      "2021",
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 486,
+    "text": "The basic purpose of providing caster angle on wheels is to: ",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 1941,
+        "question_id": 486,
+        "answer_text": "Prevent uneven tyre wear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1942,
+        "question_id": 486,
+        "answer_text": "Maintain or increase directional control",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1943,
+        "question_id": 486,
+        "answer_text": "Bring the road contact of the tyre under the point of the load",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1944,
+        "question_id": 486,
+        "answer_text": "Compensate for wear in the steering linkage",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1941,
+        "question_id": 486,
+        "answer_text": "Prevent uneven tyre wear",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1942,
+        "question_id": 486,
+        "answer_text": "Maintain or increase directional control",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1943,
+        "question_id": 486,
+        "answer_text": "Bring the road contact of the tyre under the point of the load",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1944,
+        "question_id": 486,
+        "answer_text": "Compensate for wear in the steering linkage",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 487,
+    "text": "Which of the following is the transfer function of a 1st order low pass filter with cut off frequency ω0?",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1945,
+        "question_id": 487,
+        "answer_text": "s/(s ω0)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1946,
+        "question_id": 487,
+        "answer_text": "1/(s ω0)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1947,
+        "question_id": 487,
+        "answer_text": "ω0/(s-ω0)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1948,
+        "question_id": 487,
+        "answer_text": "ω0/(s ω0)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1949,
+        "question_id": 487,
+        "answer_text": "ω0*1/(s 1)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1950,
+        "question_id": 487,
+        "answer_text": "s/(s ω0)",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1945,
+        "question_id": 487,
+        "answer_text": "s/(s ω0)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1946,
+        "question_id": 487,
+        "answer_text": "1/(s ω0)",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1947,
+        "question_id": 487,
+        "answer_text": "ω0/(s-ω0)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1948,
+        "question_id": 487,
+        "answer_text": "ω0/(s ω0)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1949,
+        "question_id": 487,
+        "answer_text": "ω0*1/(s 1)",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1950,
+        "question_id": 487,
+        "answer_text": "s/(s ω0)",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 488,
+    "text": "Which of the following is not a possible sequence for technical inspection regarding the beginning of the respective inspection?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 1951,
+        "question_id": 488,
+        "answer_text": "Mechanical Inspection, Accumulator Inspection, Pre-Inspection, Electrical Inspection, Tilt Test, Rain Test, Brake Test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1952,
+        "question_id": 488,
+        "answer_text": "Pre-Inspection, Mechanical Inspection, Accumulator Inspection, Electrical Inspection, Tilt Test, Rain Test, Brake Test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1953,
+        "question_id": 488,
+        "answer_text": "Accumulator Inspection, Electrical Inspection, Mechanical Inspection, Tilt Test, Pre-Inspection, Rain Test, Brake Test",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1954,
+        "question_id": 488,
+        "answer_text": "Accumulator Inspection, Electrical Inspection, Pre-Inspection, Mechanical Inspection, Tilt Test, Rain Test, Brake Test",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1951,
+        "question_id": 488,
+        "answer_text": "Mechanical Inspection, Accumulator Inspection, Pre-Inspection, Electrical Inspection, Tilt Test, Rain Test, Brake Test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1952,
+        "question_id": 488,
+        "answer_text": "Pre-Inspection, Mechanical Inspection, Accumulator Inspection, Electrical Inspection, Tilt Test, Rain Test, Brake Test",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1953,
+        "question_id": 488,
+        "answer_text": "Accumulator Inspection, Electrical Inspection, Mechanical Inspection, Tilt Test, Pre-Inspection, Rain Test, Brake Test",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1954,
+        "question_id": 488,
+        "answer_text": "Accumulator Inspection, Electrical Inspection, Pre-Inspection, Mechanical Inspection, Tilt Test, Rain Test, Brake Test",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 490,
+    "text": "In the last Event, you were driving at the minimal allowed ground clearance. The COG of your car was 258mm above the ground. Your sprung mass is 187kg, while the unsprung mass is 35kg. For the next Event you know there will be a lot of bumps, therefore you increase your ground clearance to 55mm. How much will be the new COG of your car?\r\nAnswer in mm.\r\nUse the following format: 12.34",
+    "type": "input",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 1956,
+        "question_id": 490,
+        "answer_text": "279.059",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 71,
+        "question_id": 490,
+        "text": null,
+        "images": [
+          {
+            "img_id": 127,
+            "path": "solutions/490_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1956,
+        "question_id": 490,
+        "answer_text": "279.059",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 493,
+    "text": "Your slot for electrical inspection is 10:20. You notice a critical error at 10:00 and inform the officials immediately (10:02), that you will not be able to attend for your electrical inspection time slot. What are the consequences?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1967,
+        "question_id": 493,
+        "answer_text": "You receive a new time slot at the end of the inspection order and 5 points will be deducted from your overall score.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1968,
+        "question_id": 493,
+        "answer_text": "You must queue for Re-Inspection when you are ready for electrical inspection",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1969,
+        "question_id": 493,
+        "answer_text": "You receive a new time slot at the end of the inspection order.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1970,
+        "question_id": 493,
+        "answer_text": "You must queue for Re-Inspection when you are ready for electrical inspection and 5 points will be deducted from your overall score.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1967,
+        "question_id": 493,
+        "answer_text": "You receive a new time slot at the end of the inspection order and 5 points will be deducted from your overall score.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1968,
+        "question_id": 493,
+        "answer_text": "You must queue for Re-Inspection when you are ready for electrical inspection",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1969,
+        "question_id": 493,
+        "answer_text": "You receive a new time slot at the end of the inspection order.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1970,
+        "question_id": 493,
+        "answer_text": "You must queue for Re-Inspection when you are ready for electrical inspection and 5 points will be deducted from your overall score.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 495,
+    "text": "The COP is 0.1m behind the COG and at the same height. Your car has a 50/50 weight distribution and the height of the COG from the ground is 30cm. The car is currently driving at 100km/h.\\n Calculate the normal force on the front left tire assuming no weight transfer. You can use the following values in your calculations:\\n Answer in N.\\n Use the following format: 12",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 1971,
+        "question_id": 495,
+        "answer_text": "838",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 73,
+        "question_id": 495,
+        "text": null,
+        "images": [
+          {
+            "img_id": 129,
+            "path": "solutions/495_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000495__img000128__495_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1971,
+        "question_id": 495,
+        "answer_text": "838",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 498,
+    "text": "Which measure/s have to be taken if the power to the motors is >10kW and braking hard is detected for more than 500ms at the same time? The pedal travel signals 0Nm torque.",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 1974,
+        "question_id": 498,
+        "answer_text": "Open shutdown circuit.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1975,
+        "question_id": 498,
+        "answer_text": "0 Nm torque request to the motor controller",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1976,
+        "question_id": 498,
+        "answer_text": "Open shutdown circuit and 0Nm torque request to the motor controller.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1974,
+        "question_id": 498,
+        "answer_text": "Open shutdown circuit.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1975,
+        "question_id": 498,
+        "answer_text": "0 Nm torque request to the motor controller",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1976,
+        "question_id": 498,
+        "answer_text": "Open shutdown circuit and 0Nm torque request to the motor controller.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47,
+      52
+    ],
+    "years": [
+      "2023",
+      "2021"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 499,
+    "text": "Calculate the area moment of inertia of the composite structure above. You can assume, the core has no contribution to the moment of inertia. Use the following number for the calculation:\\n b = 0.2m, t = 1mm, d = 10mm, \\nAnswer in cm⁴. Use the following format: 12.34",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 1977,
+        "question_id": 499,
+        "answer_text": "1.21",
+        "is_correct": true
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 76,
+        "question_id": 499,
+        "text": null,
+        "images": [
+          {
+            "img_id": 133,
+            "path": "solutions/499_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [
+      "images\\q000499__img000132__499_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 1977,
+        "question_id": 499,
+        "answer_text": "1.21",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 500,
+    "text": "You decide to do a test run with a new driver. After you signal the driver to start the run, the car sits idle for 3 seconds, then accelerates for 5 seconds at 4m/s^2, then continues at that velocity for 5 seconds. What is the displacement of the car?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 1978,
+        "question_id": 500,
+        "answer_text": "50000 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1979,
+        "question_id": 500,
+        "answer_text": "3937.01 inch",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1980,
+        "question_id": 500,
+        "answer_text": "164.042 yd",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1981,
+        "question_id": 500,
+        "answer_text": "0.2 km",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 77,
+        "question_id": 500,
+        "text": null,
+        "images": [
+          {
+            "img_id": 134,
+            "path": "solutions/500_1.jpg"
+          }
+        ]
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 1978,
+        "question_id": 500,
+        "answer_text": "50000 mm",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1979,
+        "question_id": 500,
+        "answer_text": "3937.01 inch",
+        "is_correct": false
+      },
+      {
+        "answer_id": 1980,
+        "question_id": 500,
+        "answer_text": "164.042 yd",
+        "is_correct": true
+      },
+      {
+        "answer_id": 1981,
+        "question_id": 500,
+        "answer_text": "0.2 km",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      47
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 554,
+    "text": "Which of the following equations is a basic principle of electrical engineering?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "solutions": [
+      {
+        "solution_id": 97,
+        "question_id": 554,
+        "text": "Ohm’s law formula",
+        "images": []
+      }
+    ],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2151,
+        "question_id": 554,
+        "answer_text": "R=U*I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2152,
+        "question_id": 554,
+        "answer_text": "R=U/I",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2153,
+        "question_id": 554,
+        "answer_text": "R=U+I",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2154,
+        "question_id": 554,
+        "answer_text": "R=U-I",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      53,
+      55,
+      70
+    ],
+    "years": [
+      "2021",
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Netherlands",
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Netherlands",
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 559,
+    "text": "You want to drive with your FS Car after the competition to Zermatt to visit the famous Matterhorn. The first 70% of the distance, you can drive with a constant speed of 80 km/h. Due to traffic jams, you have to drive 30 km/h for the remaining distance. The distance from the competition to Tasch is 74 km. How much energy is needed if your average consumption is 10 kJ/s. \\n Answer in kWh and provide the value with 1 digit behind decimal point, e.g. 12.3 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 240,
+    "answer_options": [
+      {
+        "answer_id": 2171,
+        "question_id": 559,
+        "answer_text": "13.9",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2171,
+        "question_id": 559,
+        "answer_text": "13.9",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 560,
+    "text": "What is the minimal flexural stiffness required for Front Hoop Bracing Structure on your complete Formula Student racecar? \\n Answer in Nm? and provide the value with 0 digit behind decimal point, e.g. 12 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits. ",
+    "type": "input",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2352,
+        "question_id": 560,
+        "answer_text": "3404",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2352,
+        "question_id": 560,
+        "answer_text": "3404",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70,
+      72
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 561,
+    "text": "Which proposal is not a mesh refinement technique?",
+    "type": "single-choice",
+    "time": 180,
+    "answer_options": [
+      {
+        "answer_id": 2172,
+        "question_id": 561,
+        "answer_text": "Local element size reduction",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2173,
+        "question_id": 561,
+        "answer_text": "Global element size reduction",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2174,
+        "question_id": 561,
+        "answer_text": "Guyan reduction",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2175,
+        "question_id": 561,
+        "answer_text": "Increasing the order of the elements",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2172,
+        "question_id": 561,
+        "answer_text": "Local element size reduction",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2173,
+        "question_id": 561,
+        "answer_text": "Global element size reduction",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2174,
+        "question_id": 561,
+        "answer_text": "Guyan reduction",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2175,
+        "question_id": 561,
+        "answer_text": "Increasing the order of the elements",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 563,
+    "text": "What is not true about VSV?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2176,
+        "question_id": 563,
+        "answer_text": "The maximum length of the video is limited.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2177,
+        "question_id": 563,
+        "answer_text": "Passenger cars are not allowed to drive in the background.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2178,
+        "question_id": 563,
+        "answer_text": "Will be reviewed in order of submission.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2179,
+        "question_id": 563,
+        "answer_text": "The video has to be made in a described order",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2176,
+        "question_id": 563,
+        "answer_text": "The maximum length of the video is limited.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2177,
+        "question_id": 563,
+        "answer_text": "Passenger cars are not allowed to drive in the background.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2178,
+        "question_id": 563,
+        "answer_text": "Will be reviewed in order of submission.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2179,
+        "question_id": 563,
+        "answer_text": "The video has to be made in a described order",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 565,
+    "text": "What is not true about the 95th percentile male (Percy)?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2181,
+        "question_id": 565,
+        "answer_text": "Percy cannot have his own seat.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2182,
+        "question_id": 565,
+        "answer_text": "Percy is only represented in 2D.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2183,
+        "question_id": 565,
+        "answer_text": "A Driver may be taller than Percy.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2184,
+        "question_id": 565,
+        "answer_text": "Percy wears a helmet.",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2181,
+        "question_id": 565,
+        "answer_text": "Percy cannot have his own seat.",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2182,
+        "question_id": 565,
+        "answer_text": "Percy is only represented in 2D.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2183,
+        "question_id": 565,
+        "answer_text": "A Driver may be taller than Percy.",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2184,
+        "question_id": 565,
+        "answer_text": "Percy wears a helmet.",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 566,
+    "text": "Due to many suspension problems the previous year, the A-Arms shall be redesigned. According to the following geometrical arrangement, what is the min. wall thickness of your rods considering only buckling case. Assume your A-Arms are made of round tubular steel, tubes have the same length and the transferred tyre load is acting in the same plan as the A-Arm. \\n E=210GPa Douter=15mm F=4000N a=15° B=30° y=10° l=350mm K=1 (column effective length factor) \\n Answer in mm and provide the value with 1 digit behind decimal point, e.g. 12.3 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits.",
+    "type": "input",
+    "time": 600,
+    "answer_options": [
+      {
+        "answer_id": 2350,
+        "question_id": 566,
+        "answer_text": "0.1",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000566__img000148__566_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2350,
+        "question_id": 566,
+        "answer_text": "0.1",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 568,
+    "text": "What kind of mesh density do you use in regions where you expect high gradients of strains or stresses?",
+    "type": "single-choice",
+    "time": 120,
+    "answer_options": [
+      {
+        "answer_id": 2188,
+        "question_id": 568,
+        "answer_text": "High mesh density",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2189,
+        "question_id": 568,
+        "answer_text": "Transition mesh",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2190,
+        "question_id": 568,
+        "answer_text": "Low mesh density",
+        "is_correct": false
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2188,
+        "question_id": 568,
+        "answer_text": "High mesh density",
+        "is_correct": true
+      },
+      {
+        "answer_id": 2189,
+        "question_id": 568,
+        "answer_text": "Transition mesh",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2190,
+        "question_id": 568,
+        "answer_text": "Low mesh density",
+        "is_correct": false
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  },
+  {
+    "question_id": 572,
+    "text": "A compound planetary gearbox has the following parameters: \\n Z(S)=25 mod(1)=2mm mod(2)=3.015mm Z(P1)=76 Z(r)=86 \\n mod(x) means Module Xth stage \\n Z(px) means Planet Xth stage \\n Calculate the speed ratio defined as input/output speed. Assume sun gear is input, carrier is output, ring gear is fixed. \\n Answer in dimensionless units and provide the value with 2 digits behind decimal point, e.g. 12.34 \\n Please use the following format: 123, 12.3, 1.23 or 0.123 (no '' comma, no letters), round to requested significant digits",
+    "type": "input",
+    "time": 360,
+    "answer_options": [
+      {
+        "answer_id": 2349,
+        "question_id": 572,
+        "answer_text": "14.76",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [
+      "images\\q000572__img000147__572_1.jpg"
+    ],
+    "answers": [
+      {
+        "answer_id": 2349,
+        "question_id": 572,
+        "answer_text": "14.76",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55
+    ],
+    "years": [
+      "2023"
+    ],
+    "countries": [
+      "Switzerland"
+    ],
+    "events": [
+      "Formula Student Switzerland"
+    ]
+  }
+]

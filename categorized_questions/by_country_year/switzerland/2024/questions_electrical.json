@@ -1,0 +1,130 @@
+[
+  {
+    "question_id": 182,
+    "text": "You want to drive with a Lithium Polymer Cell with 3.2 Ah and weighing 70g. Which of the following configurations would be allowed by the rules?\nU(norm)=3.7V U(max)=4.2V",
+    "type": "single-choice",
+    "time": 300,
+    "answer_options": [
+      {
+        "answer_id": 709,
+        "question_id": 182,
+        "answer_text": "4 compartments in series with 4p32s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 710,
+        "question_id": 182,
+        "answer_text": "4 compartments in series with 6p26s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 711,
+        "question_id": 182,
+        "answer_text": "6 compartments in series with 4p28s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 712,
+        "question_id": 182,
+        "answer_text": "5 compartments in series with 4p22s configurations",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 709,
+        "question_id": 182,
+        "answer_text": "4 compartments in series with 4p32s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 710,
+        "question_id": 182,
+        "answer_text": "4 compartments in series with 6p26s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 711,
+        "question_id": 182,
+        "answer_text": "6 compartments in series with 4p28s configurations",
+        "is_correct": false
+      },
+      {
+        "answer_id": 712,
+        "question_id": 182,
+        "answer_text": "5 compartments in series with 4p22s configurations",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      18,
+      70
+    ],
+    "years": [
+      "2021",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  },
+  {
+    "question_id": 573,
+    "text": "You designed a new discharge circuit for your inverter. Your maximum DC Link Voltage is 500V and you have a DC Link capacity of 400 pF. Your circuit discharges with a constant current of 50 mA and has a maximum operating Temperature of 125°C. The used cooling plate has a Thermal capacity of 3 J/K and a thermal resistance to the surrounding air of 0.2 W/K. Other thermal interfaces can be regarded as ideal. Is your circuit rules compliant?",
+    "type": "single-choice",
+    "time": 0,
+    "answer_options": [
+      {
+        "answer_id": 2193,
+        "question_id": 573,
+        "answer_text": "yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2194,
+        "question_id": 573,
+        "answer_text": "no",
+        "is_correct": true
+      }
+    ],
+    "solutions": [],
+    "question_images": [],
+    "answers": [
+      {
+        "answer_id": 2193,
+        "question_id": 573,
+        "answer_text": "yes",
+        "is_correct": false
+      },
+      {
+        "answer_id": 2194,
+        "question_id": 573,
+        "answer_text": "no",
+        "is_correct": true
+      }
+    ],
+    "quiz_ids": [
+      55,
+      70
+    ],
+    "years": [
+      "2023",
+      "2024"
+    ],
+    "countries": [
+      "Switzerland",
+      "Portugal"
+    ],
+    "events": [
+      "Formula Student Switzerland",
+      "Formula Student Portugal"
+    ]
+  }
+]
